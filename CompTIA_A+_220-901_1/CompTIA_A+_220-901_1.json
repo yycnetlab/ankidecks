@@ -54,8 +54,52 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [], 
+    "mid": "1496861969393", 
     "name": "CompTIA A+", 
     "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
@@ -94,7 +138,7 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "220-901.1"
+                "220-901_1"
             ], 
             "tmpls": [
                 {
@@ -123,7 +167,23 @@
             "guid": "k?$B<<ZM#0", 
             "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
             "tags": [
-                "220-901.1"
+                "220-901_1",
+                "Sample"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::SMTP}} uses port {{c1::25/tcp}}.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "cF|(Gyd}@v", 
+            "note_model_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "tags": [
+                "220-901_2",
+                "Sample"
             ]
         }
     ]
