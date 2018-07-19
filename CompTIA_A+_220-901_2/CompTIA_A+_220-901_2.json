@@ -164,10 +164,25 @@
                 "This is the answer text."
             ], 
             "flags": 0, 
-            "guid": "k?$B<<ZM#0", 
+            "guid": "sk(oS/5azV", 
             "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
             "tags": [
-                "220-901_1",
+                "220-901_2",
+                "Sample"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::SMTP}} uses port {{c1::25/tcp}}.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "cF|(Gyd}@v", 
+            "note_model_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "tags": [
+                "220-901_2",
                 "Sample"
             ]
         }
