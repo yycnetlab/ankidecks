@@ -54,7 +54,7 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [], 
-    "name": "Cisco NetAcad ITNv6 Chapter 1", 
+    "name": "Cisco NetAcad ITNv6", 
     "note_models": [
         {
             "__type__": "NoteModel", 
@@ -207,6 +207,104 @@
             "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
             "tags": [
                 "NetAcad_ITN_2"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What information can the Ping command provide?", 
+                "1. Whether or not the remote host is reachable (assuming no firewall)<br>2. round-trip latency<hr>Reference: 11.3.1"
+            ], 
+            "flags": 0, 
+            "guid": "kX^WV14I3S",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_11"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Why would you want to ping the localhost?", 
+                "To determine whether or not networking is enabled for that protocol.<hr>Reference: 7.3.2"
+            ], 
+            "flags": 0, 
+            "guid": "w|>>U;0M1L",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_7"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the benefits of cloud computing?", 
+                "On-demand Scalling.  No physical infrastructure to maintain.  No equipment cost.<hr>Reference: 1.4.1"
+            ], 
+            "flags": 0, 
+            "guid": "Fli=Lc[Y}o",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_1"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe how multicast IP addresses differ from unicast", 
+                "Multiple hosts can listen for traffic destined to a single multicast IP address.  Unicast is destined to only a single host.  Multicast traffic is sent to a group of hosts.<hr>Reference: 5.1.2"
+            ], 
+            "flags": 0, 
+            "guid": "qJ+&?UIeh0",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_5"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe how traceroute works.", 
+                "Traceroute sends messages to a foreign host starting with a TTL of 0.  Successive messages will increment the TTL by one.  Responses will come from routers along the path as the TTL is exceeded thus providing information about the path between the source and destination.<hr>Reference: 7.3.2"
+            ], 
+            "flags": 0, 
+            "guid": "EI/j%%O:.x",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_7"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Debug}} messages are sent to the {{c2::console line}} by default.", 
+                "Reference: 11.3.5"
+            ], 
+            "flags": 0, 
+            "guid": "hapkU`&2t=",
+            "note_model_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_11"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The OSI {{c1::Application}} layer is responsible for {{c2::user-facing programs}}.", 
+                "Reference: 10.1.1.1"
+            ], 
+            "flags": 0, 
+            "guid": "d0<KV6NutW",
+            "note_model_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_10"
             ]
         }
     ]
