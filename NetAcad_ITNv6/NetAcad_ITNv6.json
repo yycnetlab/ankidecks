@@ -1,0 +1,213 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "5d1a06e1-fa00-482a-9f3c-0fa2a18e0c04", 
+    "deck_config_uuid": "976610de-b26f-4809-a7b0-32606d7dccfa", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "976610de-b26f-4809-a7b0-32606d7dccfa", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [], 
+    "name": "Cisco NetAcad ITNv6 Chapter 1", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the difference between a symmetric and asymmetric connection?", 
+                "Symmetric connections offer the same speed on both upload and download.  Asymmetric connections have dissimilar upload and download speeds with the download speed typically being greater.<hr>Reference: 1.2.4"
+            ], 
+            "flags": 0, 
+            "guid": "sp@bD7{]Qu",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_1"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Leased lines}} are an example of a {{c2::dedicated symmetric}} network connection.", 
+                "Reference: 1.2.4"
+            ], 
+            "flags": 0, 
+            "guid": "gja_Gj,ud,",
+            "note_model_uuid": "bad2112e-8a82-11e8-bca9-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_1"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Why should SSH be used rather than Telnet?", 
+                "Telnet is unencrypted and anyone sniffing traffic will be able to see both the username and password used to login.  SSH offers encryption to make eaves dropping more challenging.<hr>Reference: 2.1.2"
+            ], 
+            "flags": 0, 
+            "guid": "KIK(K&/Pbm",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_2"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What two applications are available for remote access to a switch CLI?", 
+                "Telnet and SSH<hr>Reference: 2.1.2"
+            ], 
+            "flags": 0, 
+            "guid": "h,VYf|{Uoc",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_2"
+            ]
+        }
+    ]
+}
