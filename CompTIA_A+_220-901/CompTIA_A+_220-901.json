@@ -164,13 +164,13 @@
                 "This is the answer text."
             ], 
             "flags": 0, 
-            "guid": "sk(oS/5azV", 
+            "guid": "k?$B<<ZM#0", 
             "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
             "tags": [
-                "220-901_2",
+                "220-901_1",
                 "Sample"
             ]
-        }, 
+        },
         {
             "__type__": "Note", 
             "data": "", 
