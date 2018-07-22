@@ -180,6 +180,34 @@
             "tags": [
                 "NetAcad_ITN_1"
             ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Why should SSH be used rather than Telnet?", 
+                "Telnet is unencrypted and anyone sniffing traffic will be able to see both the username and password used to login.  SSH offers encryption to make eaves dropping more challenging.<hr>Reference: 2.1.2"
+            ], 
+            "flags": 0, 
+            "guid": "KIK(K&/Pbm",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_2"
+            ]
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What two applications are available for remote access to a switch CLI?", 
+                "Telnet and SSH<hr>Reference: 2.1.2"
+            ], 
+            "flags": 0, 
+            "guid": "h,VYf|{Uoc",
+            "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
+            "tags": [
+                "NetAcad_ITN_2"
+            ]
         }
     ]
 }
