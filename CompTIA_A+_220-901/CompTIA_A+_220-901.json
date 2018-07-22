@@ -55,7 +55,7 @@
     "extendRev": 50, 
     "media_files": [], 
     "mid": "1496861969393", 
-    "name": "CompTIA A+", 
+    "name": "CompTIA A+ 220-901", 
     "note_models": [
         {
             "__type__": "NoteModel", 
@@ -164,13 +164,13 @@
                 "This is the answer text."
             ], 
             "flags": 0, 
-            "guid": "sk(oS/5azV", 
+            "guid": "k?$B<<ZM#0", 
             "note_model_uuid": "d5b5072e-8a7f-11e8-8469-220060a18401", 
             "tags": [
-                "220-901_2",
+                "220-901_1",
                 "Sample"
             ]
-        }, 
+        },
         {
             "__type__": "Note", 
             "data": "", 
