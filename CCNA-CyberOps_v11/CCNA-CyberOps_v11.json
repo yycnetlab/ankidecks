@@ -1,0 +1,277 @@
+{
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "bf9fd708-2042-11e9-bd71-acbc3287506b",
+  "deck_config_uuid": "bfa32ca8-2042-11e9-9b3a-acbc3287506b",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "bfa32ca8-2042-11e9-9b3a-acbc3287506b",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": false,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": false,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "hardFactor": 1.2,
+        "ivlFct": 1,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 200
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "name": "CCNA CyberOps v1.1",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "RerverseCardID",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Reference",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "name": "Basic",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [
+
+      ],
+      "tmpls": [
+        {
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}"
+        }
+      ],
+      "type": 0,
+      "vers": [
+
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Tier 1 (Alert Analyst)?",
+        "monitor incoming alerts, confirm incident has occurred, and escalate to Tier 2.",
+        "6100000003",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What role monitors incoming alerts, confirms the incident, and escalates?",
+        "SOC Tier 1 (Alert Analyst)",
+        "6100000002",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "0000000003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the responsibilities of SOC Tier 2 (Incident Responder)?",
+        "Deep investigation and advise remediation",
+        "6100000005",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who in the SOC does deep investigation and advises remediation?",
+        "SOC Tier 2 (Incident Responder)",
+        "6100000004",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "0000000005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Tier 3 (SME/Hunter)?",
+        "These experts trace and disect malware, search for potential threats, and implement detection tools.",
+        "6100000007",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What SOC role implements detection tools, searches for potential threats and disects malware?",
+        "SOC Tier 3 (SME/Hunter)",
+        "6100000006",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "0000000007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Manager?",
+        "Manage all resources in the SOC.  Act as a point of contact.",
+        "6100000009",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the SOC who acts as a point of contact and manages all SOC resources?",
+        "SOC Manager",
+        "6100000008",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    }
+  ]
+}
