@@ -1,0 +1,197 @@
+{
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "bf9fd708-2042-11e9-bd71-acbc3287506b",
+  "deck_config_uuid": "bfa32ca8-2042-11e9-9b3a-acbc3287506b",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "bfa32ca8-2042-11e9-9b3a-acbc3287506b",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": false,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": false,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "hardFactor": 1.2,
+        "ivlFct": 1,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 200
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "name": "Security Fundamentals",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "RerverseCardID",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Reference",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "name": "Basic",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [
+
+      ],
+      "tmpls": [
+        {
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}"
+        }
+      ],
+      "type": 0,
+      "vers": [
+
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Front",
+        "Back",
+        "ReverseID",
+        "Reference"
+      ],
+      "flags": 0,
+      "guid": "0000000001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of a SOC Tier 1 Analyst?",
+        "monitor incoming alerts, confirm incident has occurred, and escalate to Tier 2.",
+        "6100000003",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What role monitors incoming alerts, confirms the incident, and escalates?",
+        "SOC Tier 1 Analyst",
+        "6100000002",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    }
+  ]
+}
