@@ -1,9 +1,0 @@
-{
-  "front":"What are the duties of a SOC Tier 1 Analyst?",
-  "back":"monitor incoming alerts, confirm incident has occurred, and escalate to Tier 2.",
-
-  "front_reverse":"What role monitors incoming alerts, confirms the incident, and escalates?",
-  "back_reverse":"SOC Tier 1 Analyst",
-
-  "reference":"Section 1.2.1.2"
-}

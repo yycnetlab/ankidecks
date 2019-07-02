@@ -149,7 +149,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What are the duties of a SOC Tier 1 Analyst?",
+        "What are the duties of SOC Tier 1 (Alert Analyst)?",
         "monitor incoming alerts, confirm incident has occurred, and escalate to Tier 2.",
         "6100000003",
         "Section 1.2.1.2"
@@ -166,12 +166,108 @@
       "data": "",
       "fields": [
         "What role monitors incoming alerts, confirms the incident, and escalates?",
-        "SOC Tier 1 Analyst",
+        "SOC Tier 1 (Alert Analyst)",
         "6100000002",
         "Section 1.2.1.2"
       ],
       "flags": 0,
-      "guid": "6100000003",
+      "guid": "0000000003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the responsibilities of SOC Tier 2 (Incident Responder)?",
+        "Deep investigation and advise remediation",
+        "6100000005",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who in the SOC does deep investigation and advises remediation?",
+        "SOC Tier 2 (Incident Responder)",
+        "6100000004",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "0000000005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Tier 3 (SME/Hunter)?",
+        "These experts trace and disect malware, search for potential threats, and implement detection tools.",
+        "6100000007",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What SOC role implements detection tools, searches for potential threats and disects malware?",
+        "SOC Tier 3 (SME/Hunter)",
+        "6100000006",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "0000000007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Manager?",
+        "Manage all resources in the SOC.  Act as a point of contact.",
+        "6100000009",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the SOC who acts as a point of contact and manages all SOC resources?",
+        "SOC Manager",
+        "6100000008",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000009",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
