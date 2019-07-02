@@ -59,7 +59,7 @@
   "media_files": [
 
   ],
-  "name": "Security Fundamentals",
+  "name": "CCNA CyberOps v1.1",
   "note_models": [
     {
       "__type__": "NoteModel",
@@ -145,22 +145,6 @@
     }
   ],
   "notes": [
-    {
-      "__type__": "Note",
-      "data": "",
-      "fields": [
-        "Front",
-        "Back",
-        "ReverseID",
-        "Reference"
-      ],
-      "flags": 0,
-      "guid": "0000000001",
-      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
-      "tags": [
-
-      ]
-    },
     {
       "__type__": "Note",
       "data": "",
