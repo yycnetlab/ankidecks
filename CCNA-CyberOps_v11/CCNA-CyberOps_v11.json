@@ -171,7 +171,7 @@
         "Section 1.2.1.2"
       ],
       "flags": 0,
-      "guid": "0000000003",
+      "guid": "6100000003",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -203,7 +203,7 @@
         "Section 1.2.1.2"
       ],
       "flags": 0,
-      "guid": "0000000005",
+      "guid": "6100000005",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -235,7 +235,7 @@
         "Section 1.2.1.2"
       ],
       "flags": 0,
-      "guid": "0000000007",
+      "guid": "6100000007",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -268,6 +268,358 @@
       ],
       "flags": 0,
       "guid": "6100000009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_CURRENT_CONFIG hive?  (Windows Registry)",
+        "Data for the current hardware profilee",
+        "6100000011",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has current hardware profile data?",
+        "HKEY_CURRENT_CONFIG",
+        "6100000010",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_LOCAL_MACHINE hive?  (Windows Registry)",
+        "System-related data",
+        "6100000013",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has system-related data?",
+        "HKEY_LOCAL_MACHINE",
+        "6100000012",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_CLASSES_ROOT hive?  (Windows Registry)",
+        "Object Linking and Embedding (OLE) registrations",
+        "6100000015",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has data for Object Linking and Embedding (OLE) registrations?",
+        "HKEY_CLASSES_ROOT",
+        "6100000014",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_USERS hive?  (Windows Registry)",
+        "data for all users on the host",
+        "6100000017",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has data about the user users on the host?",
+        "HKEY_USERS",
+        "6100000016",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_CURRENT_USER hive?  (Windows Registry)",
+        "data concerning the currently logged in user",
+        "6100000019",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has data about the current logged in user?",
+        "HKEY_CURRENT_USER",
+        "6100000018",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of an Security Operations Center (SOC)?",
+        "Process, Technology, and People",
+        "6100000021",
+        "Section 1.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Process, Technology, and People form what?",
+        "A Security Operations Center (SOC)",
+        "6100000020",
+        "Section 1.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Windows Management Instrumentation (WMI)?",
+        "Manage remote computers.  Collect information and change settings.",
+        "6100000023",
+        "Section 2.2.1.4, SECFND OCG Chapter 8"
+      ],
+      "flags": 0,
+      "guid": "6100000022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Windows what is used to manage remote computers?",
+        "Windows Management Instrumentation (WMI)",
+        "6100000022",
+        "Section 2.2.1.4, SECFND OCG Chapter 8"
+      ],
+      "flags": 0,
+      "guid": "6100000023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For Linux filesystem permissions what is the difference between the execute permission being set on a file versus a directory?",
+        "Execute on a file allows you to run it like a program.  Execute on a directory allows you to enter the directory.",
+        "6100000025",
+        "Section 3.2.2.2, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Linux filesystem permission behaves differently between files and directories?",
+        "The Execute permission.",
+        "6100000024",
+        "Section 3.2.2.2, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are authentication related events stored in Debian-based distros?",
+        "/var/log/auth.log",
+        "6100000027",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which distros use auth.log for authentication related events?",
+        "Debian",
+        "6100000026",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are authentication related events stored in RedHat-based distros?",
+        "/var/log/secure",
+        "6100000029",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which distros use /var/log/secure for authentication related events?",
+        "RedHat",
+        "6100000028",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the current default filesystem on Mac OS?",
+        "Apple File System (APFS)",
+        "6100000031",
+        "Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where is the Apple File System (APFS) used?",
+        "It is the current default on Mac OS.",
+        "6100000030",
+        "Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000031",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
