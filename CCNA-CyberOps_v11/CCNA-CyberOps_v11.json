@@ -619,7 +619,7 @@
         "Section 3.2.2.1"
       ],
       "flags": 0,
-      "guid": "0000000031",
+      "guid": "6100000031",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -651,7 +651,7 @@
         "Section 7.1.2.4"
       ],
       "flags": 0,
-      "guid": "0000000033",
+      "guid": "6100000033",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -683,7 +683,7 @@
         "Section 7.1.2.4"
       ],
       "flags": 0,
-      "guid": "0000000035",
+      "guid": "6100000035",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -715,7 +715,7 @@
         "Section 5.2.2.10"
       ],
       "flags": 0,
-      "guid": "0000000037",
+      "guid": "6100000037",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -747,7 +747,7 @@
         "Section 5.2.2.10"
       ],
       "flags": 0,
-      "guid": "0000000039",
+      "guid": "6100000039",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -779,7 +779,7 @@
         "Section 5.2.2.10"
       ],
       "flags": 0,
-      "guid": "0000000041",
+      "guid": "6100000041",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -811,7 +811,7 @@
         "Section 5.2.2.10"
       ],
       "flags": 0,
-      "guid": "0000000043",
+      "guid": "6100000043",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -843,7 +843,7 @@
         "Section 5.1.2.3"
       ],
       "flags": 0,
-      "guid": "0000000045",
+      "guid": "6100000045",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -875,7 +875,7 @@
         "Section 5.1.2.3"
       ],
       "flags": 0,
-      "guid": "0000000047",
+      "guid": "6100000047",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -907,7 +907,7 @@
         "NetAcad CCNAv6 Connecting Networks, http://www.ciscopress.com/articles/article.asp?p=2202410&seqNum=4"
       ],
       "flags": 0,
-      "guid": "0000000049",
+      "guid": "6100000049",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -939,7 +939,7 @@
         "Section 5.3.1.2"
       ],
       "flags": 0,
-      "guid": "0000000051",
+      "guid": "6100000051",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -971,7 +971,7 @@
         "Section 5.1.1.6"
       ],
       "flags": 0,
-      "guid": "0000000053",
+      "guid": "6100000053",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1003,7 +1003,7 @@
         "Section 6.2.2.7"
       ],
       "flags": 0,
-      "guid": "0000000055",
+      "guid": "6100000055",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1035,7 +1035,7 @@
         "Section 6.2.2.6"
       ],
       "flags": 0,
-      "guid": "0000000057",
+      "guid": "6100000057",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1067,7 +1067,7 @@
         "Section 6.2.1.6"
       ],
       "flags": 0,
-      "guid": "0000000059",
+      "guid": "6100000059",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1099,7 +1099,7 @@
         "Section 6.2.2.4"
       ],
       "flags": 0,
-      "guid": "0000000061",
+      "guid": "6100000061",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1131,7 +1131,7 @@
         "Section 6.2.2.4"
       ],
       "flags": 0,
-      "guid": "0000000063",
+      "guid": "6100000063",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1163,7 +1163,7 @@
         "Section 9.1.1.5"
       ],
       "flags": 0,
-      "guid": "0000000065",
+      "guid": "6100000065",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1195,7 +1195,7 @@
         "Section 9.1.1.5"
       ],
       "flags": 0,
-      "guid": "0000000067",
+      "guid": "6100000067",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1227,7 +1227,7 @@
         "Section 7.3.1.3"
       ],
       "flags": 0,
-      "guid": "0000000069",
+      "guid": "6100000069",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1259,7 +1259,7 @@
         "Section 8.3.2.3"
       ],
       "flags": 0,
-      "guid": "0000000071",
+      "guid": "6100000071",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1291,7 +1291,7 @@
         "Section 8.1.1.5"
       ],
       "flags": 0,
-      "guid": "0000000073",
+      "guid": "6100000073",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1323,7 +1323,7 @@
         "Section 8.3.2.5"
       ],
       "flags": 0,
-      "guid": "0000000075",
+      "guid": "6100000075",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1355,7 +1355,7 @@
         "Section 8.3.2.5"
       ],
       "flags": 0,
-      "guid": "0000000077",
+      "guid": "6100000077",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1387,7 +1387,7 @@
         "Section 9.1.3.3"
       ],
       "flags": 0,
-      "guid": "0000000079",
+      "guid": "6100000079",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1419,7 +1419,7 @@
         "Section 9.2.2.3"
       ],
       "flags": 0,
-      "guid": "0000000081",
+      "guid": "6100000081",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1451,7 +1451,7 @@
         "Section 9.2.2.3"
       ],
       "flags": 0,
-      "guid": "0000000083",
+      "guid": "6100000083",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1483,7 +1483,7 @@
         "Section 9.1.2"
       ],
       "flags": 0,
-      "guid": "0000000085",
+      "guid": "6100000085",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1515,7 +1515,7 @@
         "Section 9.1.1.1"
       ],
       "flags": 0,
-      "guid": "0000000087",
+      "guid": "6100000087",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1547,7 +1547,7 @@
         "Section 9.2.1.1"
       ],
       "flags": 0,
-      "guid": "0000000089",
+      "guid": "6100000089",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1579,7 +1579,7 @@
         "Section 10.1.1.3"
       ],
       "flags": 0,
-      "guid": "0000000091",
+      "guid": "6100000091",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1611,7 +1611,7 @@
         "Section 10.1.2.2 & CCNA CyberOps SECFND OCG Ch 4"
       ],
       "flags": 0,
-      "guid": "0000000093",
+      "guid": "6100000093",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1643,7 +1643,7 @@
         "Section 10.2.1.4"
       ],
       "flags": 0,
-      "guid": "0000000095",
+      "guid": "6100000095",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1675,7 +1675,7 @@
         "Section 10.2.2.2"
       ],
       "flags": 0,
-      "guid": "0000000097",
+      "guid": "6100000097",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1707,7 +1707,7 @@
         "Section 10.2.4.3"
       ],
       "flags": 0,
-      "guid": "0000000099",
+      "guid": "6100000099",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1739,7 +1739,7 @@
         "Section 11.2.1.1"
       ],
       "flags": 0,
-      "guid": "0000000101",
+      "guid": "6100000101",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1771,7 +1771,7 @@
         "Section 11.2.1.4"
       ],
       "flags": 0,
-      "guid": "0000000103",
+      "guid": "6100000103",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1803,7 +1803,7 @@
         "Section 11.2.2.2"
       ],
       "flags": 0,
-      "guid": "0000000105",
+      "guid": "6100000105",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1835,7 +1835,7 @@
         "Section 11.2.2.2"
       ],
       "flags": 0,
-      "guid": "0000000107",
+      "guid": "6100000107",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1867,7 +1867,7 @@
         "Section 11.2.2.1"
       ],
       "flags": 0,
-      "guid": "0000000109",
+      "guid": "6100000109",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1899,7 +1899,7 @@
         "Section 12.3.1.3"
       ],
       "flags": 0,
-      "guid": "0000000111",
+      "guid": "6100000111",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1931,7 +1931,7 @@
         "Section 12.3.1.3"
       ],
       "flags": 0,
-      "guid": "0000000113",
+      "guid": "6100000113",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1963,7 +1963,7 @@
         "Section 12.3.1.3"
       ],
       "flags": 0,
-      "guid": "0000000115",
+      "guid": "6100000115",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -1995,7 +1995,7 @@
         "Section 12.3.1.2"
       ],
       "flags": 0,
-      "guid": "0000000117",
+      "guid": "6100000117",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -2027,7 +2027,7 @@
         "Section 12.3.1.2"
       ],
       "flags": 0,
-      "guid": "0000000119",
+      "guid": "6100000119",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -2059,7 +2059,7 @@
         "Section 12.3.1.2"
       ],
       "flags": 0,
-      "guid": "0000000121",
+      "guid": "6100000121",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -2091,7 +2091,7 @@
         "Section 12.3.1.2"
       ],
       "flags": 0,
-      "guid": "0000000123",
+      "guid": "6100000123",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -2123,7 +2123,7 @@
         "Section 12.3.1.2"
       ],
       "flags": 0,
-      "guid": "0000000125",
+      "guid": "6100000125",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
