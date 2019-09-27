@@ -2160,6 +2160,198 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps in the Cyber Kill Chain?",
+        "Reconnaissance, Weaponization, Delivery, Exploitation, Installation, CnC, Action on Objectives.",
+        "6100000129",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are these steps part of?  Reconnaissance, Weaponization, Delivery, Exploitation, Installation, CnC, Action on Objectives.",
+        "The Cyber Kill Chain.",
+        "6100000128",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For the Cyber Kill Chain; define Weaponization",
+        "Pairing remote malware with a backdoor to create a payload",
+        "6100000131",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the Cyber Kill Chain, which step pairs remote malware with a backdoor to create a payload?",
+        "The Cyber Kill Chain - Weaponization",
+        "6100000130",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the core features of the Diamond Model?  Draw it.",
+        "Adversary and Victim are top and bottom.  Infrastructure and Capability are on the sides and connected.",
+        "6100000133",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Adversary, Victim, Infrastructure and Capacility are all parts of what model?",
+        "The Diamond Model",
+        "6100000132",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the meta features of the Diamond Model?",
+        "Timestamp Phase Result Direction Methodology Resouces",
+        "6100000135",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these features belong to?  Timestamp Phase Result Direction Methodology Resouces",
+        "They are META features of the Diamond Model",
+        "6100000134",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of VERIS?",
+        "The Vocabulary for Event Recording and Incident Sharing (VERIS) provides metrics for describing security incidents.",
+        "6100000137",
+        "Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "6100000136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides metrics for describing security incidents?",
+        "VERIS",
+        "6100000136",
+        "Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "6100000137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the top-level elements of VERIS?",
+        "Impact Assessment, Discovery & Reponse, Incident Description, Victim Demographics, Incident Tracking",
+        "6100000139",
+        "Section 13.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "6100000138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following elements pertain to?  Impact Assessment, Discovery & Reponse, Incident Description, Victim Demographics, Incident Tracking",
+        "VERIS Top-level elements",
+        "6100000138",
+        "Section 13.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "6100000139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
