@@ -2352,6 +2352,166 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define PHI?",
+        "Personal Health Information.  Any information regarding the provision of health care or status of an individual.",
+        "6100000141",
+        "210-250 OCG p174"
+      ],
+      "flags": 0,
+      "guid": "6100000140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term and abbreviation is used to refer to information about the provision of health care or status of an individual?",
+        "PHI - Personal Health Information",
+        "6100000140",
+        "210-250 OCG p174"
+      ],
+      "flags": 0,
+      "guid": "6100000141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is pxGrid?",
+        "It's a framework (API) that ties into Cisco Identity Services Engine (ISE) to facilitate data sharing to other network devices.",
+        "6100000143",
+        "210-250 OCG p144"
+      ],
+      "flags": 0,
+      "guid": "6100000142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the framework that ties into Cisco Identity Services Engine (ISE) to facilitate data sharing to other network devices.",
+        "pxGrid",
+        "6100000142",
+        "210-250 OCG p144"
+      ],
+      "flags": 0,
+      "guid": "6100000143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the preferred port and protocol for DNS?",
+        "UDP/53 for standard queries, TCP/53 for zone transfers.",
+        "6100000145",
+        "210-250 OCG p75"
+      ],
+      "flags": 0,
+      "guid": "6100000144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What uses UDP and TCP port 53?",
+        "DNS - Domain Name System",
+        "6100000144",
+        "210-250 OCG p75"
+      ],
+      "flags": 0,
+      "guid": "6100000145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined as the possibility of a security incident happening?",
+        "Risk",
+        "6100000147",
+        "210-250 OCG p171"
+      ],
+      "flags": 0,
+      "guid": "6100000146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define 'Risk' in terms used within Cyber Security",
+        "The possibility of a security incident occurring.",
+        "6100000146",
+        "210-250 OCG p171"
+      ],
+      "flags": 0,
+      "guid": "6100000147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is the FirePower Management Center (FMC) able to export HTML, PDF, and CSV files? ",
+        "To share instrusion data with other entities.",
+        "6100000149",
+        "210-250 OCG p442"
+      ],
+      "flags": 0,
+      "guid": "6100000148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the Firepower Management Center (FMC), how can you share intrustion data with other entities?",
+        "Export HTML, PDF, or CSV files.",
+        "6100000148",
+        "210-250 OCG p442"
+      ],
+      "flags": 0,
+      "guid": "6100000149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
