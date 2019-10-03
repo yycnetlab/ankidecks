@@ -389,7 +389,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Which Windows Registry hive has data about the user users on the host?",
+        "Which Windows Registry hive has data about the users on the host?",
         "HKEY_USERS",
         "6100000016",
         "Section 2.1.2.8"
@@ -1157,7 +1157,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What term defines the legth of a cryptographic key?",
+        "What term defines the length of a cryptographic key?",
         "key size / key length",
         "6100000064",
         "Section 9.1.1.5"
@@ -2508,6 +2508,582 @@
       ],
       "flags": 0,
       "guid": "6100000149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which ISO standard covers general risk management; principles and guidelines for managing risk?",
+        "ISO 31000",
+        "6100000151",
+        "210-250 OCG p172"
+      ],
+      "flags": 0,
+      "guid": "6100000150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does ISO 31000 cover?",
+        "General risk management; principles and guidelines for managing risk.",
+        "6100000150",
+        "210-250 OCG p172"
+      ],
+      "flags": 0,
+      "guid": "6100000151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a threat agent?",
+        "It is the path used by a malicious actor to perform an attack.",
+        "6100000153",
+        "210-250 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for the path used by a malicious actor to perform an attack?",
+        "Threat agent",
+        "6100000152",
+        "210-250 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is vulnerability chaining?",
+        "The process of exploiting in sequence so that one vulnerability exposes the next.",
+        "6100000155",
+        "210-250 OCG p285"
+      ],
+      "flags": 0,
+      "guid": "6100000154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for exploiting vulnerabilties in sequence so that one exploit exposes a vulnerability for another?",
+        "Vulnerability Chaining",
+        "6100000154",
+        "210-250 OCG p285"
+      ],
+      "flags": 0,
+      "guid": "6100000155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who makes the access decision in a Discretionary Access Control model?",
+        "The object owner",
+        "6100000157",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what model does the object owner make the access decision?",
+        "Discretionary Access Contol model",
+        "6100000156",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000157",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cisco CloudLock?",
+        "CloudLock is a Data Loss Prevention product for cloud environments.",
+        "6100000159",
+        "210-250 OCG p148"
+      ],
+      "flags": 0,
+      "guid": "6100000158",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product does Data Loss Prevention in cloud environments?",
+        "CloudLock",
+        "6100000158",
+        "210-250 OCG p148"
+      ],
+      "flags": 0,
+      "guid": "6100000159",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why would an attacker use encryption?",
+        "To evade IDS/IPS fingerprinting.",
+        "6100000161",
+        "210-250 OCG p526"
+      ],
+      "flags": 0,
+      "guid": "6100000160",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can malware evade IDS/IPS fingerprinting?",
+        "Use encryption",
+        "6100000160",
+        "210-250 OCG p526"
+      ],
+      "flags": 0,
+      "guid": "6100000161",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an exploit kit?",
+        "A collection of exploits that are frequently served from web servers.",
+        "6100000163",
+        "210-250 OCG p170"
+      ],
+      "flags": 0,
+      "guid": "6100000162",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term that describes a collection of expoits that are often served from web servers?",
+        "Exploit Kit",
+        "6100000162",
+        "210-250 OCG p170"
+      ],
+      "flags": 0,
+      "guid": "6100000163",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What types of information is available in Cisco ISE reports??",
+        "Reports related to authentication, RADIUS, admin logins, guest access.",
+        "6100000165",
+        "210-250 OCG p480"
+      ],
+      "flags": 0,
+      "guid": "6100000164",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What product can generate reports related to authentication, admin logins, guess access, and RADIUS?",
+        "Cisco ISE",
+        "6100000164",
+        "210-250 OCG p480"
+      ],
+      "flags": 0,
+      "guid": "6100000165",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Can an IDS help to mitigate an attack?  Explain.",
+        "In Promiscuous mode an IDS can work with other devices to request that action is taken to block traffic.",
+        "6100000167",
+        "210-250 OCG p227"
+      ],
+      "flags": 0,
+      "guid": "6100000166",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device in what mode can work with other network equipment (like firewalls) to request that malicious traffic is blocked?",
+        "An IDS in promiscuous mode.",
+        "6100000166",
+        "210-250 OCG p227"
+      ],
+      "flags": 0,
+      "guid": "6100000167",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For Configuration Management, where are configuration records kept?",
+        "The Configuration Management Database (CMDB)",
+        "6100000169",
+        "210-250 OCG p276"
+      ],
+      "flags": 0,
+      "guid": "6100000168",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is kept in the Configuration Management Database (CMDB)?",
+        "Configuration records for Configuration Management",
+        "6100000168",
+        "210-250 OCG p276"
+      ],
+      "flags": 0,
+      "guid": "6100000169",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a Runbook?",
+        "A collection of procedures and operations performed by sysadmins, netops, and security professionals.",
+        "6100000171",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000170",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for a collection of procedures and operations performed by sysadmins, netops and security professionals?",
+        "Runbook",
+        "6100000170",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000171",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is effectiveness measured for a Runbook?",
+        "Mean time: to repair, between failures, to discover a security incident, to contain or mitigate a security incident.  Effective Runbooks also automate the provisioning of IT resources.",
+        "6100000173",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000172",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "MTBF, MTTR, Mean time to discover and contain a security incident are all metrics to measure the effectiveness of what?",
+        "Runbooks",
+        "6100000172",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000173",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When do zombie processes occur?",
+        "When a process completes execution, releases associated memory and resources but remains in the process table.",
+        "6100000175",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000174",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for a process that has released all resources but remains in the process table?",
+        "Zombie process",
+        "6100000174",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000175",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define an Orphan process",
+        "An orphan process is a process whose parent process has died.",
+        "6100000177",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000176",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do you call a process whose parent process has died?",
+        "An Orphan process",
+        "6100000176",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000177",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the Public Key Cryptography Standards (PKCS)?",
+        "They are a set of protocols (not algorithms) for handling Public Key Cryptosystems",
+        "6100000179",
+        "210-250 OCG p330"
+      ],
+      "flags": 0,
+      "guid": "6100000178",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the protocols for handling public key cryptosystems?",
+        "Publick Key Cryptography Standards (PKCS).",
+        "6100000178",
+        "210-250 OCG p330"
+      ],
+      "flags": 0,
+      "guid": "6100000179",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With Mandatory Access Control how is the access decision made?",
+        "The OS enforces policy based on security labels.",
+        "6100000181",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000180",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Access Control Model uses the OS to enforce policy based on security labels?",
+        "Mandatory Access Control",
+        "6100000180",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000181",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Whaling?",
+        "It is a type of Spear phishing that targets executives and high profile users.",
+        "6100000183",
+        "210-250 OCG p141"
+      ],
+      "flags": 0,
+      "guid": "6100000182",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to refer to spear phishing that targets executives and high profile users?",
+        "Whaling",
+        "6100000182",
+        "210-250 OCG p141"
+      ],
+      "flags": 0,
+      "guid": "6100000183",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a Next Generation Firewall (NGFW) differ from a tradional stateful firewall?",
+        "NGFWs are application-aware and able to do intrusion prevention.",
+        "6100000185",
+        "210-250 OCG p126"
+      ],
+      "flags": 0,
+      "guid": "6100000184",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of firewalls are application-aware and able to do intrusion prevention?",
+        "Next Generation Firewalls (NGFWs)",
+        "6100000184",
+        "210-250 OCG p126"
+      ],
+      "flags": 0,
+      "guid": "6100000185",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
