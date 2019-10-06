@@ -1333,7 +1333,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What is the purpose of TAXII?",
+        "What is the purpose of Trusted Automated eXchange of Indicator Information (TAXII)?",
         "It's a protocol used to share cyberthreat intelligence (like STIX).",
         "6100000077",
         "Section 8.3.2.5"
@@ -1350,9 +1350,9 @@
       "data": "",
       "fields": [
         "What protocol can share cyberthreat intelligence?",
-        "TAXII",
+        "Trusted Automated eXchange of Indicator Information (TAXII)",
         "6100000076",
-        "Section 8.3.2.5"
+        "Section 8.3.2.5, SECFND OCG p170"
       ],
       "flags": 0,
       "guid": "6100000077",
