@@ -2741,7 +2741,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What types of information is available in Cisco ISE reports??",
+        "What types of information is available in Cisco ISE reports?",
         "Reports related to authentication, RADIUS, admin logins, guest access.",
         "6100000165",
         "210-250 OCG p480"
@@ -3084,6 +3084,102 @@
       ],
       "flags": 0,
       "guid": "6100000185",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are access decisions made with the Attribute-based Access Control (ABAC) model?",
+        "Decisions are based on the attributes of the subject, object and environment.",
+        "6100000187",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000186",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which access control model are decisions made based on the subject, object, and environment?",
+        "Attribute-based Access Control (ABAC)",
+        "6100000186",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000187",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "List three sandboxing implementations.",
+        "Google Chromium, Java JVM, HTML5 sandbox attribute in iFrames",
+        "6100000189",
+        "210-250 OCG p412"
+      ],
+      "flags": 0,
+      "guid": "6100000188",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do Google Chromium, Java JVM, and HTML5 allow?",
+        "Sandboxing",
+        "6100000188",
+        "210-250 OCG p412"
+      ],
+      "flags": 0,
+      "guid": "6100000189",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the administrative control 'separation of duties.'",
+        "A single individual should not perform all critical duties.",
+        "6100000191",
+        "210-250 OCG p175"
+      ],
+      "flags": 0,
+      "guid": "6100000190",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Having no single indivudual able to perform all critical tasks is an example of what administrative control?",
+        "Separation of duties",
+        "6100000190",
+        "210-250 OCG p175"
+      ],
+      "flags": 0,
+      "guid": "6100000191",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
