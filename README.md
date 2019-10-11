@@ -15,3 +15,8 @@ A collection of Anki decks to help all students master the respective topics.
 
 
 ## To participate in card development
+1. You need to have an account on github.com
+1. You need to be familiar with the Git: clone, pull, push, branch, checkout, pull requests
+1. You need to be able to read JSON-formatted data
+1. Your first pull request should update the file UserID.list.txt
+
