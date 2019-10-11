@@ -1813,7 +1813,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What does an asterist of period prefixing the timestamp of a syslog message mean?",
+        "What does an asterisk of period prefixing the timestamp of a syslog message mean?",
         "There is a problem with NTP.  The timestamp may not be accurate.",
         "6100000107",
         "Section 11.2.2.2"
@@ -3180,6 +3180,134 @@
       ],
       "flags": 0,
       "guid": "6100000191",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Identification field in the IPv4 Header?",
+        "The Identification field is used to uniquely identify a group of fragments of a single IP datagram.",
+        "6100000193",
+        "210-250 OCG p46"
+      ],
+      "flags": 0,
+      "guid": "6100000192",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What IPv4 Header field is used to uniquely group a set of fragments belonging to a single IP datagram?",
+        "Identification field",
+        "6100000192",
+        "210-250 OCG p46"
+      ],
+      "flags": 0,
+      "guid": "6100000193",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between iterative and recursive DNS queries?",
+        "Recursive queries are sent from a host (resolver) to a server.  Iterative queries are send between servers.",
+        "6100000195",
+        "210-250 OCG p74"
+      ],
+      "flags": 0,
+      "guid": "6100000194",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of DNS query is sent from a host to a server?  From a server to another server?",
+        "Recursive.  Iterative.",
+        "6100000194",
+        "210-250 OCG p74"
+      ],
+      "flags": 0,
+      "guid": "6100000195",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is MITRE CRIT?",
+        "Collaborative Research Into Threats (CRITs) is a feed (open source) for threat data.",
+        "6100000197",
+        "210-250 OCG p169"
+      ],
+      "flags": 0,
+      "guid": "6100000196",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Name an open source feed for threat data.",
+        "MITRE CRIT",
+        "6100000196",
+        "210-250 OCG p169"
+      ],
+      "flags": 0,
+      "guid": "6100000197",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Mandatory Access Control what are the parts of the security label?",
+        "Classification and Category",
+        "6100000199",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000198",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Mandatory Access Control what do classification and category form?",
+        "The security label",
+        "6100000198",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000199",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
