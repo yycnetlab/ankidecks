@@ -1,0 +1,7 @@
+# In order to ensure card IDs are unique, a 3-digit prefix is allocated to each
+# contributor.  If you would like to participate in adding or updating cards
+# in any of the decks provided, be sure to first add yourself and a numeric
+# identifier to this file.  Your first Pull Request should consist only of
+# a single line being added to this file.  Please keep the prefixes in
+# ascending order.
+610 https://github.com/thepurplebuffalo
