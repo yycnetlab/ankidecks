@@ -278,7 +278,7 @@
       "data": "",
       "fields": [
         "What is stored in the HKEY_CURRENT_CONFIG hive?  (Windows Registry)",
-        "Data for the current hardware profilee",
+        "Data for the current hardware profile",
         "6100000011",
         "Section 2.1.2.8"
       ],
@@ -1637,7 +1637,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What is the purpose of risk analsys, vulnerability assessment, and penetration testing?",
+        "What is the purpose of risk analysis, vulnerability assessment, and penetration testing?",
         "To identify vulnerabilities.",
         "6100000094",
         "Section 10.2.1.4"
@@ -2358,7 +2358,7 @@
       "data": "",
       "fields": [
         "Define PHI?",
-        "Personal Health Information.  Any information regarding the provision of health care or status of an individual.",
+        "Protected Health Information.  Any information regarding the provision of health care or status of an individual.",
         "6100000141",
         "210-250 OCG p174"
       ],
@@ -2374,7 +2374,7 @@
       "data": "",
       "fields": [
         "What term and abbreviation is used to refer to information about the provision of health care or status of an individual?",
-        "PHI - Personal Health Information",
+        "PHI - Protected Health Information",
         "6100000140",
         "210-250 OCG p174"
       ],
