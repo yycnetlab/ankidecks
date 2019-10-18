@@ -1,60 +1,64 @@
 {
-    "__type__": "Deck",
-    "children": [],
-    "crowdanki_uuid": "7f668c68-f0e5-11e9-89bf-3860778759a8",
-    "deck_config_uuid": "7f668c69-f0e5-11e9-8c8a-3860778759a8",
-    "deck_configurations": [
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "7f668c69-f0e5-11e9-8c8a-3860778759a8",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    1,
-                    10
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    7
-                ],
-                "order": 0,
-                "perDay": 50,
-                "separate": true
-            },
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 100
-            },
-            "timer": 0
-        }
-    ],
-    "desc": "",
-    "dyn": 0,
-    "extendNew": 10,
-    "extendRev": 50,
-    "media_files": [],
-    "name": "General Networking",
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "7f668c68-f0e5-11e9-89bf-3860778759a8",
+  "deck_config_uuid": "7f668c69-f0e5-11e9-8c8a-3860778759a8",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "7f668c69-f0e5-11e9-8c8a-3860778759a8",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": true,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 0,
+        "perDay": 50,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": true,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 100
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "name": "General Networking",
   "note_models": [
     {
       "__type__": "NoteModel",
@@ -146,11 +150,11 @@
       "fields": [
         "What is Internet Protocol Number 1?",
         "ICMP",
-        "6100000001",
+        "6100100001",
         "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
       ],
       "flags": 0,
-      "guid": "6100000000",
+      "guid": "6100100000",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
@@ -162,11 +166,299 @@
       "fields": [
         "What is the Internet Protocol Number for ICMP?",
         "1",
-        "6100000000",
+        "6100100000",
         "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
       ],
       "flags": 0,
-      "guid": "6100000001",
+      "guid": "6100100001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Internet Protocol Number 50?",
+        "ESP - Encapsulating Security Payload",
+        "6100100003",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Internet Protocol Number for ESP (Encapsulating Security Payload)?",
+        "50",
+        "6100100002",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Internet Protocol Number 51?",
+        "AH - Authentication Header",
+        "6100100005",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Internet Protocol Number for AH (Authentication Header)?",
+        "51",
+        "6100100004",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Internet Protocol Number 6?",
+        "TCP",
+        "6100100007",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Internet Protocol Number for TCP?",
+        "6",
+        "6100100006",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Internet Protocol Number 17?",
+        "UDP",
+        "6100100009",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Internet Protocol Number for UDP?",
+        "17",
+        "6100100008",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Internet Protocol Number 47?",
+        "GRE - Generic Routing Encapsulation",
+        "6100100011",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Internet Protocol Number for GRE (Generic Routing Encapsulation)?",
+        "47",
+        "6100100010",
+        "https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml"
+      ],
+      "flags": 0,
+      "guid": "6100100011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What vulnerabilities does the Heartbleed Bug create?",
+        "Attackers can eavesdrop on communications, extract data directly from the server and users, and impersonate the server or users.",
+        "6100100013",
+        "http://heartbleed.com/"
+      ],
+      "flags": 0,
+      "guid": "6100100012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What well known vulnerability allows attackers to eavesdrop, extract data directly from the server and users, and impersonate the server or users?",
+        "Heartbleed",
+        "6100100012",
+        "http://heartbleed.com/"
+      ],
+      "flags": 0,
+      "guid": "6100100013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For CVSS Attack Vectors, what is the difference between Network and Adjacent?",
+        "Network includes the entire Internet.  Adjacent is limited at the protocol level to a logically adjacent topology.",
+        "6100100015",
+        "https://www.first.org/cvss/v3.1/specification-document"
+      ],
+      "flags": 0,
+      "guid": "6100100014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "If attack needs to be launched from a specific network, what CVSS attack vector is used?",
+        "Adjacent",
+        "6100100014",
+        "https://www.first.org/cvss/v3.1/specification-document"
+      ],
+      "flags": 0,
+      "guid": "6100100015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For CVSS Attack Vectors what is the difference between Local and Physical?",
+        "Physical requires the attacker to manipulate the device.  Local can be social engineering someone else to do it, or the attacker accessing an unsecured console.",
+        "6100100017",
+        "https://www.first.org/cvss/v3.1/specification-document"
+      ],
+      "flags": 0,
+      "guid": "6100100016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the CVSS Attack Vector that is used when an attacker accesses a non-secured terminal?",
+        "Local",
+        "6100100016",
+        "https://www.first.org/cvss/v3.1/specification-document"
+      ],
+      "flags": 0,
+      "guid": "6100100017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In VERIS what is the difference in Action between hacking and misuse?",
+        "In Misuse the actor was granted access.  In Hacking the access is obtained illegitimately.",
+        "6100100019",
+        "http://veriscommunity.net/actions.html#section-hacking"
+      ],
+      "flags": 0,
+      "guid": "6100100018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For VERIS which action is used when access was gained illegitimately?",
+        "Hacking",
+        "6100100018",
+        "http://veriscommunity.net/actions.html#section-hacking"
+      ],
+      "flags": 0,
+      "guid": "6100100019",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 

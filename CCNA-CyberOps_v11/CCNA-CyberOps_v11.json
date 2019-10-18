@@ -3312,6 +3312,134 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a DNS cache poisoning attack / DNS spoofing attack?",
+        "It is an attack that puts false information on a DNS resolver to forward victims to a malicious site.",
+        "6100000201",
+        "210-250 OCG p512, Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000200",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the attack that falsifies data on a DNS resolver to forward victims to a malicious site?",
+        "DNS cache poisonin / DNS spoofing",
+        "6100000200",
+        "210-250 OCG p512, Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000201",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What techniques can attackers use to avoid detection by NIDS that may still be detected by HIDS?",
+        "Encryption and fragmentation",
+        "6100000203",
+        "210-250 OCG p230"
+      ],
+      "flags": 0,
+      "guid": "6100000202",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Can attackers use encryption and fragmentation to evade NIDS or HIDS?",
+        "NIDS; yes.  HIDS; no.",
+        "6100000202",
+        "210-250 OCG p230"
+      ],
+      "flags": 0,
+      "guid": "6100000203",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of Cisco's Managed Security Service?",
+        "Active Threat Analytics",
+        "6100000205",
+        "210-255 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000204",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cisco's Active Threat Analytics?",
+        "It is a managed security service (SOC).",
+        "6100000204",
+        "210-255 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000205",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When an incident is detected, what should be investigated during scoping?",
+        "What is affected.  What originated the incident.  How the incident is occurring.",
+        "6100000207",
+        "NIST 800-61r2 p28, Section 13.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000206",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When should these questions be asked: what is affected; what is originating the incident; how is the incident occurring?",
+        "During the initial scoping of an incident.",
+        "6100000206",
+        "NIST 800-61r2 p28, Section 13.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
