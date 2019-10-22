@@ -335,6 +335,38 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Wireshark display filter matches on hostname?",
+        "ip.host - but name resolution must be enabled in wireshark",
+        "6100100013",
+        "https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html#_display_filter_fields"
+      ],
+      "flags": 0,
+      "guid": "6100100012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the ip.host Wireshark display filter do?",
+        "Matches on resolved name of the IP if name resolution is enabled.",
+        "6100100012",
+        "https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html#_display_filter_fields"
+      ],
+      "flags": 0,
+      "guid": "6100100013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
