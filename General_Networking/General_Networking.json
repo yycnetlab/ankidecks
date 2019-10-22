@@ -367,6 +367,38 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What LibPCAP option can match frames that use a specific gateway?",
+        "gateway <host name or IP>",
+        "6100100015",
+        "https://www.tcpdump.org/manpages/pcap-filter.7.html"
+      ],
+      "flags": 0,
+      "guid": "6100100014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In LibPCAP what does the 'gateway' filter do?",
+        "Matches frames using a particular gateway.",
+        "6100100014",
+        "https://www.tcpdump.org/manpages/pcap-filter.7.html"
+      ],
+      "flags": 0,
+      "guid": "6100100015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
