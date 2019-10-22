@@ -3664,6 +3664,198 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is included in the NetFlow 5-Tuple?",
+        "Src IP, Dst IP, Src Port, Dest Port, Protocol.",
+        "6100000223",
+        "OCG 210-255 p79"
+      ],
+      "flags": 0,
+      "guid": "6100000222",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where is this 5-Tuple used?  Src IP, Dst IP, Src Port, Dest Port, Protocol",
+        "NetFlow",
+        "6100000222",
+        "OCG 210-255 p79"
+      ],
+      "flags": 0,
+      "guid": "6100000223",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define the term Weaponization",
+        "The process of developing and testing how an attack will be executed",
+        "6100000225",
+        "OCG 210-255 p299"
+      ],
+      "flags": 0,
+      "guid": "6100000224",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes the process of developing and testing how an attack will be executed",
+        "Weaponization",
+        "6100000224",
+        "OCG 210-255 p299"
+      ],
+      "flags": 0,
+      "guid": "6100000225",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three broad categories of cybersecurity investigations?",
+        "Public, Private, Individual",
+        "6100000227",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000226",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Public, Private, and Individual are three broad categories of what?",
+        "Cybersecurity Investigations",
+        "6100000226",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000227",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which CVSS metrics can have a value of 'None'?",
+        "Privilege Required, User Interaction",
+        "6100000229",
+        "OCG 210-255 p162"
+      ],
+      "flags": 0,
+      "guid": "6100000228",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What value is common in CVSS metrics for Privilege Required and User Interaction?",
+        "Both can have a value of 'None'",
+        "6100000228",
+        "OCG 210-255 p162"
+      ],
+      "flags": 0,
+      "guid": "6100000229",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is incident containment important?",
+        "It limits the impact of the incident and allows for time to develop a remediation strategy.",
+        "6100000231",
+        "NIST 800-61r2 p35"
+      ],
+      "flags": 0,
+      "guid": "6100000230",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What limits the impact of an incident and allows for time to develop a remediation strategy?",
+        "Incident Containment",
+        "6100000230",
+        "NIST 800-61r2 p35"
+      ],
+      "flags": 0,
+      "guid": "6100000231",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for remediating network and affected systems and trying trying to reveal the responsible threat actor?",
+        "Threat Actor Attribution",
+        "6100000233",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000232",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Threat Actor Attribution?",
+        "The process of remediation and trying to reveal the threat actor.",
+        "6100000232",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000233",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
