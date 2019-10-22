@@ -3334,7 +3334,7 @@
       "data": "",
       "fields": [
         "What is the name of the attack that falsifies data on a DNS resolver to forward victims to a malicious site?",
-        "DNS cache poisonin / DNS spoofing",
+        "DNS cache poisoning / DNS spoofing",
         "6100000200",
         "210-250 OCG p512, Section 7.3.1.3"
       ],
@@ -3436,6 +3436,230 @@
       ],
       "flags": 0,
       "guid": "6100000207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of an incident response plan?",
+        "Mission<br>Strategies and goals<br> senior management approval<br> organization approach to incident response<br> communications plan<br> metrics for measuring the incident response capability and its effectiveness<br> roadmap for maturing the incident response capability<br> how the program fits into the overall organization",
+        "6100000209",
+        "NIST 800-61r2 p8"
+      ],
+      "flags": 0,
+      "guid": "6100000208",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these elements form?<br>Mission<br>Strategies and goals<br> senior management approval<br> organization approach to incident response<br> communications plan<br> metrics for measuring the incident response capability and its effectiveness<br> roadmap for maturing the incident response capability<br> how the program fits into the overall organization",
+        "Incident response plan",
+        "6100000208",
+        "NIST 800-61r2 p8"
+      ],
+      "flags": 0,
+      "guid": "6100000209",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a National CSIRT or CERT?",
+        "Provide vulnerability information, awareness training, best practices.",
+        "6100000211",
+        "OCG 210-255 p166"
+      ],
+      "flags": 0,
+      "guid": "6100000210",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What organization protects citizens by providing vulnerability information, awareness training and best practices?",
+        "A National CSIRT or CERT",
+        "6100000210",
+        "OCG 210-255 p166"
+      ],
+      "flags": 0,
+      "guid": "6100000211",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define the term 'Precursor' (NIST 800-61R2)",
+        "A sign that an attacker may be preparing to cause an incident.",
+        "6100000213",
+        "NIST 800-61R2 p60"
+      ],
+      "flags": 0,
+      "guid": "6100000212",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term used to describe a sign that an attacker may be preparing to cause an incident",
+        "Precursor",
+        "6100000212",
+        "NIST 800-61R2 p60"
+      ],
+      "flags": 0,
+      "guid": "6100000213",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which type of analysis is all analytical data known beforehand?",
+        "Deterministic Analysis",
+        "6100000215",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000214",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Deterministic Analysis performed?",
+        "Facts are known or obtained about the incident.  Deterministic Analysis uses this known data.",
+        "6100000214",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000215",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Analysis method is performed when something has likely occured?",
+        "Probabilistic Analysis",
+        "6100000217",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000216",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used for Probabilistic Analysis?",
+        "Data that is assumed to be accurate.  The conclusions are also probabilistic.",
+        "6100000216",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000217",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the policies and procedures a company CSIRT is responsible for?",
+        "Incident classification and handling, information classification and protection, information dissemination, record retention and destruction, acceptable use of encryption, engaging with external groups.",
+        "6100000219",
+        "OCG 210-255 p160"
+      ],
+      "flags": 0,
+      "guid": "6100000218",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a corporate environment what group is responsible for the following?  Incident classification and handling, information classification and protection, information dissemination, record retention and destruction, acceptable use of encryption, engaging with external groups.",
+        "Corportate CSIRT",
+        "6100000218",
+        "OCG 210-255 p160"
+      ],
+      "flags": 0,
+      "guid": "6100000219",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a well known Coordination Center?",
+        "The CERT Division of the Software Engineering Institute.",
+        "6100000221",
+        "OCG 210-255 p167"
+      ],
+      "flags": 0,
+      "guid": "6100000220",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the CERT Division of the Software Engineering Institute known for?",
+        "They are a Coordination Center.",
+        "6100000220",
+        "OCG 210-255 p167"
+      ],
+      "flags": 0,
+      "guid": "6100000221",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
