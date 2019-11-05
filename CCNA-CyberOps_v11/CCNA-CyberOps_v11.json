@@ -3606,7 +3606,7 @@
       "data": "",
       "fields": [
         "What are the policies and procedures a company CSIRT is responsible for?",
-        "Incident classification and handling, information classification and protection, information dissemination, record retention and destruction, acceptable use of encryption, engaging with external groups.",
+        "Incident classification and handling<br>information classification and protection<br>information dissemination<br>record retention and destruction<br>acceptable use of encryption<br>engaging with external groups",
         "6100000219",
         "OCG 210-255 p160"
       ],
@@ -3765,7 +3765,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Which CVSS metrics can have a value of 'None'?",
+        "Which CVSS Exploitability metrics can have a value of 'None'?",
         "Privilege Required, User Interaction",
         "6100000229",
         "OCG 210-255 p162"
@@ -3781,7 +3781,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What value is common in CVSS metrics for Privilege Required and User Interaction?",
+        "What value is common in CVSS Exploitability metrics for Privilege Required and User Interaction?",
         "Both can have a value of 'None'",
         "6100000228",
         "OCG 210-255 p162"
