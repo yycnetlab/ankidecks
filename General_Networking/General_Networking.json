@@ -399,6 +399,454 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 0?",
+        "Connected Interface",
+        "6100100017",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of a Connected interface?",
+        "Zero",
+        "6100100016",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 1?",
+        "Static route",
+        "6100100019",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of a static route?",
+        "One",
+        "6100100018",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 5?",
+        "EIGRP Summary route",
+        "6100100021",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of an EIGRP Summary route?",
+        "Five",
+        "6100100020",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 20?",
+        "eBGP",
+        "6100100023",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of an eBGP route?",
+        "20",
+        "6100100022",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 90?",
+        "Internal EIGRP",
+        "6100100025",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of an Internal EIGRP route?",
+        "90",
+        "6100100024",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 100?",
+        "IGRP (deprecated by EIGRP)",
+        "6100100027",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of IGRP (deprecated by EIGRP)?",
+        "100",
+        "6100100026",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 110?",
+        "OSPF",
+        "6100100029",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of OSPF?",
+        "110",
+        "6100100028",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 115?",
+        "IS-IS",
+        "6100100031",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of IS-IS?",
+        "115",
+        "6100100030",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 120?",
+        "RIP",
+        "6100100033",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of RIP?",
+        "120",
+        "6100100032",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 140?",
+        "Exterior Gateway Protocol (Deprecated by BGP)",
+        "6100100035",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of Exterior Gateway Protocol (deprecated by BGP)?",
+        "140",
+        "6100100034",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 160?",
+        "On Demand Routing",
+        "6100100037",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of On Demand Routing?",
+        "160",
+        "6100100036",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 170?",
+        "External EIGRP",
+        "6100100039",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of an External EIGRP route?",
+        "170",
+        "6100100038",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 200?",
+        "Internal BGP",
+        "6100100041",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of Internal BGP?",
+        "200",
+        "6100100040",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What route source has a default administrative distance of 255?",
+        "Unknown routes - these are not installed in the RIB",
+        "6100100043",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default administrative distance of an unknown route source?",
+        "255",
+        "6100100042",
+        "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/15986-admin-distance.html"
+      ],
+      "flags": 0,
+      "guid": "6100100043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
