@@ -1,0 +1,8 @@
+# After the 3 digit code for each contributor, there is a two digit number
+# for the deck itself.  These need to be non-overlapping.
+00-cyberops v1.1
+01-general networking
+02-reserved
+03-ccnp-route v7.1
+04-ccnp-switch v7.1
+05-ccnp-tshoot v7.1
