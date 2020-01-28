@@ -36,28 +36,18 @@ def parse_file(file)
 end
 
 def get_last_guid(file_json)
-  Marshal.load(Marshal.dump(file_json['notes'].last['guid']))
+  file_json['notes'].last['guid']
 end
 
+# Trim the prefix off of the last GUID, increment, then prepend a new prefix.
 def get_next_guids(prefix, last_guid)
-  length = last_guid.length
-  last_guid[0] = '0'
-  last_guid[1] = '0'
-  last_guid[2] = '0'
+  length = last_guid.length - prefix.length
+  last_guid = last_guid[prefix.length..-1].to_i
 
-  results = [last_guid.to_i + 1, last_guid.to_i + 2].map { |item| item.to_s.rjust(length, '0') }
+  res1 = (last_guid + 1).to_s.rjust(length, '0').prepend(prefix);
+  res2 = (last_guid + 2).to_s.rjust(length, '0').prepend(prefix);
 
-  final = []
-
-  results.each do |result|
-    result[0] = prefix[0]
-    result[1] = prefix[1]
-    result[2] = prefix[2]
-
-    final << result
-  end
-
-  final
+  return res1, res2
 end
 
 file_json = parse_file(options[:file])
