@@ -158,7 +158,7 @@
       "guid": "6100600000",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter1"
+        "Chapter2"
       ]
     },
     {
@@ -799,6 +799,1414 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "Chapter1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What two elements are common in semiconductors?",
+        "Silicon and Germanium",
+        "6100600042",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are Silicon and Germanium commonly used?",
+        "Semiconductors",
+        "6100600041",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When is gallium arsenide used in semicondictors?",
+        "High speed microwave devices.",
+        "6100600044",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What semiconductor is suitable for high speed microwave devices?",
+        "Gallium arsenide",
+        "6100600043",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of semiconductor material has fewer free electrons than its base material?",
+        "P-type",
+        "6100600046",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a P-type semiconductor, what is the relative number of free electrons?",
+        "Fewer free electrons",
+        "6100600045",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of material has more free electrons than its base material?",
+        "N-type",
+        "6100600048",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the relative number of free electrons in an N-type semiconductor?",
+        "More free electrons.",
+        "6100600047",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the charge carriers in P-type semiconductor materials?",
+        "Holes",
+        "6100600050",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What semiconductor type uses Holes as the charge carrier?",
+        "P-type",
+        "6100600049",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the charge carriers in N-type semiconductor materials?",
+        "Electrons",
+        "6100600052",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What semiconductor type uses free electrons as the charge carrier?",
+        "N-type",
+        "6100600051",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Silicon in its pure form has what electrical property?",
+        "Insulator",
+        "6100600054",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What semiconductor in its pure form is considered an insulator?",
+        "Silicon",
+        "6100600053",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do you call an element with properties of both a conductor and insulator?",
+        "A semiconductor",
+        "6100600056",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why are certain elements called semiconductors?",
+        "They have properties of both conductors and insulators",
+        "6100600055",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the doping process introduce to a semiconductor?",
+        "Impurities",
+        "6100600058",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What process adds impurities to a semiconductor?",
+        "Doping",
+        "6100600057",
+        "Section 2.1"
+      ],
+      "flags": 0,
+      "guid": "6100600058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the principle characteristic of a Zener diode?",
+        "Constant voltage under varying current",
+        "6100600060",
+        "Section 2.5"
+      ],
+      "flags": 0,
+      "guid": "6100600059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device has constant voltage under varying current?",
+        "Zener diode",
+        "6100600059",
+        "Section 2.5"
+      ],
+      "flags": 0,
+      "guid": "6100600060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What diode varies its internal capacitance as the applied voltage changes?",
+        "Varactor",
+        "6100600062",
+        "Section 2.6"
+      ],
+      "flags": 0,
+      "guid": "6100600061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the principle characteristic of a varactor?",
+        "Capacitance changes as the applied voltage changes",
+        "6100600061",
+        "Section 2.6"
+      ],
+      "flags": 0,
+      "guid": "6100600062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a typical application for a hot carrier diode?",
+        "VHF/UHF mixer and detector",
+        "6100600064",
+        "Section 2.7"
+      ],
+      "flags": 0,
+      "guid": "6100600063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What diode is well suited for VHF/UHF mixers and detectors?",
+        "hot carrier diode",
+        "6100600063",
+        "Section 2.7"
+      ],
+      "flags": 0,
+      "guid": "6100600064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What limits the maxiumum forward current in a junction diode?",
+        "Junction temperature",
+        "6100600066",
+        "Section 2.2"
+      ],
+      "flags": 0,
+      "guid": "6100600065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What effect does junction temperature have on a diode?",
+        "Limits the forward current",
+        "6100600065",
+        "Section 2.2"
+      ],
+      "flags": 0,
+      "guid": "6100600066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the major ratings for a diode?",
+        "Max forward current and peak inverse voltage",
+        "6100600068",
+        "Section 2.2"
+      ],
+      "flags": 0,
+      "guid": "6100600067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For what device type are max forward current and peak inverse voltage major ratings?",
+        "Junction diodes",
+        "6100600067",
+        "Section 2.2"
+      ],
+      "flags": 0,
+      "guid": "6100600068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two main structures for diodes?",
+        "Junction and point-contact",
+        "6100600070",
+        "Section 2.4"
+      ],
+      "flags": 0,
+      "guid": "6100600069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are junction and point-contact?",
+        "The two main structures for diodes",
+        "6100600069",
+        "Section 2.4"
+      ],
+      "flags": 0,
+      "guid": "6100600070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the typical application for a point-contact diode?",
+        "RF detector",
+        "6100600072",
+        "Section 2.4"
+      ],
+      "flags": 0,
+      "guid": "6100600071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of diode could be used for an RF detector?",
+        "point-contact",
+        "6100600071",
+        "Section 2.4"
+      ],
+      "flags": 0,
+      "guid": "6100600072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a common use for a PIN diode?",
+        "RF switch",
+        "6100600074",
+        "Section 2.8"
+      ],
+      "flags": 0,
+      "guid": "6100600073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device can be used as an RF switch?",
+        "PIN diode",
+        "6100600073",
+        "Section 2.8"
+      ],
+      "flags": 0,
+      "guid": "6100600074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a bipolar transistor - what is alpha?",
+        "Change in collector current with respect to the emitter current",
+        "6100600076",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes the change in collector current with respect tot he emitter current?",
+        "Alpha",
+        "6100600075",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the beta of a bipolar transistor?",
+        "The change in collector current with respect to base current",
+        "6100600078",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes the change in collector current with respect to the base current?",
+        "beta",
+        "6100600077",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component conducts from a negative emitter to a positive collector when its base voltage is positive?",
+        "NPN transitor",
+        "6100600080",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What happens in an NPN transistor when the base is made positive?",
+        "It conducts from the negative emitter to the positive collector.",
+        "6100600079",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are typical values for alpha for a transistor",
+        "Always less than one",
+        "6100600082",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transistor metric describes delta Ic over delta Ie and is always less than one?",
+        "Alpha",
+        "6100600081",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the alpha of a bipolar transistor in a common base configuration?",
+        "Forward current gain",
+        "6100600084",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What defines the forward current gain of a bipolar transistor in a common base configuration?",
+        "Alpha",
+        "6100600083",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a bipolar transistor, what is the term to describe the change of collector current with respect to base current?",
+        "Beta",
+        "6100600086",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a bipolar transistor, what does Beta describe?",
+        "The change in collector current with respect to the base current.",
+        "6100600085",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What configuration specifies the alpha of a bipolar transistor?",
+        "Common base",
+        "6100600088",
+        "Section 2.10, https://www.electronics-tutorials.ws/amplifier/common-base-amplifier.html"
+      ],
+      "flags": 0,
+      "guid": "6100600087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is specified for a common base BJT configuration?",
+        "Alpha",
+        "6100600087",
+        "Section 2.10, https://www.electronics-tutorials.ws/amplifier/common-base-amplifier.html"
+      ],
+      "flags": 0,
+      "guid": "6100600088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What configuration specifies the beta of a BJT?",
+        "Common emitter or common collector",
+        "6100600090",
+        "Section 2.10, https://www.electronics-tutorials.ws/amplifier/common-collector-amplifier.html"
+      ],
+      "flags": 0,
+      "guid": "6100600089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is specified for a BJT in a common emitter or common collector configuration?",
+        "Beta",
+        "6100600089",
+        "Section 2.10, https://www.electronics-tutorials.ws/amplifier/common-collector-amplifier.html"
+      ],
+      "flags": 0,
+      "guid": "6100600090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component conducts electricity from a positive emitter to a negative collector when its base is made negative?",
+        "PNP transistor",
+        "6100600092",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What happens when the base of a PNP transistor is made negative?",
+        "It conducts electricity from a positive emitter to a negative collector",
+        "6100600091",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Express Alpha in terms of Beta",
+        "Alpha = Beta / (1+Beta)",
+        "6100600094",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Express Beta in terms of Alpha",
+        "Beta = Alpha / (1 - Alpha)",
+        "6100600093",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the current gain of a BJT in common emitter or common collector compared to a common base configuration?",
+        "Very high",
+        "6100600096",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What BJT configuration results in very high current gain?",
+        "Common emitter or common collector",
+        "6100600095",
+        "Section 2.10"
+      ],
+      "flags": 0,
+      "guid": "6100600096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an enhancement mode FET?",
+        "It is a FET without a channel.  Gate voltage is proportional to current.",
+        "6100600098",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of FET has no channel?  Gate voltage is required for current flow.",
+        "Enhancement mode FET",
+        "6100600097",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a depletion mode FET?",
+        "A FET with a channel.  Current flows without a gate voltage.",
+        "6100600100",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What FET has a channel?  Current flows without gate voltage.",
+        "Depletion mode FET",
+        "6100600099",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the built-in gate protective zener diode in a MOSFET?",
+        "Prevent the gate insulation from being punctured by small static charges or excessive voltage.",
+        "6100600102",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can a MOSFET protect the gate insulation from being punctured by small static charges or excessive voltage?",
+        "Built-in gate protective zener diode.",
+        "6100600101",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why are special precautions necessary in handling FET and CMOS devices?",
+        "They are susceptable to ESD",
+        "6100600104",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600103",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What devices are particularly susceptable to ESD?",
+        "FET and CMOS",
+        "6100600103",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600104",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does the input impedance of a FET compare with that of a BJT?",
+        "The FET has high input impedance.  The BJT has low input impedance",
+        "6100600106",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600105",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is different regarding impedance of FETs and BJTs?",
+        "FETs have high input impedance.  BJT has low input impedance.",
+        "6100600105",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600106",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three pins on a FET?",
+        "Gate, source, drain",
+        "6100600108",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600107",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are the Gate, Source, and Drain pins found?",
+        "On a FET",
+        "6100600107",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600108",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two basic types of FET",
+        "N-Channel and P-Channel",
+        "6100600110",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600109",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "N-Channel and P-Channel are two types of what?",
+        "FET",
+        "6100600109",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600110",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Electron conduction in a MOSFET occurs in what channel type?",
+        "N-channel",
+        "6100600112",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600111",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of conduction occurs in N-Channel MOSFETS?",
+        "Electron conduction",
+        "6100600111",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600112",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Hole conduction in MOSFETs occurs in what channel type?",
+        "P-Channel",
+        "6100600114",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600113",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of conduction in MOSFETs occurs in P-Channel?",
+        "Hole conduction",
+        "6100600113",
+        "Section 2.13"
+      ],
+      "flags": 0,
+      "guid": "6100600114",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three terminals of a silicon controlled rectifier?",
+        "Anode, Cathode, and Gate",
+        "6100600116",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600115",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where do the Anode, Cathode, and Gate pins occur?",
+        "Silicon Controlled Rectifier",
+        "6100600115",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600116",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are two stable operating conditions for an SCR?",
+        "Conducting and non-conducting",
+        "6100600118",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600117",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Conducting and non-conducting are two stable states of what?",
+        "Silicon Controlled Rectifier",
+        "6100600117",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600118",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When an SCR is triggered, to what other semiconductor diode are its electrical characteristics similar?",
+        "Junction diode",
+        "6100600120",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600119",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device is similar to a junction diode when triggered?",
+        "SCR",
+        "6100600119",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600120",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the layers in an SCR",
+        "PNPN",
+        "6100600122",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600121",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device has the layers PNPN?",
+        "SCR",
+        "6100600121",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600122",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When does an SCR exhibit electrical characteristics similar to a forward-biased silicon rectifier?",
+        "When the gate is on.",
+        "6100600124",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600123",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When the gate of an SCR is On, what is it characteristicly similar to?",
+        "forward-biased silicon rectifier",
+        "6100600123",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600124",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "To what family does the SCR belong?",
+        "Thyristors",
+        "6100600126",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600125",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a member of the Thyristor family?",
+        "SCR",
+        "6100600125",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600126",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When is an SCR commonly used?",
+        "Power supply crowbar circuit",
+        "6100600128",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600127",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is commonly used in a power supply crowbar circuit?",
+        "SCR",
+        "6100600127",
+        "Section 2.14"
+      ],
+      "flags": 0,
+      "guid": "6100600128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter2"
       ]
     }
   ]
