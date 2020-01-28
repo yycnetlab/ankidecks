@@ -35,8 +35,9 @@ def parse_file(file)
   json_contents
 end
 
+#Deep copy is unnecessary
 def get_last_guid(file_json)
-  file_json['notes'].last['guid']
+  file_json['notes'].last['guid'].dup
 end
 
 # Trim the prefix off of the last GUID, increment, then prepend a new prefix.
