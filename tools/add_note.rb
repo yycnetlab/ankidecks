@@ -5,7 +5,7 @@ options = {
     config: 'config.json'
 }
 OptionParser.new do |opts|
-  opts.banner = "Usage: validate.rb [options]"
+  opts.banner = "Usage: add_note.rb [options]"
 
   opts.on("-f", "--file [FILE]", "File to modify") do |v|
     options[:file] = v
