@@ -158,7 +158,7 @@
       "guid": "6100600000",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter2"
+        "Chapter3"
       ]
     },
     {
@@ -2207,6 +2207,102 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For a given transformer secondary voltage, what rectifier has the highest averate output voltage",
+        "Bridge rectifier",
+        "6100600130",
+        "Section 3.7"
+      ],
+      "flags": 0,
+      "guid": "6100600129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of a bridge rectifier?",
+        "Highest average output voltage for a given transformer secondary voltage.",
+        "6100600129",
+        "Section 3.7"
+      ],
+      "flags": 0,
+      "guid": "6100600130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For a half-wave rectifier what is the worst cast PIV in terms of RMS?",
+        "2.8 times RMS",
+        "6100600132",
+        "Section 3.5"
+      ],
+      "flags": 0,
+      "guid": "6100600131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Explain why the PIV can be 2.8 times RMS in a half-wave rectifier",
+        "Because the delta-V between the positive cycle and negative cycle compound",
+        "6100600131",
+        "Section 3.5"
+      ],
+      "flags": 0,
+      "guid": "6100600132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the PIV of a full-wave center-tap power supply in terms of RMS?",
+        "2.8 times RMS",
+        "6100600134",
+        "Section 3.6"
+      ],
+      "flags": 0,
+      "guid": "6100600133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Explain why the PIV of a full-wave center-tap power supply is 2.8 times RMS.",
+        "The center provides the reference and the delta-V from the ends of the secondary coil can be negative.",
+        "6100600133",
+        "Section 3.6"
+      ],
+      "flags": 0,
+      "guid": "6100600134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
       ]
     }
   ]
