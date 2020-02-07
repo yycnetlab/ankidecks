@@ -147,7 +147,7 @@ BaseJSON=textwrap.dedent("""\
                   "sticky": false
                 }
               ],
-              "latexPost": "\\end{document}",
+              "latexPost": "\\\\end{document}",
               "latexPre": "\\\\documentclass[12pt]{article}\\n\\\\special{papersize=3in,5in}\\n\\\\usepackage[utf8]{inputenc}\\n\\\\usepackage{amssymb,amsmath}\\n\\\\pagestyle{empty}\\n\\\\setlength{\\\\parindent}{0in}\\n\\\\begin{document}\\n",
               "name": "Basic",
               "req": [

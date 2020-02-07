@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "a1836540-b445-4c2c-a6aa-7ab451b35bd2",
-    "deck_config_uuid": "a1836540-b445-4c2c-a6aa-7ab451b35bd2",
+    "crowdanki_uuid": "861d869b-6c94-4ce1-be69-986049128291",
+    "deck_config_uuid": "861d869b-6c94-4ce1-be69-986049128291",
     "deck_configurations": [
       {
         "__type__": "DeckConfig",
         "autoplay": true,
-        "crowdanki_uuid": "a1836540-b445-4c2c-a6aa-7ab451b35bd2",
+        "crowdanki_uuid": "861d869b-6c94-4ce1-be69-986049128291",
         "dyn": false,
         "lapse": {
           "delays": [
@@ -107,7 +107,7 @@
           "sticky": false
         }
       ],
-      "latexPost": "\end{document}",
+      "latexPost": "\\end{document}",
       "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
       "name": "Basic",
       "req": [
