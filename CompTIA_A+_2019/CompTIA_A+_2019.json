@@ -10240,6 +10240,5830 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'POST' stand for?",
+        "Power On Self Test",
+        "8790700632",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700631",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Power On Self Test'?",
+        "POST",
+        "8790700631",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700632",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UPS' stand for?",
+        "Uninterruptible Power Supply",
+        "8790700634",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700633",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Uninterruptible Power Supply'?",
+        "UPS",
+        "8790700633",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700634",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SPS' stand for?",
+        "Standby Power Supply",
+        "8790700636",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700635",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Standby Power Supply'?",
+        "SPS",
+        "8790700635",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700636",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'RAID' stand for?",
+        "Redundant Arrays of Independent Disks",
+        "8790700638",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700637",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Redundant Arrays of Independent Disks'?",
+        "RAID",
+        "8790700637",
+        "NetAcad ITEv7 Section 3.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700638",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a POST do?",
+        "Perform a check that the computer hardware is working correctly",
+        "8790700640",
+        "NetAcad ITEv7 Section 3.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700639",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What process performs a check that the computer hardware is working correctly?",
+        "POST",
+        "8790700639",
+        "NetAcad ITEv7 Section 3.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700640",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do motherboards report a POST failure?",
+        "Message on screen, beep codes, and/or error LEDs",
+        "8790700642",
+        "NetAcad ITEv7 Section 3.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700641",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Messages on a screen, beep codes, and error LEDs are how motherboards report what?",
+        "POST failures",
+        "8790700641",
+        "NetAcad ITEv7 Section 3.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700642",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CMOS' stand for?",
+        "Complementary Metal Oxide Semiconductor",
+        "8790700644",
+        "NetAcad ITEv7 Section 3.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700643",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Complementary Metal Oxide Semiconductor'?",
+        "CMOS",
+        "8790700643",
+        "NetAcad ITEv7 Section 3.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700644",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the BIOS identify?",
+        "Available and bootable drives, memory, PCI, SATA, and USB configuration, and motherboard power management features",
+        "8790700646",
+        "NetAcad ITEv7 Section 3.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700645",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Available and bootable drives, memory, PCI, SATA, and USB configuration, and motherboard power management features are identified by what?",
+        "The BIOS",
+        "8790700645",
+        "NetAcad ITEv7 Section 3.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700646",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where does the motherboard save the BIOS settings?",
+        "The CMOS memory chip",
+        "8790700648",
+        "NetAcad ITEv7 Section 3.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700647",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the CMOS memory chip store?",
+        "Configured BIOS settings",
+        "8790700647",
+        "NetAcad ITEv7 Section 3.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700648",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can UEFI do that BIOS can't?",
+        "Provide a mouse-based interface, run on 64-bit systems, support large boot drives, and support secure boot",
+        "8790700650",
+        "NetAcad ITEv7 Section 3.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700649",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Does UEFI or BIOS provide a mouse-based interface, run on 64-bit systems, support large boot drives, and support secure boot?",
+        "UEFI",
+        "8790700649",
+        "NetAcad ITEv7 Section 3.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700650",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "BIOSes and UEFIs come with many security features. What are they?",
+        "Passwords, access levels, drive encryption, LoJack, TPM, and secure boot",
+        "8790700652",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700651",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Passwords, access levels, drive encryption, LoJack, TPM, and secure boot are all parts of what?",
+        "BIOS and UEFI security",
+        "8790700651",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700652",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'TPM' stand for?",
+        "Trusted Platform Module",
+        "8790700654",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700653",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Trusted Platform Module'?",
+        "TPM",
+        "8790700653",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700654",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What access levels are available with BIOS/UEFI passwords?",
+        "Full access, limited access, view-only access, and no access",
+        "8790700656",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700655",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Full access, limited access, view-only access, and no access are what?",
+        "The levels of BIOS/UEFI access",
+        "8790700655",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700656",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does drive encryption do?",
+        "Fully encrypts the hard drive so that the data cannot be read and the computer cannot be booted without a correct password",
+        "8790700658",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700657",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which security feature fully encrypts the hard drive so that the data cannot be read and the computer cannot be booted without a correct password?",
+        "Drive encryption",
+        "8790700657",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700658",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is LoJack?",
+        "A security feature that regularly reports device information and location to a remote server",
+        "8790700660",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700659",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What security feature regularly reports device information and location to a remote server?",
+        "LoJack",
+        "8790700659",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700660",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the TPM do?",
+        "Securely store encryption keys, digital certificates, passwords, and data. It is also involved in some drive encryption schemes",
+        "8790700662",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700661",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What security feature stores encryption keys, digital certificates, passwords, and data?",
+        "The TPM",
+        "8790700661",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700662",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Secure Boot do?",
+        "UEFI standard that ensures only an OS trusted and authorized by the motherboard manufacturer can boot, preventing rootkits",
+        "8790700664",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700663",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What security feature ensures only an OS trusted and authorized by the motherboard manufacturer can boot?",
+        "Secure Boot",
+        "8790700663",
+        "NetAcad ITEv7 Section 3.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700664",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How were early BIOS upgrades performed?",
+        "By physically replacing the ROM chip",
+        "8790700666",
+        "NetAcad ITEv7 Section 3.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700665",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In early motherboards, a ROM chip needed to be physically replaced in order to perform what process?",
+        "A BIOS upgrade",
+        "8790700665",
+        "NetAcad ITEv7 Section 3.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700666",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can occur if a BIOS upgrade fails or is aborted?",
+        "The system can become unusable",
+        "8790700668",
+        "NetAcad ITEv7 Section 3.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700667",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The system can become unusable if what type of upgrade fails or is aborted?",
+        "A BIOS upgrade",
+        "8790700667",
+        "NetAcad ITEv7 Section 3.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700668",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'flashing the BIOS' refer to",
+        "Rewriting the firmware on the EEPROM UEFI chip via software",
+        "8790700670",
+        "NetAcad ITEv7 Section 3.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700669",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Rewriting the firmware on the EEPROM UEFI chip via software is referred to by what name?",
+        "Flashing the BIOS",
+        "8790700669",
+        "NetAcad ITEv7 Section 3.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700670",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Ohm's law?",
+        "Voltage equals current multiplied by resistance",
+        "8790700672",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700671",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Voltage equals current multiplied by resistance is what law?",
+        "Ohm's law",
+        "8790700671",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700672",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the power law?",
+        "Power equals current multiplied by voltage",
+        "8790700674",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700673",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Power equals current multiplied by voltage is what law?",
+        "Power law",
+        "8790700673",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700674",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What unit is voltage measured in?",
+        "Volts",
+        "8790700676",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700675",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measurement is measured in volts?",
+        "Voltage",
+        "8790700675",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700676",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the measurement of voltage describe?",
+        "The amount of work required to move a charge from one location to another",
+        "8790700678",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700677",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The amount of work required to move a charge from one location to another is described by what measurement?",
+        "Voltage",
+        "8790700677",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700678",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What unit is resistance measured in?",
+        "Ohms",
+        "8790700680",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700679",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measurement is measured in Ohms?",
+        "Resistance",
+        "8790700679",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700680",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the measurement of resistance describe?",
+        "The opposition to the flow of current in a circuit",
+        "8790700682",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700681",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The opposition to the flow of current in a circuit is described by what measurement?",
+        "Resistance",
+        "8790700681",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700682",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What unit is the measurement of current measured in?",
+        "Amperes",
+        "8790700684",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700683",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measurement is measured in amperes?",
+        "Current",
+        "8790700683",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700684",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the measurement of current describe?",
+        "The amount of electrons moving through a circuit per second",
+        "8790700686",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700685",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The amount of electrons moving through a circuit per second is measured with which measurement?",
+        "Current",
+        "8790700685",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700686",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What unit is the measurement of power measured in?",
+        "Watts",
+        "8790700688",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700687",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measurement is measured in watts?",
+        "Power",
+        "8790700687",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700688",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the measurement of power describe?",
+        "The work required to move electrons through a circuit (voltage) times the number of electrons flowing through per second (current)",
+        "8790700690",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700689",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The work required to move electrons through a circuit (voltage) times the number of electrons flowing through per second (current) is measured by what measurement?",
+        "Power",
+        "8790700689",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700690",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent voltage?",
+        "V",
+        "8790700692",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700691",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'V' is used to represent what electrical measurement?",
+        "Voltage",
+        "8790700691",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700692",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent resistance?",
+        "R",
+        "8790700694",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700693",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'R' is used to represent what electrical measurement?",
+        "Resistance",
+        "8790700693",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700694",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent current?",
+        "I",
+        "8790700696",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700695",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'I' is used to represent what electrical measurement?",
+        "Current",
+        "8790700695",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700696",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent power?",
+        "P",
+        "8790700698",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700697",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'P' is used to represent what electrical measurement?",
+        "Power",
+        "8790700697",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700698",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent the unit of volts?",
+        "V",
+        "8790700700",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700699",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'V' is used to represent which electrical unit?",
+        "Volts",
+        "8790700699",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700700",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent the unit of ohms?",
+        "Ω",
+        "8790700702",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700701",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'Ω' is used to represent which electrical unit?",
+        "Ohms",
+        "8790700701",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700702",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent the unit of amperes?",
+        "A",
+        "8790700704",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700703",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'A' is used to represent which electrical unit?",
+        "Amperes",
+        "8790700703",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700704",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What symbol is used to represent the unit of watts?",
+        "W",
+        "8790700706",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700705",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The symbol 'W' is used to represent which electrical unit?",
+        "Watts",
+        "8790700705",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700706",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What electrical unit are computer power supplies rated in?",
+        "Watts",
+        "8790700708",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700707",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Watts are the units used to rate what component?",
+        "Power supplies",
+        "8790700707",
+        "NetAcad ITEv7 Section 3.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700708",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What voltages can be selected between on a dual-voltage power supply?",
+        "110V and 220V",
+        "8790700710",
+        "NetAcad ITEv7 Section 3.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700709",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "110V and 220V are able to be selected between on what type of power supply?",
+        "Dual-voltage",
+        "8790700709",
+        "NetAcad ITEv7 Section 3.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700710",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for unsteady voltages?",
+        "Power fluctuation",
+        "8790700712",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700711",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'power fluctuation' refer to?",
+        "Unsteady voltages",
+        "8790700711",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700712",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a blackout?",
+        "Complete loss of power",
+        "8790700714",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700713",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a complete loss of power referred to as?",
+        "A blackout",
+        "8790700713",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700714",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a brownout?",
+        "A voltage drop below 80% of normal",
+        "8790700716",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700715",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a voltage drop below 80% of normal referred to as?",
+        "A brownout",
+        "8790700715",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700716",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is electrical noise?",
+        "Electrical interference from generators and lightning resulting in poor quality power",
+        "8790700718",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700717",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is electrical interference from generators and lightning resulting in poor quality power referred to as?",
+        "Noise",
+        "8790700717",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700718",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a power spike?",
+        "A sudden increase in voltage for a short time that exceeds 100% of normal",
+        "8790700720",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700719",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a sudden increase in voltage for a short time that exceeds 100% of normal referred to as?",
+        "A power spike",
+        "8790700719",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700720",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a power surge?",
+        "A dramatic increase in voltage above normal for only a few nanoseconds",
+        "8790700722",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700721",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a dramatic increase in voltage above normal for only a few nanoseconds referred to as?",
+        "A power surge",
+        "8790700721",
+        "NetAcad ITEv7 Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790700722",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a surge protector do?",
+        "Diverts excess voltage to ground until its maximum joule rating is reached",
+        "8790700724",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700723",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of power protection device diverts excess voltage to ground until its maximum joule rating is reached?",
+        "A surge protector",
+        "8790700723",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700724",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a UPS do?",
+        "Supply a consistent level of power by passing incoming power through a battery backup",
+        "8790700726",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700725",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of power protection device supplies a consistent level of power by passing incoming power through a battery backup?",
+        "A UPS",
+        "8790700725",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700726",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an SPS do?",
+        "Monitor incoming electrical current and quickly switch to a battery backup if voltage drops",
+        "8790700728",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700727",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of power protection device monitors incoming electrical current and quickly switch to a battery backup if voltage drops?",
+        "An SPS",
+        "8790700727",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700728",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of power protection device is the most reliable?",
+        "A UPS",
+        "8790700730",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700729",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A UPS is the most ____ type of power protection device",
+        "Reliable",
+        "8790700729",
+        "NetAcad ITEv7 Section 3.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700730",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two common instruction set architecture designs?",
+        "RISC and CISC",
+        "8790700732",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700731",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "RISC and CISC are what?",
+        "The two common instruction set architecture designs",
+        "8790700731",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700732",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does RISC stand for?",
+        "Reduced Instruction Set Computer",
+        "8790700734",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700733",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Reduced Instruction Set Computer'?",
+        "RISC",
+        "8790700733",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700734",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CISC' stand for?",
+        "Complete Instruction Set Computer",
+        "8790700736",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700735",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Complete Instruction Set Computer'?",
+        "CISC",
+        "8790700735",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700736",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some well-known RISC CPUs?",
+        "PowerPC and ARM",
+        "8790700738",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700737",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "PowerPC and ARM are examples of what architecture?",
+        "RISC CPUs",
+        "8790700737",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700738",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some well-known CISC CPUs?",
+        "x86 and Motorola 68k",
+        "8790700740",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700739",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "x86 and Motorola 68k are examples of what architecture?",
+        "CISC CPUs",
+        "8790700739",
+        "NetAcad ITEv7 Section 3.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700740",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Hyper Threading?",
+        "Allows CPU cores to utilize their maximum potential by processing multiple instructions simultaneously",
+        "8790700742",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700741",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Intel technology allows CPU cores to utilize their maximum potential by processing multiple instructions simultaneously?",
+        "Hyper Threading",
+        "8790700741",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700742",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is AMD HyperTransport?",
+        "An exceptionally high-speed connection between the CPU and the northbridge",
+        "8790700744",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700743",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which AMD technology is an exceptionally high-speed connection between the CPU and the northbridge?",
+        "HyperTransport",
+        "8790700743",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700744",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is overclocking?",
+        "A technique to make a processor run at a higher speed than its original specification",
+        "8790700746",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700745",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a technique to make a processor run at a higher speed than its original specification?",
+        "Overclocking",
+        "8790700745",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700746",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the opposite of overclocking?",
+        "Throttling / underclocking",
+        "8790700748",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700747",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is throttling / underclocking?",
+        "The opposite of overclocking",
+        "8790700747",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700748",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can a poorly-applied overclock cause?",
+        "Damage to the CPU",
+        "8790700750",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700749",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technique, when poorly applied, can damage a CPU?",
+        "Overclocking",
+        "8790700749",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700750",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is underclocking used?",
+        "It may be used to conserve power or reduce heat output",
+        "8790700752",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700751",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technique may be used on a processor to conserve power or reduce heat output?",
+        "Underclocking",
+        "8790700751",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700752",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is CPU virtualization?",
+        "Allows a single processor to act as multiple processors, allowing the operating system to virtualize more efficiently",
+        "8790700754",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700753",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What common CPU feature allows a single processor to act as multiple processors, allowing the operating system to virtualize more efficiently?",
+        "CPU virtualization",
+        "8790700753",
+        "NetAcad ITEv7 Section 3.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700754",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the advantage of multicore processors over multiple single-core processors?",
+        "They are more power efficient and thus produce less heat",
+        "8790700756",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700755",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Are multicore or single core processors more efficient?",
+        "Multicore",
+        "8790700755",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700756",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IGPU' stand for?",
+        "Integrated graphics processing unit",
+        "8790700758",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700757",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an Integrated graphics processing unit?",
+        "IGPU",
+        "8790700757",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700758",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an IGPU?",
+        "A GPU embedded within the CPU and is dependent on system RAM",
+        "8790700760",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700759",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for a GPU embedded within the CPU and dependent on system RAM?",
+        "An IGPU",
+        "8790700759",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700760",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of an IGPU over a dedicated GPU?",
+        "Less cost and heat generation",
+        "8790700762",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700761",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of GPU costs less and produces less heat than a dedicated GPU?",
+        "An IGPU",
+        "8790700761",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700762",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the NX bit?",
+        "A security feature that can allow an operating system to protect itself within memory from malware",
+        "8790700764",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700763",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What processor security feature can allow an operating system to protect itself within memory from malware?",
+        "The NX bit",
+        "8790700763",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700764",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for the NX bit?",
+        "The execute disable bit",
+        "8790700766",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700765",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for the execute disable bit?",
+        "The NX bit",
+        "8790700765",
+        "NetAcad ITEv7 Section 3.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790700766",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a case fan?",
+        "Create airflow to intake cold air and remove hot air from the case",
+        "8790700768",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700767",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What cooling system creates airflow to intake cold air and remove hot air from the case?",
+        "Case fans",
+        "8790700767",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700768",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a CPU heat sink?",
+        "Draw heat away from the CPU and dissipate it to the air inside the case",
+        "8790700770",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700769",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What cooling mechanism draws heat away from the CPU and dissipates it to the air inside the case?",
+        "A CPU heat sink",
+        "8790700769",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700770",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a CPU fan?",
+        "A CPU fan pushes air through the fins of a CPU heat sink to draw heat away",
+        "8790700772",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700771",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of cooling system pushes air through the fins of a CPU heat sink to draw heat away?",
+        "A CPU fan",
+        "8790700771",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700772",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GPU' stand for?",
+        "Graphics Processing Unit",
+        "8790700774",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700773",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Graphics Processing Unit'?",
+        "GPU",
+        "8790700773",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700774",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does liquid cooling work?",
+        "Water is pumped over a metal plate in contact with the processor to pick up heat, then pumped to a radiator to disperse it",
+        "8790700776",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700775",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what cooling system is water pumped over a metal plate in contact with the processor to pick up heat, then pumped to a radiator to disperse it?",
+        "Liquid cooling",
+        "8790700775",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700776",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do heat pipes work?",
+        "Heat pipes are factory-sealed pipes that contain liquid and transfer heat through a cycle of evaporation and condensation inside the pipe",
+        "8790700778",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700777",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of cooling system is made up of factory-sealed pipes that contain liquid and transfer heat through a cycle of evaporation and condensation inside the pipe?",
+        "Heat pipes",
+        "8790700777",
+        "NetAcad ITEv7 Section 3.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700778",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a RAID array?",
+        "A number of storage devices grouped into a single large volume, usually with redundancy",
+        "8790700780",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700779",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for a number of storage devices grouped into a single large volume, usually with redundancy?",
+        "A RAID array",
+        "8790700779",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700780",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What reasons might one want to create a RAID array?",
+        "Availability, reliability, capacity, redundancy, and/or performance improvement",
+        "8790700782",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700781",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Availability, reliability, capacity, redundancy, and performance improvement are potential reasons to build what?",
+        "A RAID array",
+        "8790700781",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700782",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is striped RAID?",
+        "Striped RAID allows data to be distributed across multiple drives, increasing performance at the risk of data being lost on all drives if one drive fails",
+        "8790700784",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700783",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of RAID behaviour allows data to be distributed across multiple drives, increasing performance at the risk of data being lost on all drives if one drive fails?",
+        "Striped RAID",
+        "8790700783",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700784",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is mirrored RAID?",
+        "Mirroring allows data to be duplicated exactly across drives so that no data is lost if a drive fails",
+        "8790700786",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700785",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of RAID behaviour allows data to be duplicated exactly across drives so that no data is lost if a drive fails?",
+        "Mirrored RAID",
+        "8790700785",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700786",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is parity RAID?",
+        "Parity provides error checking and fault tolerance by storing checksums separately from data, enabling the reconstruction of lost data in the event of a drive failure without sacrificing as much speed or capacity as with mirroring",
+        "8790700788",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700787",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of RAID behaviour provides error checking and fault tolerance by storing checksums separately from data, enabling the reconstruction of lost data in the event of a drive failure without sacrificing as much speed or capacity as with mirroring?",
+        "Parity RAID",
+        "8790700787",
+        "NetAcad ITEv7 Section 3.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790700788",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the common standard levels of RAID?",
+        "0, 1, 5, 6, and 10 (1+0)",
+        "8790700790",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700789",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "0, 1, 5, 6, and 10 (1+0) are what?",
+        "The common standard levels of RAID",
+        "8790700789",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700790",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the minimum number of drives for RAID 0 and 1?",
+        "2 drives",
+        "8790700792",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700791",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "2 drives are the minimum number of drives for which common RAID levels?",
+        "0 and 1",
+        "8790700791",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700792",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the minimum number of drives for RAID 5 and 6?",
+        "3 drives",
+        "8790700794",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700793",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "3 drives are the minimum number of drives for which common RAID levels?",
+        "5 and 6",
+        "8790700793",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700794",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the minimum number of drives for RAID 10?",
+        "4 drives",
+        "8790700796",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700795",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "4 drives is the minimum number of drives for which common RAID level?",
+        "10",
+        "8790700795",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700796",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What RAID behaviour does RAID 0 provide?",
+        "Striping",
+        "8790700798",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700797",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which common RAID level provides only striping?",
+        "RAID 0",
+        "8790700797",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700798",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What RAID behaviour does RAID 1 provide?",
+        "Mirroring",
+        "8790700800",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700799",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which common RAID level provides only mirroring?",
+        "RAID 1",
+        "8790700799",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700800",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What RAID behaviour does RAID 5 provide?",
+        "Striping and parity",
+        "8790700802",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700801",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which common RAID level provides both striping and parity?",
+        "RAID 5",
+        "8790700801",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700802",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What RAID behaviour does RAID 6 provide?",
+        "Striping and double parity",
+        "8790700804",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700803",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which common RAID level provides both striping and double parity?",
+        "RAID 6",
+        "8790700803",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700804",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What RAID behaviour does RAID 10 provide?",
+        "Mirroring and striping",
+        "8790700806",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700805",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which common RAID level provides both mirroring and striping?",
+        "RAID 10",
+        "8790700805",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700806",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of RAID 0?",
+        "Performance and capacity",
+        "8790700808",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700807",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the disadvantages of RAID 0?",
+        "All data is lost if one drive fails",
+        "8790700807",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700808",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of RAID 1?",
+        "Reliability and read speed",
+        "8790700810",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700809",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the disadvantages of RAID 1?",
+        "Capacity is only half of total drive space",
+        "8790700809",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700810",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of RAID 5?",
+        "Performance, reliability, and capacity",
+        "8790700812",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700811",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the disadvantages of RAID 5?",
+        "It takes time and stresses drives to rebuilt an array after a drive failure, which can lead to additional drive failures",
+        "8790700811",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700812",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of RAID 6?",
+        "Identical to RAID5, but can tolerate an additional drive failure",
+        "8790700814",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700813",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the disadvantages of RAID 6?",
+        "Identical to RAID 5",
+        "8790700813",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700814",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of RAID 10?",
+        "Performance and very high reliability",
+        "8790700816",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700815",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the disadvantages of RAID 10?",
+        "Capacity is only half of total drive space",
+        "8790700815",
+        "NetAcad ITEv7 Section 3.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790700816",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What were serial ports historically used for?",
+        "Connecting peripherals such as printers, scanners, and modems",
+        "8790700818",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700817",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of port was historically used for connecting peripherals such as printers, scanners, and modems?",
+        "Serial ports",
+        "8790700817",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700818",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are serial ports sometimes used for today?",
+        "Making console connections to perform initial configuration on networking equipment",
+        "8790700820",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700819",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What legacy port is still sometimes used for making console connections to perform initial configuration on networking equipment?",
+        "Serial ports",
+        "8790700819",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700820",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two form factors of serial ports?",
+        "9-pin DE-9 and 25-pin DB-25 ports",
+        "8790700822",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700821",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of port are the 9-pin DE-9 and 25-pin DB-25 ports?",
+        "Serial ports",
+        "8790700821",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700822",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins does a typical parallel port have?",
+        "25 pins",
+        "8790700824",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700823",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "25 pins is the number of pins found on a typical example of what kind of port?",
+        "Parallel port",
+        "8790700823",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700824",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What were parallel ports commonly used to connect?",
+        "Printers",
+        "8790700826",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700825",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of port was commonly used to connect printers?",
+        "Parallel ports",
+        "8790700825",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700826",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a common nickname for parallel ports?",
+        "Printer ports",
+        "8790700828",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700827",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "'Printer port' is a common nickname for which legacy port?",
+        "Parallel ports",
+        "8790700827",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700828",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins does a game port have?",
+        "15 pins",
+        "8790700830",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700829",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of legacy port has 15 pins?",
+        "Game ports",
+        "8790700829",
+        "NetAcad ITEv7 Section 3.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790700830",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What colour are VGA ports?",
+        "Blue",
+        "8790700832",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700831",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What legacy video connector almost always has a blue port?",
+        "VGA",
+        "8790700831",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700832",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'TMDS' stand for?",
+        "Transition Minimized Differential Signaling",
+        "8790700834",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700833",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Transition Minimized Differential Signaling'?",
+        "TMDS",
+        "8790700833",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700834",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many TMDS transmitters does a single-link DVI cable have?",
+        "One",
+        "8790700836",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700835",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of DVI cable has only one TMDS transmitter?",
+        "Single-link",
+        "8790700835",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700836",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many TMDS transmitters does a dual-link DVI cable have?",
+        "Two",
+        "8790700838",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700837",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of DVI cable has two TMDS transmitters?",
+        "Dual-link",
+        "8790700837",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700838",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "HDMI carries the same video information as DVI, but is also capable of what?",
+        "Carrying digital audio and control signals",
+        "8790700840",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700839",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of video connector carries the same video information as DVI while also being capable of carrying digital audio and control signals?",
+        "HDMI",
+        "8790700839",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700840",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are found on an HDMI connector?",
+        "19 pins",
+        "8790700842",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700841",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of video connector has 19 pins?",
+        "HDMI",
+        "8790700841",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700842",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are found on a DisplayPort connector?",
+        "20 pins",
+        "8790700844",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700843",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of video connector has 20 pins?",
+        "DisplayPort",
+        "8790700843",
+        "NetAcad ITEv7 Section 3.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790700844",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the maximum data transfer speed of a USB 1.0 cable?",
+        "12Mbps",
+        "8790700846",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700845",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generation of USB connector had a transfer speed of 12Mbps?",
+        "USB 1.0",
+        "8790700845",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700846",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the maximum data transfer speed of a USB 2.0 cable?",
+        "480Mbps",
+        "8790700848",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700847",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generation of USB connector had a maximum transfer speed of 480Mbps?",
+        "USB 2.0",
+        "8790700847",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700848",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the maximum data transfer speed of a USB 3.0 cable?",
+        "5Gbps",
+        "8790700850",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700849",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generation of USB connector had a maximum transfer speed of 5Gbps?",
+        "USB 3.0",
+        "8790700849",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700850",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the maximum data transfer speed of a USB 3.1 cable?",
+        "10Gbps",
+        "8790700852",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700851",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generation of USB connector had a maximum transfer speed of 10Gbps?",
+        "USB 3.1",
+        "8790700851",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700852",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the maximum data transfer speed of a USB 3.2 cable?",
+        "20Gbps",
+        "8790700854",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700853",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generation of USB connector had a maximum transfer speed of 20Gbps?",
+        "USB 3.2",
+        "8790700853",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700854",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the USB 3.0 specification renamed to in 2019?",
+        "USB 3.2 Gen 1",
+        "8790700856",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700855",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "USB 3.2 Gen 1 is the new name of which old USB specification?",
+        "USB 3.0",
+        "8790700855",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700856",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the USB 3.1 specification renamed to in 2019?",
+        "USB 3.2 Gen 2",
+        "8790700858",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700857",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "USB 3.2 Gen 2 is the new name of which old USB specification?",
+        "USB 3.1",
+        "8790700857",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700858",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the USB 3.2 specification renamed to in 2019?",
+        "USB 3.2 Gen 2x2",
+        "8790700860",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700859",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "USB 3.2 Gen 2x2 is the new name of which old USB specification?",
+        "USB 3.2",
+        "8790700859",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700860",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is USB Type A?",
+        "A keyed rectangular connector found on nearly every PC and laptop as well as many other devices. One of the most common connectors.",
+        "8790700862",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700861",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What USB connector can be described as a keyed rectangular connector found on nearly every PC and laptop as well as many other devices?",
+        "USB Type A",
+        "8790700861",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700862",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Mini-USB?",
+        "A small, keyed rectangular connector with indented sides used on some mobile devices. It was mostly phased out in favour of micro-USB",
+        "8790700864",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700863",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What USB connector can be described as a small, keyed rectangular connector with indented sides used on some mobile devices and which has been phased out in favour of Micro-USB?",
+        "Mini-USB",
+        "8790700863",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700864",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Micro-USB?",
+        "A tiny, keyed rectangular connector with beveled top corners in the process of being phased out in favour of USB Type-C",
+        "8790700866",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700865",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which USB connector can be described as a tiny, keyed rectangular connector with beveled top corners in the process of being phased out in favour of USB Type-C?",
+        "Micro-USB",
+        "8790700865",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700866",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is USB Type-B?",
+        "A keyed square connector with beveled top corners commonly used to connect printers and some external hard drives",
+        "8790700868",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700867",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What USB connector can be described as a keyed square connector with beveled top corners commonly used to connect printers and some external hard drives?",
+        "USB Type-B",
+        "8790700867",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700868",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is USB Type-C?",
+        "An unkeyed rectangular connector with rounded corners that is also used by the Thunderbolt standard which combines USB features with DisplayPort features",
+        "8790700870",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700869",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What USB connector can be described as unkeyed rectangular connector with rounded corners that is also used by the Thunderbolt standard which combines USB features with DisplayPort features?",
+        "USB Type-C",
+        "8790700869",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700870",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a Lightning connector?",
+        "A proprietary 8-pin connector used by Apple for the same functions as USB which is similar in appearance to the USB Type-C connector",
+        "8790700872",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700871",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which USB-like connector can be described as a proprietary 8-pin connector used by Apple for the same functions as USB which is similar in appearance to the USB Type-C connector?",
+        "Lightning",
+        "8790700871",
+        "NetAcad ITEv7 Section 3.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790700872",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum length of a SATA cable?",
+        "1 Metre",
+        "8790700874",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700873",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which internal data connector has a maximum length of 1 metre?",
+        "SATA",
+        "8790700873",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700874",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which common internal data connector has a 7-pin connector?",
+        "SATA",
+        "8790700876",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700875",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins does a SATA connector have?",
+        "7 pins",
+        "8790700875",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700876",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What shape is a SATA connector?",
+        "The cable is thin and flat, while the connector is rectangular with an L-shaped key",
+        "8790700878",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700877",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which connector type has a thin and flat cable, while the connector is rectangular with an L-shaped key?",
+        "SATA",
+        "8790700877",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700878",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an eSATA connector?",
+        "eSATA is a shielded SATA cable that uses a rectangular connector with plastic tabs for keying",
+        "8790700880",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700879",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of connector is a shielded SATA cable that uses a rectangular connector with plastic tabs for keying?",
+        "eSATA",
+        "8790700879",
+        "NetAcad ITEv7 Section 3.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790700880",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does 'Twisted Pair' cabling get its name?",
+        "Each pair of wires inside the cable are twisted together",
+        "8790700882",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700881",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Because each pair of wires inside the cable are twisted together, ethernet is a type of what?",
+        "Twisted pair cabling",
+        "8790700881",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700882",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why are cables in twisted pair cabling twisted?",
+        "The twisting helps to reduce crosstalk and electromagnetic induction",
+        "8790700884",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700883",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What part of the internal structure of an ethernet cable helps reduce crosstalk and electromagnetic induction?",
+        "Twisted pairs of wires",
+        "8790700883",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700884",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UTP' stand for in reference to cabling?",
+        "Unshielded Twisted Pair",
+        "8790700886",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700885",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Unshielded Twisted Pair'?",
+        "UTP",
+        "8790700885",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700886",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of connector is used for an ethernet cable?",
+        "An RJ-45 connector",
+        "8790700888",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700887",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network cable uses an RJ-45 connector?",
+        "Ethernet",
+        "8790700887",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700888",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'STP' stand for in reference to cabling?",
+        "Shielded Twisted Pair",
+        "8790700890",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700889",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Shielded Twisted Pair'?",
+        "STP",
+        "8790700889",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700890",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of connector is used for telephone networks?",
+        "RJ-11",
+        "8790700892",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700891",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the RJ-11 connector used for?",
+        "Telephone networks",
+        "8790700891",
+        "NetAcad ITEv7 Section 3.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790700892",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the construction of a coaxial cable?",
+        "A centre conductor is surrounded by a dielectric insulator, which is again surrounded by a foil shield outer conductor and encased in a PVC jacket",
+        "8790700894",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700893",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of cable is a centre conductor is surrounded by a dielectric insulator, which is again surrounded by a foil shield outer conductor and encased in a PVC jacket?",
+        "Coaxial cable",
+        "8790700893",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700894",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is RG-6 coax used for?",
+        "Heavy-gauge cable with insulation and shielding tuned for high-bandwidth, high-frequency applications like internet, and TV signals",
+        "8790700896",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700895",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of coax is a heavy-gauge cable with insulation and shielding tuned for high-bandwidth, high-frequency applications like internet, and TV signals?",
+        "RG-6 coax",
+        "8790700895",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700896",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of connector is common on RG-6 coax?",
+        "F-type",
+        "8790700898",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700897",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of coax commonly uses an F-type connector?",
+        "RG-6 coax",
+        "8790700897",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700898",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is RG-59?",
+        "A thinner cable than RG-6 with less shielding recommended for low-bandwidth usage",
+        "8790700900",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700899",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of coax is a thinner cable than RG-6 with less shielding recommended for low-bandwidth usage?",
+        "RG-59",
+        "8790700899",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700900",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of connector does RG-59 commonly use?",
+        "BNC",
+        "8790700902",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700901",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of coax commonly uses a BNC connector?",
+        "RG-59",
+        "8790700901",
+        "NetAcad ITEv7 Section 3.3.3.6"
+      ],
+      "flags": 0,
+      "guid": "8790700902",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a bus technology?",
+        "All devices connect to a central bus and are 'daisy chained' together",
+        "8790700904",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700903",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of connection technology are all devices connect to a central bus and 'daisy chained' together?",
+        "Bus technology",
+        "8790700903",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700904",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is SCSI?",
+        "A bus technology standard used for connecting peripheral and storage devices",
+        "8790700906",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700905",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What drive connection technology is a bus technology?",
+        "SCSI",
+        "8790700905",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700906",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are on external SCSI cables?",
+        "36 pins or 50 pins",
+        "8790700908",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700907",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of external data connector came in a 36-pin and 50-pin version?",
+        "External SCSI",
+        "8790700907",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700908",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are found on an internal SCSI cable?",
+        "50 pins",
+        "8790700910",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700909",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of internal data connector has 50 pins?",
+        "SCSI",
+        "8790700909",
+        "NetAcad ITEv7 Section 3.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790700910",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some characteristics look at when choosing a monitor?",
+        "Physical size, native resolution, refresh rate, and ports",
+        "8790700912",
+        "NetAcad ITEv7 Section 3.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790700911",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Physical size, native resolution, refresh rate, and ports are characteristics to look at when choosing what type of device?",
+        "Monitor",
+        "8790700911",
+        "NetAcad ITEv7 Section 3.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790700912",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is resolution?",
+        "A display's resolution is measured in the number of pixels that can fit on the display horizontally and vertically",
+        "8790700914",
+        "NetAcad ITEv7 Section 3.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790700913",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measurement is measured in the number of pixels that can fit on the display horizontally and vertically?",
+        "Resolution",
+        "8790700913",
+        "NetAcad ITEv7 Section 3.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790700914",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is screen size measured?",
+        "Diagonally from corner to opposite corner, typically in inches",
+        "8790700916",
+        "NetAcad ITEv7 Section 3.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790700915",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is measured diagonally from corner to opposite corner, typically in inches?",
+        "Screen size",
+        "8790700915",
+        "NetAcad ITEv7 Section 3.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790700916",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is pixel an abbreviation for?",
+        "Picture element",
+        "8790700918",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700917",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the abbreviation for 'picture element'?",
+        "Pixel",
+        "8790700917",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700918",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the typical subpixels of a pixel?",
+        "Red, green, and blue",
+        "8790700920",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700919",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Red, green, and blue are what in relation to pixels?",
+        "The common subpixels",
+        "8790700919",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700920",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is dot pitch?",
+        "The distance between pixels",
+        "8790700922",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700921",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The distance between pixels is referred to as what?",
+        "The dot pitch",
+        "8790700921",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700922",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is brightness?",
+        "The luminance of a monitor measured in candelas/m²",
+        "8790700924",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700923",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used for the measurement of the luminance of a monitor in candelas/m²?",
+        "Brightness",
+        "8790700923",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700924",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for cd/m²",
+        "Nits",
+        "8790700926",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700925",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for nits?",
+        "cd/²",
+        "8790700925",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700926",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is contrast ratio?",
+        "The measure of how white and how black a monitor can get",
+        "8790700928",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700927",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the measure of how white and how black a monitor can get?",
+        "Contrast ratio",
+        "8790700927",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700928",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is aspect ratio?",
+        "The ratio of horizontal to vertical pixels",
+        "8790700930",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700929",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the ratio of horizontal to vertical pixels?",
+        "Aspect ratio",
+        "8790700929",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700930",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a monitor's refresh rate?",
+        "A measure of how often the image on the screen is rebuilt",
+        "8790700932",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700931",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the measure of how often the image on the screen is rebuilt?",
+        "Refresh rate",
+        "8790700931",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700932",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What unit is refresh rate measured in?",
+        "Hz (hertz)",
+        "8790700934",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700933",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What monitor characteristic is measured in Hz (hertz)?",
+        "Refresh rate",
+        "8790700933",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700934",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a monitor's response time?",
+        "Amount of time it takes for a pixel to change colour or brightness after a command to do so is received",
+        "8790700936",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700935",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measure is measured by the amount of time it takes for a pixel to change colour or brightness after a command to do so is received?",
+        "Response time",
+        "8790700935",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700936",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an interlaced monitor?",
+        "An interlaced monitor updates only half of the image on each refresh, scanning even or odd lines",
+        "8790700938",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700937",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of monitor updates only half of the image on each refresh, scanning even or odd lines?",
+        "Interlaced monitor",
+        "8790700937",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700938",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a progressive monitor?",
+        "A progressive monitor updates the entire image on each refresh",
+        "8790700940",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700939",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of monitor updates the entire image on each refresh?",
+        "A progressive monitor",
+        "8790700939",
+        "NetAcad ITEv7 Section 3.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790700940",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CGA' stand for in relation to resolution?",
+        "Colour Graphics Adapter",
+        "8790700942",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700941",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Colour Graphics Adapter'?",
+        "CGA",
+        "8790700941",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700942",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VGA' stand for in relation to resolution?",
+        "Video Graphics Array",
+        "8790700944",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700943",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Video Graphics Array'?",
+        "VGA",
+        "8790700943",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700944",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SVGA' stand for in relation to resolution?",
+        "Super Video Graphics Array",
+        "8790700946",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700945",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Super Video Graphics Array'?",
+        "SVGA",
+        "8790700945",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700946",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'HD' stand for in relation to resolution?",
+        "High Definition",
+        "8790700948",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700947",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'High Definition'?",
+        "HD",
+        "8790700947",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700948",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'FHD' stand for in relation to resolution?",
+        "Full High Definition",
+        "8790700950",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700949",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Full High Definition'?",
+        "FHD",
+        "8790700949",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700950",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'QHD' stand for in relation to resolution?",
+        "Quad High Definition",
+        "8790700952",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700951",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Quad High Definition'?",
+        "QHD",
+        "8790700951",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700952",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UHD' stand for in relation to resolution?",
+        "Ultra High Definition",
+        "8790700954",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700953",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Ultra High Definition'?",
+        "UHD",
+        "8790700953",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700954",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of CGA?",
+        "320x200 and 16:10",
+        "8790700956",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700955",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 320x200 and an aspect ratio of 16:10?",
+        "CGA",
+        "8790700955",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700956",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of VGA?",
+        "640x480 and 4:3",
+        "8790700958",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700957",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 640x480 and an aspect ratio of 4:3?",
+        "VGA",
+        "8790700957",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700958",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of SVGA?",
+        "800x600 and 4:3",
+        "8790700960",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700959",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 800x600 and an aspect ratio of 4:3?",
+        "SVGA",
+        "8790700959",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700960",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of HD?",
+        "1280x720 and 16:9",
+        "8790700962",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700961",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 1280x720 and an aspect ratio of 16:9?",
+        "HD",
+        "8790700961",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700962",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of FHD?",
+        "1920x1080 and 16:9",
+        "8790700964",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700963",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 1920x1080 and an aspect ratio of 16:9?",
+        "FHD",
+        "8790700963",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700964",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of QHD?",
+        "2560x1440 and 16:9",
+        "8790700966",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700965",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 2560x1440 and an aspect ratio of 16:9?",
+        "QHD",
+        "8790700965",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700966",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the resolution and aspect ratio of UHD?",
+        "3840x2160 and 16:9",
+        "8790700968",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700967",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What display standard had a resolution of 3840x2160 and an aspect ratio of 16:9?",
+        "UHD",
+        "8790700967",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700968",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for HD resolution?",
+        "720p",
+        "8790700970",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700969",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for 720p?",
+        "HD",
+        "8790700969",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700970",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for FHD resolution?",
+        "1080p",
+        "8790700972",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700971",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for 1080p?",
+        "FHD",
+        "8790700971",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700972",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for QHD resolution?",
+        "1440p",
+        "8790700974",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700973",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for 1440p?",
+        "QHD",
+        "8790700973",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700974",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for UHD resolution?",
+        "4K",
+        "8790700976",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700975",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for 4K?",
+        "UHD",
+        "8790700975",
+        "NetAcad ITEv7 Section 3.3.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790700976",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'thick' or 'fat' client?",
+        "A standard standalone PC",
+        "8790700978",
+        "NetAcad ITEv7 Section 3.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790700977",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term used to refer to standard standalone PCs in relation to network computers?",
+        "Thick clients",
+        "8790700977",
+        "NetAcad ITEv7 Section 3.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790700978",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'thin' client?",
+        "A lightweight machine that relies on a remote server to perform all processing",
+        "8790700980",
+        "NetAcad ITEv7 Section 3.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790700979",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used for a lightweight machine that relies on a remote server to perform all processing?",
+        "Thin client",
+        "8790700979",
+        "NetAcad ITEv7 Section 3.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790700980",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NAS' stand for?",
+        "Network Attached Storage",
+        "8790700982",
+        "NetAcad ITEv7 Section 3.4.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790700981",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Network Attached Storage'?",
+        "NAS",
+        "8790700981",
+        "NetAcad ITEv7 Section 3.4.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790700982",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a NAS?",
+        "A specialized computer intended for storing files that are accessible over the local network",
+        "8790700984",
+        "NetAcad ITEv7 Section 3.4.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790700983",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a specialized computer intended for storing files that are accessible over the local network?",
+        "A NAS",
+        "8790700983",
+        "NetAcad ITEv7 Section 3.4.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790700984",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SDS' stand for in relation to chemical safety?",
+        "Safety Data Sheet",
+        "8790700986",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700985",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Safety Data Sheet'",
+        "SDS",
+        "8790700985",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700986",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MSDS' stand for in relation to chemical safety?",
+        "Material Safety and Data Sheet",
+        "8790700988",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700987",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Material Safety and Data Sheet'",
+        "MSDS",
+        "8790700987",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700988",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an SDS contain?",
+        "Summary of material identification, hazards, first-aid requirements, reactivity, safe handling and storage, and spill and disposal procedures",
+        "8790700990",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700989",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What contains a summary of material identification, hazards, first-aid requirements, reactivity, safe handling and storage, and spill and disposal procedures?",
+        "An SDS",
+        "8790700989",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700990",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What EU regulation can be referenced for materials disposal?",
+        "REACH",
+        "8790700992",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700991",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the EU regulation 'REACH' for?",
+        "Materials disposal regulation",
+        "8790700991",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700992",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the EU regulation 'REACH' stand for?",
+        "Registration, Evaluation, Authorization and restriction of Chemicals",
+        "8790700994",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700993",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Registration, Evaluation, Authorization and restriction of Chemicals' EU regulation?",
+        "REACH",
+        "8790700993",
+        "NetAcad ITEv7 Section 3.5.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700994",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
