@@ -16064,6 +16064,486 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Maintenance plans should be based on at least what two factors?",
+        "Usage patterns and environment",
+        "8790700996",
+        "NetAcad ITEv7 Section 4.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700995",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Usage patterns and environment are considerations for developing what?",
+        "A maintenance plan",
+        "8790700995",
+        "NetAcad ITEv7 Section 4.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790700996",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does dust buildup affect computers?",
+        "Dust buildup restricts airflow, limiting cooling, and thus increasing failure rates",
+        "8790700998",
+        "NetAcad ITEv7 Section 4.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700997",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The buildup of what restricts airflow, limiting cooling, and thus increasing failure rates?",
+        "Dust",
+        "8790700997",
+        "NetAcad ITEv7 Section 4.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790700998",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the optional humidity for most computers?",
+        "Between 10% and 80%",
+        "8790701000",
+        "NetAcad ITEv7 Section 4.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790700999",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Between 10% and 80% is the optimal what for most computers?",
+        "Humidity",
+        "8790700999",
+        "NetAcad ITEv7 Section 4.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701000",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the optimal temperature for most computers?",
+        "Between 7 and 32 degrees celsius",
+        "8790701002",
+        "NetAcad ITEv7 Section 4.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Between 7 and 32 degrees celsius is the optimal what for most computers?",
+        "Temperature",
+        "8790701001",
+        "NetAcad ITEv7 Section 4.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What components should be part of a software maintenance schedule?",
+        "Install and update security software, drivers, and virus definitions. Remove unwanted and unused software, defragment hard drives, and scan for errors",
+        "8790701004",
+        "NetAcad ITEv7 Section 4.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Installing and updating security software, drivers, and virus definitions; removing unwanted and unused software; defragmenting hard drives; and scanning for errors are part of what?",
+        "A software maintenance schedule",
+        "8790701003",
+        "NetAcad ITEv7 Section 4.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "One of which two things should be performed before starting work on a customer's computer?",
+        "A complete data backup should be performed or a liability release form obtained",
+        "8790701006",
+        "NetAcad ITEv7 Section 4.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "If a complete data backup cannot be performed before starting work on a customer's computer, what should be obtained instead?",
+        "A liability release form",
+        "8790701005",
+        "NetAcad ITEv7 Section 4.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the troubleshooting steps?",
+        "Identify the problem, establish a theory of probably cause, test the theory, establish and implement a plan of action, verify system functionality, and document findings",
+        "8790701008",
+        "NetAcad ITEv7 Section 4.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The steps of what process are the following? Identify the problem, establish a theory of probably cause, test the theory, establish and implement a plan of action, verify system functionality, and document findings.",
+        "The troubleshooting process",
+        "8790701007",
+        "NetAcad ITEv7 Section 4.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the first step of generating a theory of probably cause?",
+        "List the simplest and most likely causes of the issue, followed by the less likely",
+        "8790701010",
+        "NetAcad ITEv7 Section 4.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Listing the simplest and most likely causes of the issue, followed by the less likely is the first step of what process?",
+        "Generating a theory of probable cause",
+        "8790701009",
+        "NetAcad ITEv7 Section 4.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common causes of issues with storage hardware?",
+        "Loose/incorrect cables, incorrect drive formats, or incorrect BIOS settings",
+        "8790701012",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Loose/incorrect cables, incorrect drive formats, or incorrect BIOS settings are common causes of what type of hardware issue?",
+        "Storage hardware issues",
+        "8790701011",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common causes of issues with a motherboard and other internal components?",
+        "Loose/incorrect cabling, failed components, bad drivers, and bad updates",
+        "8790701014",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Loose/incorrect cabling, failed components, bad drivers, and bad updates are common causes of failures with what components?",
+        "Motherboard and other internal components",
+        "8790701013",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common causes of issues with a power supply?",
+        "Loose connections, inadequate wattage, and unstable voltage",
+        "8790701016",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Loose connections, inadequate wattage, and unstable voltage are common causes of issues with what component?",
+        "Power supply",
+        "8790701015",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common causes of issues with a CPU and memory?",
+        "Incorrect installation, BIOS settings, inadequate cooling, and compatibility issues",
+        "8790701018",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Incorrect installation, BIOS settings, inadequate cooling, and compatibility issues are common causes of issues with what components?",
+        "CPU and memory",
+        "8790701017",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common causes of issues with a display?",
+        "Incorrect settings, loose connections, and bad drivers",
+        "8790701020",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Incorrect settings, loose connections, and bad drivers are common causes of issues with what comopnent?",
+        "A display",
+        "8790701019",
+        "NetAcad ITEv7 Section 4.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can a jammed optical drive be released?",
+        "A pin can be inserted into the release button hole, then the drive may be opened manually",
+        "8790701022",
+        "NetAcad ITEv7 Section 4.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When a pin is inserted into an optical drive's release button hole, what can be done?",
+        "The drive may be opened manually",
+        "8790701021",
+        "NetAcad ITEv7 Section 4.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an early symptom of a failing CMOS battery?",
+        "Computer no longer keeping time correctly",
+        "8790701024",
+        "NetAcad ITEv7 Section 4.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the most likely hardware issue when a computer no longer keeps time correctly?",
+        "CMOS battery failure",
+        "8790701023",
+        "NetAcad ITEv7 Section 4.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
