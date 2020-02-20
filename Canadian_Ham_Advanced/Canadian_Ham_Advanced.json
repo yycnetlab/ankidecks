@@ -158,7 +158,7 @@
       "guid": "6100600000",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter2"
+        "Chapter3"
       ]
     },
     {
@@ -2207,6 +2207,454 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "Chapter2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For a given transformer secondary voltage, what rectifier has the highest averate output voltage",
+        "Bridge rectifier",
+        "6100600130",
+        "Section 3.7"
+      ],
+      "flags": 0,
+      "guid": "6100600129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of a bridge rectifier?",
+        "Highest average output voltage for a given transformer secondary voltage.",
+        "6100600129",
+        "Section 3.7"
+      ],
+      "flags": 0,
+      "guid": "6100600130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For a half-wave rectifier what is the worst cast PIV in terms of RMS?",
+        "2.8 times RMS",
+        "6100600132",
+        "Section 3.5"
+      ],
+      "flags": 0,
+      "guid": "6100600131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Explain why the PIV can be 2.8 times RMS in a half-wave rectifier",
+        "Because the delta-V between the positive cycle and negative cycle compound",
+        "6100600131",
+        "Section 3.5"
+      ],
+      "flags": 0,
+      "guid": "6100600132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the PIV of a full-wave center-tap power supply in terms of RMS?",
+        "2.8 times RMS",
+        "6100600134",
+        "Section 3.6"
+      ],
+      "flags": 0,
+      "guid": "6100600133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Explain why the PIV of a full-wave center-tap power supply is 2.8 times RMS.",
+        "The center provides the reference and the delta-V from the ends of the secondary coil can be negative.",
+        "6100600133",
+        "Section 3.6"
+      ],
+      "flags": 0,
+      "guid": "6100600134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between a full-wave bridge rectifier and a full-wave centre-tap rectifier?",
+        "Full-wave bridge uses 4 diodes.  Full-wave center-tap uses two diodes and a center tap on the secondary coil.",
+        "6100600136",
+        "Section 3.6"
+      ],
+      "flags": 0,
+      "guid": "6100600135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What rectifier class has a bridge design uses 4 diodes and a center-tap design useing two diodes and a center tap.",
+        "Full-wave rectifier",
+        "6100600135",
+        "Section 3.6"
+      ],
+      "flags": 0,
+      "guid": "6100600136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference in voltage between a full-wave bridge rectifier and a full-wave center-tap rectifier?",
+        "Bridge has double the voltage of the center-tap.",
+        "6100600138",
+        "Section 3.7"
+      ],
+      "flags": 0,
+      "guid": "6100600137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why does a full-wave bridge rectifier have double the voltage of a full-wave center-tap rectifier?",
+        "The center-tap is halfway along the secondary coil and cuts the potential in half.",
+        "6100600137",
+        "Section 3.7"
+      ],
+      "flags": 0,
+      "guid": "6100600138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why wire the following in parallel in a high voltage circuit?  Capacitor, resistor, diode.",
+        "To equalize voltage drops and guard against transient voltage spikes.",
+        "6100600140",
+        "Section 3.7 figure 3.9"
+      ],
+      "flags": 0,
+      "guid": "6100600139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can equalize voltage drops in high voltage circuits and guard against transient voltage spikes?",
+        "A capacitor, resistor, and diode all in parallel",
+        "6100600139",
+        "Section 3.7 figure 3.9"
+      ],
+      "flags": 0,
+      "guid": "6100600140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are filter chokes rated?",
+        "By Inductance and MINIMUM current.",
+        "6100600142",
+        "Section 3.8.2"
+      ],
+      "flags": 0,
+      "guid": "6100600141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filter design is rated by inductance and MINIMUM current?",
+        "Filter choke",
+        "6100600141",
+        "Section 3.8.2"
+      ],
+      "flags": 0,
+      "guid": "6100600142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the differences between a choke input filter and a capacitor input filter?",
+        "Choke: better regulation.  Capacitor: higher terminal output voltage.",
+        "6100600144",
+        "Section 3.8.3"
+      ],
+      "flags": 0,
+      "guid": "6100600143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What input filter has the best regulation?  The higher terminal output voltage?",
+        "Choke.  Capacitor.",
+        "6100600143",
+        "Section 3.8.3"
+      ],
+      "flags": 0,
+      "guid": "6100600144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why must the first choke and first capacitor be carefully selected when designing a power supply?",
+        "To avoid creating a resonnant circuit.",
+        "6100600146",
+        "Section 3.8.2"
+      ],
+      "flags": 0,
+      "guid": "6100600145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When could a power supply become resonnant?",
+        "With a poorly selected first choke and first capacitor",
+        "6100600145",
+        "Section 3.8.2"
+      ],
+      "flags": 0,
+      "guid": "6100600146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the potential impact of a burnt-out bleeder resistor in a choke input filter?",
+        "Transformer peak voltages could occur.",
+        "6100600148",
+        "Section 3.8.2"
+      ],
+      "flags": 0,
+      "guid": "6100600147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How could a choke filter fail and apply transformer peak voltage to the capacitor?",
+        "The bleeder resistor is burnt-out.",
+        "6100600147",
+        "Section 3.8.2"
+      ],
+      "flags": 0,
+      "guid": "6100600148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a linear electronic voltage regulator work?",
+        "Excess voltage or current is directed through a control element.",
+        "6100600150",
+        "Section 3.11"
+      ],
+      "flags": 0,
+      "guid": "6100600149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what regulator is excess voltage or current directed through a control element?",
+        "Linear electronic voltage regulator.",
+        "6100600149",
+        "Section 3.11"
+      ],
+      "flags": 0,
+      "guid": "6100600150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a switching power supply work?",
+        "The control device is switched on and off with the duty cycle proportional to the line or load condititions.",
+        "6100600152",
+        "Section 3.14"
+      ],
+      "flags": 0,
+      "guid": "6100600151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which power supply is the control device modulated with a duty cycle proportional to the line or load condititions?",
+        "Switching power supply",
+        "6100600151",
+        "Section 3.14"
+      ],
+      "flags": 0,
+      "guid": "6100600152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device is typically used as a stable reference voltage in a linear voltage regulator?",
+        "Zener diode",
+        "6100600154",
+        "Section 3.11.1"
+      ],
+      "flags": 0,
+      "guid": "6100600153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a zener diode in a linear voltage regulator?",
+        "To provide a stable reference voltage",
+        "6100600153",
+        "Section 3.11.1"
+      ],
+      "flags": 0,
+      "guid": "6100600154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between a shunt and a series voltage regulator?",
+        "Shunt will put constant load on the source.  Series is more efficient.",
+        "6100600156",
+        "Section 3.11"
+      ],
+      "flags": 0,
+      "guid": "6100600155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What voltage regulator will put constant load on the source?  What is more efficient?",
+        "Shunt.  Series.",
+        "6100600155",
+        "Section 3.11"
+      ],
+      "flags": 0,
+      "guid": "6100600156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter3"
       ]
     }
   ]
