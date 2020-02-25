@@ -16544,6 +16544,6598 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'RFID' stand for?",
+        "Radio Frequency Identification",
+        "8790701026",
+        "NetAcad ITEv7 Section 5.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Radio Frequency Identification'?",
+        "RFID",
+        "8790701025",
+        "NetAcad ITEv7 Section 5.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NFC' stand for?",
+        "Near-Field Communication",
+        "8790701028",
+        "NetAcad ITEv7 Section 5.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Near-Field Communication'?",
+        "NFC",
+        "8790701027",
+        "NetAcad ITEv7 Section 5.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two prominent smart home protocols?",
+        "Zigbee and Z-Wave",
+        "8790701030",
+        "NetAcad ITEv7 Section 5.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Zigbee and Z-Wave are what?",
+        "The two prominent smart home protocols",
+        "8790701029",
+        "NetAcad ITEv7 Section 5.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for 'host' devices?",
+        "End devices",
+        "8790701032",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for 'end' devices?",
+        "Host devices",
+        "8790701031",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why are 'host devices' named what they are?",
+        "They host network applications sch as web browsers and email clients",
+        "8790701034",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the type of device which hosts network applications sch as web browsers and email clients?",
+        "Host device",
+        "8790701033",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are intermediary devices?",
+        "Devices which ensure data flows properly between host devices",
+        "8790701036",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which type of device ensures data flows properly between host devices?",
+        "Intermediary devices",
+        "8790701035",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'LAN' stand for?",
+        "Local Area Network",
+        "8790701038",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Local Area Network'?",
+        "LAN",
+        "8790701037",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WAN' stand for?",
+        "Wide Area Network",
+        "8790701040",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Wide Area Network'?",
+        "WAN",
+        "8790701039",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'AP' stand for in relation to networking?",
+        "Access Point",
+        "8790701042",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Access Point'?",
+        "AP",
+        "8790701041",
+        "NetAcad ITEv7 Section 5.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PAN' stand for?",
+        "Personal Area Network",
+        "8790701044",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Personal Area Network'?",
+        "PAN",
+        "8790701043",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VLAN' stand for?",
+        "Virtual Local Area Network",
+        "8790701046",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Virtual Local Area Network'?",
+        "VLAN",
+        "8790701045",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WLAN' stand for?",
+        "Wireless Local Area Network",
+        "8790701048",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Wireless Local Area Network'?",
+        "WLAN",
+        "8790701047",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WMN' stand for?",
+        "Wireless Mesh Network",
+        "8790701050",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Wireless Mesh Network'?",
+        "WMN",
+        "8790701049",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MAN' stand for?",
+        "Metropolitan Area Network",
+        "8790701052",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Metropolitan Area Network'?",
+        "MAN",
+        "8790701051",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VPN' stand for?",
+        "Virtual Private Network",
+        "8790701054",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Virtual Private Network'?",
+        "VPN",
+        "8790701053",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'PAN'?",
+        "A network which connects devices within the range of an individual person, typically via Bluetooth",
+        "8790701056",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a network which connects devices within the range of an individual person, typically via Bluetooth?",
+        "PAN",
+        "8790701055",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a LAN?",
+        "A network which connects devices within a small physical area such as a home or office",
+        "8790701058",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a network which connects devices within a small physical area such as a home or office?",
+        "LAN",
+        "8790701057",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'VLAN'?",
+        "A VLAN allows computers on a LAN to be grouped into smaller divisions for administrative purposes with the side effect of improving packet switching efficiency",
+        "8790701060",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology allows computers on a LAN to be grouped into smaller divisions for administrative purposes with the side effect of improving packet switching efficiency?",
+        "VLANs",
+        "8790701059",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'WLAN'?",
+        "A WLAN is the subset of a LAN which includes wirelessly-connected devices",
+        "8790701062",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the subset of a LAN which includes wirelessly-connected devices?",
+        "WLAN",
+        "8790701061",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'WMN'?",
+        "A WMN uses multiple APs, connected wirelessly, to expand the range of a WLAN",
+        "8790701064",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network uses multiple APs, connected wirelessly, to expand the range of a WLAN?",
+        "WMN",
+        "8790701063",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'MAN'?",
+        "A network spanning multiple separate buildings across a large campus or city",
+        "8790701066",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network spans multiple separate buildings across a large campus or city",
+        "A MAN",
+        "8790701065",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'WAN'?",
+        "A WAN connects multiple geographically separated networks",
+        "8790701068",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network connects multiple geographically separated networks?",
+        "A WAN",
+        "8790701067",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the largest WAN?",
+        "The Internet",
+        "8790701070",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network is the Internet?",
+        "The largest WAN",
+        "8790701069",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a VPN?",
+        "A VPN allows a secure connection to another network over an insecure network",
+        "8790701072",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network allows a secure connection to another network over an insecure network?",
+        "A VPN",
+        "8790701071",
+        "NetAcad ITEv7 Section 5.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ISDN' stand for?",
+        "Integrated Services Digital Network",
+        "8790701074",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Integrated Services Digital Network'?",
+        "ISDN",
+        "8790701073",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DSL' stand for?",
+        "Digital Subscriber Line",
+        "8790701076",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Digital Subscriber Line'?",
+        "DSL",
+        "8790701075",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does dial-up work?",
+        "An analog modem places a phone call to another modem in another location over standard telephone lines",
+        "8790701078",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what broadband technology does an analog modem places a phone call to another modem in another location over standard telephone lines?",
+        "Dial-up",
+        "8790701077",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does ISDN work?",
+        "ISDN transmits signals over traditional telephone lines using multiple channels to increase bandwidth",
+        "8790701080",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of broadband transmits signals over traditional telephone lines using multiple channels to increase bandwidth?",
+        "ISDN",
+        "8790701079",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DSL, ISDN, satellite, and cellular are examples of what?",
+        "Broadband technologies",
+        "8790701082",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some examples of broadband technologies?",
+        "DSL, ISDN, satellite, and cellular",
+        "8790701081",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is broadband?",
+        "A technology that uses different frequencies to send multiple signals over the same medium",
+        "8790701084",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a technology that uses different frequencies to send multiple signals over the same medium?",
+        "Broadband",
+        "8790701083",
+        "NetAcad ITEv7 Section 5.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ISP' stand for?",
+        "Internet Service Provider",
+        "8790701086",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Internet Service Provider'?",
+        "ISP",
+        "8790701085",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DSL?",
+        "An always-on service that uses telephone lines at a different frequency from voice traffic and separated by a filter",
+        "8790701088",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What broadband technology is an always-on service that uses telephone lines at a different frequency from voice traffic and separated by a filter?",
+        "DSL",
+        "8790701087",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is cable?",
+        "A broadband technology that uses coaxial cables designed to carry television signals",
+        "8790701090",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which broadband technology uses coaxial cables designed to carry television signals?",
+        "Cable",
+        "8790701089",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is fibre?",
+        "A high-bandwidth technology that uses light carried over cables made of glass or plastic",
+        "8790701092",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which broadband technology is a high-bandwidth technology that uses light carried over cables made of glass or plastic?",
+        "Fibre",
+        "8790701091",
+        "NetAcad ITEv7 Section 5.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is line-of-sight wireless?",
+        "A tower transmits a powerful signal to a receiver on the exterior of a customer building",
+        "8790701094",
+        "NetAcad ITEv7 Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With which broadband technology does a tower transmit a powerful signal to a receiver on the exterior of a customer building?",
+        "Line-of-sight wireless",
+        "8790701093",
+        "NetAcad ITEv7 Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What distance can a 900MHz line-of-sight signal travel?",
+        "65km",
+        "8790701096",
+        "NetAcad ITEv7 Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency of line-of-sight signal can travel 65km?",
+        "900MHz",
+        "8790701095",
+        "NetAcad ITEv7 Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What distance can a 5.7GHz line-of-sight signal travel?",
+        "3km",
+        "8790701098",
+        "NetAcad ITEv7 Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency of line-of-sight signal can travel 3km?",
+        "5.7GHz",
+        "8790701097",
+        "NetAcad ITEv7 Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is broadband satellite?",
+        "Used when cable and DSL are not available, signals are relayed by a satellite in orbit, which introduces significant latency",
+        "8790701100",
+        "NetAcad ITEv7 Section 5.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With which broadband technology are signals are relayed by a satellite in orbit, which introduces significant latency?",
+        "Satellite",
+        "8790701099",
+        "NetAcad ITEv7 Section 5.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What percentage of American adults only use cell phones for internet access?",
+        "20%",
+        "8790701102",
+        "NetAcad ITEv7 Section 5.1.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "20% of American adults do what for internet access?",
+        "Only use their cell phones",
+        "8790701101",
+        "NetAcad ITEv7 Section 5.1.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a mobile tether?",
+        "Passing through a phone's cellular connection to one or more other devices",
+        "8790701104",
+        "NetAcad ITEv7 Section 5.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701103",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the technique of passing through a phone's cellular connection to one or more other devices?",
+        "Mobile tethering",
+        "8790701103",
+        "NetAcad ITEv7 Section 5.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701104",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a wireless mobile tether?",
+        "A mobile hotspot",
+        "8790701106",
+        "NetAcad ITEv7 Section 5.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701105",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'mobile hotspot' refer to?",
+        "A wireless mobile tether",
+        "8790701105",
+        "NetAcad ITEv7 Section 5.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701106",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two protocols in the transport layer?",
+        "TCP and UDP",
+        "8790701108",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701107",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "TCP and UDP are what?",
+        "Transport layer protocols",
+        "8790701107",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701108",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'TCP' stand for?",
+        "Transmission Control Protocol",
+        "8790701110",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701109",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Transmission Control Protocol'?",
+        "TCP",
+        "8790701109",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701110",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UDP' stand for?",
+        "User Datagram Protocol",
+        "8790701112",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701111",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'User Datagram Protocol'?",
+        "UDP",
+        "8790701111",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701112",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the four layers of the TCP-IP protocol suite?",
+        "Network access, Internet, Transport, and Application",
+        "8790701114",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701113",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are Network access, Internet, Transport, and Application a part of?",
+        "The TCP-IP protocol suite",
+        "8790701113",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701114",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does TCP transmit data?",
+        "TCP adds overhead, numbering packets to ensure all of them arrive and arrive in order",
+        "8790701116",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701115",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which transport protocol adds over head by numbering packets to ensure all of them arrive and arrive in order?",
+        "TCP",
+        "8790701115",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701116",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does UDP transmit data?",
+        "UDP is fast, simply sending data with no care for if it arrives in order or even arrives at all",
+        "8790701118",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701117",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which transport protocol simply sends data with no care for if it arrives in order or even arrives at all?",
+        "UDP",
+        "8790701117",
+        "NetAcad ITEv7 Section 5.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701118",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IP' stand for?",
+        "Internet Protocol",
+        "8790701120",
+        "NetAcad ITEv7 Section 5.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701119",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Internet Protocol'?",
+        "IP",
+        "8790701119",
+        "NetAcad ITEv7 Section 5.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701120",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the main advantage of TCP?",
+        "Reliability",
+        "8790701122",
+        "NetAcad ITEv7 Section 5.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701121",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the main advantage of UDP?",
+        "Speed",
+        "8790701121",
+        "NetAcad ITEv7 Section 5.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701122",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three basic reliability operations?",
+        "Numbering of packets, acknowledgement of received packets, and retransmission of dropped packets",
+        "8790701124",
+        "NetAcad ITEv7 Section 5.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701123",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Numbering of packets, acknowledgement of received packets, and retransmission of dropped packets are what?",
+        "The 3 basic reliability operations of TCP",
+        "8790701123",
+        "NetAcad ITEv7 Section 5.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701124",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the source port number?",
+        "The port associated with the application on a user's machine that a TCP/IP request originated from",
+        "8790701126",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701125",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the port associated with the application on a user's machine that a TCP/IP request originated from?",
+        "The source port",
+        "8790701125",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701126",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the destination port?",
+        "The typically well-known port associated with an application on the server computer ",
+        "8790701128",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701127",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the typically well-known port associated with an application on the server computer?",
+        "The destination port",
+        "8790701127",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What port is associated with HTTP?",
+        "Port 80",
+        "8790701130",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application is port 80 associated with?",
+        "HTTP",
+        "8790701129",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What port is associated with HTTPS?",
+        "Port 443",
+        "8790701132",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application is port 443 associated with?",
+        "HTTPS",
+        "8790701131",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When data is returned from a server to a client, what port is used as the destination port?",
+        "The client's source port",
+        "8790701134",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When is the client's source port used as a destination port?",
+        "When data is returned from a server to a client",
+        "8790701133",
+        "NetAcad ITEv7 Section 5.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What port is used for DNS?",
+        "Port 53",
+        "8790701136",
+        "NetAcad ITEv7 Section 5.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is port 53 used for?",
+        "DNS",
+        "8790701135",
+        "NetAcad ITEv7 Section 5.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum theoretical speed of 802.11a",
+        "54Mbps",
+        "8790701138",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which early WiFi standard had a theoretical maximum speed of 54Mbps on the 5GHz band?",
+        "802.11a",
+        "8790701137",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum theoretical speed of 802.11b?",
+        "11Mbps",
+        "8790701140",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which early WiFi standard had a theoretical maximum speed of 11Mbps?",
+        "802.11b",
+        "8790701139",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the maximum theoretical speed of 802.11g?",
+        "54Mbps",
+        "8790701142",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which early WiFi standard had a maximum theoretical speed of 54Mbps on the 2.4GHz band?",
+        "802.11g",
+        "8790701141",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum theoretical speed of 802.11n?",
+        "600Mbps",
+        "8790701144",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "600Mbps is the maximum theoretical speed of which WiFi standard?",
+        "802.11n",
+        "8790701143",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was considered to be the maximum theoretical speed of 802.11ac when it was first released?",
+        "1.3Gbps",
+        "8790701146",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "1.3Gbps was considered to be the maximum theoretical speed of which WiFi standard when it was first released?",
+        "802.11ac",
+        "8790701145",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum theoretical speed of 802.11ac using non-standard settings?",
+        "4.3Gbps",
+        "8790701148",
+        "https://www.duckware.com/tech/wifi-in-the-us.html"
+      ],
+      "flags": 0,
+      "guid": "8790701147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "4.3Gbps is the maximum theoretical speed of which WiFi standard using non-standard settings?",
+        "802.11ac",
+        "8790701147",
+        "https://www.duckware.com/tech/wifi-in-the-us.html"
+      ],
+      "flags": 0,
+      "guid": "8790701148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "WiFi standards are being re-named. What, respectively, are the new names for 802.11a, b, g, n, ac, and ax?",
+        "WiFi 1, 2, 3, 4, 5, and 6",
+        "8790701150",
+        "https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-6"
+      ],
+      "flags": 0,
+      "guid": "8790701149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "WiFi standards were renamed. What, respectively, are the old names for WiFi standards 1, 2, 3, 4, 5, and 6?",
+        "802.11a, b, g, n, ac, and ax",
+        "8790701149",
+        "https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-6"
+      ],
+      "flags": 0,
+      "guid": "8790701150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What standards is 802.11ac backwards compatible with?",
+        "802.11a and 802.11n",
+        "8790701152",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "802.11a and 802.11n are the backwards-compatible standards of what standard?",
+        "802.11ac",
+        "8790701151",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What standards is 802.11n backwards compatible with?",
+        "802.11a, 802.11b, and 802.11g",
+        "8790701154",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "802.11a, 802.11b, and 802.11g are the backwards-compatible standards of what standard?",
+        "802.11n",
+        "8790701153",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What standard is 802.11g backwards compatible with?",
+        "802.11b",
+        "8790701156",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "802.11b is the backwards-compatible standard of what standard?",
+        "802.11g",
+        "8790701155",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which IEEE standard is bluetooth?",
+        "802.15.1",
+        "8790701158",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701157",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which IEEE standard is 802.15.1?",
+        "Bluetooth",
+        "8790701157",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701158",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IEEE' stand for?",
+        "Institute of Electrical and Electronic Engineers",
+        "8790701160",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701159",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Institute of Electrical and Electronic Engineers'?",
+        "IEEE",
+        "8790701159",
+        "NetAcad ITEv7 Section 5.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701160",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'AFH' stand for?",
+        "Adaptive Frequency Hopping",
+        "8790701162",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701161",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used to describe 'Adaptive Frequency Hopping'?",
+        "AFH",
+        "8790701161",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701162",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency range is used by Bluetooth?",
+        "2.4 to 2.485GHz",
+        "8790701164",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701163",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What WPAN communications standard uses frequencies between 2.4GHz and 2.485GHz?",
+        "Bluetooth",
+        "8790701163",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701164",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency range does RFID use?",
+        "125MHz to 960MHz",
+        "8790701166",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701165",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What WPAN communications standard uses frequencies between 125MHz to 960MHz",
+        "RFID",
+        "8790701165",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701166",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency does NFC use?",
+        "13.56MHz",
+        "8790701168",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701167",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What WPAN communications standard uses the frequency 13.56MHz?",
+        "NFC",
+        "8790701167",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701168",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is RFID typically used for?",
+        "Uniquely identifying physical items, such as in a warehouse",
+        "8790701170",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701169",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What PAN standard is used for identifying physical items, such as in a warehouse?",
+        "RFID",
+        "8790701169",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701170",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the range of an active RFID signal?",
+        "100 metres",
+        "8790701172",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701171",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which WPAN standard has a range of up to 100 metres?",
+        "Active RFID",
+        "8790701171",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701172",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the range of a passive RFID signal?",
+        "25 metres",
+        "8790701174",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701173",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which WPAN standard has a range of up to 25 metres?",
+        "Passive RFID",
+        "8790701173",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701174",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What standard is NFC a subset of?",
+        "RFID",
+        "8790701176",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701175",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What common standard is a subset of RFID?",
+        "NFC",
+        "8790701175",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701176",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NFC designed for?",
+        "Secure wireless monetary transactions",
+        "8790701178",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701177",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which PAN standard is designed for secure wireless monetary transactions?",
+        "NFC",
+        "8790701177",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701178",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are Zigbee and Z-Wave?",
+        "Smart home standards that connect devices through a WMN",
+        "8790701180",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701179",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the names of the smart home standards that connect devices through a WMN?",
+        "Zigbee and Z-Wave",
+        "8790701179",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701180",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which IEEE standard is Zigbee based on?",
+        "802.15.4",
+        "8790701182",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701181",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which smart home standard is based on 802.15.4?",
+        "Zigbee",
+        "8790701181",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701182",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'LR-WPAN' stand for?",
+        "Low-Rate Wireless Personal Area Network",
+        "8790701184",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701183",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Low-Rate Wireless Personal Area Network'?",
+        "LR-WPAN",
+        "8790701183",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701184",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency range is used by Zigbee?",
+        "868MHz to 2.4GHz",
+        "8790701186",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701185",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which LR-WPAN standard uses a frequency range of 868MHz to 2.4GHz?",
+        "Zigbee",
+        "8790701185",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701186",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the range of a Zigbee signal?",
+        "10 to 20 metres",
+        "8790701188",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701187",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What LR-WPAN standard has a range of 10 to 20 metres?",
+        "Zigbee",
+        "8790701187",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701188",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the data rate of Zigbee?",
+        "40 to 250Kbps",
+        "8790701190",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701189",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What LR-WPAN standard has a data rate of 40 to 250Kbps?",
+        "Zigbee",
+        "8790701189",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701190",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Approximately how many devices can a Zigbee network support?",
+        "65000",
+        "8790701192",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701191",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which LR-WPAN network can support up to 65000 devices?",
+        "Zigbee",
+        "8790701191",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701192",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What frequency range does Z-Wave operate on?",
+        "865.2MHz in India, 922-926MHz in Japan, and 908.42MHz in North America",
+        "8790701194",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701193",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What LR-WPAN standard operates at 865.2MHz in India, 922-926MHz in Japan, and 908.42MHz in North America?",
+        "Z-Wave",
+        "8790701193",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701194",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the range of Z-Wave?",
+        "100 metres",
+        "8790701196",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701195",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What LR-WPAN standard has a range of 100 metres?",
+        "Z-Wave",
+        "8790701195",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701196",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the data rate of Z-Wave?",
+        "9.6-100Kbps",
+        "8790701198",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701197",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What LR-WPAN standard has a data rate of 9.6-100Kbps?",
+        "Z-Wave",
+        "8790701197",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701198",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many devices can Z-Wave support?",
+        "232 devices",
+        "8790701200",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701199",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which LR-WPAN standard can support 232 devices?",
+        "Z-Wave",
+        "8790701199",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701200",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What were the limitations of 1G cellular networks?",
+        "Analog voice only, speeds less than 9.6Kbps",
+        "8790701202",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701201",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which generation of cellular technology provided only analog voice?",
+        "1G",
+        "8790701201",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701202",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How did 2G improve on 1G?",
+        "Supported digital voice, conference calls, and caller ID",
+        "8790701204",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701203",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation added support for digital voice, conference calls, and caller ID?",
+        "2G",
+        "8790701203",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701204",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What features did 2.5G have which 2G didn't?",
+        "Added support for web browsing, short audiovisual clips, games, and the downloading of applications, and ringtones",
+        "8790701206",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701205",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation added support for web browsing, short audiovisual clips, games, and the downloading of applications, and ringtones?",
+        "2.5G",
+        "8790701205",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701206",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What speeds did 2.5G provide?",
+        "9.6Kbps to 237Kbps",
+        "8790701208",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation provided speeds of 9.6Kbps to 237Kbps?",
+        "2.5G",
+        "8790701207",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701208",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What features did 3G add support for?",
+        "Full-motion video, streaming music, and 3D gaming",
+        "8790701210",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701209",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation added features for full-motion video, streaming music, and 3D gaming?",
+        "3G",
+        "8790701209",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701210",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What speeds did 3G support?",
+        "144Kbps to 2Mbps",
+        "8790701212",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701211",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What cellular generation improved speeds to 144Kbps to 2Mbps?",
+        "3G",
+        "8790701211",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701212",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What features did 3.5G add support for?",
+        "High-quality streamed video, video conferencing, and VoIP",
+        "8790701214",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701213",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation added support for high-quality streamed video, video conferencing, and VoIP?",
+        "3.5G",
+        "8790701213",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701214",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What speeds did 3.5G support?",
+        "400Kbps to 16Mbps",
+        "8790701216",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701215",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What cellular generation supported speeds of 400Kbps to 16Mbps?",
+        "3.5G",
+        "8790701215",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701216",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What features did 4G add support for?",
+        "IPv6, high-quality streamed media, and live gaming services",
+        "8790701218",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701217",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation added support for IPv6, high-quality streamed media, and live gaming services?",
+        "4G",
+        "8790701217",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701218",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What speeds did 4G support?",
+        "5.8Mbps to 672Mbps",
+        "8790701220",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701219",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation supported speeds of 5.8Mbps to 672Mbps?",
+        "4G",
+        "8790701219",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701220",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is LTE?",
+        "A subset of the 4G standards which provides improved data rates when travelling at high speeds",
+        "8790701222",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701221",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the subset of the 4G standards which provides improved data rates when travelling at high speeds?",
+        "LTE",
+        "8790701221",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701222",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data rates does LTE provide at highway speeds?",
+        "50 to 100Mbps",
+        "8790701224",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701223",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular standard provides data rates of 50 to 100Mbps at highway speeds?",
+        "LTE",
+        "8790701223",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701224",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data rates does LTE provide when stationary?",
+        "1Gbps",
+        "8790701226",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701225",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular standard provides data rates of 1Gbps when stationary?",
+        "LTE",
+        "8790701225",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701226",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'LTE' stand for?",
+        "Long Term Evolution",
+        "8790701228",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701227",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Long Term Evolution'?",
+        "LTE",
+        "8790701227",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701228",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What features does 5G add support for?",
+        "Augmented and virtual reality, smart homes, smart cars, and other high-rate data transfers",
+        "8790701230",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701229",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular generation adds support for augmented and virtual reality, smart homes, smart cars, and other high-rate data transfers?",
+        "5G",
+        "8790701229",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701230",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What speeds does 5G support?",
+        "400Mbps to 3Gbps download, 500Mbps to 1.5Gbps upload",
+        "8790701232",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701231",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which cellular standard provides speeds of 400Mbps to 3Gbps download, 500Mbps to 1.5Gbps upload?",
+        "5G",
+        "8790701231",
+        "NetAcad ITEv7 Section 5.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701232",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many connected devices can Bluetooth support?",
+        "7 devices",
+        "8790701234",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701233",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which WPAN standard supports up to 7 connected devices?",
+        "Bluetooth",
+        "8790701233",
+        "NetAcad ITEv7 Section 5.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701234",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DHCP' stand for?",
+        "Dynamic Host Configuration Protocol",
+        "8790701236",
+        "NetAcad ITEv7 Section 5.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701235",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Dynamic Host Configuration Protocol'?",
+        "DHCP",
+        "8790701235",
+        "NetAcad ITEv7 Section 5.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701236",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DNS' stand for?",
+        "Domain Name System",
+        "8790701238",
+        "NetAcad ITEv7 Section 5.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701237",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Domain Name System'?",
+        "DNS",
+        "8790701237",
+        "NetAcad ITEv7 Section 5.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701238",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'HTTP' stand for?",
+        "HyperText Transfer Protocol",
+        "8790701240",
+        "NetAcad ITEv7 Section 5.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701239",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'HyperText Transfer Protocol'?",
+        "HTTP",
+        "8790701239",
+        "NetAcad ITEv7 Section 5.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701240",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DHCP do?",
+        "Automatically assigns IP addressing information to devices",
+        "8790701242",
+        "NetAcad ITEv7 Section 5.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790701241",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What service automatically assigns IP addressing information to devices?",
+        "DHCP",
+        "8790701241",
+        "NetAcad ITEv7 Section 5.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790701242",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DNS do?",
+        "DNS servers keep records of domain names and associated IP addresses like a phone book, allowing clients to perform a lookup",
+        "8790701244",
+        "NetAcad ITEv7 Section 5.2.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790701243",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What service keeps records of domain names and associated IP addresses like a phone book, allowing clients to perform a lookup?",
+        "DNS",
+        "8790701243",
+        "NetAcad ITEv7 Section 5.2.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790701244",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a print server do?",
+        "Store print jobs in a queue until a printer is ready to accept them",
+        "8790701246",
+        "NetAcad ITEv7 Section 5.2.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790701245",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What service stores print jobs in a queue until a printer is ready to accept them?",
+        "Print server",
+        "8790701245",
+        "NetAcad ITEv7 Section 5.2.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790701246",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'FTP' stand for?",
+        "File Transfer Protocol",
+        "8790701248",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701247",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'File Transfer Protocol'?",
+        "FTP",
+        "8790701247",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701248",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'FTPS' stand for?",
+        "File Transfer Protocol Secure",
+        "8790701250",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701249",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'File Transfer Protocol Secure'?",
+        "FTPS",
+        "8790701249",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701250",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SFTP' stand or?",
+        "SSH File Transfer Protocol",
+        "8790701252",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701251",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'SSH File Transfer Protocol'?",
+        "SFTP",
+        "8790701251",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701252",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SSH' stand for?",
+        "Secure Shell",
+        "8790701254",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701253",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Secure Shell'?",
+        "SSH",
+        "8790701253",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701254",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Whay does 'SCP' stand for?",
+        "Secure Copy Protocol",
+        "8790701256",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701255",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Secure Copy Protocol'?",
+        "SCP",
+        "8790701255",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701256",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What connections does FTP use?",
+        "A control connection for commands and a data connection for the file transfer",
+        "8790701258",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701257",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol uses a control connection for commands and a data connection for the file transfer?",
+        "FTP",
+        "8790701257",
+        "NetAcad ITEv7 Section 5.2.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790701258",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does HTTPS improve over HTTP?",
+        "Adds security with TLS or SSL",
+        "8790701260",
+        "NetAcad ITEv7 Section 5.2.4.7"
+      ],
+      "flags": 0,
+      "guid": "8790701259",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol improves HTTP by adding security with TLS or SSL?",
+        "HTTPS",
+        "8790701259",
+        "NetAcad ITEv7 Section 5.2.4.7"
+      ],
+      "flags": 0,
+      "guid": "8790701260",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SSL' stand for?",
+        "Secure Sockets Layer",
+        "8790701262",
+        "NetAcad ITEv7 Section 5.2.4.7"
+      ],
+      "flags": 0,
+      "guid": "8790701261",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Secure Sockets Layer'?",
+        "SSL",
+        "8790701261",
+        "NetAcad ITEv7 Section 5.2.4.7"
+      ],
+      "flags": 0,
+      "guid": "8790701262",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'TLS' stand for?",
+        "Transport Layer Security",
+        "8790701264",
+        "NetAcad ITEv7 Section 5.2.4.7"
+      ],
+      "flags": 0,
+      "guid": "8790701263",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Transport Layer Security'?",
+        "TLS",
+        "8790701263",
+        "NetAcad ITEv7 Section 5.2.4.7"
+      ],
+      "flags": 0,
+      "guid": "8790701264",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SMTP' stand for?",
+        "Simple Mail Transfer Protocol",
+        "8790701266",
+        "NetAcad ITEv7 Section 5.2.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790701265",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Simple Mail Transfer Protocol'?",
+        "SMTP",
+        "8790701265",
+        "NetAcad ITEv7 Section 5.2.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790701266",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'POP' stand for?",
+        "Post Office Protocol",
+        "8790701268",
+        "NetAcad ITEv7 Section 5.2.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790701267",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Post Office Protocol'?",
+        "POP",
+        "8790701267",
+        "NetAcad ITEv7 Section 5.2.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790701268",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IMAP' stand for?",
+        "Internet Message Access Protocol",
+        "8790701270",
+        "NetAcad ITEv7 Section 5.2.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790701269",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Internet Message Access Protocol'?",
+        "IMAP",
+        "8790701269",
+        "NetAcad ITEv7 Section 5.2.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790701270",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a proxy server?",
+        "A proxy server caches web pages frequently accessed by devices on the network and intercepts requests in order to look to the remote server like any requests are coming from its IP rather than from the client device's IP",
+        "8790701272",
+        "NetAcad ITEv7 Section 5.2.4.9"
+      ],
+      "flags": 0,
+      "guid": "8790701271",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What kind of server caches web pages frequently accessed by devices on the network and intercepts requests in order to look to the remote server like any requests are coming from its IP rather than from the client device's IP?",
+        "A proxy server",
+        "8790701271",
+        "NetAcad ITEv7 Section 5.2.4.9"
+      ],
+      "flags": 0,
+      "guid": "8790701272",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'AAA' or 'Triple A' refer to?",
+        "Authentication, Authorization, and Accounting",
+        "8790701274",
+        "NetAcad ITEv7 Section 5.2.4.10"
+      ],
+      "flags": 0,
+      "guid": "8790701273",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Authentication, Authorization, and Accounting are summarized with what acronym or term?",
+        "AAA or Triple A",
+        "8790701273",
+        "NetAcad ITEv7 Section 5.2.4.10"
+      ],
+      "flags": 0,
+      "guid": "8790701274",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of AAA?",
+        "AAA controls who is permitted to access a network (Authenticate), what they can do on the network (Authorize), and record what actions they perform (Accounting)",
+        "8790701276",
+        "NetAcad ITEv7 Section 5.2.4.10"
+      ],
+      "flags": 0,
+      "guid": "8790701275",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What controls who is permitted to access a network (Authenticate), what they can do on the network (Authorize), and record what actions they perform (Accounting)?",
+        "AAA",
+        "8790701275",
+        "NetAcad ITEv7 Section 5.2.4.10"
+      ],
+      "flags": 0,
+      "guid": "8790701276",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a syslog server?",
+        "To collect, classify, and sort system log messages from various devices in a single location",
+        "8790701278",
+        "NetAcad ITEv7 Section 5.2.4.11"
+      ],
+      "flags": 0,
+      "guid": "8790701277",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of server has the job of collecting, classifying, and sorting system log messages from various devices in a single location?",
+        "A syslog server",
+        "8790701277",
+        "NetAcad ITEv7 Section 5.2.4.11"
+      ],
+      "flags": 0,
+      "guid": "8790701278",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a repeater?",
+        "Regenerating weak signals",
+        "8790701280",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701279",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network device is purpose-built to regenerate weak signals?",
+        "A repeater",
+        "8790701279",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701280",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are repeaters commonly found?",
+        "Long fibre-optic cables",
+        "8790701282",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701281",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of device is common on very long fibre-optic cables?",
+        "Repeaters",
+        "8790701281",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701282",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network hub?",
+        "A precursor to the switch, a hub takes in data from one port and broadcasts it to all other ports",
+        "8790701284",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701283",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What legacy networking device was a precursor to the switch, and takes in data from one port and broadcasts it to all other ports?",
+        "The hub",
+        "8790701283",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701284",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a bridge?",
+        "Bridges connect segments of a network, and decide whether packets need to be forwarded between them or not",
+        "8790701286",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701285",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of networking device connects segments of a network, and decides whether packets need to be forwarded between them or not?",
+        "A bridge",
+        "8790701285",
+        "NetAcad ITEv7 Section 5.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701286",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a switch?",
+        "A switch microsegments a network so that data is only sent to the device for which it was intended",
+        "8790701288",
+        "NetAcad ITEv7 Section 5.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701287",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which type of device microsegments a network so that data is only sent to the device for which it was intended?",
+        "A switch",
+        "8790701287",
+        "NetAcad ITEv7 Section 5.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701288",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a wireless access point?",
+        "A WAP acts like a wireless switch, allowing devices to connect to the network wirelessly",
+        "8790701290",
+        "NetAcad ITEv7 Section 5.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701289",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of device acts like a wireless switch, allowing devices to connect to the network wirelessly?",
+        "A WAP",
+        "8790701289",
+        "NetAcad ITEv7 Section 5.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701290",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a router?",
+        "To forward traffic to separate networks, serving as a gateway to the internet",
+        "8790701292",
+        "NetAcad ITEv7 Section 5.3.1.6"
+      ],
+      "flags": 0,
+      "guid": "8790701291",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of networking device forwards traffic to separate networks, serving as a gateway to the internet?",
+        "A router",
+        "8790701291",
+        "NetAcad ITEv7 Section 5.3.1.6"
+      ],
+      "flags": 0,
+      "guid": "8790701292",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ACL' stand for?",
+        "Access Control List",
+        "8790701294",
+        "NetAcad ITEv7 Section 5.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701293",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Access Control List'?",
+        "ACL",
+        "8790701293",
+        "NetAcad ITEv7 Section 5.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701294",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IDS' stand for?",
+        "Intrusion Detection System",
+        "8790701296",
+        "NetAcad ITEv7 Section 5.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701295",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Intrusion Detection System'?",
+        "IDS",
+        "8790701295",
+        "NetAcad ITEv7 Section 5.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701296",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IPS' stand for in relation to networking?",
+        "Intrusion Prevention System",
+        "8790701298",
+        "NetAcad ITEv7 Section 5.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701297",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Intrusion Prevention System'?",
+        "IPS",
+        "8790701297",
+        "NetAcad ITEv7 Section 5.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701298",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a firewall?",
+        "A firewall is a device that attempts to protect the devices on a network from unauthorized access",
+        "8790701300",
+        "NetAcad ITEv7 Section 5.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701299",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a device that attempts to protect the devices on a network from unauthorized access?",
+        "A firewall",
+        "8790701299",
+        "NetAcad ITEv7 Section 5.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701300",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a common method that firewalls use to determine whether packets are safe?",
+        "Access control lists",
+        "8790701302",
+        "NetAcad ITEv7 Section 5.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701301",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Access control lists are used by what type of security device?",
+        "Firewalls",
+        "8790701301",
+        "NetAcad ITEv7 Section 5.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701302",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an access control list?",
+        "A file that a firewall uses which contains about what kinds of data are allowed or blocked",
+        "8790701304",
+        "NetAcad ITEv7 Section 5.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701303",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the file that a firewall uses which contains about what kinds of data are allowed or blocked?",
+        "Access control list",
+        "8790701303",
+        "NetAcad ITEv7 Section 5.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701304",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an IDS do?",
+        "Passively monitors traffic on the network, comparing packets to known malicious signatures, and sends a notification to its management console when a match is found",
+        "8790701306",
+        "NetAcad ITEv7 Section 5.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701305",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of security device passively monitors traffic on the network, comparing packets to known malicious signatures, and sends a notification to its management console when a match is found?",
+        "An IDS",
+        "8790701305",
+        "NetAcad ITEv7 Section 5.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701306",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an IPS do?",
+        "An IPS actively monitors network traffic similarly to an IDS, but does not allow matched malicious packets to pass through the network",
+        "8790701308",
+        "NetAcad ITEv7 Section 5.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701307",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network security device actively monitors network traffic similarly to an IDS, but does not allow matched malicious packets to pass through the network?",
+        "An IPS",
+        "8790701307",
+        "NetAcad ITEv7 Section 5.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701308",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UTM' stand for?",
+        "Unified Threat Management",
+        "8790701310",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701309",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Unified Threat Management'?",
+        "UTM",
+        "8790701309",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701310",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a stateful firewall do?",
+        "Tracks all incoming and outgoing connections, IP addresses, and ports",
+        "8790701312",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701311",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of network security device tracks all incoming and outgoing connections, IP addresses, and ports?",
+        "Stateful firewall",
+        "8790701311",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701312",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DoS' stand for?",
+        "Denial of Service",
+        "8790701314",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701313",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Denial of Service'?",
+        "DoS",
+        "8790701313",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701314",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DDoS' stand for?",
+        "Distributed Denial of Service",
+        "8790701316",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701315",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Distributed Denial of Service'?",
+        "DDoS",
+        "8790701315",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701316",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a UTM do?",
+        "Combines an IDS/IPS, stateful firewall, and many other security features into a single device",
+        "8790701318",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701317",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of security device combines an IDS/IPS, stateful firewall, and many other security features into a single device?",
+        "A UTM",
+        "8790701317",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701318",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for a UTM?",
+        "Next-generation firewall",
+        "8790701320",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701319",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for a next-generation firewall?",
+        "UTM",
+        "8790701319",
+        "NetAcad ITEv7 Section 5.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701320",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an endpoint management server?",
+        "A server responsible for monitoring all end devices on a network and ensuring they meet requirements",
+        "8790701322",
+        "NetAcad ITEv7 Section 5.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701321",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a server responsible for monitoring all end devices on a network and ensuring they meet requirements?",
+        "Endpoint management server",
+        "8790701321",
+        "NetAcad ITEv7 Section 5.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701322",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco's 'DNA' Centre stand for?",
+        "Cisco Digital Network Architecture Centre",
+        "8790701324",
+        "NetAcad ITEv7 Section 5.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701323",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Cisco Digital Network Architecture Centre'?",
+        "Cisco DNA Centre",
+        "8790701323",
+        "NetAcad ITEv7 Section 5.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701324",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ICS' stand for?",
+        "Industrial Control System",
+        "8790701326",
+        "NetAcad ITEv7 Section 5.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701325",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Industrial Control System'?",
+        "ICS",
+        "8790701325",
+        "NetAcad ITEv7 Section 5.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701326",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'air gapping'?",
+        "The process of isolating systems from other networks and particularly the internet",
+        "8790701328",
+        "NetAcad ITEv7 Section 5.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701327",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the process of isolating systems from other networks and particularly the internet?",
+        "Air gapping",
+        "8790701327",
+        "NetAcad ITEv7 Section 5.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701328",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an embedded system?",
+        "A computer system with a dedicated function within a larger system",
+        "8790701330",
+        "NetAcad ITEv7 Section 5.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701329",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a computer system with a dedicated function within a larger system?",
+        "An embedded system",
+        "8790701329",
+        "NetAcad ITEv7 Section 5.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701330",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a patch panel?",
+        "A dumb panel of connectors used for collecting, organizing, and managing cable runs",
+        "8790701332",
+        "NetAcad ITEv7 Section 5.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701331",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a dumb panel of connectors used for collecting, organizing, and managing cable runs?",
+        "A patch panel",
+        "8790701331",
+        "NetAcad ITEv7 Section 5.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701332",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PoE' stand for?",
+        "Power over Ethernet",
+        "8790701334",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701333",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Power over Ethernet'?",
+        "PoE",
+        "8790701333",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701334",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PoE meant for?",
+        "Powering devices that do not have a battery or access to an outlet",
+        "8790701336",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701335",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology is used to power devices that do not have a battery or access to an outlet?",
+        "PoE",
+        "8790701335",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701336",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What distance away from the power source can power be delivered with PoE?",
+        "100 metres",
+        "8790701338",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701337",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Using what power-delivery method can power be delivered 100 metres away from the power source?",
+        "PoE",
+        "8790701337",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701338",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for 'Ethernet over Power'?",
+        "Powerline networking",
+        "8790701340",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701339",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for 'powerline networking'?",
+        "Ethernet over Power",
+        "8790701339",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701340",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does powerline networking work?",
+        "Data signals are sent over electrical wires at specific frequencies",
+        "8790701342",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701341",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With what technology are data signals are sent over electrical wires at specific frequencies?",
+        "Powerline networking",
+        "8790701341",
+        "NetAcad ITEv7 Section 5.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701342",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a cloud-based network controller?",
+        "A centralized location for managing networking devices from the cloud",
+        "8790701344",
+        "NetAcad ITEv7 Section 5.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701343",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a centralized location for managing networking devices from the cloud?",
+        "A cloud-based network controller",
+        "8790701343",
+        "NetAcad ITEv7 Section 5.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790701344",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for wire cutters?",
+        "Side cutters",
+        "8790701346",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701345",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for side cutters?",
+        "Wire cutters",
+        "8790701345",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701346",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are wire cutters used for?",
+        "Cutting aluminum and copper wires",
+        "8790701348",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701347",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of tool is used to cut aluminum and copper wires?",
+        "Wire cutters",
+        "8790701347",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701348",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are wire strippers used for?",
+        "Removing the insulation from a wire",
+        "8790701350",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701349",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used for removing the insulation from a wire?",
+        "Wire strippers",
+        "8790701349",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701350",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a crimper used for?",
+        "Attaching connectors to the ends of wires",
+        "8790701352",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701351",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used for attaching connectors to the ends of wires?",
+        "A crimper",
+        "8790701351",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701352",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a punch-down tool used for?",
+        "Terminating wires into termination blocks",
+        "8790701354",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701353",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used for terminating wires into termination blocks?",
+        "Punch-down tools",
+        "8790701353",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701354",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a multimeter used for?",
+        "Taking many types of electrical measurements",
+        "8790701356",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701355",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool can take many types of electrical measurements?",
+        "A multimeter",
+        "8790701355",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701356",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a cable tester used for?",
+        "Testing for shorts, faults, or bad pins in data cables",
+        "8790701358",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701357",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used for testing for shorts, faults, or bad pins in data cables?",
+        "A cable tester",
+        "8790701357",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701358",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a loopback adapter used for?",
+        "Testing the functionality of a port by redirecting its output back to its input",
+        "8790701360",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701359",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used to test the functionality of a port by redirecting its output back to its input?",
+        "A loopback adapter",
+        "8790701359",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701360",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are a tone generator and probe used for?",
+        "Tracing cables",
+        "8790701362",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701361",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used for tracing cables?",
+        "A tone generator and probe",
+        "8790701361",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701362",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a tone generator and probe work?",
+        "The tone generator connects to one end of a cable and generates a tone, then the probe emits the tone from a speaker when when placed near the cable in question",
+        "8790701364",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701363",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of tool connects to one end of a cable to generate a tone that is picked up by a probe at the far end of the cable?",
+        "A tone generator and probe",
+        "8790701363",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701364",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a WiFi Analyzer?",
+        "A tool for auditing and troubleshooting wireless networks",
+        "8790701366",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701365",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool is used for auditing and troubleshooting wireless networks?",
+        "A WiFi analyzer",
+        "8790701365",
+        "NetAcad ITEv7 Section 5.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701366",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'RFI' stand for?",
+        "Radio Frequency Interference",
+        "8790701368",
+        "NetAcad ITEv7 Section 5.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701367",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Radio Frequency Interference'?",
+        "RFI",
+        "8790701367",
+        "NetAcad ITEv7 Section 5.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701368",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'EMI' stand for?",
+        "Electromagnetic Interference",
+        "8790701370",
+        "NetAcad ITEv7 Section 5.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701369",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Electromagnetic Interference'?",
+        "EMI",
+        "8790701369",
+        "NetAcad ITEv7 Section 5.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701370",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can occur if a STP cable is not properly grounded?",
+        "The shield can act as an antenna",
+        "8790701372",
+        "NetAcad ITEv7 Section 5.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701371",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Under what conditions can an STP shield act as an antenna?",
+        "If the cable is not properly grounded",
+        "8790701371",
+        "NetAcad ITEv7 Section 5.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701372",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of a category 5 cable?",
+        "100Mbps at 100MHz up to 100 meters",
+        "8790701374",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701373",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "100Mbps at 100MHz up to 100 meters are the capabilities of what cable?",
+        "Category 5",
+        "8790701373",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701374",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What cable did category 5 cable replace for data cabling?",
+        "Category 3 cable",
+        "8790701376",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701375",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Category 3 cable was replaced by what cable for data wiring?",
+        "Category 5 cable",
+        "8790701375",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701376",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of a Category 5e cable?",
+        "1Gbps at 100MHz up to 100 metres",
+        "8790701378",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701377",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "1Gbps at 100MHz up to 100 metres are the capabilities of what cable?",
+        "Category 5e",
+        "8790701377",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701378",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of a category 6 cable?",
+        "1Gbps at 250MHz up to 37 metres",
+        "8790701380",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701379",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "1Gbps at 250MHz up to 37 metres are the capabilities of what cable?",
+        "Category 6 cable",
+        "8790701379",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701380",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of a category 6a cable?",
+        "1Gbps at 500MHz up to 100 metres",
+        "8790701382",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701381",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "1Gbps at 500MHz up to 100 metres are the capabilities of what cable?",
+        "Category 6a cable",
+        "8790701381",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701382",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the physical differences between category 5 and 6 cabling?",
+        "Category 6 cabling has more twists per unit of length and a plastic divider to separate wire pairs",
+        "8790701384",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701383",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What kind of cabling has has more twists per unit of length than category 5 cabling, plus a plastic divider to separate wire pairs?",
+        "Category 6 cabling",
+        "8790701383",
+        "NetAcad ITEv7 Section 5.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701384",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between T568A and T568B?",
+        "The orange and green pair are reversed",
+        "8790701386",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701385",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which wire pairs are reversed between T568A and T568B?",
+        "Orange and green",
+        "8790701385",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701386",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What colour is pair 1 on both wiring schemes?",
+        "Blue",
+        "8790701388",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701387",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The blue pair is what pair number on both wiring schemes?",
+        "Pair 1",
+        "8790701387",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701388",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What colour is pair 4 on both wiring schemes?",
+        "Brown",
+        "8790701390",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701389",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The brown pair is what pair number on both wiring schemes?",
+        "Pair 4",
+        "8790701389",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701390",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In T568A, what wire pair goes in pins 1 and 2?",
+        "Green",
+        "8790701392",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701391",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Green goes in pins 1 and 2 in which wiring scheme?",
+        "T568A",
+        "8790701391",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701392",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In T568B, what wire pair goes in pins 1 and 2?",
+        "Orange",
+        "8790701394",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701393",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Orange goes in pins 1 and 2 in which wiring scheme?",
+        "T568B",
+        "8790701393",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701394",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "which wire of each pair goes in pins 1 and 3?",
+        "The striped wire",
+        "8790701396",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701395",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The striped wires go in which of the first 4 pins?",
+        "Pins 1 and 3",
+        "8790701395",
+        "NetAcad ITEv7 Section 5.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701396",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the layers of a fibre-optic cable?",
+        "Core, cladding, buffer, strengthening material, and jacket",
+        "8790701398",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701397",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Core, cladding, buffer, strengthening material, and jacket are the layers of what cable?",
+        "Fibre-optic",
+        "8790701397",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701398",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a fibre-optic cable's jacket?",
+        "To protect the cable against contaminants",
+        "8790701400",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701399",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of a fibre-optic cable protects it from contaminants?",
+        "The jacket",
+        "8790701399",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701400",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a fibre-optic cable's strengthening material?",
+        "To prevent the cable from stretching when pulled",
+        "8790701402",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701401",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of a fibre-optic cable prevents the cable from stretching when pulled?",
+        "The strengthening material",
+        "8790701401",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701402",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a fibre-optic cable's buffer?",
+        "To shield the core and cladding",
+        "8790701404",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701403",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of a fibre-optic cable shields the core and cladding?",
+        "The buffer",
+        "8790701403",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701404",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a fibre-optic cable's cladding?",
+        "To reflect light back into the core",
+        "8790701406",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701405",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of a fibre-optic cable reflects light back into the core?",
+        "The cladding",
+        "8790701405",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701406",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a fibre-optic cable's core?",
+        "To transmit light",
+        "8790701408",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701407",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of a fibre-optic cable transmits light?",
+        "The core",
+        "8790701407",
+        "NetAcad ITEv7 Section 5.4.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701408",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two types of fibre-optic cable?",
+        "Single mode fibre and multi-mode fibre",
+        "8790701410",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701409",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Single mode and multi-mode are the two types of what cable?",
+        "Fibre-optic cable",
+        "8790701409",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701410",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SMF' stand for?",
+        "Single-mode fibre",
+        "8790701412",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701411",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Single-mode fibre'?",
+        "SMF",
+        "8790701411",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701412",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MMF' stand for?",
+        "Multi-mode fibre",
+        "8790701414",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701413",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'multi-mode fibre'?",
+        "MMF",
+        "8790701413",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701414",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What applications is SMF used for?",
+        "Extremely long-distance transmission",
+        "8790701416",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701415",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which type of fibre is used for extremely long-distance transmission?",
+        "SMF",
+        "8790701415",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701416",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What applications is MMF used for?",
+        "Short-distance transmissions up to 550m",
+        "8790701418",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701417",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of fibre is used for short-distance transmissions up to 550m?",
+        "MMF",
+        "8790701417",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701418",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is different in SMF compared to MMF?",
+        "The core is smaller and the light-source is a laser",
+        "8790701420",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701419",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is different in MMF compared to SMF?",
+        "The core is larger and the light source is an LED",
+        "8790701419",
+        "NetAcad ITEv7 Section 5.4.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701420",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an 'ST' connector?",
+        "A straight-tip connector is an early fibre connector that connects similarly to coax",
+        "8790701422",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701421",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What connector is an early fibre connector that connects similarly to coax?",
+        "ST connectors",
+        "8790701421",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701422",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an SC connector?",
+        "Subscriber Connectors are a widely-adopted connector with a push-pull mechanism",
+        "8790701424",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701423",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the widely-adopted connector with a push-pull mechanism?",
+        "SC connector",
+        "8790701423",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701424",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are alternate names for the SC connector?",
+        "Subscriber Connector, Square Connector, and Standard Connector",
+        "8790701426",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701425",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Subscriber Connector, Square Connector, and Standard Connector are names for which connector?",
+        "The SC connector",
+        "8790701425",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701426",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the LC connector?",
+        "The Lucent Connector is a smaller version of the SC connector",
+        "8790701428",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701427",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which connector is a smaller version of the SC connector?",
+        "The LC connector",
+        "8790701427",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701428",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For FX and SX fibre standards, what direction does light travel?",
+        "Only one-way",
+        "8790701430",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701429",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which fibre standards does light travel only one way?",
+        "FX and SX",
+        "8790701429",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701430",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "in BX fibre standards, what direction does light travel?",
+        "Both ways",
+        "8790701432",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701431",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which fibre standard does light travel both ways?",
+        "BX standards",
+        "8790701431",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701432",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WDM' stand for?",
+        "Wave Division Multiplexing",
+        "8790701434",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701433",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Wave Division Multiplexing'?",
+        "WDM",
+        "8790701433",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701434",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does WDM do?",
+        "Separate the transmit and receive signals within the fibre",
+        "8790701436",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701435",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology separates the transmit and receive signals within the fibre?",
+        "WDM",
+        "8790701435",
+        "NetAcad ITEv7 Section 5.4.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701436",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
