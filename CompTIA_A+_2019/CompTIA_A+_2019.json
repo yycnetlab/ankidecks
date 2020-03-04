@@ -23136,6 +23136,1222 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What main device does the Zigbee protocol rely upon to create a network?",
+        "The coordinator",
+        "8790701438",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701437",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the Zigbee coordinator do?",
+        "Create and maintain the network",
+        "8790701437",
+        "NetAcad ITEv7 Section 5.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701438",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MAC' stand for?",
+        "Media Access Control",
+        "8790701440",
+        "NetAcad ITEv7 Section 5.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701439",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Media Access Control'?",
+        "MAC",
+        "8790701439",
+        "NetAcad ITEv7 Section 5.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701440",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do switches determine where to send packets?",
+        "The MAC address of every connected device is recorded internally along with which port it is connected to and traffic is matched with the MAC address it is destined for",
+        "8790701442",
+        "NetAcad ITEv7 Section 5.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701441",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what networking device is the MAC address of every connected device recorded internally along with which port it is connected to and traffic matched with the MAC address it is destined for?",
+        "A switch",
+        "8790701441",
+        "NetAcad ITEv7 Section 5.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701442",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NAT' stand for?",
+        "Network Address Translation",
+        "8790701444",
+        "NetAcad ITEv7 Section 6.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701443",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Network Address Translation'?",
+        "NAT",
+        "8790701443",
+        "NetAcad ITEv7 Section 6.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701444",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'QoS' stand for?",
+        "Quality of Service",
+        "8790701446",
+        "NetAcad ITEv7 Section 6.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701445",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Quality of Service'?",
+        "QoS",
+        "8790701445",
+        "NetAcad ITEv7 Section 6.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701446",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IoT' stand for?",
+        "Internet of Things",
+        "8790701448",
+        "NetAcad ITEv7 Section 6.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701447",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Internet of Things'?",
+        "IoT",
+        "8790701447",
+        "NetAcad ITEv7 Section 6.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701448",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'OUI' stand for?",
+        "Organizationally Unique Identifier",
+        "8790701450",
+        "NetAcad ITEv7 Section 6.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701449",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Organizationally Unique Identifier'?",
+        "OUI",
+        "8790701449",
+        "NetAcad ITEv7 Section 6.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701450",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the first 24 bits of a MAC address?",
+        "The OUI",
+        "8790701452",
+        "NetAcad ITEv7 Section 6.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701451",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which portion of a MAC address does the OUI take up?",
+        "The first 24 bits",
+        "8790701451",
+        "NetAcad ITEv7 Section 6.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701452",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many bits are in an IPv4 address?",
+        "32 bits",
+        "8790701454",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701453",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What common addressing protocol uses 32-bit addresses?",
+        "IPv4",
+        "8790701453",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701454",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many bits are in an IPv6 address?",
+        "128 bits",
+        "8790701456",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701455",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What common addressing protocol uses 128-bit addresses?",
+        "IPv6",
+        "8790701455",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701456",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another way of representing the subnet mask 255.255.255.0?",
+        "/24",
+        "8790701458",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701457",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another way of representing the subnet mask /24?",
+        "255.255.255.0",
+        "8790701457",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701458",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is the network portion of an IP address determined?",
+        "By the subnet mask",
+        "8790701460",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701459",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the subnet mask determine?",
+        "The network portion of an IP address",
+        "8790701459",
+        "NetAcad ITEv7 Section 6.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701460",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many bits are in each segment of an IPv6 address?",
+        "16 bits",
+        "8790701462",
+        "NetAcad ITEv7 Section 6.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701461",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What addressing protocol uses 16-bit segments?",
+        "IPv6",
+        "8790701461",
+        "NetAcad ITEv7 Section 6.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701462",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can single segments of an IPv6 address be shortened?",
+        "Leading zeroes can be omitted",
+        "8790701464",
+        "NetAcad ITEv7 Section 6.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701463",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Leading zeroes can be omitted in order to do what with an IPv6 address?",
+        "Shorten it",
+        "8790701463",
+        "NetAcad ITEv7 Section 6.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701464",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can contiguous segments of an IPv6 address be shortened?",
+        "Contiguous all-zero segments can be replaced by a double-colon",
+        "8790701466",
+        "NetAcad ITEv7 Section 6.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701465",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Contiguous all-zero segments can be replaced by a double-colon in order to do what?",
+        "Shorten an IPv6 address",
+        "8790701465",
+        "NetAcad ITEv7 Section 6.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701466",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'APIPA' stand for?",
+        "Automatic Private IP Addressing",
+        "8790701468",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701467",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Automatic Private IP Addressing'?",
+        "APIPA",
+        "8790701467",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701468",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for an APIPA address?",
+        "A local-link address",
+        "8790701470",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701469",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for a local-link address?",
+        "An APIPA address",
+        "8790701469",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701470",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the APIPA range for IPv4?",
+        "169.254.0.0 to 169.254.255.255",
+        "8790701472",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701471",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "169.254.0.0 to 169.254.255.255 is the range for what?",
+        "APIPA addresses",
+        "8790701471",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701472",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the APIPA range for IPv6?",
+        "fe80:: to febf::",
+        "8790701474",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701473",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "fe80:: to febf:: is the range for what?",
+        "IPv6 APIPA addresses",
+        "8790701473",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701474",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When are IPv4 APIPA addresses used?",
+        "When an IP address cannot be obtained through DHCP",
+        "8790701476",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701475",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When an IP address cannot be obtained through DHCP, what does a computer use instead?",
+        "A randomly-assigned APIPA address",
+        "8790701475",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701476",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When are IPv6 APIPA addresses used?",
+        "All IPv6-enabled devices must have an APIPA address",
+        "8790701478",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701477",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of address must all IPv6-enabled device have in addition to their regular IPv6 address?",
+        "An APIPA address",
+        "8790701477",
+        "NetAcad ITEv7 Section 6.1.1.10"
+      ],
+      "flags": 0,
+      "guid": "8790701478",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GUI' stand for?",
+        "Graphical User Interface",
+        "8790701480",
+        "NetAcad ITEv7 Section 6.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701479",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Graphical User Interface'?",
+        "GUI",
+        "8790701479",
+        "NetAcad ITEv7 Section 6.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701480",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are best-practices for installing device driver updates?",
+        "Disable anti-virus software and only install one driver at a time",
+        "8790701482",
+        "NetAcad ITEv7 Section 6.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701481",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Disabling anti-virus software and only installing one driver at a time are what?",
+        "Best practices for installing device driver updates",
+        "8790701481",
+        "NetAcad ITEv7 Section 6.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701482",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ICMP' stand for?",
+        "Internet Control Message Protocol",
+        "8790701484",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701483",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Internet Control Message Protocol'?",
+        "ICMP",
+        "8790701483",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701484",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ICMP used for?",
+        "Sending control and error messages",
+        "8790701486",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701485",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol is used for sending control and error messages?",
+        "ICMP",
+        "8790701485",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701486",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does the ping command use ICMP?",
+        "Ping sends an ICMP echo request and times how long the target IP takes to respond with an ICMP echo reply",
+        "8790701488",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701487",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command sends an ICMP echo request and times how long the target IP takes to respond with an ICMP echo reply?",
+        "Ping",
+        "8790701487",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701488",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SOHO network' stand for?",
+        "Small Office / Home Office network",
+        "8790701490",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701489",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Small Office / Home Office network'?",
+        "SOHO network",
+        "8790701489",
+        "NetAcad ITEv7 Section 6.1.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790701490",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does QoS do?",
+        "Prioritizes certain types of traffic over others",
+        "8790701492",
+        "NetAcad ITEv7 Section 6.1.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790701491",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What configuration setting prioritizes certain types of traffic over others?",
+        "QoS",
+        "8790701491",
+        "NetAcad ITEv7 Section 6.1.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790701492",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DMZ' stand for?",
+        "Demilitarized Zone",
+        "8790701494",
+        "NetAcad ITEv7 Section 6.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701493",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Demilitarized Zone'?",
+        "DMZ",
+        "8790701493",
+        "NetAcad ITEv7 Section 6.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701494",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UPnP' stand for?",
+        "Universal Plug and Play",
+        "8790701496",
+        "NetAcad ITEv7 Section 6.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701495",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Universal Plug and Play'?",
+        "UPnP",
+        "8790701495",
+        "NetAcad ITEv7 Section 6.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701496",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does UPnP do?",
+        "Allows devices to dynamically add themselves to a network without user intervention",
+        "8790701498",
+        "NetAcad ITEv7 Section 6.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701497",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol allows devices to dynamically add themselves to a network without user intervention?",
+        "UPnP",
+        "8790701497",
+        "NetAcad ITEv7 Section 6.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701498",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the downside of using UPnP?",
+        "It has a number of security vulnerabilities",
+        "8790701500",
+        "NetAcad ITEv7 Section 6.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701499",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What convenient protocol for automatic network configuration has many security vulnerabilities?",
+        "UPnP",
+        "8790701499",
+        "NetAcad ITEv7 Section 6.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701500",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a DMZ do?",
+        "Isolates devices that provide a service to an untrusted network, such as the internet",
+        "8790701502",
+        "NetAcad ITEv7 Section 6.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790701501",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What isolates devices that provide a service to an untrusted network, such as the internet?",
+        "A DMZ",
+        "8790701501",
+        "NetAcad ITEv7 Section 6.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790701502",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is port-forwarding?",
+        "A set of configurable rules for directing traffic between devices on separate networks",
+        "8790701504",
+        "NetAcad ITEv7 Section 6.1.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790701503",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the set of configurable rules for directing traffic between devices on separate networks?",
+        "Port-forwarding",
+        "8790701503",
+        "NetAcad ITEv7 Section 6.1.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790701504",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is port triggering?",
+        "Temporary port-forwarding that only allows inbound traffic in when there is active outbound traffic on the port",
+        "8790701506",
+        "NetAcad ITEv7 Section 6.1.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790701505",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for temporary port-forwarding that only allows inbound traffic in when there is active outbound traffic on the port?",
+        "Port triggering",
+        "8790701505",
+        "NetAcad ITEv7 Section 6.1.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790701506",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is MAC address filtering?",
+        "Creating a whitelist or blacklist of MAC addresses on a network",
+        "8790701508",
+        "NetAcad ITEv7 Section 6.1.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790701507",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a whitelist or blacklist of MAC addresses on a network?",
+        "MAC address filtering",
+        "8790701507",
+        "NetAcad ITEv7 Section 6.1.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790701508",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'IoT devices' refer to?",
+        "Non-traditional networked and sensor-equipped devices",
+        "8790701510",
+        "NetAcad ITEv7 Section 6.1.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790701509",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The grouping of non-traditional networked and sensor-equipped devices is referred to by what term?",
+        "IoT devices",
+        "8790701509",
+        "NetAcad ITEv7 Section 6.1.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790701510",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many bits are there in a MAC address?",
+        "48 bits",
+        "8790701512",
+        "NetAcad ITEv7 Section 6.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701511",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "There are 48 bits in what type of address?",
+        "a MAC address",
+        "8790701511",
+        "NetAcad ITEv7 Section 6.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701512",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
