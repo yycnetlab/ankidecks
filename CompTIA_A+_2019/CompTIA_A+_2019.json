@@ -24352,6 +24352,2534 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'mobility' refer to in IT?",
+        "The ability to access information outside of the home or office",
+        "8790701514",
+        "NetAcad ITEv7 Section 7.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701513",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to refer to the ability to access information outside of the home or office?",
+        "Mobility",
+        "8790701513",
+        "NetAcad ITEv7 Section 7.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701514",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common traits of mobile devices?",
+        "They have self-contained power in the form of batteries, are small and lightweight, and do not rely on external peripheral devices",
+        "8790701516",
+        "NetAcad ITEv7 Section 7.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701515",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of device has self-contained power in the form of batteries, is small and lightweight, and does not rely on external peripheral devices?",
+        "Mobile devices",
+        "8790701515",
+        "NetAcad ITEv7 Section 7.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701516",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common sacrifices made by laptops in order to maintain portability?",
+        "Slower processors and limited upgradability",
+        "8790701518",
+        "NetAcad ITEv7 Section 7.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701517",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Slower processors and limited upgradability are sacrifices made by what type of mobile device?",
+        "Laptops",
+        "8790701517",
+        "NetAcad ITEv7 Section 7.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701518",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some limitations of smartphones?",
+        "Limited number of ports, limited OS capabilities, and constant pressure to upgrade",
+        "8790701520",
+        "NetAcad ITEv7 Section 7.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701519",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Limited number of ports, limited OS capabilities, and constant pressure to upgrade are limitations of what mobile device?",
+        "Smartphones",
+        "8790701519",
+        "NetAcad ITEv7 Section 7.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701520",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GPS' stand for?",
+        "Global Positioning System",
+        "8790701522",
+        "NetAcad ITEv7 Section 7.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701521",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Global Positioning System'?",
+        "GPS",
+        "8790701521",
+        "NetAcad ITEv7 Section 7.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701522",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does GPS work?",
+        "The device compares several known satellite signals to precisely determine its location",
+        "8790701524",
+        "NetAcad ITEv7 Section 7.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701523",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With what technology does a device compare several known satellite signals to precisely determine its location?",
+        "GPS",
+        "8790701523",
+        "NetAcad ITEv7 Section 7.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701524",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an e-reader?",
+        "E-readers are special tablets with very limited functionality designed for reading ebooks with very long battery life",
+        "8790701526",
+        "NetAcad ITEv7 Section 7.1.1.6"
+      ],
+      "flags": 0,
+      "guid": "8790701525",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name used for special tablets with very limited functionality designed for reading ebooks with very long battery life?",
+        "E-readers",
+        "8790701525",
+        "NetAcad ITEv7 Section 7.1.1.6"
+      ],
+      "flags": 0,
+      "guid": "8790701526",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are wearables?",
+        "Small smart-devices with many sensors that can be worn as clothing",
+        "8790701528",
+        "NetAcad ITEv7 Section 7.1.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790701527",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for small smart-devices with many sensors that can be worn as clothing?",
+        "Wearables",
+        "8790701527",
+        "NetAcad ITEv7 Section 7.1.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790701528",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of RAM slots do laptops use?",
+        "SODIMMs",
+        "8790701530",
+        "NetAcad ITEv7 Section 7.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701529",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "SODIMMs are used in what type of computer?",
+        "Laptops",
+        "8790701529",
+        "NetAcad ITEv7 Section 7.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701530",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of expansion slots are usually found on laptops?",
+        "Mini-PCI slots",
+        "8790701532",
+        "NetAcad ITEv7 Section 7.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701531",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On what type of computer are Mini-PCI slots commonly found?",
+        "Laptops",
+        "8790701531",
+        "NetAcad ITEv7 Section 7.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701532",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Since laptops have little space for cooling, what technique is used to keep the CPU cool?",
+        "Throttling",
+        "8790701534",
+        "NetAcad ITEv7 Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701533",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why do laptops throttle their CPUs?",
+        "To keep the CPU cool in the absence of a large cooling solution",
+        "8790701533",
+        "NetAcad ITEv7 Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701534",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What form factor of hard drive is common in laptops?",
+        "2.5in hard drives",
+        "8790701536",
+        "NetAcad ITEv7 Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701535",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "2.5in hard drives are common in what type of computer?",
+        "Laptops",
+        "8790701535",
+        "NetAcad ITEv7 Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701536",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'TN' stand for in reference to display technologies?",
+        "Twisted Nematic",
+        "8790701538",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701537",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Twisted Nematic' panels?",
+        "TN",
+        "8790701537",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701538",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IPS' stand for?",
+        "In-Plane Switching",
+        "8790701540",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701539",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'In-Plane Switching'?",
+        "IPS",
+        "8790701539",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701540",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VA' stand for in terms of display technologies?",
+        "Vertical Alignment",
+        "8790701542",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701541",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Vertical Alignment' panels?",
+        "VA",
+        "8790701541",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701542",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the main advantages of TN panels?",
+        "Low cost, high brightness, and low power consumption",
+        "8790701544",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701543",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Low cost, high brightness, and low power consumption are the main benefits of what type of panel?",
+        "TN panel",
+        "8790701543",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701544",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the main advantages of IPS panels?",
+        "Good viewing angles and colour reproduction",
+        "8790701546",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701545",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Good viewing angles and colour reproduction are the main advantages of what type of panel?",
+        "IPS panel",
+        "8790701545",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701546",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the main advantage of VA panels?",
+        "High contrast",
+        "8790701548",
+        "https://www.pchardwarehelp.com/guides/lcd-panel-types.php"
+      ],
+      "flags": 0,
+      "guid": "8790701547",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "High contrast is the main advantage of what type of panel?",
+        "VA panel",
+        "8790701547",
+        "https://www.pchardwarehelp.com/guides/lcd-panel-types.php"
+      ],
+      "flags": 0,
+      "guid": "8790701548",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the main advantage of LED displays over LCD displays?",
+        "Lower power consumption and longer lifespan",
+        "8790701550",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701549",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Lower power consumption and longer lifespan are the advantage of what display technology over LCD?",
+        "LED",
+        "8790701549",
+        "NetAcad ITEv7 Section 7.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701550",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What key command allows Windows to rotate a display to accommodate unusual display configurations?",
+        "Control + Alt + Arrow key",
+        "8790701552",
+        "NetAcad ITEv7 Section 7.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701551",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Control + Alt + Arrow key does what?",
+        "Rotates the display to face the direction of the arrow key pressed",
+        "8790701551",
+        "NetAcad ITEv7 Section 7.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701552",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do touchscreens work?",
+        "A digitizer attached to the display converts touch actions into a digital signal to be processed",
+        "8790701554",
+        "NetAcad ITEv7 Section 7.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701553",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of display does a digitizer attached to the display convert touch actions into a digital signal to be processed?",
+        "Touchscreen",
+        "8790701553",
+        "NetAcad ITEv7 Section 7.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701554",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a laptop cutoff switch?",
+        "To turn off the display when the laptop lid is closed",
+        "8790701556",
+        "NetAcad ITEv7 Section 7.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701555",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component turns off the display when the laptop lid is closed?",
+        "Cutoff switch",
+        "8790701555",
+        "NetAcad ITEv7 Section 7.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701556",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CCFL' stand for?",
+        "Cold Cathode Fluorescent Lamp",
+        "8790701558",
+        "NetAcad ITEv7 Section 7.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701557",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Cold Cathode Fluorescent Lamps'?",
+        "CCFL",
+        "8790701557",
+        "NetAcad ITEv7 Section 7.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701558",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ACPI' stand for?",
+        "Advanced Configuration and Power Interface",
+        "8790701560",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701559",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Advanced Configuration and Power Interface'?",
+        "ACPI",
+        "8790701559",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701560",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does ACPI do?",
+        "Allow the creation of power management schemes to get the best performance or battery life from a laptop",
+        "8790701562",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701561",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What allows the creation of power management schemes to get the best performance or battery life from a laptop?",
+        "ACPI",
+        "8790701561",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701562",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WOL' stand for?",
+        "Wake On LAN",
+        "8790701564",
+        "NetAcad ITEv7 Section 7.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701563",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Wake On LAN'?",
+        "WOL",
+        "8790701563",
+        "NetAcad ITEv7 Section 7.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701564",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ACPI state S0?",
+        "The computer is running at full power",
+        "8790701566",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701565",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What ACPI state is active when the computer is running at full power?",
+        "State S0",
+        "8790701565",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701566",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ACPI state S1?",
+        "The CPU and RAM are powered, but unused devices are powered down",
+        "8790701568",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701567",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what ACPI state is the CPU and RAM powered, but unused devices powered down?",
+        "State S1",
+        "8790701567",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701568",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ACPI state S2?",
+        "The CPU and peripherals are powered off, but the RAM is fully powered",
+        "8790701570",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701569",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what ACPI state is the CPU and peripherals powered off, but the RAM fully powered?",
+        "State S2",
+        "8790701569",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701570",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ACPI state S3?",
+        "The CPU is powered off and the RAM is in a low-power state",
+        "8790701572",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701571",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what ACPI state is the CPU powered off and the RAM in a low-power state?",
+        "State S3",
+        "8790701571",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701572",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ACPI state S4?",
+        "The CPU and RAM are powered off and the contents of the RAM have been saved to persistent storage",
+        "8790701574",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701573",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what ACPI state are the CPU and RAM powered off and the contents of the RAM saved to persistent storage?",
+        "State S4",
+        "8790701573",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701574",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ACPI state S5?",
+        "The computer is fully powered off",
+        "8790701576",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701575",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what ACPI state is the computer fully powered off?",
+        "State S5",
+        "8790701575",
+        "NetAcad ITEv7 Section 7.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701576",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the specifications of a class 1 Bluetooth signal?",
+        "A maximum of 100mW of power and a range of 100 metres",
+        "8790701578",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701577",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What class of Bluetooth signal has a maximum of 100mW of power and a range of 100 metres?",
+        "Class 1",
+        "8790701577",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701578",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the specifications of a class 2 Bluetooth signal?",
+        "A maximum of 2.5mW of power and a range of 10 metres",
+        "8790701580",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701579",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What class of Bluetooth signal has a maximum of 2.5mW of power and a range of 10 metres?",
+        "Class 2",
+        "8790701579",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701580",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the specifications of a class 3 Bluetooth signal?",
+        "A maximum of 1mW of power and a range of 1 metre",
+        "8790701582",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701581",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What class of Bluetooth signal has a maximum of 1mW of power and a range of 1 metre?",
+        "Class 3",
+        "8790701581",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701582",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which early Bluetooth specification had a data transfer rate of 1Mbps?",
+        "Version 1.0",
+        "8790701584",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701583",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the data transfer rate of Bluetooth v1.0?",
+        "1Mbps",
+        "8790701583",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701584",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Bluetooth specification had a data transfer rate of 3Mbps?",
+        "Version 2.0",
+        "8790701586",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701585",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the data transfer rate of Bluetooth v2.0?",
+        "3Mbps",
+        "8790701585",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701586",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Bluetooth specification had a data transfer rate of 24Mbps?",
+        "Version 3.0",
+        "8790701588",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701587",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the data transfer rate of Bluetooth v3.0?",
+        "24Mbps",
+        "8790701587",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701588",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which recent Bluetooth specification had a data transfer rate of 1Mbps?",
+        "Version 4.0",
+        "8790701590",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701589",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the data transfer rate of Bluetooth v4.0?",
+        "1Mbps",
+        "8790701589",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701590",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which recent Bluetooth specification supports multiple data rates?",
+        "Version 5.0",
+        "8790701592",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701591",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the data transfer rate of Bluetooth v5.0?",
+        "125Kbps, 500Kbps, 1Mbps, and 2Mbps are supported",
+        "8790701591",
+        "NetAcad ITEv7 Section 7.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701592",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are on a Mini-PCIe card?",
+        "54 pins",
+        "8790701594",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701593",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which 54-pin PCI card standard added support for 802.11n and 802.11ac?",
+        "Mini-PCIe",
+        "8790701593",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701594",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are on a Mini-PCI card?",
+        "124 pins",
+        "8790701596",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701595",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What PCI standard found on laptops had 124 pins?",
+        "Mini-PCI",
+        "8790701595",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701596",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What PCI standard is a smaller version of Mini-PCIe?",
+        "PCIe Micro",
+        "8790701598",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701597",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PCIe Micro?",
+        "A smaller version of Mini-PCIe",
+        "8790701597",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701598",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What WiFi standards were supported by Mini-PCI cards?",
+        "802.11a, 802.11b, and 802.11g",
+        "8790701600",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701599",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "802.11a, 802.11b, and 802.11g were the standards supported by which type of laptop PCI WiFi cards?",
+        "Mini-PCI",
+        "8790701599",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701600",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What WiFi standards are supported by PCIe Micro WiFi cards?",
+        "802.11a through 802.11ac",
+        "8790701602",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701601",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What types of laptop PCI WiFi card supports 802.11a through 802.11ac?",
+        "Mini-PCIe and PCIe Micro",
+        "8790701601",
+        "NetAcad ITEv7 Section 7.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790701602",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are ExpressCards used for?",
+        "Adding modular functionality with a dedicated expansion slot",
+        "8790701604",
+        "NetAcad ITEv7 Section 7.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701603",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of expansion card was popular until 2010?",
+        "ExpressCard",
+        "8790701603",
+        "NetAcad ITEv7 Section 7.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701604",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a smart card?",
+        "A plastic card with an embedded microchip for storing and protecting information",
+        "8790701606",
+        "NetAcad ITEv7 Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701605",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a plastic card with an embedded microchip for storing and protecting information?",
+        "A smart card",
+        "8790701605",
+        "NetAcad ITEv7 Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701606",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CRU' stand for?",
+        "Consumer-Replaceable Unit",
+        "8790701608",
+        "NetAcad ITEv7 Section 7.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701607",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Consumer-Replaceable Unit'?",
+        "CRU",
+        "8790701607",
+        "NetAcad ITEv7 Section 7.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701608",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'FRU' stand for?",
+        "Field-Replaceable Unit",
+        "8790701610",
+        "NetAcad ITEv7 Section 7.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701609",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Field-Replaceable Unit'?",
+        "FRU",
+        "8790701609",
+        "NetAcad ITEv7 Section 7.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701610",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Due to their compactness, mobile devices typically do not have what type of component?",
+        "Field-serviceable components",
+        "8790701612",
+        "NetAcad ITEv7 Section 7.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701611",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of device does not typically have field-serviceable components due to its size?",
+        "Mobile devices",
+        "8790701611",
+        "NetAcad ITEv7 Section 7.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701612",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a SIM card?",
+        "A SIM card authenticates a device with a mobile carrier",
+        "8790701614",
+        "NetAcad ITEv7 Section 7.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701613",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of card authenticates a device with a mobile carrier?",
+        "A SIM card",
+        "8790701613",
+        "NetAcad ITEv7 Section 7.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701614",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SIM' stand for?",
+        "Subscriber Identity Module",
+        "8790701616",
+        "NetAcad ITEv7 Section 7.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701615",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Subscriber Identity Module'?",
+        "SIM",
+        "8790701615",
+        "NetAcad ITEv7 Section 7.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701616",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IR' stand for?",
+        "Infrared",
+        "8790701618",
+        "NetAcad ITEv7 Section 7.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701617",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Infrared'?",
+        "IR",
+        "8790701617",
+        "NetAcad ITEv7 Section 7.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701618",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are common uses for IR-enabled equipment?",
+        "Controlling IR-controlled devices such as TVs, set-top boxes, and audio equipment",
+        "8790701620",
+        "NetAcad ITEv7 Section 7.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701619",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What wireless communication standard is typically used to control devices such as TVs, set-top boxes, and audio equipment?",
+        "IR-enabled devices",
+        "8790701619",
+        "NetAcad ITEv7 Section 7.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701620",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a fitness monitor?",
+        "A wearable smart-device designed to track activity and body metrics over time",
+        "8790701622",
+        "NetAcad ITEv7 Section 7.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701621",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a wearable smart-device designed to track activity and body metrics over time?",
+        "A fitness monitor",
+        "8790701621",
+        "NetAcad ITEv7 Section 7.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701622",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a smartwatch?",
+        "A wearable device that bridges the functionality of a watch with that of a smartphone",
+        "8790701624",
+        "NetAcad ITEv7 Section 7.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701623",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a wearable device that bridges the functionality of a watch with that of a smartphone?",
+        "A smartwatch",
+        "8790701623",
+        "NetAcad ITEv7 Section 7.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701624",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IMEI' stand for?",
+        "International Mobile Equipment Identity",
+        "8790701626",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701625",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'International Mobile Equipment Identity'?",
+        "IMEI",
+        "8790701625",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701626",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GSM' stand for?",
+        "Global System for Mobile Communications",
+        "8790701628",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701627",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Global System for Mobile Communications'?",
+        "GSM",
+        "8790701627",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701628",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an IMEI?",
+        "A unique 15-digit identifier for a physical mobile device",
+        "8790701630",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701629",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the unique 15-digit identifier for a physical mobile device?",
+        "IMEI",
+        "8790701629",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701630",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IMSI' stand for?",
+        "International Mobile Subscriber Identity",
+        "8790701632",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701631",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'International Mobile Subscriber Identity'?",
+        "IMSI",
+        "8790701631",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701632",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an IMSI?",
+        "An identifier programmed into a SIM card or a device itself for authentication purposes",
+        "8790701634",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701633",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for an identifier programmed into a SIM card or a device itself for authentication purposes?",
+        "IMSI",
+        "8790701633",
+        "NetAcad ITEv7 Section 7.5.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701634",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SMS' stand for?",
+        "Short Message Service",
+        "8790701636",
+        "NetAcad ITEv7 Section 7.5.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701635",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Short Message Service'?",
+        "SMS",
+        "8790701635",
+        "NetAcad ITEv7 Section 7.5.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701636",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MMS' stand for?",
+        "Multimedia Message Service",
+        "8790701638",
+        "NetAcad ITEv7 Section 7.5.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701637",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Multimedia Message Service'?",
+        "MMS",
+        "8790701637",
+        "NetAcad ITEv7 Section 7.5.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701638",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'LTE' stand for?",
+        "Long Term Evolution",
+        "8790701640",
+        "NetAcad ITEv7 Section 7.5.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701639",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Long Term Evolution'?",
+        "LTE",
+        "8790701639",
+        "NetAcad ITEv7 Section 7.5.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701640",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of airplane mode?",
+        "Disabling wireless connectivity when it is not needed, unwanted, or prohibited",
+        "8790701642",
+        "NetAcad ITEv7 Section 7.5.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701641",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What setting is used to disable wireless connectivity when it is not needed, unwanted, or prohibited?",
+        "Airplane mode",
+        "8790701641",
+        "NetAcad ITEv7 Section 7.5.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701642",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MAPI' stand for?",
+        "Messaging Application Programming Interface",
+        "8790701644",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701643",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Messaging Application Programming Interface'?",
+        "MAPI",
+        "8790701643",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701644",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is MAPI?",
+        "A proprietary alternative to IMAP used by Microsoft Outlook",
+        "8790701646",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701645",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the proprietary alternative to IMAP used by Microsoft Outlook?",
+        "MAPI",
+        "8790701645",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701646",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does POP3 work?",
+        "Simple message-retrieval protocol that does not leave a copy on the server",
+        "8790701648",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701647",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the simple email message-retrieval protocol that does not leave a copy on the server?",
+        "POP3",
+        "8790701647",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701648",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does IMAP work?",
+        "Synchronizes email folders between the server and client, leaving copies on the server",
+        "8790701650",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701649",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What email protocol synchronizes email folders between the server and client, leaving copies on the server?",
+        "IMAP",
+        "8790701649",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701650",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What port does POP3 use?",
+        "TCP port 110",
+        "8790701652",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701651",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What email message retrieval protocl uses TCP port 110?",
+        "POP3",
+        "8790701651",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701652",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What port does IMAP use?",
+        "TCP port 143",
+        "8790701654",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701653",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What email message retrieval protocol uses TCP port 143?",
+        "IMAP",
+        "8790701653",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701654",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What port does SMTP use?",
+        "TCP port 25",
+        "8790701656",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701655",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What email message transmission protocol uses TCP port 25?",
+        "SMTP",
+        "8790701655",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701656",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does SMTP work?",
+        "SMTP transfers ASCII-encoded text from a mail client to a server and between servers",
+        "8790701658",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701657",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol transfers ASCII-encoded text from a mail client to a server and between servers?",
+        "SMTP",
+        "8790701657",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701658",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MIME' stand for?",
+        "Multipurpose Internet Mail Extension",
+        "8790701660",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701659",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Multipurpose Internet Mail Extension'?",
+        "MIME",
+        "8790701659",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701660",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is MIME used for?",
+        "MIME extends SMTP to allow the transfer of multimedia files via email",
+        "8790701662",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701661",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol extends SMTP to allow the transfer of multimedia files via email?",
+        "MIME",
+        "8790701661",
+        "NetAcad ITEv7 Section 7.5.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701662",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is local email?",
+        "An email server managed by a local IT department",
+        "8790701664",
+        "NetAcad ITEv7 Section 7.5.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790701663",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for an email server managed by a local IT department?",
+        "Local email",
+        "8790701663",
+        "NetAcad ITEv7 Section 7.5.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790701664",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is internet email?",
+        "An email server hosted in the cloud by a major service provider",
+        "8790701666",
+        "NetAcad ITEv7 Section 7.5.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790701665",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for an email server hosted in the cloud by a major service provider?",
+        "Internet email",
+        "8790701665",
+        "NetAcad ITEv7 Section 7.5.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790701666",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How should mobile devices be cleaned?",
+        "With nonabrasive cloths and approved cleaning solutions",
+        "8790701668",
+        "NetAcad ITEv7 Section 7.6.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701667",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Nonabrasive cloths and approved cleaning solutions should be used for what?",
+        "Cleaning mobile devices",
+        "8790701667",
+        "NetAcad ITEv7 Section 7.6.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701668",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three basic tasks of mobile device preventative maintenance?",
+        "Physical cleaning, backing up data, and updating software",
+        "8790701670",
+        "NetAcad ITEv7 Section 7.6.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701669",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Physical cleaning, backing up data, and updating software are the three basic tasks of what?",
+        "Mobile device preventative maintenance",
+        "8790701669",
+        "NetAcad ITEv7 Section 7.6.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701670",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
