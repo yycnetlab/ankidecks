@@ -26880,6 +26880,1830 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is the speed of a printer measured?",
+        "PPM",
+        "8790701672",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701671",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "PPM is the measure of what?",
+        "The speed of a printer",
+        "8790701671",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701672",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PPM' stand for?",
+        "Pages per minute",
+        "8790701674",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701673",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'pages per minute'?",
+        "PPM",
+        "8790701673",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701674",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is the quality of printing measured?",
+        "DPI",
+        "8790701676",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701675",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DPI measure?",
+        "The quality of printing",
+        "8790701675",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701676",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DPI' stand for?",
+        "Dots per inch",
+        "8790701678",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701677",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'dots per inch'?",
+        "DPI",
+        "8790701677",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701678",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What colours are used in printing?",
+        "Cyan, magenta, and yellow",
+        "8790701680",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701679",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Cyan, magenta, and yellow are the colours used in what?",
+        "Printing",
+        "8790701679",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701680",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why does the 'K' in 'CMYK' refer to black?",
+        "Black is the 'key' colour",
+        "8790701682",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701681",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'Key' colour in the 'CMYK' colour wheel?",
+        "Black",
+        "8790701681",
+        "NetAcad ITEv7 Section 8.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701682",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MTBF' stand for?",
+        "Mean Time Between Failures",
+        "8790701684",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701683",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Mean Time Between Failures'?",
+        "MTBF",
+        "8790701683",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701684",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does MTBF represent?",
+        "The average lifespan of a device before experiencing a fault",
+        "8790701686",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701685",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What measure represents the average lifespan of a device before experiencing a fault?",
+        "MTBF",
+        "8790701685",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701686",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'TCO' stand for?",
+        "Total Cost of Ownership",
+        "8790701688",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701687",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Total Cost of Ownership'?",
+        "TCO",
+        "8790701687",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701688",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does TCO encompass?",
+        "Purchase price, cost of consumables, rate of consumable use, maintenance, and warranty",
+        "8790701690",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701689",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Purchase price, cost of consumables, rate of consumable use, maintenance, and warranty are components of what?",
+        "TCO",
+        "8790701689",
+        "NetAcad ITEv7 Section 8.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701690",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ADF' stand for?",
+        "Automatic Document Feeder",
+        "8790701692",
+        "NetAcad ITEv7 Section 8.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701691",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Automatic Document Feeder'?",
+        "ADF",
+        "8790701691",
+        "NetAcad ITEv7 Section 8.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701692",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do inkjet printers create an image?",
+        "Electrostatic spray of ink",
+        "8790701694",
+        "NetAcad ITEv7 Section 8.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701693",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of printer uses an electrostatic spray of ink?",
+        "Inkjet printers",
+        "8790701693",
+        "NetAcad ITEv7 Section 8.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701694",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do laser printers create an image?",
+        "An imaging drum",
+        "8790701696",
+        "NetAcad ITEv7 Section 8.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701695",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of printer uses an imaging drum?",
+        "Laser printers",
+        "8790701695",
+        "NetAcad ITEv7 Section 8.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701696",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the shorthand for a serial port?",
+        "COM",
+        "8790701698",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701697",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is COM shorthand for?",
+        "A serial port",
+        "8790701697",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701698",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What IEEE standard do parallel printer ports follow?",
+        "IEEE 1284",
+        "8790701700",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701699",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "IEEE 1284 is the standard for what port?",
+        "Parallel printer ports",
+        "8790701699",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701700",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the shorthand for a parallel printer port?",
+        "LPT",
+        "8790701702",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701701",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "LPT is the shorthand for what port?",
+        "A parallel printer port",
+        "8790701701",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701702",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'EPP' stand for?",
+        "Enhanced Parallel Port",
+        "8790701704",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701703",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Enhanced Parallel Port'?",
+        "EPP",
+        "8790701703",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701704",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ECP' stand for?",
+        "Enhanced Capabilities Port",
+        "8790701706",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701705",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Enhanced Capabilities Port'?",
+        "ECP",
+        "8790701705",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701706",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for FireWire?",
+        "i.LINK",
+        "8790701708",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701707",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "i.LINK is an alternate name for what cable standard?",
+        "FireWire",
+        "8790701707",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701708",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What IEEE standard does FireWire follow?",
+        "IEEE 1394",
+        "8790701710",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701709",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "IEEE 1394 is the standard for what cable?",
+        "FireWire",
+        "8790701709",
+        "NetAcad ITEv7 Section 8.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701710",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some advantages of inkjet printers?",
+        "Low cost, high resolution, and quick to warm up",
+        "8790701712",
+        "NetAcad ITEv7 Section 8.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701711",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Low cost, high resolution, and quick to warm up are the advantages of what kind of printer?",
+        "Inkjet",
+        "8790701711",
+        "NetAcad ITEv7 Section 8.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701712",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some disadvantages of inkjet printers?",
+        "Prone to clogging, expensive cartridges, and wet ink on the page after printing",
+        "8790701714",
+        "NetAcad ITEv7 Section 8.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701713",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Prone to clogging, expensive cartridges, and wet ink on the page after printing are the disadvantages of what type of printer?",
+        "Inkjet",
+        "8790701713",
+        "NetAcad ITEv7 Section 8.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701714",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the primary consumables for inkjet printers?",
+        "Paper and ink",
+        "8790701716",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701715",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Paper and ink are the primary consumables of what type of printer?",
+        "Inkjet",
+        "8790701715",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701716",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two types of inkjet nozzle?",
+        "Thermal and piezoelectric",
+        "8790701718",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701717",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Thermal and piezoelectric are the two types of what?",
+        "Inkjet nozzle",
+        "8790701717",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701718",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do thermal inkjet nozzles work?",
+        "Electrical current is applied to a heating element which generates steam and forces ink out of the nozzle",
+        "8790701720",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701719",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of nozzle does a heating element generate steam and force ink out of the nozzle?",
+        "Thermal inkjet nozzle",
+        "8790701719",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701720",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a piezoelectric nozzle work?",
+        "Piezoelectric crystals vibrate in response to an electric charge, controlling the flow of ink",
+        "8790701722",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701721",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of nozzle do piezoelectric crystals vibrate in response to an electric charge, controlling the flow of ink?",
+        "Piezoelectric nozzles",
+        "8790701721",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701722",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a duplexing assembly?",
+        "A mechanism that flips a printed page and feeds it back through the printer to allow printing on the other side",
+        "8790701724",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701723",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a mechanism that flips a printed page and feeds it back through the printer to allow printing on the other side?",
+        "A duplexing assembly",
+        "8790701723",
+        "NetAcad ITEv7 Section 8.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701724",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some advantages of laser printers?",
+        "Low cost per page, high ppm, high capacity, and dry pages",
+        "8790701726",
+        "NetAcad ITEv7 Section 8.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701725",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Low cost per page, high ppm, high capacity, and dry pages are advantages of what type of printer?",
+        "Laser printers",
+        "8790701725",
+        "NetAcad ITEv7 Section 8.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701726",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some disadvantages of laser printers?",
+        "High initial cost, and expensive toner cartridges",
+        "8790701728",
+        "NetAcad ITEv7 Section 8.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701727",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "High initial cost, and expensive toner cartridges are disadvantages of what type of printer?",
+        "Laser printers",
+        "8790701727",
+        "NetAcad ITEv7 Section 8.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701728",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the imaging drum?",
+        "A metal cylinder coated with a light-sensitive insulator that becomes a conductor when struck by a laser",
+        "8790701730",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701729",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a metal cylinder coated with a light-sensitive insulator that becomes a conductor when struck by a laser?",
+        "Imaging drum",
+        "8790701729",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701730",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the primary consumables of laser printers?",
+        "Paper and toner",
+        "8790701732",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701731",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Paper and toner are the primary consumables of what type of printer?",
+        "Laser printers",
+        "8790701731",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701732",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is toner transferred to paper in a laser printer?",
+        "The laser draws an electrostatic image on the drum which rotates by a supply of negatively-charged toner then contacts the paper",
+        "8790701734",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701733",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What occurs when a laser draws an electrostatic image on the drum which rotates by a supply of negatively-charged toner then contacts paper?",
+        "Toner is transferred to paper and creates a printed page",
+        "8790701733",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701734",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the fuser assembly?",
+        "Hot rollers melt the toner into the paper as it passes through",
+        "8790701736",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701735",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what laser printer component do hot rollers melt the toner into the paper as it passes through?",
+        "The fuser assembly",
+        "8790701735",
+        "NetAcad ITEv7 Section 8.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701736",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a charged wire or grid used to reset the imaging drum?",
+        "Primary Corona",
+        "8790701738",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701737",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'primary corona' in a laser printer?",
+        "A charged wire or grid used to reset the imaging drum",
+        "8790701737",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701738",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a charged roller used to reset the imaging drum?",
+        "Conditioning roller",
+        "8790701740",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701739",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the conditioning roller?",
+        "A charged roller used to reset the imaging drum",
+        "8790701739",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701740",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many volts are applied to the conditioning roller or primary corona?",
+        "600 volts of DC power",
+        "8790701742",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701741",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "600 volts of DC power is applied to the imaging drum using what?",
+        "The conditioning roller or primary corona",
+        "8790701741",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701742",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What charge does the laser reduce the surface of the imaging drum to?",
+        "-100VDC",
+        "8790701744",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701743",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "-100VDC is the charge that a laser reduces the surface of what to?",
+        "The imaging drum",
+        "8790701743",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701744",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the 7 steps of laser printing?",
+        "Processing, Charging, Exposing, Developing, Transferring, Fusing, and Cleaning",
+        "8790701746",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701745",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Processing, Charging, Exposing, Developing, Transferring, Fusing, and Cleaning are the 7 steps of what?",
+        "Laser printing",
+        "8790701745",
+        "NetAcad ITEv7 Section 8.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790701746",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is thermal paper?",
+        "Chemically-treated paper that turns black when heated",
+        "8790701748",
+        "NetAcad ITEv7 Section 8.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701747",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for chemically-treated paper that turns black when heated?",
+        "Thermal paper",
+        "8790701747",
+        "NetAcad ITEv7 Section 8.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701748",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some advantages of thermal printers?",
+        "Long lifespan, quiet operation, and no cost for ink",
+        "8790701750",
+        "NetAcad ITEv7 Section 8.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701749",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Long lifespan, quiet operation, and no cost for ink are advantages of what type of printer?",
+        "Thermal printers",
+        "8790701749",
+        "NetAcad ITEv7 Section 8.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701750",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some disadvantages of thermal printers?",
+        "Expensive paper, paper storage requirements, paper degradation, poor quality images, and no colour printing",
+        "8790701752",
+        "NetAcad ITEv7 Section 8.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701751",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Expensive paper, paper storage requirements, paper degradation, poor quality images, and no colour printing are disadvantages of what type of printer?",
+        "Thermal printers",
+        "8790701751",
+        "NetAcad ITEv7 Section 8.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701752",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do impact printers operate?",
+        "A print head strikes an inked ribbon, imprinting characters on the paper",
+        "8790701754",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701753",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of printer does a print head strike an inked ribbon, imprinting characters on the paper?",
+        "Impact printers",
+        "8790701753",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701754",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some examples of impact printers?",
+        "Dot matrix and daisy wheel printers",
+        "8790701756",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701755",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dot matrix and daisy wheel printers are examples of what type of printer?",
+        "Impact printers",
+        "8790701755",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701756",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some advantages of impact printers?",
+        "Capable of printing carbon copies, using continuous feeds of paper, and their ink ribbon is cheaper than ink cartridges",
+        "8790701758",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701757",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of printer is capable of printing carbon copies, using continuous feeds of paper, and uses an ink ribbon that is cheaper than ink cartridges?",
+        "Impact printers",
+        "8790701757",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701758",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some disadvantages of impact printers?",
+        "They are loud, print low-resolution graphics, and have limited colour-printing ability",
+        "8790701760",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701759",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of printer is loud, prints low-resolution graphics, and has limited colour-printing ability?",
+        "Impact printers",
+        "8790701759",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701760",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do dot-matrix printers work?",
+        "Pins are surrounded by electromagnets which are energized to push the pins onto the ink ribbon",
+        "8790701762",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701761",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of impact printer are pins surrounded by electromagnets energized to push the pins into the ink ribbon?",
+        "Dot-matrix printers",
+        "8790701761",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701762",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many pins are found on a dot-matrix print head?",
+        "9 or 24 pins",
+        "8790701764",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701763",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "9 or 24 pins are found on what in a printer?",
+        "a dot-matrix print head",
+        "8790701763",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701764",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to refer to the highest-quality print a dot-matrix printer is capable of?",
+        "Near Letter Quality",
+        "8790701766",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701765",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Near Letter Quality refer to?",
+        "The highest-quality print a dot-matrix printer is capable of",
+        "8790701765",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701766",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NLQ' stand for?",
+        "Near Letter Quality",
+        "8790701768",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701767",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Near Letter Quality'?",
+        "NLQ",
+        "8790701767",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701768",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for continuous-feed paper?",
+        "Tractor feed",
+        "8790701770",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701769",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Tractor feed is another term for what?",
+        "Continuous-feed paper",
+        "8790701769",
+        "NetAcad ITEv7 Section 8.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790701770",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 3D printer's filament?",
+        "The equivalent of ink, it is the material consumed to print an object",
+        "8790701772",
+        "NetAcad ITEv7 Section 8.2.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790701771",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the material consumed by 3D printers to print an object?",
+        "Filament",
+        "8790701771",
+        "NetAcad ITEv7 Section 8.2.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790701772",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the hotend nozzle?",
+        "The nozzle filament is extruded through after being heated to the correct temperature",
+        "8790701774",
+        "NetAcad ITEv7 Section 8.2.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790701773",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the nozzle filament is extruded through after being heated to the correct temperature?",
+        "Hotend nozzle",
+        "8790701773",
+        "NetAcad ITEv7 Section 8.2.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790701774",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "If a printer prints graphics slowly, what hardware upgrade can improve the speed?",
+        "Adding additional RAM",
+        "8790701776",
+        "NetAcad ITEv7 Section 8.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701775",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Adding additional RAM to a printer can improve the speed of what?",
+        "Printing graphics",
+        "8790701775",
+        "NetAcad ITEv7 Section 8.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701776",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are privacy concerns with printer sharing?",
+        "Cached files, authentication, and potential interception of data",
+        "8790701778",
+        "NetAcad ITEv7 Section 8.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701777",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Cached files, authentication, and potential interception of data are concerns when sharing access to what device?",
+        "Printers",
+        "8790701777",
+        "NetAcad ITEv7 Section 8.4.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701778",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a print server?",
+        "Provide access to print resources, administrate print jobs, and inform users about the status of the printer",
+        "8790701780",
+        "NetAcad ITEv7 Section 8.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701779",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides access to print resources, administrates print jobs, and informs users about the status of the printer?",
+        "A print server",
+        "8790701779",
+        "NetAcad ITEv7 Section 8.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701780",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of a dedicated print server?",
+        "With increased resources, it can manage multiple printers at a time",
+        "8790701782",
+        "NetAcad ITEv7 Section 8.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701781",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of server can manage multiple printers at a time?",
+        "A dedicated print server",
+        "8790701781",
+        "NetAcad ITEv7 Section 8.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701782",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How should the heating element of a thermal printer be cleaned?",
+        "Using a cotton swab dampened with isopropyl alcohol",
+        "8790701784",
+        "NetAcad ITEv7 Section 8.5.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701783",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A cotton swab dampened with isopropyl alcohol is the correct way to clean what kind of printer?",
+        "A thermal printer",
+        "8790701783",
+        "NetAcad ITEv7 Section 8.5.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790701784",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
