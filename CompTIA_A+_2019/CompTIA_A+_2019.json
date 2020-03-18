@@ -28704,6 +28704,1446 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause if there are dead pixels on a screen?",
+        "Power to the pixels has been cut off",
+        "8790701786",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701785",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom if power to pixels has been cut off?",
+        "Dead pixels",
+        "8790701785",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701786",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of reduced battery life?",
+        "The battery may be at the end of its life or the computer may be configured in a way that draws more power than normal",
+        "8790701788",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701787",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms of a battery at the end of its life or a laptop configured in a way that draws more power than normal?",
+        "Reduced battery life",
+        "8790701787",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701788",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of failure to connect a laptop to WiFi if the network is functioning normally?",
+        "WiFi may be turned off or the laptop may be out of range",
+        "8790701790",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701789",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are symptoms of WiFi being turned off or a device being out of range?",
+        "Inability to connect to WiFi",
+        "8790701789",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701790",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "If a laptop is in sleep mode or the cutoff switch is damaged, what are likely symptoms?",
+        "The display won't turn on",
+        "8790701792",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701791",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a laptop display not turning on when the laptop is powered on?",
+        "Damaged cutoff switch or the laptop is in sleep mode",
+        "8790701791",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701792",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a laptop display flickering?",
+        "The screen refresh rate is misconfigured or the inverter is malfunctioning",
+        "8790701794",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701793",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms if the screen refresh rate is misconfigured or the inverter is malfunctioning?",
+        "The display might flicker",
+        "8790701793",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701794",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a pixellated display?",
+        "Incorrect display properties",
+        "8790701796",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701795",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of incorrect display properties?",
+        "A pixellated display",
+        "8790701795",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701796",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a dull or pale display?",
+        "A miscalibrated backlight",
+        "8790701798",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701797",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a miscalibrated backlight?",
+        "A dull or pale display",
+        "8790701797",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701798",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a cursor that moves on its own?",
+        "A dirty track pad, a track pad and mouse being used simultaneously, or accidental touch of a track pad while typing",
+        "8790701800",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701799",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a dirty track pad, a track pad and mouse being used simultaneously, or accidental touch of a track pad while typing?",
+        "A cursor that moves on its own",
+        "8790701799",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701800",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a keyboard typing numbers instead of letters?",
+        "Numlock is enabled",
+        "8790701802",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701801",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a symptom of numlock being enabled?",
+        "Keyboard is typing numbers instead of letters",
+        "8790701801",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701802",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of display artifacting?",
+        "Loose display cable or an overheating or malfunctioning GPU",
+        "8790701804",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701803",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a loose display cable or an overheating or malfunctioning GPU?",
+        "Display artifacting",
+        "8790701803",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701804",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of an external display with power not displaying an image?",
+        "There may be a loose or damaged video cable or the laptop may not be sending a video signal to the display",
+        "8790701806",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701805",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the symptom of a loose or damaged video cable or a laptop not sending a video signal?",
+        "The external display will not display an image",
+        "8790701805",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701806",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of bluetooth-connected input devices not functioning correctly?",
+        "Bluetooth may be disabled, the devices' batteries may be dead, or the devices may be out of range",
+        "8790701808",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701807",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of disabled bluetooth, dead device batteries, or devices out of range?",
+        "Bluetooth-connected devices not functioning as expected",
+        "8790701807",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701808",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a laptop that won't turn on?",
+        "The laptop may not be plugged in, the battery may not be charged, or the battery may not be functional",
+        "8790701810",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701809",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the likely symptom of a dead laptop battery?",
+        "The laptop won't turn on",
+        "8790701809",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701810",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a sticking key?",
+        "Debris under the key",
+        "8790701812",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701811",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of debris under a key?",
+        "Sticking key",
+        "8790701811",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701812",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a computer being unable to decrypt emails?",
+        "A missing digital certificate",
+        "8790701814",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701813",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a missing digital certificate in an email client?",
+        "Inability to decrypt emails",
+        "8790701813",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701814",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of non-functioning GPS on a laptop?",
+        "Airplane mode is enabled or the GPS service is disabled",
+        "8790701816",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701815",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of airplane mode being enabled or a GPS service being disabled on a laptop?",
+        "Non-functioning GPS",
+        "8790701815",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701816",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of an app not loading or being unresponsive?",
+        "The app or computer needs to be restarted",
+        "8790701818",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701817",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of an app or the OS needing to be restarted?",
+        "An app not loading or being unresponsive",
+        "8790701817",
+        "NetAcad ITEv7 Section 7.7.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701818",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a mobile device not connecting to the internet?",
+        "WiFi may not be available and there may be no carrier data network in range",
+        "8790701820",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701819",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the likely symptom if WiFi is not available and there is no carrier data network in range?",
+        "The device may not be able to connect to the internet",
+        "8790701819",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701820",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a mobile device that won't turn on?",
+        "A drained battery, a failed power button, or a broken device",
+        "8790701822",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701821",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the likely symptom of a drained battery, a failed power button, or a broken device?",
+        "The device will not turn on",
+        "8790701821",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701822",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a device that charges very slowly?",
+        "The device may be being used while charging or the AC adapter may have insufficient amperage",
+        "8790701824",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701823",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the likely symptoms of a device in use while charging or an AC adapter with insufficient amperage?",
+        "Slow charging",
+        "8790701823",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701824",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a device being unable to connect to a carrier's network?",
+        "A SIM card is not installed",
+        "8790701826",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701825",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a SIM card not being installed?",
+        "The device cannot connect to the carrier's network",
+        "8790701825",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701826",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause for a mobile device's battery draining quickly?",
+        "The battery may be reaching the end of its life or apps may be drawing too much power",
+        "8790701828",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701827",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a device with a failing battery or with too many running apps?",
+        "Poor battery life",
+        "8790701827",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701828",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes for a mobile device that will not connect with Bluetooth?",
+        "Bluetooth may be turned off, devices may not be paired, or devices may not be in range",
+        "8790701830",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701829",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of Bluetooth being turned off, not paired, or not in range?",
+        "Bluetooth will not connect",
+        "8790701829",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701830",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is are likely causes for a mobile device's touchscreen not responding?",
+        "A dirty screen, a damaged screen, or a failed digitizer",
+        "8790701832",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701831",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a dirty screen, a damaged screen, or a failed digitizer?",
+        "A non-responsive touchscreen",
+        "8790701831",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701832",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes for a mobile device overheating?",
+        "A power-intensive app is running while charging, many devices are in use at once, or the battery is defective",
+        "8790701834",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701833",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a power-intensive app running while charging, many devices being in use at once, or a defective battery?",
+        "An overheating device",
+        "8790701833",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701834",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is are likely causes of a frozen mobile device?",
+        "Full RAM or apps consuming too many resources",
+        "8790701836",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701835",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of full RAM or apps consuming too many resources?",
+        "A frozen device",
+        "8790701835",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701836",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a user being unable to open a series of apps?",
+        "The apps may have been installed on a removable drive that was removed",
+        "8790701838",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701837",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a removable device having been removed that had apps installed on it?",
+        "The apps will be unable to open",
+        "8790701837",
+        "NetAcad ITEv7 Section 7.7.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701838",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause if an application document does not print?",
+        "There is a document error in the print queue",
+        "8790701840",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701839",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a document error in the print queue?",
+        "An application document not printing",
+        "8790701839",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701840",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause if the printer cannot be added or there is a print spooler error?",
+        "The printer service is stopped or failed",
+        "8790701842",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701841",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms if the printer service is stopped or failed?",
+        "The printer cannot be added or the print spooler shows an error",
+        "8790701841",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701842",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause if print jobs are sent to the queue but not printed?",
+        "The printer was installed on the wrong port",
+        "8790701844",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701843",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom if a printer was installed on the wrong port?",
+        "Print jobs will be sent to the queue but not printed",
+        "8790701843",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701844",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes if the print queue is functioning but the printer does not print?",
+        "There is a bad cable, the printer is in standby, or the printer has encountered an error",
+        "8790701846",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701845",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms if there is a bad cable, the printer is in standby, or the printer has encountered an error?",
+        "The print queue will function but the printer will not print",
+        "8790701845",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701846",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a printer printing unknown characters or not printing a test page?",
+        "A wrong or outdated driver is installed",
+        "8790701848",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701847",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms if a wrong or outdated driver is installed?",
+        "The printer may print unknown characters or fail to print a test page",
+        "8790701847",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701848",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes if paper regularly jams when printing?",
+        "The paper may be dirty, the wrong type of paper, or sticking due to high humidity",
+        "8790701850",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701849",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of dirty paper, using the wrong type of paper, or high humidity?",
+        "Regular paper jams",
+        "8790701849",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701850",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of faded prints?",
+        "A low, defective, or incompatible toner cartridge",
+        "8790701852",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701851",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a low, defective, or incompatible toner cartridge?",
+        "Faded print jobs",
+        "8790701851",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701852",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of toner not fusing to paper?",
+        "Empty toner, defective toner, or incompatible paper",
+        "8790701854",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701853",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms of empty or defective toner or incompatible paper?",
+        "Toner not fusing to the paper",
+        "8790701853",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701854",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of paper being creased after printing?",
+        "Defective or incorrectly-loaded paper",
+        "8790701856",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701855",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of defective or incorrectly-loaded paper?",
+        "Creased paper after printing",
+        "8790701855",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701856",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of paper not feeding into the printer?",
+        "Wrinkled paper or misconfigured paper size",
+        "8790701858",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701857",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of wrinkled paper or misconfigured paper size?",
+        "Paper not feeding into the printer",
+        "8790701857",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701858",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a 'failed to print' message?",
+        "A loose or disconnected cable or the printer is no longer shared",
+        "8790701860",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701859",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a loose or disconnected cable or a printer that is no longer shared?",
+        "A 'document failed to print' message",
+        "8790701859",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701860",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of an 'access denied' message when installing a printer?",
+        "The user does not have administrative privileges",
+        "8790701862",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701861",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a user not having administrative privileges when installing a printer?",
+        "An 'access denied' message",
+        "8790701861",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701862",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a printer printing incorrect colours?",
+        "An empty, defective, or incorrect cartridge or unclean or uncalibrated print heads",
+        "8790701864",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701863",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of an empty, defective, or incorrect cartridge or unclean or uncalibrated print heads?",
+        "Printer printing incorrect colours",
+        "8790701863",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701864",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a printer printing blank pages?",
+        "Printer out of ink or toner, clogged print head, failed corona wire, or failed power supply",
+        "8790701866",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701865",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of empty toner, a clogged print head, a failed corona wire, or a failed power supply?",
+        "The printer printing blank pages",
+        "8790701865",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701866",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes if a printer's display has no image?",
+        "The printer is not turned on, the screen is set to low contrast, or the display is faulty",
+        "8790701868",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701867",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a printer that is turned off, with a screen set to low contrast, or with a broken display?",
+        "The display has no image",
+        "8790701867",
+        "NetAcad ITEv7 Section 8.5.8.2"
+      ],
+      "flags": 0,
+      "guid": "8790701868",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a printer that will not print large or complex images?",
+        "The printer does not have enough memory",
+        "8790701870",
+        "NetAcad ITEv7 Section 8.5.8.3"
+      ],
+      "flags": 0,
+      "guid": "8790701869",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely symptom of a printer without enough memory?",
+        "The printer will not print large or complex images",
+        "8790701869",
+        "NetAcad ITEv7 Section 8.5.8.3"
+      ],
+      "flags": 0,
+      "guid": "8790701870",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of a printer that prints lines or streaks on every page?",
+        "A damaged imaging drum or unevenly distributed toner",
+        "8790701872",
+        "NetAcad ITEv7 Section 8.5.8.3"
+      ],
+      "flags": 0,
+      "guid": "8790701871",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms of a damaged imaging drum or unevenly distributed toner?",
+        "Lines or streaks printed on every page",
+        "8790701871",
+        "NetAcad ITEv7 Section 8.5.8.3"
+      ],
+      "flags": 0,
+      "guid": "8790701872",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely causes of ghost images on every printed page?",
+        "A damaged imaging drum or a worn drum wiper blade",
+        "8790701874",
+        "NetAcad ITEv7 Section 8.5.8.3"
+      ],
+      "flags": 0,
+      "guid": "8790701873",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are likely symptoms of a damaged imaging drum or a worn wiper blade?",
+        "Ghost images on every printed page",
+        "8790701873",
+        "NetAcad ITEv7 Section 8.5.8.3"
+      ],
+      "flags": 0,
+      "guid": "8790701874",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
