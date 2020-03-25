@@ -30144,6 +30144,3526 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does virtualisation software do?",
+        "Allows one physical server to run several computing environments",
+        "8790701876",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701875",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of software allows one physical server to run several computing environments?",
+        "Virtualisation software",
+        "8790701875",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701876",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'cloud computing' describe?",
+        "The availability of shared computing resources as a service or on-demand",
+        "8790701878",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701877",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the availability of shared computing resources as a service or on-demand?",
+        "Cloud computing",
+        "8790701877",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701878",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VM' stand for?",
+        "Virtual Machine",
+        "8790701880",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701879",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Virtual Machine'?",
+        "VM",
+        "8790701879",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701880",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'AWS' stand for?",
+        "Amazon Web Services",
+        "8790701882",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701881",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Amazon Web Services'?",
+        "AWS",
+        "8790701881",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701882",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are VMs?",
+        "Virtual computers with their own operating systems that share the hardware resources of the physical host computer",
+        "8790701884",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701883",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to virtual computers with their own operating systems that share the hardware resources of the physical host computer?",
+        "Virtual Machines",
+        "8790701883",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701884",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is traditional server deployment?",
+        "A dedicated server for each service",
+        "8790701886",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701885",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of server deployment involves having a dedicated server for each service?",
+        "Traditional server deployment",
+        "8790701885",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701886",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the problems with traditional server deployment?",
+        "Wasted resources, sprawl, and having a single point of failure",
+        "8790701888",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701887",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Wasted resources, sprawl, and having a single point of failure are the problems with what?",
+        "Traditional server deployment",
+        "8790701887",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701888",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a hypervisor?",
+        "A hypervisor manages virtual machines and their resource allocations",
+        "8790701890",
+        "NetAcad ITEv7 Section 9.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701889",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of program manages virtual machines and their resource allocations?",
+        "A hypervisor",
+        "8790701889",
+        "NetAcad ITEv7 Section 9.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701890",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the many advantages of virtualization?",
+        "Improved power, resource, and space efficiency, improved uptime and disaster recovery, reduced cost, faster provisioning, and better support for legacy systems",
+        "8790701892",
+        "NetAcad ITEv7 Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701891",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Improved power, resource, and space efficiency, improved uptime and disaster recovery, reduced cost, faster provisioning, and better support for legacy systems are the advantages of what?",
+        "Virtualization",
+        "8790701891",
+        "NetAcad ITEv7 Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701892",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'host computer' refer to?",
+        "The physical computer that a VM uses the hardware resources of",
+        "8790701894",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701893",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the physical computer that a VM uses the hardware resources of?",
+        "Host computer",
+        "8790701893",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701894",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'host OS' refer to?",
+        "The operating system of the host computer",
+        "8790701896",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701895",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the operating system of the host computer?",
+        "Host OS",
+        "8790701895",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701896",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'guest OS' refer to?",
+        "The operating system running inside of a VM",
+        "8790701898",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701897",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the operating system running inside of a VM?",
+        "Guest OS",
+        "8790701897",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701898",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'client-side virtualization' refer to?",
+        "Running a VM on a local desktop PC rather than on a server",
+        "8790701900",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701899",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the practice of running a VM on a local desktop PC rather than on a server?",
+        "Client-side virtualization",
+        "8790701899",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701900",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for the hypervisor?",
+        "Virtual Machine Manager",
+        "8790701902",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701901",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for the virtual machine manager?",
+        "Hypervisor",
+        "8790701901",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701902",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the acronym 'VMM' stand for?",
+        "Virtual Machine Manager",
+        "8790701904",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701903",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the term 'Virtual Machine Manager'?",
+        "VMM",
+        "8790701903",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701904",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a type 1 hypervisor?",
+        "A native hypervisor",
+        "8790701906",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701905",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a native hypervisor?",
+        "A type 1 hypervisor",
+        "8790701905",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701906",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a type 2 hypervisor?",
+        "A hosted hypervisor",
+        "8790701908",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701907",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a hosted hypervisor?",
+        "A type 2 hypervisor",
+        "8790701907",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701908",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a type 1 hypervisor?",
+        "A hypervisor that runs directly on the physical hardware as if it were an operating system",
+        "8790701910",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701909",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes a hypervisor that runs directly on the physical hardware as if it were an operating system?",
+        "Type 1 hypervisor",
+        "8790701909",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701910",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a type 2 hypervisor?",
+        "A hypervisor contained within a host OS",
+        "8790701912",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701911",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes a hypervisor contained within a host OS?",
+        "Type 2 hypervisor",
+        "8790701911",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701912",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VDI' stand for?",
+        "Virtual Desktop Infrastructure",
+        "8790701914",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701913",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Virtual Desktop Infrastructure'?",
+        "VDI",
+        "8790701913",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701914",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WVD' stand for?",
+        "Windows Virtual Desktop",
+        "8790701916",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701915",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Windows Virtual Desktop'?",
+        "WVD",
+        "8790701915",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701916",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SaaS' stand for?",
+        "Software as a Service",
+        "8790701918",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701917",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Software as a Service'?",
+        "SaaS",
+        "8790701917",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701918",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PaaS' stand for?",
+        "Platform as a Service",
+        "8790701920",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701919",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Platform as a Service'?",
+        "PaaS",
+        "8790701919",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701920",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IaaS' stand for?",
+        "Infrastructure as a Service",
+        "8790701922",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701921",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Infrastructure as a Service'?",
+        "IaaS",
+        "8790701921",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701922",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NIST' stand for?",
+        "National Institute of Standards and Technology",
+        "8790701924",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701923",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'National Institute of Standards and Technology'?",
+        "NIST",
+        "8790701923",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701924",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'SaaS'?",
+        "A cloud provider providing access to services over the internet, such as web-based email",
+        "8790701926",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701925",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to a cloud provider providing access to services over the internet, such as web-based email?",
+        "SaaS",
+        "8790701925",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701926",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CRM' stand for?",
+        "Customer Relationship Management",
+        "8790701928",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701927",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Customer Relationship Management' software?",
+        "CRM",
+        "8790701927",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701928",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PaaS?",
+        "A cloud provider provides access to a complete operating system",
+        "8790701930",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701929",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to a cloud provider providing access to a complete operating system?",
+        "PaaS",
+        "8790701929",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701930",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'IaaS'?",
+        "A cloud provider provides access to physical equipment",
+        "8790701932",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701931",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes a cloud provider providing access to physical equipment?",
+        "IaaS",
+        "8790701931",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701932",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ITaaS' stand for?",
+        "IT as a Service",
+        "8790701934",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701933",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'IT as a Service'?",
+        "ITaaS",
+        "8790701933",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701934",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the 5 key characteristics of the cloud computing model?",
+        "On-demand service, elasticity, resource pooling, metered service, and broad access",
+        "8790701936",
+        "NetAcad ITEv7 Section 9.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701935",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On-demand service, elasticity, resource pooling, metered service, and broad access are the key components of what?",
+        "The cloud computing model",
+        "8790701935",
+        "NetAcad ITEv7 Section 9.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701936",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some examples of type 1 hypervisors?",
+        "VMware vSphere, ESXi, Xen, and Oracle VM Server",
+        "8790701938",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701937",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "VMware vSphere, ESXi, Xen, and Oracle VM Server are examples of what?",
+        "Type 1 hypervisors",
+        "8790701937",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701938",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are some examples of type 2 hypervisors?",
+        "VMware Workstation and VirtualBox",
+        "8790701940",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701939",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "VMware Workstation and VirtualBox are examples of what?",
+        "Type 2 hypervisors",
+        "8790701939",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701940",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the RAM requirements for a Windows 8 or 10 VM?",
+        "4GB",
+        "8790701942",
+        "NetAcad ITEv7 Section 9.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701941",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What versions of Windows require at least 4GB of RAM to run in a VM?",
+        "Windows 8 and 10",
+        "8790701941",
+        "NetAcad ITEv7 Section 9.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701942",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the RAM requirements for a Windows 7 VM?",
+        "2GB",
+        "8790701944",
+        "NetAcad ITEv7 Section 9.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701943",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What version of Windows requires at least 2GB of RAM to run in a VM?",
+        "Windows 7",
+        "8790701943",
+        "NetAcad ITEv7 Section 9.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701944",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How much hard drive space does a Windows VM require?",
+        "15GB",
+        "8790701946",
+        "NetAcad ITEv7 Section 9.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701945",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of OS requires at least 15GB of space to run in a VM?",
+        "Windows",
+        "8790701945",
+        "NetAcad ITEv7 Section 9.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701946",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'OS' stand for?",
+        "Operating System",
+        "8790701948",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701947",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Operating System'?",
+        "OS",
+        "8790701947",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701948",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'FAT' stand for?",
+        "File Allocation Table",
+        "8790701950",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701949",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'File Allocation Table'?",
+        "FAT",
+        "8790701949",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701950",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NTFS' stand for?",
+        "New Technology File System",
+        "8790701952",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701951",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'New Technology File System'?",
+        "NTFS",
+        "8790701951",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701952",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CDFS' stand for?",
+        "Compact Disc File System",
+        "8790701954",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701953",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Compact Disc File System'?",
+        "CDFS",
+        "8790701953",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701954",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NFS' stand for?",
+        "Network File System",
+        "8790701956",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701955",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Network File System'?",
+        "NFS",
+        "8790701955",
+        "NetAcad ITEv7 Section 10.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701956",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is one of the primary tasks of an operating system?",
+        "To act as an interface between the user and the hardware",
+        "8790701958",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701957",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acts as an interface between the user and the hardware?",
+        "The operating system",
+        "8790701957",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701958",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'multi-user' mean?",
+        "Multiple users have individual accounts that allow them to use an operating system simultaneously",
+        "8790701960",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701959",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What operating system property allows multiple users to have individual accounts that allow them to use an operating system simultaneously?",
+        "Multi-user",
+        "8790701959",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701960",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'multitasking' mean in terms of an operating system?",
+        "Multiple applications can be used simultaneously",
+        "8790701962",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701961",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What property of an operating system allows multiple programs to be used simultaneously?",
+        "Multitasking",
+        "8790701961",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701962",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'multiprocessing' mean?",
+        "The operating system can support multiple processors",
+        "8790701964",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701963",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What property allows an operating system to support multiple processors?",
+        "Multiprocessing",
+        "8790701963",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701964",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'multithreading' mean in terms of operating systems?",
+        "The operating system supports breaking applications into small components that can be run simultaneously by different CPU cores",
+        "8790701966",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701965",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OS property means that the OS supports breaking applications into small components that can be run simultaneously by different CPU cores?",
+        "Multithreading",
+        "8790701965",
+        "NetAcad ITEv7 Section 10.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701966",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the four basic functions of an operating system?",
+        "Control hardware access, manage the filesystem, provide a user interface, and manage applications",
+        "8790701968",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701967",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Controlling hardware access, managing the filesystem, providing a user interface, and managing applications are the four basic tasks of what?",
+        "An operating system",
+        "8790701967",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701968",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CLI' stand for?",
+        "Command-Line Interface",
+        "8790701970",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701969",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Command-Line Interface'?",
+        "CLI",
+        "8790701969",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701970",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GUI' stand for?",
+        "Graphical User Interface",
+        "8790701972",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701971",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Graphical User Interface'?",
+        "GUI",
+        "8790701971",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701972",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'API' stand for?",
+        "Application Programming Interface",
+        "8790701974",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701973",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Application Programming Interface'?",
+        "API",
+        "8790701973",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701974",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'OpenGL' stand for?",
+        "Open Graphics Library",
+        "8790701976",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701975",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the shortened form of the name 'Open Graphics Library'?",
+        "OpenGL",
+        "8790701975",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701976",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an API do?",
+        "Allow programs to access resources managed by an operating system or other application in a consistent and reliable manner",
+        "8790701978",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701977",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What allows programs to access resources managed by an operating system or other application in a consistent and reliable manner?",
+        "An API",
+        "8790701977",
+        "NetAcad ITEv7 Section 10.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701978",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum quantity of RAM a 32-bit OS can support?",
+        "4GB",
+        "8790701980",
+        "NetAcad ITEv7 Section 10.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701979",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "4GB is the maximum quantity of memory what type of OS can support?",
+        "32-bit OS",
+        "8790701979",
+        "NetAcad ITEv7 Section 10.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701980",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are limitations of 32-bit OSes?",
+        "They only support 32-bit applications",
+        "8790701982",
+        "NetAcad ITEv7 Section 10.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701981",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of OS only supports 32-bit applications?",
+        "32-bit OS",
+        "8790701981",
+        "NetAcad ITEv7 Section 10.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790701982",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What determines available upgrade options for an OS?",
+        "The current version of the OS",
+        "8790701984",
+        "NetAcad ITEv7 Section 10.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701983",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the current version of the OS determine when looking at upgrading it?",
+        "The available upgrade paths",
+        "8790701983",
+        "NetAcad ITEv7 Section 10.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790701984",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'USMT' stand for?",
+        "User State Migration Tool",
+        "8790701986",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701985",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'User State Migration Tool'?",
+        "USMT",
+        "8790701985",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701986",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the USMT?",
+        "A command-line tool designed to transfer files and settings between Windows PCs",
+        "8790701988",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701987",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the Microsoft-developed command-line tool designed to transfer files and settings between Windows PCs?",
+        "USMT",
+        "8790701987",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701988",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What GUI PC migration tool was available on Windows Vista through Windows 8.1?",
+        "Windows Easy Transfer",
+        "8790701990",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701989",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Windows Easy Transfer?",
+        "A GUI PC migration tool available on Windows Vista through Windows 8.1",
+        "8790701989",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701990",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PCmover Express",
+        "A GUI PC migration tool developed by Laplink for Microsoft that replaced Windows Easy Transfer in Windows 10",
+        "8790701992",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701991",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What GUI PC migration tool developed by Laplink for Microsoft replaced Windows Easy Transfer in Windows 10?",
+        "PCMover Express",
+        "8790701991",
+        "NetAcad ITEv7 Section 10.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790701992",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MBR' stand for?",
+        "Master Boot Record",
+        "8790701994",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701993",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Master Boot Record'?",
+        "MBR",
+        "8790701993",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701994",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GPT' stand for?",
+        "GUID Partition Table",
+        "8790701996",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701995",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'GUID Partition Table'?",
+        "GPT",
+        "8790701995",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701996",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GUID' stand for?",
+        "Globally Unique IDentifier",
+        "8790701998",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701997",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Globally Unique IDentifier'?",
+        "GUID",
+        "8790701997",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701998",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a hard disk partition?",
+        "A logical storage unit within a hard drive",
+        "8790702000",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701999",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the logical storage units within a hard drive?",
+        "Partitions",
+        "8790701999",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702000",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum number of partitions in an MBR partitioning scheme?",
+        "4 partitions",
+        "8790702002",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which partitioning scheme allows for a maximum of 4 partitions per drive?",
+        "MBR",
+        "8790702001",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum number of partitions in an GPT partitioning scheme?",
+        "128",
+        "8790702004",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which partitioning scheme allows for a maximum of 128 partitions per drive?",
+        "GPT",
+        "8790702003",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum partition size in a MBR partitioning scheme?",
+        "2TB",
+        "8790702006",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which partitioning scheme allows for a maximum partition size of 2TB?",
+        "MBR",
+        "8790702005",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum partition size in a MBR partitioning scheme?",
+        "9.4ZB",
+        "8790702008",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which partitioning scheme allows for a maximum partition size of 9.4ZB?",
+        "GPT",
+        "8790702007",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What requirements does a computer need to meet to use a GPT partitioning scheme?",
+        "Must be UEFI based and run a 64-bit OS",
+        "8790702010",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What partitioning scheme requires a UEFI BIOS and a 64-bit OS?",
+        "GPT",
+        "8790702009",
+        "NetAcad ITEv7 Section 10.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a primary partition?",
+        "A standard partition type that stores operating system and other files",
+        "8790702012",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the standard partition type that stores operating system and other files?",
+        "Primary partition",
+        "8790702011",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an active partition?",
+        "A subset of primary partitions found in MBR partition schemes that is used for booting the OS",
+        "8790702014",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the subset of primary partitions found in MBR partition schemes that is used for booting the OS?",
+        "Active partition",
+        "8790702013",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an extended partition?",
+        "A subset of primary partitions found in MBR partitioning schemes that can be divided into up to 23 logical drives",
+        "8790702016",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the subset of primary partitions found in MBR partitioning schemes that can be divided into up to 23 logical drives?",
+        "Extended partition",
+        "8790702015",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a logical drive?",
+        "A section of an extended partition that acts like a sub-partition of the partition",
+        "8790702018",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a section of an extended partition that acts like a sub-partition of the partition?",
+        "Logical drive",
+        "8790702017",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a basic disk?",
+        "A standard disk that can be used with either MBR or GPT partitioning schemes",
+        "8790702020",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a standard disk that can be used with either MBR or GPT partitioning schemes?",
+        "Basic disk",
+        "8790702019",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a dynamic disk?",
+        "A disk with additional features for partition management",
+        "8790702022",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a disk with additional features for partition management?",
+        "Dynamic disk",
+        "8790702021",
+        "NetAcad ITEv7 Section 10.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790702022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which versions of Windows used FAT32?",
+        "Windows XP and earlier",
+        "8790702024",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filesystem did Windows XP and earlier use?",
+        "FAT32",
+        "8790702023",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum partition size of FAT32?",
+        "2TB",
+        "8790702026",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filesystem has a maximum partition size of 2TB?",
+        "FAT32",
+        "8790702025",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum partition size of NTFS?",
+        "16 exabytes",
+        "8790702028",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filesystem has a maximum partition size of 16 exabytes?",
+        "NTFS",
+        "8790702027",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum file size in a FAT32 partition?",
+        "4GB",
+        "8790702030",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filesystem has a maximum file size of 4GB?",
+        "FAT32",
+        "8790702029",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for FAT64?",
+        "exFAT",
+        "8790702032",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate name for exFAT?",
+        "FAT64",
+        "8790702031",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NTFS?",
+        "The default filesystem type on Windows OSes since Windows Vista",
+        "8790702034",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default filesystem type on Windows OSes since Windows Vista?",
+        "NTFS",
+        "8790702033",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is CDFS?",
+        "A filesystem designed specifically for optical disks",
+        "8790702036",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filesystem was designed specifically for optical disks?",
+        "CDFS",
+        "8790702035",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NFS?",
+        "An open standard for a network-based filesystem",
+        "8790702038",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the open standard for a network-based filesystem?",
+        "NFS",
+        "8790702037",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a quick format?",
+        "Removes files from a partition without scanning for bad sectors",
+        "8790702040",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What removes files from a partition without scanning for bad sectors?",
+        "A quick format",
+        "8790702039",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a full format?",
+        "Removes files from a partition and then scans for bad sectors",
+        "8790702042",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What removes files from a partition and then scans for bad sectors?",
+        "A full format",
+        "8790702041",
+        "NetAcad ITEv7 Section 10.2.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790702042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SSO' stand for?",
+        "Single Sign On",
+        "8790702044",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Single Sign On'?",
+        "SSO",
+        "8790702043",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'UAC' stand for?",
+        "User Account Control",
+        "8790702046",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'User Account Control'?",
+        "UAC",
+        "8790702045",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two types of user on Windows?",
+        "Administrator and standard user",
+        "8790702048",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Administrator and standard user are the two types of what?",
+        "Windows user accounts",
+        "8790702047",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What limitations does a standard user account have?",
+        "A standard account cannot install programs or change system settings that affect other users",
+        "8790702050",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of Windows account account cannot install programs or change system settings that affect other users?",
+        "A standard account",
+        "8790702049",
+        "NetAcad ITEv7 Section 10.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'Sysprep' short for?",
+        "Microsoft System Preparation",
+        "8790702052",
+        "NetAcad ITEv7 Section 10.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790702051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the shortened name for the tool 'Microsoft System Preparation'?",
+        "Sysprep",
+        "8790702051",
+        "NetAcad ITEv7 Section 10.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790702052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is disk cloning used?",
+        "To simplify the process of deploying many identically-configured machines",
+        "8790702054",
+        "NetAcad ITEv7 Section 10.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790702053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technique simplifies the process of deploying many identically-configured machines?",
+        "Disk cloning",
+        "8790702053",
+        "NetAcad ITEv7 Section 10.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790702054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PXE' stand for?",
+        "Preboot Execution Environment",
+        "8790702056",
+        "NetAcad ITEv7 Section 10.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790702055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Preboot Execution Environment'?",
+        "PXE",
+        "8790702055",
+        "NetAcad ITEv7 Section 10.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790702056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a standard installation process?",
+        "The installation is performed from installation media provided by Microsoft and the user is prompted to configure settings",
+        "8790702058",
+        "NetAcad ITEv7 Section 10.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790702057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of installation process is performed from installation media provided by Microsoft and is a user prompted to configure settings?",
+        "A standard installation process",
+        "8790702057",
+        "NetAcad ITEv7 Section 10.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790702058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a custom installation differ from a standard installation?",
+        "The user is not prompted for settings, and the installation is performed from a reference image or installation",
+        "8790702060",
+        "NetAcad ITEv7 Section 10.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790702059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of installation is performed from a reference with no input from the user?",
+        "A custom installation",
+        "8790702059",
+        "NetAcad ITEv7 Section 10.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790702060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'RIS' stand for?",
+        "Remote Installation Services",
+        "8790702062",
+        "NetAcad ITEv7 Section 10.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790702061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Remote Installation Services'?",
+        "RIS",
+        "8790702061",
+        "NetAcad ITEv7 Section 10.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790702062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does remote network installation work?",
+        "A server communicates with a client's PXE to transfer setup files",
+        "8790702064",
+        "NetAcad ITEv7 Section 10.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790702063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what installation method does a server communicate with a client's PXE to transfer setup files?",
+        "Remote network installation",
+        "8790702063",
+        "NetAcad ITEv7 Section 10.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790702064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In terms of Windows installations, what does 'SIM' stand for?",
+        "System Image Manager",
+        "8790702066",
+        "NetAcad ITEv7 Section 10.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790702065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'System Image Manager'?",
+        "SIM",
+        "8790702065",
+        "NetAcad ITEv7 Section 10.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790702066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'AIK' stand for?",
+        "Windows Automated Installation Kit",
+        "8790702068",
+        "NetAcad ITEv7 Section 10.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790702067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the Windows 'Automated Installation Kit'?",
+        "AIK",
+        "8790702067",
+        "NetAcad ITEv7 Section 10.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790702068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does an unattended network install work?",
+        "The installer proceeds as in a standard installation, but answers setup questions using pre-defined answers",
+        "8790702070",
+        "NetAcad ITEv7 Section 10.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790702069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of installation does the installer proceed as in a standard installation using pre-defined answers to setup questions?",
+        "An unattended network install",
+        "8790702069",
+        "NetAcad ITEv7 Section 10.3.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790702070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a recovery partition?",
+        "A special hidden partition that can be utilized to restore a computer's OS to its original configuration",
+        "8790702072",
+        "NetAcad ITEv7 Section 10.3.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790702071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a special hidden partition that can be utilized to restore a computer's OS to its original configuration?",
+        "Recovery partition",
+        "8790702071",
+        "NetAcad ITEv7 Section 10.3.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790702072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two upgrade methods available for Windows?",
+        "In-place and clean install",
+        "8790702074",
+        "NetAcad ITEv7 Section 10.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790702073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In-place and clean install are the two methods of what for Windows?",
+        "Upgrade",
+        "8790702073",
+        "NetAcad ITEv7 Section 10.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790702074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an in-place upgrade?",
+        "Upgrades the OS files while preserving user data, settings, applications, and drivers",
+        "8790702076",
+        "NetAcad ITEv7 Section 10.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790702075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of upgrade upgrades the OS files while preserving user data, settings, applications, and drivers?",
+        "An in-place upgrade",
+        "8790702075",
+        "NetAcad ITEv7 Section 10.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790702076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a clean install upgrade?",
+        "The hard drive is wiped and a new operating system is installed from installation media",
+        "8790702078",
+        "NetAcad ITEv7 Section 10.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790702077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of upgrade is the hard drive is wiped and a new operating system is installed from installation media?",
+        "A clean install",
+        "8790702077",
+        "NetAcad ITEv7 Section 10.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790702078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VBR' stand for?",
+        "Volume Boot Record",
+        "8790702080",
+        "NetAcad ITEv7 Section 10.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790702079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Volume Boot Record'?",
+        "VBR",
+        "8790702079",
+        "NetAcad ITEv7 Section 10.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790702080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the VBR do?",
+        "Load the boot manager",
+        "8790702082",
+        "NetAcad ITEv7 Section 10.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790702081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What loads the boot manager?",
+        "The VBR",
+        "8790702081",
+        "NetAcad ITEv7 Section 10.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790702082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the boot sequence?",
+        "The BIOS loads stored settings from CMOS memory then searches the boot priority for the first device with a valid boot sector",
+        "8790702084",
+        "NetAcad ITEv7 Section 10.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790702083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the process in which the BIOS loads stored settings from CMOS memory then searches the boot priority for the first device with a valid boot sector?",
+        "The boot sequence",
+        "8790702083",
+        "NetAcad ITEv7 Section 10.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790702084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the available startup modes in Windows 7?",
+        "Safe mode, safe mode with networking, safe mode with command prompt, and last known good configuration",
+        "8790702086",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Safe mode, safe mode with networking, safe mode with command prompt, and last known good configuration are what?",
+        "The available startup modes in Windows 7",
+        "8790702085",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is safe mode?",
+        "A diagnostic mode used to troubleshoot startup issues in which most device drivers are not loaded",
+        "8790702088",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the diagnostic mode used to troubleshoot startup issues in which most device drivers are not loaded?",
+        "Safe mode",
+        "8790702087",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the last known good configuration startup option?",
+        "A mode that loads the settings used the last time the OS started successfully",
+        "8790702090",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the mode that loads the settings used the last time the OS started successfully?",
+        "Last known good configuration",
+        "8790702089",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are startup modes accessed in Windows 7?",
+        "Press the F8 key during boot",
+        "8790702092",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Pressing the F8 key during boot does what in Windows 7?",
+        "Accesses startup modes",
+        "8790702091",
+        "NetAcad ITEv7 Section 10.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790702092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are startup modes accessed in Windows 8 and 10?",
+        "Holding shift when rebooting from within in the OS",
+        "8790702094",
+        "NetAcad ITEv7 Section 10.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790702093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Holding shift while rebooting Windows 8 or 10 does what?",
+        "Accesses the startup modes",
+        "8790702093",
+        "NetAcad ITEv7 Section 10.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790702094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
