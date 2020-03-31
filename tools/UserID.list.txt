@@ -4,6 +4,7 @@
 # identifier to this file.  Your first Pull Request should consist only of
 # a single line being added to this file.  Please keep the prefixes in
 # ascending order.
+484 https://github.com/John-Schubert
 610 https://github.com/thepurplebuffalo
 611 https://github.com/81net
 879 https://github.com/KaraHops
