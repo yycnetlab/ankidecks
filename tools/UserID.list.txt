@@ -8,6 +8,7 @@
 610 https://github.com/thepurplebuffalo
 611 https://github.com/81net
 612 https://github.com/loopwert
+777 https://github.com/zannard
 879 https://github.com/KaraHops
 880 https://github.com/ultimatt
 881 https://github.com/the-packet-thrower
