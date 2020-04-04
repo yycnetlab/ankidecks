@@ -7,7 +7,7 @@ cd /Users/kelvintran/GithubRepos/yycnetlabs-anki/tools
 BASEPATH="/Users/kelvintran/GithubRepos/yycnetlabs-anki/CCNP-Ent_v8"
 DECK="CCNP-ENCOR_v8.json"
 
-MISSINGFIELDS=$(/bin/grep -c -e '\"\"' ${BASEPATH}/${NOTE})
+MISSINGFIELDS=$(/usr/bin/grep -c -e '\"\"' ${BASEPATH}/${NOTE})
 
 if [ ${MISSINGFIELDS} -ne 0 ]; then
   echo "ERROR: ${BASEPATH}/${NOTE} is missing these non-optional fields:"
