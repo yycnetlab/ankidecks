@@ -4,7 +4,7 @@
 NOTE=$1
 
 cd /Users/kelvintran/GithubRepos/yycnetlabs-anki/tools
-BASEPATH="/Users/kelvintran/GithubRepos/yycnetlabs-anki/CCNP-Ent_v8"
+BASEPATH="/Users/kelvintran/GithubRepos/yycnetlabs-anki/CCNP-ENCOR_v8"
 DECK="CCNP-ENCOR_v8.json"
 
 MISSINGFIELDS=$(/usr/bin/grep -c -e '\"\"' ${BASEPATH}/${NOTE})
