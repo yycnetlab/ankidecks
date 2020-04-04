@@ -3,9 +3,9 @@
 
 NOTE=$1
 
-cd ~/repos/ankidecks/tools
-BASEPATH="/home/tpb/repos/ankidecks/Canadian_Ham_Advanced"
-DECK="Canadian_Ham_Advanced.json"
+cd /Users/kelvintran/GithubRepos/yycnetlabs-anki/tools
+BASEPATH="/Users/kelvintran/GithubRepos/yycnetlabs-anki/CCNP-Ent_v8"
+DECK="CCNP-ENCOR_v8.json"
 
 MISSINGFIELDS=$(/bin/grep -c -e '\"\"' ${BASEPATH}/${NOTE})
 
