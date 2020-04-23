@@ -480,6 +480,40 @@
       "tags": [
         "Chapter_01"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two BPDU types?",
+        "Configuration / Topology Change",
+        "9330900022",
+        "CCNP / CCIE Enterprise Core Official Cert Guide, Chapter 2, Page 38"
+      ],
+      "flags": 0,
+      "guid": "9330900021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_02",
+        "3.1.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Fill in the blank: Configuration _ _ _ _ / Topology Change _ _ _ _",
+        "BPDU",
+        "9330900021",
+        "CCNP / CCIE Enterprise Core Official Cert Guide, Chapter 2, Page 38"
+      ],
+      "flags": 0,
+      "guid": "9330900022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_02",
+        "3.1.c"
+      ]
     }
   ]
 }

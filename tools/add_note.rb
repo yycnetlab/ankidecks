@@ -69,12 +69,14 @@ front_card["fields"][1] = note_json["back"]
 front_card["fields"][2] = second_guid
 front_card["fields"][3] =  note_json["reference"]
 front_card["guid"]      =  first_guid
+front_card["tags"]      = note_json["tags"]
 
 reverse_card["fields"][0] = note_json["front_reverse"]
 reverse_card["fields"][1] = note_json["back_reverse"]
 reverse_card["fields"][2] = first_guid
 reverse_card["fields"][3] =  note_json["reference"]
 reverse_card["guid"]      =  second_guid
+reverse_card["tags"]      = note_json["tags"]
 
 
 file_json['notes'] << front_card
