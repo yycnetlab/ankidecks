@@ -197,7 +197,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What command would you use to configure a Cisco Catalyst 3750v2 to support IPv6?",
+        "What command would you use to configure a Cisco Catalyst 3750 to support IPv6?",
         "Switch(config)#sdm prefer dual-ipv4-and-ipv6 default",
         "9330900004",
         "https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/12-2_55_se/configuration/guide/3750xscg/swsdm.html#24325"
