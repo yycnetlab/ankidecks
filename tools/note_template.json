@@ -5,5 +5,8 @@
   "front_reverse":"FRONT_REV",
   "back_reverse":"BACK_REV",
 
-  "reference":"REFERENCE"
+  "reference":"REFERENCE",
+  "tags":[
+    "comma-delimited", "list of tags"
+  ]
 }

@@ -197,7 +197,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What command would you use to configure a Cisco Catalyst 3750v2 to support IPv6?",
+        "What command would you use to configure a Cisco Catalyst 3750 to support IPv6?",
         "Switch(config)#sdm prefer dual-ipv4-and-ipv6 default",
         "9330900004",
         "https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/12-2_55_se/configuration/guide/3750xscg/swsdm.html#24325"
@@ -479,6 +479,40 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two BPDU types?",
+        "Configuration / Topology Change",
+        "9330900022",
+        "CCNP / CCIE Enterprise Core Official Cert Guide, Chapter 2, Page 38"
+      ],
+      "flags": 0,
+      "guid": "9330900021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_02",
+        "3.1.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Configuration and Topology Change Notification are two of which kind of STP frame?",
+        "BPDU",
+        "9330900021",
+        "CCNP / CCIE Enterprise Core Official Cert Guide, Chapter 2, Page 38"
+      ],
+      "flags": 0,
+      "guid": "9330900022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_02",
+        "3.1.c"
       ]
     }
   ]
