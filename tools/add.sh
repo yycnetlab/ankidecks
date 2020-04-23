@@ -3,21 +3,21 @@
 
 NOTE=$1
 
-cd ~/repos/ankidecks/tools
-BASEPATH="/home/tpb/repos/ankidecks/Canadian_Ham_Advanced"
-DECK="Canadian_Ham_Advanced.json"
+cd /Users/kelvintran/GithubRepos/yycnetlabs-anki/tools
+BASEPATH="/Users/kelvintran/GithubRepos/yycnetlabs-anki/CCNP-ENCOR_v8"
+DECK="CCNP-ENCOR_v8.json"
 
-MISSINGFIELDS=$(/bin/grep -c -e '\"\"' ${BASEPATH}/${NOTE})
+MISSINGFIELDS=$(/usr/bin/grep -c -e '\"\"' ${BASEPATH}/${NOTE})
 
 if [ ${MISSINGFIELDS} -ne 0 ]; then
   echo "ERROR: ${BASEPATH}/${NOTE} is missing these non-optional fields:"
-  /bin/grep -e '\"\"' ${BASEPATH}/${NOTE}
+  /usr/bin/grep -e '\"\"' ${BASEPATH}/${NOTE}
   exit 1
 fi
 
 ruby add_note.rb -f ${BASEPATH}/${DECK} -n ${BASEPATH}/${NOTE}
 
 if [ "$?" -eq 0 ]; then
-  /bin/sed -i -e 's/\(\(front\|back\).*":"\)[^"]*\("\)/\1\3/' ${BASEPATH}/${NOTE}
+  /usr/bin/sed -i -e 's/\(\(front\|back\).*":"\)[^"]*\("\)/\1\3/' ${BASEPATH}/${NOTE}
 fi
 
