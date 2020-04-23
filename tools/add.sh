@@ -20,4 +20,3 @@ ruby add_note.rb -f ${BASEPATH}/${DECK} -n ${BASEPATH}/${NOTE}
 if [ "$?" -eq 0 ]; then
   /bin/sed -i -e 's/\(\(front\|back\).*":"\)[^"]*\("\)/\1\3/' ${BASEPATH}/${NOTE}
 fi
-
