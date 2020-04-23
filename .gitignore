@@ -1,4 +1,4 @@
 .env
-*/config.json.template
-*/add.sh
-*/.DS_STORE
+config.json.template
+add.sh
+.DS_STORE
