@@ -502,7 +502,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Fill in the blank: Configuration and Topology Change Notification are two of which kind of STP frame?",
+        "Configuration and Topology Change Notification are two of which kind of STP frame?",
         "BPDU",
         "9330900021",
         "CCNP / CCIE Enterprise Core Official Cert Guide, Chapter 2, Page 38"
