@@ -1,1 +1,483 @@
 
+
+  ],
+  "crowdanki_uuid": "06a7be19-1f98-4ad3-992c-24eea443527b",
+  "deck_config_uuid": "06a7be19-1f98-4ad3-992c-24eea443527b",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "06a7be19-1f98-4ad3-992c-24eea443527b",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": true,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": true,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 100
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "mid": "1496861969393",
+  "name": "CCNP-ENCOR_v8",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "RerverseCardID",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Reference",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "name": "Basic",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [
+
+      ],
+      "tmpls": [
+        {
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}"
+        }
+      ],
+      "type": 0,
+      "vers": [
+
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Do you know where this Anki deck originated?",
+        "This deck is part of an open collaborative effort started by YYC Net Lab.  This deck is provided free of charge and without warranty.  For updates please see the link below.  If you notice any errors or would like to add some cards please reach out to YYC Net Lab through Github.<br><br>To stop seeing this card click on 'More' in the bottom right and select 'Suspend Card'.",
+        "6100900000",
+        "https://github.com/yycnetlab/ankidecks"
+      ],
+      "flags": 0,
+      "guid": "6100900000",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "If CEF is missing the information necessary in the adjacency table to perform a MAC rewrite, what adjacency type will be formed?",
+        "Glean",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/support/docs/ip/express-forwarding-cef/13706-20.html#express"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why would CEF create a glean adjacency?",
+        "It is missing the information necessary in the adjacency table to perform a MAC rewrite.",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/support/docs/ip/express-forwarding-cef/13706-20.html#express"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command would you use to configure a Cisco Catalyst 3750 to support IPv6?",
+        "Switch(config)#sdm prefer dual-ipv4-and-ipv6 default",
+        "9330900004",
+        "https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/12-2_55_se/configuration/guide/3750xscg/swsdm.html#24325"
+      ],
+      "flags": 0,
+      "guid": "9330900003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the command \"sdm prefer dual-ipv4-and-ipv6 default\" accomplish on a Cisco Catalyst 3750v2 switch?",
+        "It allows the switch to support IPv4 and IPv6 by changing the Software Database Manager (SDM) profile.",
+        "9330900003",
+        "https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/12-2_55_se/configuration/guide/3750xscg/swsdm.html#24325"
+      ],
+      "flags": 0,
+      "guid": "9330900004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the  action taken by a switch when a frame is received destined to a MAC that it does not have a record for in its MAC address table?",
+        "Floods the frame out all ports (unknown unicast flooding)",
+        "9330900006",
+        "CCNP / CCIE Enterprise Core (350-401) ENCOR Official Cert Guide, Chapter 1 Packet Forwarding, Page 6"
+      ],
+      "flags": 0,
+      "guid": "9330900005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why might a switch perform unknown unicast flooding?",
+        "The switch received a frame destined to a MAC address that it has no record of in its MAC address table / CAM table.",
+        "9330900005",
+        "CCNP / CCIE Enterprise Core (350-401) ENCOR Official Cert Guide, Chapter 1 Packet Forwarding, Page 6"
+      ],
+      "flags": 0,
+      "guid": "9330900006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What VLANs are part of the normal VLAN range that can be added, modified, or deleted by a network administrator?",
+        "2-1001",
+        "9330900008",
+        "CCNP / CCIE Enterprise Core (350-401) ENCOR Official Cert Guide, Chapter 1 Packet Forwarding, Page 7"
+      ],
+      "flags": 0,
+      "guid": "9330900007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the range of VLANs 2-1001 considered?",
+        "The normal VLAN range (that is modifiable, deletable, and/or addable)",
+        "9330900007",
+        "CCNP / CCIE Enterprise Core (350-401) ENCOR Official Cert Guide, Chapter 1 Packet Forwarding, Page 7"
+      ],
+      "flags": 0,
+      "guid": "9330900008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which notable table is used to build the contents of the CEF adjacency table?",
+        "ARP table",
+        "9330900010",
+        "CCNP / CCIE Enterprise Core (350-401) ENCOR Official Cert Guide, Chapter 1 Packet Forwarding, Page 28"
+      ],
+      "flags": 0,
+      "guid": "9330900009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CEF table is the ARP table used to build?",
+        "Adjacency table",
+        "9330900009",
+        "CCNP / CCIE Enterprise Core (350-401) ENCOR Official Cert Guide, Chapter 1 Packet Forwarding, Page 28"
+      ],
+      "flags": 0,
+      "guid": "9330900010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "You issue the command \"ip route 10.0.0.0 0.0.0.255 null0\". What type of adjacency is created for the 10.0.0.0/24 network?",
+        "Drop",
+        "9330900012",
+        "https://www.cisco.com/c/en/us/support/docs/ip/express-forwarding-cef/13706-20.html#express"
+      ],
+      "flags": 0,
+      "guid": "9330900011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A route with what interface destination would cause a drop CEF adjacency to be formed for the network?",
+        "Null0",
+        "9330900011",
+        "https://www.cisco.com/c/en/us/support/docs/ip/express-forwarding-cef/13706-20.html#express"
+      ],
+      "flags": 0,
+      "guid": "9330900012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "You run the command \"access-list 1 permit 10.0.0.0 0.0.0.255 log\" command. You then receive a packet from 10.0.0.5/24. The command \"ip cef\" is active on the device. What packet switching mechanism is used for this packet?",
+        "Process switching",
+        "9330900014",
+        "https://tools.cisco.com/security/center/resources/access_control_list_logging"
+      ],
+      "flags": 0,
+      "guid": "9330900013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What ACL functionality would cause a packet to be processed switch on a switch with CEF enabled?",
+        "Logging",
+        "9330900013",
+        "https://tools.cisco.com/security/center/resources/access_control_list_logging"
+      ],
+      "flags": 0,
+      "guid": "9330900014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What indicates a speed or duplex was auto-negotiated when doing a 'show int status'?",
+        "The 'a-' prefix before the speed/duplex.",
+        "6100900016",
+        "OCG ENCOR Chapter 1 p17"
+      ],
+      "flags": 0,
+      "guid": "6100900015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the 'a-' prefix before the speed/duplex in a 'sh int status' indicate?",
+        "It was auto-negotiated",
+        "6100900015",
+        "OCG ENCOR Chapter 1 p17"
+      ],
+      "flags": 0,
+      "guid": "6100900016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the possible results from a TCAM lookup?",
+        "True, False, Do not care",
+        "6100900018",
+        "OCG ENCOR Chapter 1 p26"
+      ],
+      "flags": 0,
+      "guid": "6100900017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are the results 'True, False, Do not care' found?",
+        "In a TCAM lookup.",
+        "6100900017",
+        "OCG ENCOR Chapter 1 p26"
+      ],
+      "flags": 0,
+      "guid": "6100900018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are TCAM entries stored?",
+        "Value, Mask, and Result (VMR) format.",
+        "6100900020",
+        "OCG ENCOR Chapter 1 p26"
+      ],
+      "flags": 0,
+      "guid": "6100900019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What uses Value, Mask, and Result (VMR) format?",
+        "TCAM entries",
+        "6100900019",
+        "OCG ENCOR Chapter 1 p26"
+      ],
+      "flags": 0,
+      "guid": "6100900020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Chapter_01"
+      ]
+    }
+  ]
+}
