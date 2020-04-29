@@ -158,7 +158,7 @@
       "guid": "6100900000",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-
+        "NoExamTopic"
       ]
     },
     {
@@ -174,7 +174,8 @@
       "guid": "9330900001",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.a"
       ]
     },
     {
@@ -190,7 +191,8 @@
       "guid": "9330900002",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.a"
       ]
     },
     {
@@ -206,7 +208,8 @@
       "guid": "9330900003",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.1.a"
       ]
     },
     {
@@ -222,7 +225,8 @@
       "guid": "9330900004",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.1.a"
       ]
     },
     {
@@ -238,7 +242,8 @@
       "guid": "9330900005",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.b"
       ]
     },
     {
@@ -254,7 +259,8 @@
       "guid": "9330900006",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.b"
       ]
     },
     {
@@ -270,7 +276,8 @@
       "guid": "9330900007",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "NoExamTopic"
       ]
     },
     {
@@ -286,7 +293,8 @@
       "guid": "9330900008",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "NoExamTopic"
       ]
     },
     {
@@ -302,7 +310,9 @@
       "guid": "9330900009",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.a",
+        "1.7.b"
       ]
     },
     {
@@ -318,7 +328,9 @@
       "guid": "9330900010",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.a",
+        "1.7.b"
       ]
     },
     {
@@ -334,7 +346,8 @@
       "guid": "9330900011",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.c"
       ]
     },
     {
@@ -350,7 +363,8 @@
       "guid": "9330900012",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.c"
       ]
     },
     {
@@ -366,7 +380,8 @@
       "guid": "9330900013",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.a"
       ]
     },
     {
@@ -382,7 +397,8 @@
       "guid": "9330900014",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.a"
       ]
     },
     {
@@ -398,7 +414,8 @@
       "guid": "6100900015",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "NoExamTopic"
       ]
     },
     {
@@ -414,7 +431,8 @@
       "guid": "6100900016",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "NoExamTopic"
       ]
     },
     {
@@ -430,7 +448,8 @@
       "guid": "6100900017",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.b"
       ]
     },
     {
@@ -446,7 +465,8 @@
       "guid": "6100900018",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.b"
       ]
     },
     {
@@ -462,7 +482,8 @@
       "guid": "6100900019",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.b"
       ]
     },
     {
@@ -478,7 +499,8 @@
       "guid": "6100900020",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-        "Chapter_01"
+        "Chapter_01",
+        "1.7.b"
       ]
     },
     {
