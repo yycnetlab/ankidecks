@@ -47680,6 +47680,4870 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two most commonly-used mobile operating systems?",
+        "Android and iOS",
+        "8790702972",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702971",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Android and iOS are what?",
+        "The two most commonly used mobile OSes",
+        "8790702971",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702972",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is machine language made up of?",
+        "Zeroes and ones",
+        "8790702974",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702973",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Zeroes and ones make up what language?",
+        "Machine language",
+        "8790702973",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702974",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is source code?",
+        "The instructions for a computer written in a human-readable language",
+        "8790702976",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702975",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the instructions for a computer written in a human-readable language?",
+        "Source code",
+        "8790702975",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702976",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between open source and closed source software?",
+        "In open source software, the source code is freely published",
+        "8790702978",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702977",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of software is the source code is freely published?",
+        "Open source software",
+        "8790702977",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702978",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Android?",
+        "An open-source Linux-based mobile OS",
+        "8790702980",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702979",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the commonly-used open-source Linux-based mobile OS?",
+        "Android",
+        "8790702979",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702980",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who develops Android?",
+        "The Open Handset Alliance",
+        "8790702982",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702981",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the flagship product of the Open Handset Alliance?",
+        "Android",
+        "8790702981",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702982",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What company is the largest member of the Open Handset Alliance?",
+        "Google",
+        "8790702984",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702983",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Google is the largest member of what organization that relates to Android?",
+        "Open Handset Alliance",
+        "8790702983",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702984",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What year was Android first released?",
+        "2008",
+        "8790702986",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702985",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OS was first released in 2008?",
+        "Android",
+        "8790702985",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702986",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is iOS?",
+        "A closed-source Unix-based mobile OS",
+        "8790702988",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702987",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the commonly-used closed-source Unix-based mobile OS?",
+        "iOS",
+        "8790702987",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702988",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What year was iOS first released?",
+        "2007",
+        "8790702990",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702989",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What popular mobile OS was first released in 2007?",
+        "iOS",
+        "8790702989",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702990",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What were the versions of Windows developed for mobile devices?",
+        "Windows CE, Windows Phone 7, Windows Phone 8, and Windows 10 Mobile",
+        "8790702992",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702991",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Windows CE, Windows Phone 7, Windows Phone 8, and Windows 10 Mobile were what?",
+        "The versions of Windows developed for mobile devices",
+        "8790702991",
+        "NetAcad ITEv7 Section 12.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790702992",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'walled garden' app store model?",
+        "Apps must be submitted for approval by the app store owner",
+        "8790702994",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702993",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what app store model must apps be submitted for approval by the app store owner?",
+        "A walled garden app store",
+        "8790702993",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702994",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SDK' stand for?",
+        "Software Development Kit",
+        "8790702996",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702995",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Software Development Kit'?",
+        "SDK",
+        "8790702995",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702996",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What programming language is used to create iOS apps?",
+        "Swift",
+        "8790702998",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702997",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Swift language used for in mobile development?",
+        "Creating iOS apps",
+        "8790702997",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702998",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Xcode?",
+        "Apple's SDK that can only be installed on OS X computers",
+        "8790703000",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790702999",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of Apple's SDK that can only be installed on OS X computers?",
+        "Xcode",
+        "8790702999",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703000",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What SDK is used to develop Android apps?",
+        "Android Studio",
+        "8790703002",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Android Studio used for?",
+        "Developing Android apps with Java",
+        "8790703001",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What language is used to develop Android apps?",
+        "Java",
+        "8790703004",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Java used for in mobile development?",
+        "Developing Android apps",
+        "8790703003",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can Android apps be downloaded from?",
+        "Google Play and third-party sites and app stores",
+        "8790703006",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Google Play and third-party sites and app stores allow users to do what?",
+        "Download Android apps",
+        "8790703005",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'APK' stand for?",
+        "Android Application Package",
+        "8790703008",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Android Application Package'?",
+        "APK",
+        "8790703007",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the process of installing apps via their APK?",
+        "Sideloading",
+        "8790703010",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is sideloading?",
+        "The process of installing an app via its APK",
+        "8790703009",
+        "NetAcad ITEv7 Section 12.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What three buttons are found on the Android system bar?",
+        "Back, home, and recent apps",
+        "8790703012",
+        "NetAcad ITEv7 Section 12.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Back, home, and recent apps are the three buttons found where?",
+        "The Android system bar",
+        "8790703011",
+        "NetAcad ITEv7 Section 12.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the home screen indicator on Android?",
+        "A small indicator of which section of the home screen is being displayed",
+        "8790703014",
+        "NetAcad ITEv7 Section 12.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the small indicator of which section of the home screen is being displayed on Android?",
+        "The home screen indicator",
+        "8790703013",
+        "NetAcad ITEv7 Section 12.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the Android notification area contain?",
+        "Notifications, commonly-used settings, brightness adjustment, and access to settings",
+        "8790703016",
+        "NetAcad ITEv7 Section 12.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Notifications, commonly-used settings, brightness adjustment, and access to settings are contained where on Android?",
+        "The notification area",
+        "8790703015",
+        "NetAcad ITEv7 Section 12.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was commonly used on iPhones in place of a system bar until the iPhone X?",
+        "A physical home button",
+        "8790703018",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generation of iPhone eliminated the physical home button?",
+        "The iPhone X",
+        "8790703017",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the functions of the iPhone home button?",
+        "Waking the device, returning to the home screen, and activating Siri",
+        "8790703020",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Waking the device, returning to the home screen, and activating Siri are the functions of what on iOS?",
+        "The home button",
+        "8790703019",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is contained in the iOS notification centre?",
+        "Notifications and alerts",
+        "8790703022",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What section of iOS contains notifications and alerts?",
+        "The notification centre",
+        "8790703021",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is contained within the commonly-used settings menu in iOS?",
+        "Toggles for common settings, brightness adjustment, music control, AirDrop, and access to the flashlight, clock, calendar, and camera",
+        "8790703024",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What section of iOS contains toggles for common settings, brightness adjustment, music control, AirDrop, and access to the flashlight, clock, calendar, and camera?",
+        "The commonly-used settings menu",
+        "8790703023",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is iOS Spotlight accessed?",
+        "Touching the screen and dragging down",
+        "8790703026",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Touching the screen and dragging down does what in iOS?",
+        "Accesses Spotlight",
+        "8790703025",
+        "NetAcad ITEv7 Section 12.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do devices know whether to orient the display in portrait or landscape?",
+        "With a sensor known as an accelerometer",
+        "8790703028",
+        "NetAcad ITEv7 Section 12.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What basic function is the accelerometer in devices used for?",
+        "Correctly orienting the screen in portrait or landscape",
+        "8790703027",
+        "NetAcad ITEv7 Section 12.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IPS' stand for in terms of locating a device?",
+        "Indoor Positioning System",
+        "8790703030",
+        "NetAcad ITEv7 Section 12.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Indoor Positioning System'?",
+        "IPS",
+        "8790703029",
+        "NetAcad ITEv7 Section 12.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does Indoor Positioning System work?",
+        "Determines device location by triangulating its proximity to nearby radio signals",
+        "8790703032",
+        "NetAcad ITEv7 Section 12.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What positioning system determines device location by triangulating its proximity to nearby radio signals?",
+        "Indoor Positioning System",
+        "8790703031",
+        "NetAcad ITEv7 Section 12.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for apps and websites being able to use GPS data to offer location-specific services?",
+        "Geotracking",
+        "8790703034",
+        "NetAcad ITEv7 Section 12.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Geotracking?",
+        "The use of GPS data to identify a device or person's current location, usually to offer location-specific services",
+        "8790703033",
+        "NetAcad ITEv7 Section 12.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is WiFi calling?",
+        "The ability of some devices to make phone calls using WiFi instead of a cellular connection",
+        "8790703036",
+        "NetAcad ITEv7 Section 12.1.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the ability of some devices to make phone calls using WiFi instead of a cellular connection?",
+        "WiFi calling",
+        "8790703035",
+        "NetAcad ITEv7 Section 12.1.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the minimum WiFi speed for a good quality WiFi call?",
+        "1Mbps",
+        "8790703038",
+        "NetAcad ITEv7 Section 12.1.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "1Mbps is the minimum WiFi speed to use it as an alternative to a cellular network for what purpose?",
+        "Phone calls",
+        "8790703037",
+        "NetAcad ITEv7 Section 12.1.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do SMS-based transactional payments work?",
+        "Customers send a payment request SMS to their carrier, who then informs the seller that a payment has been made. The charge is added to the customer's phone bill",
+        "8790703040",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what mobile payment method do customers send a payment request SMS to their carrier, who then informs the seller that a payment has been made and added to the customer's phone bill?",
+        "SMS-based transactional payments",
+        "8790703039",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the drawbacks of SMS-based payments?",
+        "Poor speed, reliability, and security",
+        "8790703042",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Poor speed, reliability, and security are the drawbacks of what mobile payment method?",
+        "SMS-based payments",
+        "8790703041",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is direct mobile billing?",
+        "A payment method popular in Asia where a user uses two-factor authentication to add a charge to their mobile service bill",
+        "8790703044",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what payment method does a user use two-factor authentication to add a charge to their mobile service bill?",
+        "Direct mobile billing",
+        "8790703043",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what mobile payment method is WAP used to pay online with pre-registered payment methods?",
+        "Mobile web payments",
+        "8790703046",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are mobile web payments?",
+        "An app or website uses a pre-registered payment method to make a payment via WAP",
+        "8790703045",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the 'WAP' protocol stand for?",
+        "Wireless Application Protocol",
+        "8790703048",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Wireless Application Protocol'?",
+        "WAP",
+        "8790703047",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are contactless NFC payments?",
+        "Used in physical stores, a mobile device can make a payment by being waved near the payment terminal",
+        "8790703050",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Used in physical stores, a mobile device can make a payment by being waved near the payment terminal using this payment method.",
+        "Contactless NFC payments",
+        "8790703049",
+        "NetAcad ITEv7 Section 12.1.4.6"
+      ],
+      "flags": 0,
+      "guid": "8790703050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an another name for a digital assistant?",
+        "Virtual assistant",
+        "8790703052",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for a virtual assistant?",
+        "Digital assistant",
+        "8790703051",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a digital assistant?",
+        "A program that can understand and respond to conversational language",
+        "8790703054",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a program that can understand and respond to conversational language?",
+        "A digital assistant",
+        "8790703053",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the digital assistant commonly found on Android devices?",
+        "Google Now",
+        "8790703056",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Google Now?",
+        "The digital assistant commonly found on Android devices",
+        "8790703055",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the digital assistant commonly found on iOS devices?",
+        "Siri",
+        "8790703058",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Siri?",
+        "The digital assistant commonly found on iOS devices",
+        "8790703057",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the digital assistant commonly found on Windows devices?",
+        "Cortana",
+        "8790703060",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cortana?",
+        "The digital assistant commonly found on Windows devices",
+        "8790703059",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do digital assistants work?",
+        "Combining machine learning and voice recognition",
+        "8790703062",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What consumer technology combines machine learning with voice recognition?",
+        "Digital assistants",
+        "8790703061",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Google Now activated?",
+        "Saying 'OK Google'",
+        "8790703064",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology does saying 'OK Google' activate?",
+        "Google Now",
+        "8790703063",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Siri activated?",
+        "Saying 'Hey Siri'",
+        "8790703066",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology does saying 'Hey Siri' activate?",
+        "Siri",
+        "8790703065",
+        "NetAcad ITEv7 Section 12.1.4.8"
+      ],
+      "flags": 0,
+      "guid": "8790703066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a passcode lock on a mobile device?",
+        "A numeric passcode must be entered in order to unlock the device",
+        "8790703068",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what mobile device lock must a numeric passcode be entered in order to unlock the device?",
+        "Passcode lock",
+        "8790703067",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a swipe lock on a mobile device?",
+        "The screen must be swiped in a predetermined direction to unlock the device",
+        "8790703070",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what mobile device lock must the screen be swiped in a predetermined direction to unlock the device?",
+        "Swipe lock",
+        "8790703069",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a pattern lock on a mobile device?",
+        "The user must join multiple dots in a specific pattern to unlock the device",
+        "8790703072",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what mobile device lock must the user join multiple dots in a specific pattern to unlock the device?",
+        "Pattern lock",
+        "8790703071",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a fingerprint lock on a mobile device?",
+        "A biometric lock in which the device is unlocked by scanning the users's fingerprint",
+        "8790703074",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the biometric lock in which the device is unlocked by scanning the users's fingerprint?",
+        "Fingerprint lock",
+        "8790703073",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a face lock on a mobile device?",
+        "A biometric lock in which the device is unlocked by scanning the user's face",
+        "8790703076",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the biometric lock in which the device is unlocked by scanning the user's face?",
+        "Face lock",
+        "8790703075",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many times can a passcode entry be failed on iOS before an additional security measure is enabled?",
+        "10 failed entries",
+        "8790703078",
+        "NetAcad ITEv7 Section 12.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "10 failed entries is the maximum on iOS before what happens?",
+        "An additional security measure is enabled",
+        "8790703077",
+        "NetAcad ITEv7 Section 12.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which mobile device lock is the least secure?",
+        "Swipe lock",
+        "8790703080",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Compared to other locking methods, a swipe lock is the least what?",
+        "Secure",
+        "8790703079",
+        "NetAcad ITEv7 Section 12.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a remote backup?",
+        "When a device copies its data to cloud storage",
+        "8790703082",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the action of a device copying its data to cloud storage?",
+        "Remote backup",
+        "8790703081",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the iOS remote backup service?",
+        "iCloud",
+        "8790703084",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is iCloud?",
+        "The remote backup service for iOS",
+        "8790703083",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Android remote backup service?",
+        "Google Sync",
+        "8790703086",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Google Sync?",
+        "The first-party backup service for Android",
+        "8790703085",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Microsoft remote backup service?",
+        "OneDrive",
+        "8790703088",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OneDrive?",
+        "The first-party Microsoft remote backup service",
+        "8790703087",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MDM' stand for?",
+        "Mobile Device Management",
+        "8790703090",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Mobile Device Management'?",
+        "MDM",
+        "8790703089",
+        "NetAcad ITEv7 Section 12.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a locator application?",
+        "An app that allows a user to track a lost device",
+        "8790703092",
+        "NetAcad ITEv7 Section 12.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for an app that allows a user to track a lost device?",
+        "Locator app",
+        "8790703091",
+        "NetAcad ITEv7 Section 12.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default locator app on Android?",
+        "Android Device Manager",
+        "8790703094",
+        "NetAcad ITEv7 Section 12.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Android Device Manager?",
+        "The default locator app on Android",
+        "8790703093",
+        "NetAcad ITEv7 Section 12.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default locator app on iOS?",
+        "Find My iPhone",
+        "8790703096",
+        "NetAcad ITEv7 Section 12.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Find My iPhone?",
+        "The default locator app on iOS",
+        "8790703095",
+        "NetAcad ITEv7 Section 12.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the remote lock feature on iOS?",
+        "Lost Mode",
+        "8790703098",
+        "NetAcad ITEv7 Section 12.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Lost Mode on iOS?",
+        "A remote lock feature",
+        "8790703097",
+        "NetAcad ITEv7 Section 12.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two security features typically available in locator apps?",
+        "Remote lock and remote wipe",
+        "8790703100",
+        "NetAcad ITEv7 Section 12.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Remote lock and remote wipe are what?",
+        "The two security features typically available in locator apps",
+        "8790703099",
+        "NetAcad ITEv7 Section 12.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application will allow storing iOS backups on a local PC instead of in the cloud?",
+        "iTunes",
+        "8790703102",
+        "NetAcad ITEv7 Section 12.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Apple-provided cloud feature does iTunes provide an alternative to?",
+        "iCloud remote backup",
+        "8790703101",
+        "NetAcad ITEv7 Section 12.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a software sandbox?",
+        "A location of the OS that allows isolating code",
+        "8790703104",
+        "NetAcad ITEv7 Section 12.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703103",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a location of the OS that allows isolating code?",
+        "A sandbox",
+        "8790703103",
+        "NetAcad ITEv7 Section 12.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703104",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does iOS not allow antivirus apps to do?",
+        "Run automatic or scheduled scans",
+        "8790703106",
+        "NetAcad ITEv7 Section 12.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703105",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On what OS can antivirus apps not run automatic or scheduled scans?",
+        "iOS",
+        "8790703105",
+        "NetAcad ITEv7 Section 12.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703106",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do firewall apps do?",
+        "Monitor app behaviour and prevent connections to specific ports or IP addresses",
+        "8790703108",
+        "NetAcad ITEv7 Section 12.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703107",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of app monitors app behaviour and prevent connections to specific ports or IP addresses?",
+        "Firewall apps",
+        "8790703107",
+        "NetAcad ITEv7 Section 12.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703108",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are rooting and jailbreaking?",
+        "Methods for removing restrictions and protections in mobile operating systems",
+        "8790703110",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703109",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the names of the methods for removing restrictions and protections in mobile operating systems?",
+        "Rooting and jailbreaking",
+        "8790703109",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703110",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On what OS is rooting used?",
+        "Android",
+        "8790703112",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703111",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What method is used to remove restrictions from Android devices?",
+        "Rooting",
+        "8790703111",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703112",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On what OS is jailbreaking used?",
+        "iOS",
+        "8790703114",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703113",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What method is used to remove restrictions from iOS devices?",
+        "Jailbreaking",
+        "8790703113",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703114",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is rooting and jailbreaking discouraged?",
+        "It typically voids the manufacturer warranty",
+        "8790703116",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703115",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What software modification typically voids the manufacturer warranty of mobile devices?",
+        "Rooting and jailbreaking",
+        "8790703115",
+        "NetAcad ITEv7 Section 12.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703116",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PRL' stand for?",
+        "Preferred Roaming List",
+        "8790703118",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703117",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Preferred Roaming List'?",
+        "PRL",
+        "8790703117",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703118",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PRI' stand for?",
+        "Primary Rate ISDN",
+        "8790703120",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703119",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Primary Rate ISDN'?",
+        "PRI",
+        "8790703119",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703120",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are PRL and PRI categorized as?",
+        "Baseband updates",
+        "8790703122",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703121",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two categories of baseband update?",
+        "PRL and PRI",
+        "8790703121",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703122",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PRL?",
+        "Configuration information to allow a device to communicate on a cellular network other than its own",
+        "8790703124",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703123",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What baseband update contains configuration information to allow a device to communicate on a cellular network other than its own?",
+        "PRL",
+        "8790703123",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703124",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PRI?",
+        "Configuration for data rates between the device and cell tower",
+        "8790703126",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703125",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What baseband update contains configuration for data rates between the device and cell tower?",
+        "PRI",
+        "8790703125",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703126",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between an update and a patch?",
+        "Updates add functionality or increase performance, patches fix problems",
+        "8790703128",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703127",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of change to an OS adds functionality, and what type fixes problems?",
+        "Updates add functionality or increase performance, patches fix problems",
+        "8790703127",
+        "NetAcad ITEv7 Section 12.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ext3?",
+        "A 64-bit filesystem with support for journaling",
+        "8790703130",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What early 64-bit filesystem with support for journaling is popular on Linux?",
+        "ext3",
+        "8790703129",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ext4?",
+        "An extended version of ext3 with much better performance",
+        "8790703132",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the extended version of ext3 with much better performance?",
+        "ext4",
+        "8790703131",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What legacy file system developed for DOS does Linux support?",
+        "FAT and FAT32",
+        "8790703134",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "FAT and FAT32 are legacy file systems supported by what open-source OS?",
+        "Linux",
+        "8790703133",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a swap space?",
+        "Linux's equivalent to Windows' page file",
+        "8790703136",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Linux's equivalent to Windows' page file?",
+        "Swap space",
+        "8790703135",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Prior to High Sierra, what filesystem did MacOS use?",
+        "HFS Plus",
+        "8790703138",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OS was the HFS Plus file system used on?",
+        "MacOS versions prior to High Sierra",
+        "8790703137",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is HFS Plus short for?",
+        "Extended Hierarchical File System",
+        "8790703140",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the short form of Extended Hierarchical File System?",
+        "HFS Plus",
+        "8790703139",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What filesystem did MacOS use for High Sierra and later?",
+        "APFS",
+        "8790703142",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OS uses the APFS filesystem?",
+        "MacOS versions High Sierra and later",
+        "8790703141",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'APFS' stand for?",
+        "Apple File System",
+        "8790703144",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Apple File System'?",
+        "APFS",
+        "8790703143",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the maximum volume and filesize of HFS Plus?",
+        "8 exabytes",
+        "8790703146",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "8 exabytes is the maximum volume and file size of what Apple filesystem?",
+        "HFS Plus",
+        "8790703145",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What notable feature was missing from HFS Plus?",
+        "Native file and folder encryption",
+        "8790703148",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Native file and folder encryption was a notable missing feature from what major file system?",
+        "HFS Plus",
+        "8790703147",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Unix?",
+        "A proprietary OS written in C with various versions such as BSD",
+        "8790703150",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What proprietary OS written in C is BSD a version of?",
+        "Unix",
+        "8790703149",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'BSD' stand for?",
+        "Berkeley Software Distribution",
+        "8790703152",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Berkeley Software Distribution'?",
+        "BSD",
+        "8790703151",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is GNU-Linux?",
+        "An open-source Unix-like OS compatible with Unix commands",
+        "8790703154",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a major open-source Unix-like OS compatible with Unix commands?",
+        "GNU-Linux",
+        "8790703153",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Apple's version of PXE?",
+        "NetBoot",
+        "8790703156",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NetBoot?",
+        "Apple's version of PXE",
+        "8790703155",
+        "NetAcad ITEv7 Section 12.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the default desktop environment used in modern Ubuntu versions?",
+        "GNOME",
+        "8790703158",
+        "NetAcad ITEv7 Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703157",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "GNOME is the default desktop environment on what popular Linux distribution?",
+        "Ubuntu",
+        "8790703157",
+        "NetAcad ITEv7 Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703158",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the MacOS desktop environment?",
+        "Aqua",
+        "8790703160",
+        "NetAcad ITEv7 Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703159",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Aqua is the name of what major OS's desktop environment?",
+        "MacOS",
+        "8790703159",
+        "NetAcad ITEv7 Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703160",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Finder?",
+        "MacOS's equivalent to Windows's File Explorer",
+        "8790703162",
+        "NetAcad ITEv7 Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703161",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of MacOS's equivalent to Windows's File Explorer?",
+        "Finder",
+        "8790703161",
+        "NetAcad ITEv7 Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703162",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Remote Disk app on MacOS?",
+        "An app that allows the user to access the CD/DVD drive on another computer",
+        "8790703164",
+        "NetAcad ITEv7 Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703163",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for the MacOS app that allows the user to access the CD/DVD drive on another computer?",
+        "Remote Disk",
+        "8790703163",
+        "NetAcad ITEv7 Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703164",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Instead of a slash, how are options and switches enabled in CLI commands on Linux and MacOS?",
+        "With a dash character",
+        "8790703166",
+        "NetAcad ITEv7 Section 12.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703165",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Linux and MacOS both use dashes to enable options and switches in CLI commands, while Windows uses what character?",
+        "A slash character",
+        "8790703165",
+        "NetAcad ITEv7 Section 12.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703166",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a shell?",
+        "An interpreter that passes commands from a terminal emulator to the operating system",
+        "8790703168",
+        "NetAcad ITEv7 Section 12.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703167",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for an interpreter program that passes commands from a terminal emulator to the operating system?",
+        "Shell",
+        "8790703167",
+        "NetAcad ITEv7 Section 12.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703168",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the terminal emulator included in MacOS?",
+        "Terminal",
+        "8790703170",
+        "NetAcad ITEv7 Section 12.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703169",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Terminal is the name of what type of program included in MacOS?",
+        "Terminal emulator",
+        "8790703169",
+        "NetAcad ITEv7 Section 12.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703170",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the built-in backup tool included in MacOS?",
+        "Time Machine",
+        "8790703172",
+        "NetAcad ITEv7 Section 12.3.1.6"
+      ],
+      "flags": 0,
+      "guid": "8790703171",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Time Machine?",
+        "The included backup tool in MacOS",
+        "8790703171",
+        "NetAcad ITEv7 Section 12.3.1.6"
+      ],
+      "flags": 0,
+      "guid": "8790703172",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is cron?",
+        "The task scheduling tool used in both Linux and MacOS",
+        "8790703174",
+        "NetAcad ITEv7 Section 12.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703173",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What task scheduling tool is used in both Linux and MacOS?",
+        "Cron",
+        "8790703173",
+        "NetAcad ITEv7 Section 12.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703174",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command allows editing the cron schedule table?",
+        "crontab",
+        "8790703176",
+        "NetAcad ITEv7 Section 12.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703175",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'crontab' command used for?",
+        "Accessing and editing the cron schedule table",
+        "8790703175",
+        "NetAcad ITEv7 Section 12.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703176",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many columns are found in a Cron table?",
+        "6 columns",
+        "8790703178",
+        "NetAcad ITEv7 Section 12.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703177",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "a 6-column table is used to schedule tasks with what task scheduling utility?",
+        "Cron",
+        "8790703177",
+        "NetAcad ITEv7 Section 12.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703178",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does antivirus software detect the presence of malware?",
+        "Scanning for files that match the code signatures of known malware",
+        "8790703180",
+        "NetAcad ITEv7 Section 12.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703179",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of software scans for files that match the code signatures of known malware?",
+        "Antivirus software",
+        "8790703179",
+        "NetAcad ITEv7 Section 12.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703180",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of service do modern OSes use to handle security credentials?",
+        "Security Credentials Manager",
+        "8790703182",
+        "NetAcad ITEv7 Section 12.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703181",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a security credentials manager?",
+        "It is a service modern OSes use to standardize security credentials across applications",
+        "8790703181",
+        "NetAcad ITEv7 Section 12.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703182",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the MacOS credentials manager?",
+        "Keychain",
+        "8790703184",
+        "NetAcad ITEv7 Section 12.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703183",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the MacOS keychain?",
+        "The name of the MacOS security credentials manager",
+        "8790703183",
+        "NetAcad ITEv7 Section 12.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703184",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command accesses the manual page for another command?",
+        "man",
+        "8790703186",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703185",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'man' command used for?",
+        "Accessing the manual page for another command",
+        "8790703185",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703186",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'ls' command used for?",
+        "Listing directory contents",
+        "8790703188",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703187",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command on Linux and MacOS performs the same function as 'dir' on Windows?",
+        "'ls'",
+        "8790703187",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703188",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'pwd' command used for?",
+        "Printing the current working directory",
+        "8790703190",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703189",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command on Linux and MacOS prints the current directory?",
+        "'pwd'",
+        "8790703189",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703190",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'cp' command used for?",
+        "Copying files and directories",
+        "8790703192",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703191",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command is used for copying files and directories on Linux and MacOS?",
+        "'cp'",
+        "8790703191",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703192",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'grep' command used for on Linux and MacOS?",
+        "Searching for a pattern within a file or the current working directory",
+        "8790703194",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703193",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command is used for searching for a pattern within a file or the current working directory in Linux and MacOS?",
+        "'grep'",
+        "8790703193",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703194",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command is used for creating directories on Linux and MacOS?",
+        "'mkdir'",
+        "8790703196",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703195",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'mkdir' command used for on Linux and MacOS?",
+        "Creating directories",
+        "8790703195",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703196",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command is used to change directories on Linux and MacOS?",
+        "'cd'",
+        "8790703198",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703197",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'cd' command used for on Linux and MacOS?",
+        "Changing directories",
+        "8790703197",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703198",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'touch' command used for in Linux and MacOS?",
+        "Creating empty files",
+        "8790703200",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703199",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command on Linux and MacOS can be used to create empty files?",
+        "'touch'",
+        "8790703199",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703200",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'cat' command used for in Linux and MacOS?",
+        "Displaying the contents of a text file",
+        "8790703202",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703201",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Linux and MacOS command has a similar purpose to the 'type' command on Windows?",
+        "'cat'",
+        "8790703201",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703202",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Linux and MacOS command has a similar purpose to the 'del' and 'rd' commands in Windows?",
+        "'rm'",
+        "8790703204",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703203",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'rm' command used for in Linux and MacOS?",
+        "Removing files and directories",
+        "8790703203",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703204",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What character is a shortcut that represents the user's home directory in Linux and MacOS?",
+        "`~`",
+        "8790703206",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703205",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the '~' character represent in Linux and MacOS?",
+        "The user's home directory",
+        "8790703205",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703206",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command in Linux and MacOS can be used to remove directories?",
+        "rmdir",
+        "8790703208",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'rmdir' command used for in Linux and MacOS?",
+        "Removing directories",
+        "8790703207",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703208",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'mv' command used for on Linux and MacOS?",
+        "Moving files and directories",
+        "8790703210",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703209",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What command on Linux and MacOS is used for moving files and directories?",
+        "'mv'",
+        "8790703209",
+        "NetAcad ITEv7 Section 12.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703210",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the first component of the output of 'ls -l' on Linux and MacOS?",
+        "File and directory access permissions",
+        "8790703212",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703211",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the file and directory access permissions?",
+        "The first component",
+        "8790703211",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703212",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the second component of the output of 'ls -l' on Linux and MacOS?",
+        "The number of links and directories the result contains",
+        "8790703214",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703213",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the number of links and directories the result contains?",
+        "The second component",
+        "8790703213",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703214",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the third component of the output of 'ls -l' on Linux and MacOS?",
+        "The username of the owner of the result",
+        "8790703216",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703215",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the username of the owner of the result?",
+        "The third component",
+        "8790703215",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703216",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fourth component of the output of 'ls -l' on Linux and MacOS?",
+        "The name of the group that owns the result",
+        "8790703218",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703217",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the name of the group that owns the result?",
+        "The fourth component",
+        "8790703217",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703218",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fifth component of the output of 'ls -l' on Linux and MacOS?",
+        "The file size in bytes",
+        "8790703220",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703219",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the file size in bytes?",
+        "The fifth component",
+        "8790703219",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703220",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the sixth component of the output of 'ls -l' on Linux and MacOS?",
+        "The timestamp of last modification",
+        "8790703222",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703221",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the timestamp of last modification?",
+        "The sixth component",
+        "8790703221",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703222",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the seventh component of the output of 'ls -l' on Linux and MacOS?",
+        "The filename",
+        "8790703224",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703223",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What component of the output of 'ls -l' on Linux and MacOS is the filename?",
+        "The seventh component",
+        "8790703223",
+        "NetAcad ITEv7 Section 12.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703224",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What default user on Linux and MacOS is capable of overriding file permissions?",
+        "The root user",
+        "8790703226",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703225",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What power does the root user have on Linux and MacOS?",
+        "The ability to override file permissions",
+        "8790703225",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703226",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '0' represent?",
+        "Giving no access to a file or directory",
+        "8790703228",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703227",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents no access?",
+        "0",
+        "8790703227",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703228",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '1' represent?",
+        "Execution only",
+        "8790703230",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703229",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents execution only?",
+        "1",
+        "8790703229",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703230",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '2' represent?",
+        "Write only",
+        "8790703232",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703231",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents write-only?",
+        "2",
+        "8790703231",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703232",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '3' represent?",
+        "Write and execute",
+        "8790703234",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703233",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents write and execute?",
+        "3",
+        "8790703233",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703234",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '4' represent?",
+        "Read only",
+        "8790703236",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703235",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents read-only?",
+        "4",
+        "8790703235",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703236",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '5' represent?",
+        "Read and execute",
+        "8790703238",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703237",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents read and execute?",
+        "5",
+        "8790703237",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703238",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '6' represent?",
+        "Read and write",
+        "8790703240",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703239",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents read and write?",
+        "6",
+        "8790703239",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703240",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what does a '7' represent?",
+        "Full access",
+        "8790703242",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703241",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux and MacOS file permissions, what digit represents full access?",
+        "7",
+        "8790703241",
+        "NetAcad ITEv7 Section 12.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703242",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the 'execute' permission mean for a directory?",
+        "Permission to enter the directory",
+        "8790703244",
+        "NetAcad ITEv7 Section 12.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703243",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What permission allows a user to enter a directory?",
+        "Execute permission",
+        "8790703243",
+        "NetAcad ITEv7 Section 12.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703244",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what does the 'passwd' command do?",
+        "Allows a user to change their password",
+        "8790703246",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703245",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what command allows a user to change their password?",
+        "'passwd'",
+        "8790703245",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703246",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what does the 'ps' command do?",
+        "Allows a user to monitor their running processes",
+        "8790703248",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703247",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what command allows a user to monitor their running processes?",
+        "'ps'",
+        "8790703247",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703248",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what does the 'kill' command do?",
+        "Allows a user to end processes under their control",
+        "8790703250",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703249",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what command allows a user to end processes under their control?",
+        "'kill'",
+        "8790703249",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703250",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what does the 'ifconfig' command do?",
+        "Displays basic IP configuration information",
+        "8790703252",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703251",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Linux, what command displays basic IP configuration information?",
+        "'ifconfig'",
+        "8790703251",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703252",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deprecated command on Linux has been replaced by the 'ip address' command?",
+        "'ifconfig'",
+        "8790703254",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703253",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What newer command has replaced the deprecated 'ifconfig' command on Linux?",
+        "'ip address'",
+        "8790703253",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703254",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what is the 'iwconfig' command used for?",
+        "Configuring wireless settings",
+        "8790703256",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703255",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command allows configuring wireless settings?",
+        "'iwconfig'",
+        "8790703255",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703256",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what is the 'chmod' command used for?",
+        "Changing file and directory permissions",
+        "8790703258",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703257",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command is used for changing file and directory permissions?",
+        "'chmod'",
+        "8790703257",
+        "NetAcad ITEv7 Section 12.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703258",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'sudo' command short for on Linux?",
+        "Super User DO",
+        "8790703260",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703259",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Linux command is short for 'Super User DO'?",
+        "'sudo'",
+        "8790703259",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703260",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what does the 'sudo' command do?",
+        "Grants an authorized user temporary root access",
+        "8790703262",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703261",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command grants an authorized user temporary root access?",
+        "'sudo'",
+        "8790703261",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703262",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What file must a user be listed in in order to have access to the 'sudo' command on Linux?",
+        "The '/etc/sudoers' file",
+        "8790703264",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703263",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the '/etc/sudoers' file on Linux?",
+        "A list of users authorized to use the 'sudo' command",
+        "8790703263",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703264",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what is the 'chown' command used for?",
+        "Changing the owner of a file",
+        "8790703266",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703265",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command is used for changing the owner of a file?",
+        "'chown'",
+        "8790703265",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703266",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'apt-get' command used for on Debian-based Linux distributions?",
+        "Installing and managing software",
+        "8790703268",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703267",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Debian-based Linux distributions, what command is used for installing and managing software?",
+        "'apt-get'",
+        "8790703267",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703268",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what is the 'shutdown' command used for?",
+        "Halting and rebooting the operating system",
+        "8790703270",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703269",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command is used for halting and rebooting the operating system?",
+        "'shutdown'",
+        "8790703269",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703270",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what is the 'dd' command used for?",
+        "Copying entire disks and partitions",
+        "8790703272",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703271",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command is used for copying entire disks and partitions?",
+        "'dd'",
+        "8790703271",
+        "NetAcad ITEv7 Section 12.3.3.8"
+      ],
+      "flags": 0,
+      "guid": "8790703272",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what is the 'su' command used for?",
+        "Allows logging in as another user temporarily",
+        "8790703274",
+        "NetAcad ITEv7 Section 12.3.3.9"
+      ],
+      "flags": 0,
+      "guid": "8790703273",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On Linux, what command allows logging in as another user temporarily?",
+        "'su'",
+        "8790703273",
+        "NetAcad ITEv7 Section 12.3.3.9"
+      ],
+      "flags": 0,
+      "guid": "8790703274",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
