@@ -4,6 +4,9 @@
 # NOTE: For debugging, you can disable the bare exceptions (except: ...) - identified in the error message (Format: <method> Bare Exception <#>)
 # NOTE: Be sure to modify the variables in the main method (at bottom of script) - instructions in comments in the main method.
 
+# Be aware that there is a backup JSON file made in the same directory as the deck file.
+# If you have confirmed that all write operations have succeeded on the main deck, you may want to delete this.
+
 import json, sys, argparse
 
 
