@@ -1,0 +1,29 @@
+{
+  "notes":[
+    {
+      "front":"FRONT",
+      "back":"REV",
+    
+      "front_reverse":"FRONT_REV",
+      "back_reverse":"BACK_REV",
+    
+      "reference":"REFERENCE",
+      "tags":[
+        "comma-delimited", "list of tags"
+      ]
+    },
+    {
+      "front":"FRONT1",
+      "back":"REV1",
+    
+      "front_reverse":"FRONT_REV1",
+      "back_reverse":"BACK_REV1",
+    
+      "reference":"REFERENCE1",
+      "tags":[
+        "comma-delimited1", "list of tags1"
+      ]
+    }
+  ]
+}
+
