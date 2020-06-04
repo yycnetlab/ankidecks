@@ -857,8 +857,8 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "FRONT",
-        "BACK",
+        "What command should you enter if you are using multi-VRF configurations in a VRF-Lite environment in OSPF?",
+        "capability vrf-lite",
         "9330900042",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/command/iro-cr-book/ospf-a1.html#wp2582896905"
       ],
@@ -875,8 +875,8 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "FRONT",
-        "BACK",
+        "What does capability vrf-lite configure OSPF not to expect?",
+        "MPLS / MP-BGP Backbone",
         "9330900041",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/command/iro-cr-book/ospf-a1.html#wp2582896905"
       ],
