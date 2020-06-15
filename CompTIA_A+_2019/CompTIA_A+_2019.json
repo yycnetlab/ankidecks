@@ -57632,6 +57632,1606 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a firewall's packet filtering function do?",
+        "Monitor the destination ports and protocols used by packets",
+        "8790703594",
+        "NetAcad ITEv7 Section 13.4.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703593",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What firewall function monitors the destination ports and protocols used by packets?",
+        "Packet filtering",
+        "8790703593",
+        "NetAcad ITEv7 Section 13.4.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703594",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SLA' stand for?",
+        "Service Level Agreement",
+        "8790703596",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703595",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Service Level Agreement'?",
+        "SLA",
+        "8790703595",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703596",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an SLA define?",
+        "The services a customer will receive from a provider and the standards the provider must comply with",
+        "8790703598",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703597",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What defines the services a customer will receive from a provider and the standards the provider must comply with?",
+        "An SLA",
+        "8790703597",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703598",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PII' stand for?",
+        "Personally Identifiable Information",
+        "8790703600",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703599",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Personally Identifiable Information'?",
+        "PII",
+        "8790703599",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703600",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PCI' stand for in terms of information storage?",
+        "Payment Card Industry",
+        "8790703602",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703601",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Payment Card Industry'?",
+        "PCI",
+        "8790703601",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703602",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PHI' stand for?",
+        "Personal Health Information",
+        "8790703604",
+        "NetAcad ITEv7 Section 14.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703603",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Personal Health Information'?",
+        "PHI",
+        "8790703603",
+        "NetAcad ITEv7 Section 14.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703604",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do operation and planning documents encompass?",
+        "Strategy and planning documents, project proposals, meeting presentations and minutes, budgets, purchasing records, and inventory",
+        "8790703606",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703605",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Strategy and planning documents, project proposals, meeting presentations and minutes, budgets, purchasing records, and inventory are all part of what type of documents?",
+        "Operation and planning documents",
+        "8790703605",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703606",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do project documents encompass?",
+        "Change requests, Design requirements, topology diagrams, specifications, configurations, change management forms, and testing and acceptance forms",
+        "8790703608",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703607",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Change requests, Design requirements, topology diagrams, specifications, configurations, change management forms, and testing and acceptance forms are part of what type of documentation?",
+        "Project documentation",
+        "8790703607",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703608",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does user documentation encompass?",
+        "Features, functions, and operation manuals, helpdesk databases, knowledgebases, and FAQs",
+        "8790703610",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703609",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Features, functions, and operation manuals, helpdesk databases, knowledgebases, and FAQs are part of what kind of documentation?",
+        "User documentation",
+        "8790703609",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703610",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'identification' section of a change management process?",
+        "Identifying what the change is and why it is needed",
+        "8790703612",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703611",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying what the change is and why it is needed is done in what section of a change management process?",
+        "The identification section",
+        "8790703611",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703612",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'assessment' section of a change management process?",
+        "Identifying who and what is affected by the change, what resources are needed for it, and associated risks",
+        "8790703614",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703613",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying who and what is affected by the change, what resources are needed for it, and associated risks are part of what section of a change management process?",
+        "The assessment section",
+        "8790703613",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703614",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'planning' section of a change management process?",
+        "Identifying downtime, time required to make the change, and rollback or recovery processes",
+        "8790703616",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703615",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying downtime, time required to make the change, and rollback or recovery processes is done in what section of a change management process?",
+        "The planning section",
+        "8790703615",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703616",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'approval' section of a change management process?",
+        "Identifying who must authorize the change and whether approval has been obtained",
+        "8790703618",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703617",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying who must authorize the change and whether approval has been obtained is done in what section of a change management process?",
+        "The approval section",
+        "8790703617",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703618",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'implementation' section of a change management process?",
+        "Indicating how those affected by the change will be notified and how the results of the change will be tested",
+        "8790703620",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703619",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Indicating how those affected by the change will be notified and how the results of the change will be tested is part of what section of a change management process?",
+        "The implementation section",
+        "8790703619",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703620",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'acceptance' section of a change management process?",
+        "Identifying the criteria for the change to be accepted as successful and who is responsible for accepting the change",
+        "8790703622",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703621",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying the criteria for the change to be accepted as successful and who is responsible for accepting the change is done in what section of a change management process?",
+        "The acceptance section",
+        "8790703621",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703622",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'documentation' section of a change management process?",
+        "Identifying what must be added to change logs and other documentation",
+        "8790703624",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703623",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying what must be added to change logs and other documentation is done in what section of a change management process?",
+        "The documentation section",
+        "8790703623",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703624",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the first phase of a disaster recovery plan?",
+        "Network design analysis",
+        "8790703626",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703625",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Network design analysis is what phase of a disaster recovery plan?",
+        "The first phase",
+        "8790703625",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703626",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the second phase of a disaster recovery plan?",
+        "Creating an inventory list of all locations, devices, services, vendors, and contacts",
+        "8790703628",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703627",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Creating an inventory list of all locations, devices, services, vendors, and contacts is what phase of a disaster recovery plan?",
+        "The second phase",
+        "8790703627",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703628",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the third phase of a disaster recovery plan?",
+        "Creation of a verification process to ensure the recovery strategy works",
+        "8790703630",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703629",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Creation of a verification process to ensure the recovery strategy works is what phase of a disaster recovery plan?",
+        "The third phase",
+        "8790703629",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703630",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fourth phase of a disaster recovery plan?",
+        "Approval and implementation",
+        "8790703632",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703631",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Approval and implementation is what phase of a disaster recovery plan?",
+        "The fourth phase",
+        "8790703631",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703632",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fifth phase of a disaster recovery plan?",
+        "Review and update",
+        "8790703634",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703633",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Review and update is what phase of a disaster recovery plan?",
+        "The fifth phase",
+        "8790703633",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703634",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What EU law regulates the handling of PII?",
+        "GDPR",
+        "8790703636",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703635",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is GDPR?",
+        "The EU law that regulates the handling of PII",
+        "8790703635",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703636",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GDPR' stand for?",
+        "General Data Protection Regulation",
+        "8790703638",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703637",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'General Data Protection Regulation'?",
+        "GDPR",
+        "8790703637",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703638",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What organization develops standards for the securing of PCI data?",
+        "PCI Security Standards Council",
+        "8790703640",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703639",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the PCI Security Standards Council?",
+        "Developing standards for the securing of PCI data",
+        "8790703639",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703640",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'EULA' stand for?",
+        "End-User License Agreement",
+        "8790703642",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703641",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'End-User License Agreement'?",
+        "EULA",
+        "8790703641",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703642",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an EULA?",
+        "A license between a software owner and an individual user",
+        "8790703644",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703643",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A license between a software owner and an individual user is known as what?",
+        "An EULA",
+        "8790703643",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703644",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DRM' stand for?",
+        "Digital Rights Management",
+        "8790703646",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703645",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Digital Rights Management'?",
+        "DRM",
+        "8790703645",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703646",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DRM?",
+        "Software or hardware designed to prevent illegal access or copying of digital content",
+        "8790703648",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703647",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Software or hardware designed to prevent illegal access or copying of digital content is known as what?",
+        "DRM",
+        "8790703647",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703648",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two types of data collected in computer forensics?",
+        "Persistent and volatile data",
+        "8790703650",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703649",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Persistent and volatile data are what?",
+        "The two basic types of data collected in computer forensics",
+        "8790703649",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703650",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is persistent data?",
+        "Data that is preserved when a computer is turned off",
+        "8790703652",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703651",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Data that is preserved when a computer is turned off is known as what?",
+        "Persistent data",
+        "8790703651",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703652",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is volatile data?",
+        "Data that is lost when a computer is turned off",
+        "8790703654",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703653",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Data that is lost when a computer is turned off is known as what?",
+        "Volatile data",
+        "8790703653",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703654",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'first response' refer to in computer forensics?",
+        "The procedures employed by people qualified to collect evidence",
+        "8790703656",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703655",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The procedures employed by people qualified to collect evidence in computer forensics are known as what?",
+        "First response",
+        "8790703655",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703656",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What doe the term 'chain of custody' refer to in computer forensics?",
+        "Proof of how evidence was collected, stored, and who had access to it",
+        "8790703658",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703657",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Proof of how evidence was collected, stored, and who had access to it is known as what in computer forensics?",
+        "Chain of custody",
+        "8790703657",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703658",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IDE' stand for in terms of software development?",
+        "Integrated Development Environment",
+        "8790703660",
+        "NetAcad ITEv7 Section 14.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703659",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Integrated Development Environment'?",
+        "IDE",
+        "8790703659",
+        "NetAcad ITEv7 Section 14.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703660",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'BASH' stand for?",
+        "Bourne Again SHell",
+        "8790703662",
+        "NetAcad ITEv7 Section 14.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703661",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Bourne Again SHell'?",
+        "BASH",
+        "8790703661",
+        "NetAcad ITEv7 Section 14.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703662",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a variable?",
+        "A designated place to store information in a script",
+        "8790703664",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703663",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A designated place to store information in a script is known as what?",
+        "A variable",
+        "8790703663",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703664",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an environmental variable?",
+        "A variable used by the operating system to store information",
+        "8790703666",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703665",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A variable used by the operating system to store information is known as what?",
+        "An environmental variable",
+        "8790703665",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703666",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can an 'int' data type store?",
+        "integer numbers",
+        "8790703668",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703667",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type stores integer numbers?",
+        "int",
+        "8790703667",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703668",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a 'float'?",
+        "Numbers with decimals",
+        "8790703670",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703669",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type can store numbers with decimals?",
+        "Floats",
+        "8790703669",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703670",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a 'char'?",
+        "A single text character",
+        "8790703672",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703671",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type can store a single text character?",
+        "Char",
+        "8790703671",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703672",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a 'string'?",
+        "Multiple text characters",
+        "8790703674",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703673",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type can store multiple text characters?",
+        "String",
+        "8790703673",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703674",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a bool?",
+        "True and false values",
+        "8790703676",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703675",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type stores true and false values?",
+        "Bool",
+        "8790703675",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703676",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of conditional statements in scripts?",
+        "Allowing a script to make decisions",
+        "8790703678",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703677",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of statement allows a script to make decisions?",
+        "Conditional statements",
+        "8790703677",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703678",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of loops in scripts?",
+        "Repeating commands",
+        "8790703680",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703679",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of statement in a script is used for repeating commands?",
+        "Loops",
+        "8790703679",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703680",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'for loop'?",
+        "A loop that repeats a set number of times",
+        "8790703682",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703681",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A loop that repeats a set number of times is known as what?",
+        "A 'for loop'",
+        "8790703681",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703682",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'while loop'?",
+        "A loop that repeats until a condition is true, testing the condition before each repeat",
+        "8790703684",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703683",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A loop that repeats until a condition is true, testing the condition before each repeat is known as what?",
+        "A 'while loop'",
+        "8790703683",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703684",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'do-while loop'?",
+        "A loop that repeats until a condition is true, testing the condition after each repeat",
+        "8790703686",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703685",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A loop that repeats until a condition is true, testing the condition after each repeat is known as what?",
+        "A 'do-while loop'",
+        "8790703685",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703686",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a do-while loop?",
+        "A post-test loop",
+        "8790703688",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703687",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a post-test loop?",
+        "A do-while loop",
+        "8790703687",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703688",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are two common examples of conditional statements?",
+        "'If-then-else' statements and 'switch' or 'case' statements",
+        "8790703690",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703689",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "'If-then-else' statements and 'switch' or 'case' statements are examples of what type of statement?",
+        "Conditional statements",
+        "8790703689",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703690",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a relational operator?",
+        "A comparison operator",
+        "8790703692",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703691",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a comparison operator?",
+        "A relational operator",
+        "8790703691",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703692",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
