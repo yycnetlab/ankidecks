@@ -52544,6 +52544,6694 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term 'malware' short for?",
+        "Malicious software",
+        "8790703276",
+        "NetAcad ITEv7 Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703275",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is a shortened form of 'malicious software'?",
+        "Malware",
+        "8790703275",
+        "NetAcad ITEv7 Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703276",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'non-compliant' system?",
+        "A computer which is using out-of-date software, antivirus, or firewall or has an out-of-date OS",
+        "8790703278",
+        "NetAcad ITEv7 Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703277",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A computer which is using out-of-date software, antivirus, or firewall or has an out-of-date OS is known as what?",
+        "A non-compliant system",
+        "8790703277",
+        "NetAcad ITEv7 Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703278",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'legacy' system?",
+        "A system for which the vendor no longer provides support or fixes",
+        "8790703280",
+        "NetAcad ITEv7 Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703279",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A system for which the vendor no longer provides support or fixes is known as what?",
+        "A legacy system",
+        "8790703279",
+        "NetAcad ITEv7 Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703280",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is adware?",
+        "A type of malware that displays unsolicited advertising",
+        "8790703282",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703281",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A type of malware that displays unsolicited advertising is known as what?",
+        "Adware",
+        "8790703281",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703282",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ransomware?",
+        "A type of malware that encrypts files and demands payment for a decryption key",
+        "8790703284",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703283",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A type of malware that encrypts files and demands payment for a decryption key is known as what?",
+        "Ransomware",
+        "8790703283",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703284",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a rootkit?",
+        "A very difficult-to-detect kind of malware used to gain administrative access to a computer",
+        "8790703286",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703285",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A very difficult-to-detect kind of malware used to gain administrative access to a computer is known as what?",
+        "A rootkit",
+        "8790703285",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703286",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is spyware?",
+        "A type of malware used to monitor user activity and report information to cybercriminals",
+        "8790703288",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703287",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A type of malware used to monitor user activity and report information to cybercriminals is known as what?",
+        "Spyware",
+        "8790703287",
+        "NetAcad ITEv7 Section 13.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703288",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a virus?",
+        "Self-replicating malware designed to spread to other systems by hiding itself inside legitimate files",
+        "8790703290",
+        "NetAcad ITEv7 Section 13.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703289",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Self-replicating malware designed to spread to other systems by hiding itself inside legitimate files is known as what?",
+        "A virus",
+        "8790703289",
+        "NetAcad ITEv7 Section 13.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703290",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a trojan?",
+        "Malware that is hidden within a legitimate program",
+        "8790703292",
+        "NetAcad ITEv7 Section 13.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703291",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Malware that is hidden within a legitimate program is known as what?",
+        "A trojan",
+        "8790703291",
+        "NetAcad ITEv7 Section 13.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703292",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be accessed using a Windows installation medium to help repair damage caused by malware?",
+        "The Windows Recovery Console",
+        "8790703294",
+        "NetAcad ITEv7 Section 13.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703293",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can the Windows Recovery Console help repair damage from?",
+        "Malware",
+        "8790703293",
+        "NetAcad ITEv7 Section 13.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703294",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a worm?",
+        "Self-replicating standalone malware that does not require host files to hide inside",
+        "8790703296",
+        "NetAcad ITEv7 Section 13.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703295",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Self-replicating standalone malware that does not require host files to hide inside is known as what?",
+        "A worm",
+        "8790703295",
+        "NetAcad ITEv7 Section 13.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703296",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is scareware?",
+        "Malware that uses social engineering to scare the user, often for the purpose of a scam",
+        "8790703298",
+        "NetAcad ITEv7 Section 13.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703297",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Malware that uses social engineering to scare the user, often for the purpose of a scam is known as what?",
+        "Scareware",
+        "8790703297",
+        "NetAcad ITEv7 Section 13.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703298",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is phishing software?",
+        "Malware that pretends to be legitimate in order to trick a user into divulging sensitive information",
+        "8790703300",
+        "NetAcad ITEv7 Section 13.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703299",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Malware that pretends to be legitimate in order to trick a user into divulging sensitive information is known as what?",
+        "Phishing software",
+        "8790703299",
+        "NetAcad ITEv7 Section 13.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703300",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the most common method of malware delivery?",
+        "Email",
+        "8790703302",
+        "NetAcad ITEv7 Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703301",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Email is the most common delivery method for what?",
+        "Malware",
+        "8790703301",
+        "NetAcad ITEv7 Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703302",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'rogue antivirus' product?",
+        "Malware disguised as an antivirus program",
+        "8790703304",
+        "NetAcad ITEv7 Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703303",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Malware disguised as an antivirus program is known as what?",
+        "A rogue antivirus product",
+        "8790703303",
+        "NetAcad ITEv7 Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703304",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where should antivirus signature file updates be downloaded from?",
+        "The antivirus vendor's website or a legitimate mirror site",
+        "8790703306",
+        "NetAcad ITEv7 Section 13.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703305",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The antivirus vendor's website or a legitimate mirror site are the only places what should be downloaded from?",
+        "Antivirus signature file updates",
+        "8790703305",
+        "NetAcad ITEv7 Section 13.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703306",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the most sure way to remove a virus from a system?",
+        "Reformatting the system and reinstalling the operating system",
+        "8790703308",
+        "NetAcad ITEv7 Section 13.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703307",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Reformatting the system and reinstalling the operating system is the surest way to do what?",
+        "Remove a virus",
+        "8790703307",
+        "NetAcad ITEv7 Section 13.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703308",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What should be done when malware is discovered on a business computer?",
+        "The machine should be disconnected from all networks",
+        "8790703310",
+        "NetAcad ITEv7 Section 13.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703309",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The machine should be disconnected from all networks when what is discovered on a business computer?",
+        "Malware",
+        "8790703309",
+        "NetAcad ITEv7 Section 13.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703310",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When attacking a target, what the first step an attacker will typically use?",
+        "Gathering information about the target using tools such as Google and whois",
+        "8790703312",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703311",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Gathering information about the target using tools such as Google and whois is the first step to what?",
+        "Conducting a cyberattack",
+        "8790703311",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703312",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the second step a cyber-attacker will typically use?",
+        "Pinging public IP addresses belonging to the attacker to determine which are active",
+        "8790703314",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703313",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Pinging public IP addresses belonging to the attacker to determine which are active is what step of performing a cyber attack?",
+        "Step two",
+        "8790703313",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703314",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fourth step a cyber-attacker will typically use?",
+        "Running vulnerability scanners to find vulnerable versions of applications or operating systems",
+        "8790703316",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703315",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Running vulnerability scanners to find vulnerable versions of applications or operating systems is what step of performing a cyber attack?",
+        "The fourth step",
+        "8790703315",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703316",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the third step a cyber-attacker will typically use?",
+        "Scanning for open ports on the target network",
+        "8790703318",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703317",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Scanning for open ports on the target network is what step of performing a cyberattack?",
+        "The third step",
+        "8790703317",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703318",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fifth step a cyber attacker will typically use?",
+        "Running exploitation tools to discover vulnerable services",
+        "8790703320",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703319",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Running exploitation tools to discover vulnerable services is what step of performing a cyber attack?",
+        "Step five",
+        "8790703319",
+        "NetAcad ITEv7 Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703320",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a DoS attack?",
+        "Overwhelming a target with fake TCP/IP packets to prevent legitimate packets from getting through",
+        "8790703322",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703321",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Overwhelming a target with fake TCP/IP packets to prevent legitimate packets from getting through is known as what?",
+        "A DoS attack",
+        "8790703321",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703322",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a DDoS attack?",
+        "Similar to a DoS attack, but amplified by large numbers infected 'zombie' hosts",
+        "8790703324",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703323",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What attack is similar to a DoS attack, but is performed by many machines at once?",
+        "A DDoS attack",
+        "8790703323",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703324",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a botnet?",
+        "An attacker uses a handler computer to command many infected 'zombie' computers",
+        "8790703326",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703325",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is it called when an attacker uses a handler computer to command many infected 'zombie' computers?",
+        "A botnet",
+        "8790703325",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703326",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a DNS poisoning attack?",
+        "An attacker infects a computer in order to make it accept false DNS records pointing to malicious servers",
+        "8790703328",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703327",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for when an attacker infects a computer in order to make it accept false DNS records pointing to malicious servers?",
+        "DNS poisoning",
+        "8790703327",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703328",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a man-in-the-middle attack?",
+        "An attacker intercepts legitimate communication between two hosts",
+        "8790703330",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703329",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for when an attacker intercepts legitimate communication between two hosts?",
+        "A man-in-the-middle attack",
+        "8790703329",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703330",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'man-in-the-middle' attacks?",
+        "MitM",
+        "8790703332",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703331",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'MitM' short for?",
+        "Man-in-the-middle",
+        "8790703331",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703332",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a replay attack?",
+        "The process of capturing a packet, altering its contents, and forwarding it to the original destination",
+        "8790703334",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703333",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The process of capturing a packet, altering its contents, and forwarding it to the original destination is known as what?",
+        "A replay attack",
+        "8790703333",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703334",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a spoofing attack?",
+        "Using a forged IP address",
+        "8790703336",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703335",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Using a forged IP address is known as what?",
+        "A spoofing attack",
+        "8790703335",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703336",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a SYN flood?",
+        "A type of DoS attack that exploits the TCP handshake to overwhelm a target",
+        "8790703338",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703337",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the type of DoS attack that exploits the TCP handshake to overwhelm a target",
+        "A SYN flood",
+        "8790703337",
+        "NetAcad ITEv7 Section 13.1.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703338",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'zero-day' attack?",
+        "An attack that uses a vulnerability that the vendor has had no time to address or has not yet discovered",
+        "8790703340",
+        "NetAcad ITEv7 Section 13.1.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703339",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An attack that uses a vulnerability that the vendor has had no time to address or has not yet discovered is known as what?",
+        "A zero-day attack",
+        "8790703339",
+        "NetAcad ITEv7 Section 13.1.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703340",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the weakest link in a well-secured network?",
+        "The users",
+        "8790703342",
+        "NetAcad ITEv7 Section 13.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703341",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The users are what to security in a well-secured network?",
+        "The weakest link",
+        "8790703341",
+        "NetAcad ITEv7 Section 13.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703342",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a social engineering attack?",
+        "An attack that preys on people's weaknesses to manipulate users into performing actions or divulging information",
+        "8790703344",
+        "NetAcad ITEv7 Section 13.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703343",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for an attack that preys on people's weaknesses to manipulate users into performing actions or divulging information?",
+        "Social engineering attack",
+        "8790703343",
+        "NetAcad ITEv7 Section 13.1.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703344",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'baiting' attack?",
+        "Leaving a malware-infected drive in a public location near the target in hopes that a user finds it and plugs it in",
+        "8790703346",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703345",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Leaving a malware-infected drive in a public location near the target in hopes that a user finds it and plugs it in is known as what?",
+        "A baiting attack",
+        "8790703345",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703346",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a dumpster diving attack?",
+        "Rummaging through discarded storage media or devices to discover undeleted information",
+        "8790703348",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703347",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Rummaging through discarded storage media or devices to discover undeleted information is known as what?",
+        "A dumpster diving attack",
+        "8790703347",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703348",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an impersonation attack?",
+        "Sending a fraudulent communication disguised as being from a trusted source in order to trick the recipient",
+        "8790703350",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703349",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Sending a fraudulent communication disguised as being from a trusted source in order to trick the recipient is known as what?",
+        "An impersonation attack",
+        "8790703349",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703350",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a pretexting attack?",
+        "An attack which involves asking the target for information under the pretext of confirming their identity",
+        "8790703352",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703351",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An attack which involves asking the target for information under the pretext of confirming their identity is known as what?",
+        "A pretexting attack",
+        "8790703351",
+        "NetAcad ITEv7 Section 13.1.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703352",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'spear phishing' attack?",
+        "A narrowly-focused phishing attack tailored to a specific individual or organization",
+        "8790703354",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703353",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A narrowly-focused phishing attack tailored to a specific individual or organization is known as what?",
+        "A spear phishing attack",
+        "8790703353",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703354",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'shoulder surfing' attack?",
+        "An in-person attack where an attacker looks over the shoulder of a user to obtain information",
+        "8790703356",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703355",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An in-person attack where an attacker looks over the shoulder of a user to obtain information is known as what?",
+        "A shoulder surfing attack",
+        "8790703355",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703356",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'tailgating' attack?",
+        "An in-person attack in which an attacker quickly follows an authorized person into a secure area",
+        "8790703358",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703357",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An in-person attack in which an attacker quickly follows an authorized person into a secure area is known as what?",
+        "A tailgating attack",
+        "8790703357",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703358",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'quid pro quo' attack?",
+        "An attack in which an attacker requests information from a user, promising something in exchange",
+        "8790703360",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703359",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An attack in which an attacker requests information from a user, promising something in exchange is known as what?",
+        "A quid pro quo attack",
+        "8790703359",
+        "NetAcad ITEv7 Section 13.1.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703360",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a security policy?",
+        "A set of security objectives that ensure the security of a network, the data, and the computers in an organization",
+        "8790703362",
+        "NetAcad ITEv7 Section 13.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703361",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a document that contains a set of security objectives that ensure the security of a network, the data, and the computers in an organization?",
+        "A security policy",
+        "8790703361",
+        "NetAcad ITEv7 Section 13.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703362",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an identification and authentication policy?",
+        "Specifies authorised persons who may have access to network resources and outlines verification procedures",
+        "8790703364",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703363",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of policy specifies authorised persons who may have access to network resources and outlines verification procedures?",
+        "An identification and authentication policy",
+        "8790703363",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703364",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a password policy?",
+        "A document defining the minimum requirements for passwords within an organization",
+        "8790703366",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703365",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a document defining the minimum requirements for passwords within an organization?",
+        "A password policy",
+        "8790703365",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703366",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an acceptable use policy?",
+        "A policy outlining network resources and usages of those resources that are acceptable to the organization",
+        "8790703368",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703367",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a policy outlining network resources and usages of those resources that are acceptable to the organization?",
+        "An acceptable use policy",
+        "8790703367",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703368",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a remote access policy?",
+        "A policy outlining how remote users can access a network and what resources are available to them",
+        "8790703370",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703369",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a policy outlining how remote users can access a network and what resources are available to them?",
+        "A remote access policy",
+        "8790703369",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703370",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a network maintenance policy?",
+        "A policy that specifies networking device OSes and application update procedures",
+        "8790703372",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703371",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a policy that specifies networking device OSes and application update procedures?",
+        "A network maintenance policy",
+        "8790703371",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703372",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an incident handling policy?",
+        "A policy that describes how security incidents are handled",
+        "8790703374",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703373",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a policy that describes how security incidents are handled?",
+        "An incident handling policy",
+        "8790703373",
+        "NetAcad ITEv7 Section 13.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703374",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the goal of a security policy?",
+        "To ensure a safe network environment and protect assets",
+        "8790703376",
+        "NetAcad ITEv7 Section 13.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703375",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Ensuring a safe network environment and protecting assets is the goal of what?",
+        "A security policy",
+        "8790703375",
+        "NetAcad ITEv7 Section 13.2.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703376",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is a conventional lock unlocked?",
+        "By inserting a matching key into the door handle mechanism",
+        "8790703378",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703377",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of lock is unlocked by inserting a matching key into the door handle mechanism?",
+        "A conventional lock",
+        "8790703377",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703378",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is a deadbolt lock unlocked?",
+        "By inserting a matching key into a lock separate from the door handle mechanism",
+        "8790703380",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703379",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of lock is unlocked by inserting a matching key into a lock separate from the door handle mechanism?",
+        "A deadbolt lock",
+        "8790703379",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703380",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is an electronic lock unlocked?",
+        "By entering a secret combination code or PIN into a keypad?",
+        "8790703382",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703381",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of lock is unlocked by entering a secret combination code or PIN into a keypad?",
+        "An electronic lock",
+        "8790703381",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703382",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is a token-based lock unlocked?",
+        "Swiping a secure card or using a NFC reader to detect a smart card or wireless key fob",
+        "8790703384",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703383",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of lock is unlocked by swiping a secure card or using a NFC reader to detect a smart card or wireless key fob?",
+        "A token-based lock",
+        "8790703383",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703384",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is a biometric lock unlocked?",
+        "Using a biometric scanner to scan an authorized user",
+        "8790703386",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703385",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of lock is unlocked using a biometric scanner to scan an authorized user?",
+        "A biometric lock",
+        "8790703385",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703386",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is a multifactor lock unlocked?",
+        "Using a combination of mechanisms",
+        "8790703388",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703387",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of lock is unlocked using a combination of mechanisms?",
+        "A multifactor lock",
+        "8790703387",
+        "NetAcad ITEv7 Section 13.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703388",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a mantrap?",
+        "A small room with two doors that acts like an airlock to prevent tailgating",
+        "8790703390",
+        "NetAcad ITEv7 Section 13.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703389",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name for a small room with two doors that acts like an airlock to prevent tailgating?",
+        "A mantrap",
+        "8790703389",
+        "NetAcad ITEv7 Section 13.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703390",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DLP' stand for in terms of network security?",
+        "Data loss prevention",
+        "8790703392",
+        "NetAcad ITEv7 Section 13.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703391",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'data loss prevention'?",
+        "DLP",
+        "8790703391",
+        "NetAcad ITEv7 Section 13.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703392",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'data exfiltration' mean?",
+        "Data being stolen or leaked",
+        "8790703394",
+        "NetAcad ITEv7 Section 13.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703393",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to refer to data being stolen or leaked?",
+        "Data exfiltration",
+        "8790703393",
+        "NetAcad ITEv7 Section 13.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703394",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does DLP software work?",
+        "DLP software uses a dictionary or algorithm to prevent data being moved to removable media or emailed",
+        "8790703396",
+        "NetAcad ITEv7 Section 13.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703395",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of software uses a dictionary or algorithm to prevent data being moved to removable media or emailed?",
+        "DLP software",
+        "8790703395",
+        "NetAcad ITEv7 Section 13.2.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703396",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is one of the most effective ways of protecting against data loss?",
+        "Backing up data",
+        "8790703398",
+        "NetAcad ITEv7 Section 13.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703397",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Backing up data is one of the most effective ways of protecting against what?",
+        "Data loss",
+        "8790703397",
+        "NetAcad ITEv7 Section 13.2.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703398",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the principle of least privilege?",
+        "Limiting access to the minimum necessary for a user to perform their job",
+        "8790703400",
+        "NetAcad ITEv7 Section 13.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703399",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Limiting access to the minimum necessary for a user to perform their job is known as what?",
+        "The principle of least privilege",
+        "8790703399",
+        "NetAcad ITEv7 Section 13.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703400",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is folder redirection?",
+        "Allows redirecting local folders to folders on network shares",
+        "8790703402",
+        "NetAcad ITEv7 Section 13.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703401",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What feature allows redirecting local folders to folders on network shares?",
+        "Folder redirection",
+        "8790703401",
+        "NetAcad ITEv7 Section 13.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703402",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is permission propagation?",
+        "An automated process of applying the permissions of a parent folder to all subfolders",
+        "8790703404",
+        "NetAcad ITEv7 Section 13.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703403",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The automated process of applying the permissions of a parent folder to all subfolders is known as what?",
+        "Permission propagation",
+        "8790703403",
+        "NetAcad ITEv7 Section 13.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703404",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the file explorer, what colour are encrypted files displayed as?",
+        "Green",
+        "8790703406",
+        "NetAcad ITEv7 Section 13.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703405",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a green filename represent in file explorer?",
+        "An encrypted file",
+        "8790703405",
+        "NetAcad ITEv7 Section 13.2.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703406",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What specialized chip must exist and be enabled to use BitLocker?",
+        "The TPM",
+        "8790703408",
+        "NetAcad ITEv7 Section 13.2.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703407",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows feature does having a TPM enable?",
+        "BitLocker",
+        "8790703407",
+        "NetAcad ITEv7 Section 13.2.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703408",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is BitLocker To Go?",
+        "A mobile version of BitLocker that uses a password instead of a TPM",
+        "8790703410",
+        "NetAcad ITEv7 Section 13.2.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703409",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the mobile version of BitLocker that uses a password instead of a TPM?",
+        "BitLocker To Go",
+        "8790703409",
+        "NetAcad ITEv7 Section 13.2.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703410",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the minimum size of the unencrypted system volume in order to use BitLocker?",
+        "100MB",
+        "8790703412",
+        "NetAcad ITEv7 Section 13.2.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703411",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "100MB is the minimum size of what volume in order to use BitLocker?",
+        "The system volume",
+        "8790703411",
+        "NetAcad ITEv7 Section 13.2.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703412",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the operating system do when a file is deleted?",
+        "Remove the reference to the file from the file allocation table, leaving the actual data alone",
+        "8790703414",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703413",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What action removes the reference to a file from the file allocation table, leaving the actual data alone?",
+        "Deleting a file via the operating system",
+        "8790703413",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703414",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'secure erase'?",
+        "Overwriting a file multiple times with garbage data to render it unreadable",
+        "8790703416",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703415",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Overwriting a file multiple times with garbage data to render it unreadable is known as what?",
+        "Secure erase",
+        "8790703415",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703416",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a degaussing wand?",
+        "A wand with powerful magnets that can be held over exposed hard drive platters to disrupt the magnetic field",
+        "8790703418",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703417",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A wand with powerful magnets that can be held over exposed hard drive platters to disrupt the magnetic field is known as what?",
+        "A degaussing wand",
+        "8790703417",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703418",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an electromagnetic degaussing device?",
+        "A powerful electromagnet that can quickly eliminate the magnetic field on a hard drive platter",
+        "8790703420",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703419",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A powerful electromagnet that can quickly eliminate the magnetic field on a hard drive platter is known as what?",
+        "An electromagnetic degaussing device",
+        "8790703419",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703420",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is deleting a file through the OS not enough to prevent data from being recovered?",
+        "The data is not truly deleted and can be recovered with various methods",
+        "8790703422",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703421",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why are secure erase and degaussing tools used?",
+        "To irreversibly wipe data so that it cannot be recovered",
+        "8790703421",
+        "NetAcad ITEv7 Section 13.2.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703422",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How should non-writable media be irreversibly erased?",
+        "Complete destruction via shredding machines or incinerators",
+        "8790703424",
+        "NetAcad ITEv7 Section 13.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703423",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Complete destruction via shredding machines or incinerators is the correct way to do what?",
+        "Irreversibly wipe data from non-writable media",
+        "8790703423",
+        "NetAcad ITEv7 Section 13.2.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703424",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'low-level' format?",
+        "Performed at the factory after assembly, this process marks the surface of the disk with sector markers",
+        "8790703426",
+        "NetAcad ITEv7 Section 13.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703425",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Performed at the factory after assembly, what process marks the surface of the disk with sector markers?",
+        "A low-level format",
+        "8790703425",
+        "NetAcad ITEv7 Section 13.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703426",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for a high-level format?",
+        "A standard format",
+        "8790703428",
+        "NetAcad ITEv7 Section 13.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703427",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for a standard format?",
+        "A high-level format",
+        "8790703427",
+        "NetAcad ITEv7 Section 13.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703428",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What should a drive destruction contractor provide once a drive has been physically destroyed?",
+        "A certificate of destruction",
+        "8790703430",
+        "NetAcad ITEv7 Section 13.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703429",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A certificate of destruction should be provided by whom?",
+        "A drive destruction contractor",
+        "8790703429",
+        "NetAcad ITEv7 Section 13.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "8790703430",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of password can be relatively easily bypassed?",
+        "An OS login password",
+        "8790703432",
+        "NetAcad ITEv7 Section 13.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703431",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An OS login password can easily be what?",
+        "Bypassed",
+        "8790703431",
+        "NetAcad ITEv7 Section 13.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703432",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Windows Hello?",
+        "A feature that allows the use of facial recognition or a fingerprint to log in to Windows",
+        "8790703434",
+        "NetAcad ITEv7 Section 13.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703433",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the feature that allows the use of facial recognition or a fingerprint to log in to Windows?",
+        "Windows Hello",
+        "8790703433",
+        "NetAcad ITEv7 Section 13.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703434",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a Windows picture password?",
+        "Allows a user to draw a pattern over a photo instead of a password",
+        "8790703436",
+        "NetAcad ITEv7 Section 13.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703435",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows feature allows a user to draw a pattern over a photo instead of a password?",
+        "Picture password",
+        "8790703435",
+        "NetAcad ITEv7 Section 13.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703436",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Windows dynamic lock?",
+        "A feature that allows Windows to automatically lock when a paired device moves out of range of the machine",
+        "8790703438",
+        "NetAcad ITEv7 Section 13.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703437",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows feature that allows Windows to automatically lock when a paired device moves out of range of the machine?",
+        "Dynamic lock",
+        "8790703437",
+        "NetAcad ITEv7 Section 13.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703438",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What should be configured to happen when the screensaver starts?",
+        "The machine should be configured to automatically lock",
+        "8790703440",
+        "NetAcad ITEv7 Section 13.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703439",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The machine should be configured to automatically lock under what circumstances?",
+        "When the screensaver starts",
+        "8790703439",
+        "NetAcad ITEv7 Section 13.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703440",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What restriction should be set on the minimum length of passwords?",
+        "8 characters minimum",
+        "8790703442",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703441",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "8 characters is the recommendation for what restriction?",
+        "Minimum password length",
+        "8790703441",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703442",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What restriction should be set on the maximum length of passwords?",
+        "No restriction if possible, or at least 64 characters",
+        "8790703444",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703443",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "64 characters is the recommendation for what restriction if it is not feasible to have no restriction?",
+        "Maximum password length",
+        "8790703443",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703444",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What characters should be allowed in a password?",
+        "All possible characters",
+        "8790703446",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703445",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "No restriction is the recommendation for what password restriction?",
+        "Character types",
+        "8790703445",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703446",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What restriction should be set on password complexity?",
+        "No common or easily-guessed passwords",
+        "8790703448",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703447",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "No common or easily-guessed passwords is recommended for restriction?",
+        "Password complexity",
+        "8790703447",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703448",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What restriction should be set on password variety",
+        "Never re-use passwords",
+        "8790703450",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703449",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What password guideline suggests to never re-use passwords?",
+        "Password variety",
+        "8790703449",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703450",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What restriction should be set on password expiration?",
+        "No periodical or arbitrary expiration",
+        "8790703452",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703451",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "No periodical or arbitrary expiration is the recommendation for what restriction?",
+        "Password expiration",
+        "8790703451",
+        "NetAcad ITEv7 Section 13.3.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703452",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What program allows configuring local security policy on non-domain-joined Windows 8 and 10 computers?",
+        "secpol.msc",
+        "8790703454",
+        "NetAcad ITEv7 Section 13.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703453",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is secpol.msc used for?",
+        "Configuring local security policy on non-domain-joined Windows 8 and 10 computers",
+        "8790703453",
+        "NetAcad ITEv7 Section 13.3.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703454",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Windows account lockout policy used for?",
+        "Preventing brute force attacks",
+        "8790703456",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703455",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows account policy is used to prevent brute force attacks?",
+        "Account lockout policy",
+        "8790703455",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703456",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a brute force attack?",
+        "Attempting to break a password by trying every possible combination of characters",
+        "8790703458",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703457",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Attempting to break a password by trying every possible combination of characters is known as what?",
+        "A brute force attack",
+        "8790703457",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703458",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a dictionary attack?",
+        "A type of brute force attack that attempts every word or password in a list or 'dictionary'",
+        "8790703460",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703459",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A type of brute force attack that attempts every word or password in a list or 'dictionary' is known as what?",
+        "A dictionary attack",
+        "8790703459",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703460",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a rainbow table?",
+        "A refined dictionary attack that precomputes the hashes values, allowing an attacker to match a stolen hash to an actual password",
+        "8790703462",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703461",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A refined dictionary attack that precomputes the hashes values, allowing an attacker to match a stolen hash to an actual password is known as what?",
+        "A rainbow table attack",
+        "8790703461",
+        "NetAcad ITEv7 Section 13.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703462",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What should be done when an employee leaves an organization?",
+        "The user's account should be disabled",
+        "8790703464",
+        "NetAcad ITEv7 Section 13.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703463",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Under what conditions should a user's account be immediately disabled?",
+        "When they leave the organization",
+        "8790703463",
+        "NetAcad ITEv7 Section 13.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703464",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are login time restrictions?",
+        "Only allowing logins during specific times of day and forcing logouts outside of those times",
+        "8790703466",
+        "NetAcad ITEv7 Section 13.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703465",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Only allowing logins during specific times of day and forcing logouts outside of those times is known as what?",
+        "Login time restrictions",
+        "8790703465",
+        "NetAcad ITEv7 Section 13.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703466",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What should always be changed on new devices?",
+        "Default administrator credentials",
+        "8790703468",
+        "NetAcad ITEv7 Section 13.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703467",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Administrator credentials should always be what on new devices?",
+        "Changed from default",
+        "8790703467",
+        "NetAcad ITEv7 Section 13.3.3.1"
+      ],
+      "flags": 0,
+      "guid": "8790703468",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Local Users and Groups Manager used for?",
+        "Managing all user accounts and their permissions",
+        "8790703470",
+        "NetAcad ITEv7 Section 13.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703469",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What program is used for managing all user accounts and their permissions?",
+        "Local Users and Groups Manager",
+        "8790703469",
+        "NetAcad ITEv7 Section 13.3.3.2"
+      ],
+      "flags": 0,
+      "guid": "8790703470",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the executable for the Local Users and Groups Manager?",
+        "lusrmgr.msc",
+        "8790703472",
+        "NetAcad ITEv7 Section 13.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703471",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is lusrmgr.msc?",
+        "The executable for the Local Users and Groups Manager",
+        "8790703471",
+        "NetAcad ITEv7 Section 13.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703472",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'right' for a user of a computer?",
+        "Authorization to perform certain actions",
+        "8790703474",
+        "NetAcad ITEv7 Section 13.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703473",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Authorization for a user to perform certain actions is referred to as a what?",
+        "A right",
+        "8790703473",
+        "NetAcad ITEv7 Section 13.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703474",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'permission' for a user on a computer?",
+        "A rule associated with an object such as a file, folder, or device that regulates access to the object",
+        "8790703476",
+        "NetAcad ITEv7 Section 13.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703475",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A rule associated with an object such as a file, folder, or device that regulates access to the object is known as what?",
+        "A permission",
+        "8790703475",
+        "NetAcad ITEv7 Section 13.3.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703476",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are groups used for in Windows?",
+        "More easily managing users' rights and permissions",
+        "8790703478",
+        "NetAcad ITEv7 Section 13.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703477",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows feature allows managing users in bulk?",
+        "Groups",
+        "8790703477",
+        "NetAcad ITEv7 Section 13.3.3.4"
+      ],
+      "flags": 0,
+      "guid": "8790703478",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who can create domain accounts on a domain controller?",
+        "A domain administrator",
+        "8790703480",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703479",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can a domain administrator create on a domain controller?",
+        "Domain accounts",
+        "8790703479",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703480",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In an active directory, what does 'OU' stand for?",
+        "Organizational Unit",
+        "8790703482",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703481",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Organizational Unit'?",
+        "OU",
+        "8790703481",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703482",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are domain accounts accessible from?",
+        "Any machine joined to the domain",
+        "8790703484",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703483",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Any machine joined to a domain can access what?",
+        "All domain accounts",
+        "8790703483",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703484",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an OU in a domain?",
+        "A method of subdividing a domain into smaller administrative units",
+        "8790703486",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703485",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A method of subdividing a domain into smaller administrative units is known as what?",
+        "An organizational unit",
+        "8790703485",
+        "NetAcad ITEv7 Section 13.3.3.5"
+      ],
+      "flags": 0,
+      "guid": "8790703486",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a guest account?",
+        "An account that has a temporary profile created at log-on which is deleted at log-off",
+        "8790703488",
+        "NetAcad ITEv7 Section 13.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703487",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "An account that has a temporary profile created at log-on which is deleted at log-off is known as what?",
+        "A guest account",
+        "8790703487",
+        "NetAcad ITEv7 Section 13.3.3.7"
+      ],
+      "flags": 0,
+      "guid": "8790703488",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SOHO' stand for?",
+        "Small Office / Home Office firewall",
+        "8790703490",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703489",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Small Office / Home Office' firewall?",
+        "SOHO",
+        "8790703489",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703490",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a host-based firewall?",
+        "Use of firewall software such as Windows Defender on each individual device",
+        "8790703492",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703491",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The use of firewall software such as Windows Defender on each individual device is known as what?",
+        "A host-based firewall",
+        "8790703491",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703492",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a SOHO firewall?",
+        "A network-based firewall such as one included in a wireless router",
+        "8790703494",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703493",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A network-based firewall such as one included in a wireless router is known as what type of firewall?",
+        "A SOHO firewall",
+        "8790703493",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703494",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco 'ASA' stand for?",
+        "Adaptive Security Appliance",
+        "8790703496",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703495",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the Cisco 'Adaptive Security Appliance'?",
+        "ASA",
+        "8790703495",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703496",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the Cisco 'ISR' stand for?",
+        "Integrated Services Router",
+        "8790703498",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703497",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the Cisco 'Integrated Services Router'?",
+        "ISR",
+        "8790703497",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703498",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of firewall should be deployed in small to medium-sized organizations?",
+        "Dedicated network security devices",
+        "8790703500",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703499",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where should dedicated network security devices be used?",
+        "Small to medium sized organizations",
+        "8790703499",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703500",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate term for port forwarding?",
+        "DNAT",
+        "8790703502",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703501",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an alternate term for DNAT?",
+        "Port forwarding",
+        "8790703501",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703502",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DNAT' stand for?",
+        "Destination Network Address Translation",
+        "8790703504",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703503",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Destination Network Address Translation'?",
+        "DNAT",
+        "8790703503",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703504",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is port forwarding?",
+        "A method of allowing internet traffic to be directed to a specific IP address and port",
+        "8790703506",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703505",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the method of allowing internet traffic to be directed to a specific IP address and port?",
+        "Port forwarding",
+        "8790703505",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703506",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NAT?",
+        "A method of allowing internal hosts with private IP addresses to use the router's public IP address to access the internet",
+        "8790703508",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703507",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The method of allowing internal hosts with private IP addresses to use the router's public IP address to access the internet is known as what?",
+        "NAT",
+        "8790703507",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703508",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is MAC address filtering?",
+        "The process of using a whitelist or blacklist to permit or deny devices with specific MACs to connect to a router",
+        "8790703510",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703509",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The process of using a whitelist or blacklist to permit or deny devices with specific MACs to connect to a router is known as what?",
+        "MAC address filtering",
+        "8790703509",
+        "NetAcad ITEv7 Section 13.3.4.1"
+      ],
+      "flags": 0,
+      "guid": "8790703510",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was the name of Windows Defender Firewall prior to Windows 10?",
+        "Windows Firewall",
+        "8790703512",
+        "NetAcad ITEv7 Section 13.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703511",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was Windows Firewall renamed to in Windows 10?",
+        "Windows Defender Firewall",
+        "8790703511",
+        "NetAcad ITEv7 Section 13.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703512",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Windows Defender Firewall an example of?",
+        "A software firewall",
+        "8790703514",
+        "NetAcad ITEv7 Section 13.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703513",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What software firewall is installed by default on Windows?",
+        "Windows Defender Firewall",
+        "8790703513",
+        "NetAcad ITEv7 Section 13.3.4.2"
+      ],
+      "flags": 0,
+      "guid": "8790703514",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are Windows Defender Firewall exception settings located?",
+        "Control Panel's 'Allowed Apps' section",
+        "8790703516",
+        "NetAcad ITEv7 Section 13.3.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790703515",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is contained in Control Panel's 'Allowed Apps' section?",
+        "Windows Defender Firewall exception settings",
+        "8790703515",
+        "NetAcad ITEv7 Section 13.3.4.4"
+      ],
+      "flags": 0,
+      "guid": "8790703516",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows tool was renamed to 'Windows Defender Firewall with Advanced Security' in Windows 10?",
+        "Windows Firewall with Advanced Security",
+        "8790703518",
+        "NetAcad ITEv7 Section 13.3.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703517",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What was 'Windows Firewall with Advanced Security' renamed to in Windows 10?",
+        "Windows Defender Firewall with Advanced Security",
+        "8790703517",
+        "NetAcad ITEv7 Section 13.3.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703518",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Windows Defender Firewall with Advanced Security tool used for?",
+        "Modifying granular firewall policies",
+        "8790703520",
+        "NetAcad ITEv7 Section 13.3.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703519",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows tool is used for modifying granular firewall policies?",
+        "Windows Defender Firewall with Advanced Security",
+        "8790703519",
+        "NetAcad ITEv7 Section 13.3.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703520",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool does running 'wf.msc' launch?",
+        "Windows Defender Firewall with Advanced Security",
+        "8790703522",
+        "NetAcad ITEv7 Section 13.3.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703521",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What executable launches Windows Defender Firewall with Advanced Security?",
+        "wf.msc",
+        "8790703521",
+        "NetAcad ITEv7 Section 13.3.4.5"
+      ],
+      "flags": 0,
+      "guid": "8790703522",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'OTP' stand for?",
+        "One-Time Password",
+        "8790703524",
+        "NetAcad ITEv7 Section 13.3.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790703523",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'One-Time Password'?",
+        "OTP",
+        "8790703523",
+        "NetAcad ITEv7 Section 13.3.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790703524",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does multifactor authentication work?",
+        "Combining something a user knows such as a password with something they have such as a smart-card and/or with something they are using biometric scanners",
+        "8790703526",
+        "NetAcad ITEv7 Section 13.3.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790703525",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Combining something a user knows such as a password with something they have such as a smart-card and/or with something they are using biometric scanners is known as what?",
+        "Multifactor authentication",
+        "8790703525",
+        "NetAcad ITEv7 Section 13.3.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790703526",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What popular multifactor authentication methods use OTPs to authenticate?",
+        "Authenticator apps and pre-registered phone or email addresses",
+        "8790703528",
+        "NetAcad ITEv7 Section 13.3.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790703527",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Websites can use authenticator apps and pre-registered phone or email addresses to send a user what to authenticate with?",
+        "An OTP",
+        "8790703527",
+        "NetAcad ITEv7 Section 13.3.5.1"
+      ],
+      "flags": 0,
+      "guid": "8790703528",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a private browsing session?",
+        "A feature of web browsers that allows all normally-retained information to be deleted when the session is ended",
+        "8790703530",
+        "NetAcad ITEv7 Section 13.3.5.2"
+      ],
+      "flags": 0,
+      "guid": "8790703529",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The feature of web browsers that allows all normally-retained information to be deleted when the session is ended is known as what?",
+        "Private browsing",
+        "8790703529",
+        "NetAcad ITEv7 Section 13.3.5.2"
+      ],
+      "flags": 0,
+      "guid": "8790703530",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a pop-up blocker?",
+        "A feature of most web browsers that prevents pages from opening potentially-unwanted browser windows",
+        "8790703532",
+        "NetAcad ITEv7 Section 13.3.5.3"
+      ],
+      "flags": 0,
+      "guid": "8790703531",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What feature of most web browsers prevents pages from opening potentially-unwanted browser windows?",
+        "Pop-up blocker",
+        "8790703531",
+        "NetAcad ITEv7 Section 13.3.5.3"
+      ],
+      "flags": 0,
+      "guid": "8790703532",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the SmartScreen Filter feature of Internet Explorer 11?",
+        "A filter that checks websites for patterns of malicious activity, such as phishing",
+        "8790703534",
+        "NetAcad ITEv7 Section 13.3.5.4"
+      ],
+      "flags": 0,
+      "guid": "8790703533",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The filter built into Internet Explorer 11 that checks websites for patterns of malicious activity, such as phishing is known as what?",
+        "SmartScreen Filter",
+        "8790703533",
+        "NetAcad ITEv7 Section 13.3.5.4"
+      ],
+      "flags": 0,
+      "guid": "8790703534",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is ActiveX Filtering?",
+        "Allows the user to choose which websites are allowed to make use of ActiveX controls",
+        "8790703536",
+        "NetAcad ITEv7 Section 13.3.5.6"
+      ],
+      "flags": 0,
+      "guid": "8790703535",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Internet Explorer feature allows the user to choose which websites are allowed to make use of ActiveX controls?",
+        "ActiveX Filtering",
+        "8790703535",
+        "NetAcad ITEv7 Section 13.3.5.6"
+      ],
+      "flags": 0,
+      "guid": "8790703536",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the advantage of permissive security settings?",
+        "They are easier to implement",
+        "8790703538",
+        "NetAcad ITEv7 Section 13.3.6.1"
+      ],
+      "flags": 0,
+      "guid": "8790703537",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the disadvantage of permissive security settings?",
+        "They make the device more vulnerable to attack",
+        "8790703537",
+        "NetAcad ITEv7 Section 13.3.6.1"
+      ],
+      "flags": 0,
+      "guid": "8790703538",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the advantage of restrictive security settings?",
+        "They are more secure",
+        "8790703540",
+        "NetAcad ITEv7 Section 13.3.6.1"
+      ],
+      "flags": 0,
+      "guid": "8790703539",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the disadvantage of restrictive security settings?",
+        "They are more difficult to implement",
+        "8790703539",
+        "NetAcad ITEv7 Section 13.3.6.1"
+      ],
+      "flags": 0,
+      "guid": "8790703540",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On older Windows devices, what did the AutoRun feature do?",
+        "Look for an autorun.inf file on any inserted media and automatically execute it",
+        "8790703542",
+        "NetAcad ITEv7 Section 13.3.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790703541",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What old Windows feature would look for an autorun.inf file on any inserted media and automatically execute it?",
+        "AutoRun",
+        "8790703541",
+        "NetAcad ITEv7 Section 13.3.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790703542",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Windows AutoPlay feature?",
+        "A system that allows a user to determine what type of media will be opened automatically",
+        "8790703544",
+        "NetAcad ITEv7 Section 13.3.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790703543",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Windows feature is a system that allows a user to determine what type of media will be opened automatically?",
+        "AutoPlay",
+        "8790703543",
+        "NetAcad ITEv7 Section 13.3.6.2"
+      ],
+      "flags": 0,
+      "guid": "8790703544",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'MD5' stand for?",
+        "Message Digest 5",
+        "8790703546",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703545",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Message Digest 5'?",
+        "MD5",
+        "8790703545",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703546",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SHA' stand for?",
+        "Secure Hash Algorithm",
+        "8790703548",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703547",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Secure Hash Algorithm'?",
+        "SHA",
+        "8790703547",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703548",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of hashing in message transmission?",
+        "Ensuring a message arrives at its destination without corruption or tampering",
+        "8790703550",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703549",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology is used for ensuring a message arrives at its destination without corruption or tampering?",
+        "Hashing",
+        "8790703549",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703550",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does hashing work?",
+        "A mathematical function generates a numeric value unique to its input data",
+        "8790703552",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703551",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What the name for when a mathematical function creates a numeric value unique to its input data?",
+        "Hashing",
+        "8790703551",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703552",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does '3DES' stand for?",
+        "Triple Data Encryption Algorithm",
+        "8790703554",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703553",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Triple Data Encryption Algorithm'?",
+        "3DES",
+        "8790703553",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703554",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does symmetric encryption work?",
+        "Both sides of a communication use the same encryption key to encode and decode the data",
+        "8790703556",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703555",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what type of encryption do both sides of a communication use the same encryption key to encode and decode the data?",
+        "Symmetric encryption",
+        "8790703555",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703556",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'RSA' stand for?",
+        "Rivest–Shamir–Adleman",
+        "8790703558",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703557",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Rivest–Shamir–Adleman' encryption algorithm?",
+        "RSA",
+        "8790703557",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703558",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology is the SHA algorithm an example of?",
+        "Hashing",
+        "8790703560",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703559",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology is the MD5 algorithm an example of?",
+        "Hashing",
+        "8790703559",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703560",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology is AES an example of?",
+        "Symmetric encryption",
+        "8790703562",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703561",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What technology is 3DES an example of?",
+        "Symmetric encryption",
+        "8790703561",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703562",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for asymmetric encryption?",
+        "Public key encryption",
+        "8790703564",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703563",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another name for public key encryption?",
+        "Asymmetric encryption",
+        "8790703563",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703564",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does asymmetric encryption work?",
+        "The public key is widely distributed and only used to encode messages, while the private key is kept secret and only used to decode messages",
+        "8790703566",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703565",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what encryption system is a public key is widely distributed and only used to encode messages, while a private key is kept secret and only used to decode messages?",
+        "Asymmetric encryption",
+        "8790703565",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703566",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do digital signatures use asymmetric encryption?",
+        "A message is encoded with the private key and decoded with the public key, ensuring the source of the message is legitimate",
+        "8790703568",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703567",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of message is encoded with the private key and decoded with the public key, ensuring the source of the message is legitimate?",
+        "A digital signature",
+        "8790703567",
+        "NetAcad ITEv7 Section 13.4.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703568",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SSID' stand for?",
+        "Service Set IDentifier",
+        "8790703570",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703569",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Service Set Identifier'?",
+        "SSID",
+        "8790703569",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703570",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of attack can reducing the power of a wireless radio help prevent?",
+        "Wardriving",
+        "8790703572",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703571",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Lowering what setting on an access point can help prevent wardriving?",
+        "Power output",
+        "8790703571",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703572",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What signal issues can be caused by increasing the power output of an AP?",
+        "Signal bouncing and interference",
+        "8790703574",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703573",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Signal bouncing and interference can be worsened by increasing what setting on an AP?",
+        "Power output",
+        "8790703573",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703574",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What wireless encryption specification was included in the original 802.11 specification?",
+        "WEP",
+        "8790703576",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703575",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What version of 802.11 was WEP included in?",
+        "The first version",
+        "8790703575",
+        "NetAcad ITEv7 Section 13.4.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703576",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does TKIP stand for?",
+        "Temporal Key Integrity Protocol",
+        "8790703578",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703577",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Temporal Key Integrity Protocol'?",
+        "TKIP",
+        "8790703577",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703578",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between WEP and WPA?",
+        "The addition of TKIP to the algorithm",
+        "8790703580",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703579",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What wireless encryption protocol is WEP plus TKIP?",
+        "WPA",
+        "8790703579",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703580",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does TKIP do?",
+        "Changes the encryption key for every packet",
+        "8790703582",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703581",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encryption algorithm changes the encryption key for every packet?",
+        "TKIP",
+        "8790703581",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703582",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What standard did 802.11i introduce?",
+        "WPA2",
+        "8790703584",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703583",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What version of the 802.11 specification introduced WPA2?",
+        "802.11i",
+        "8790703583",
+        "NetAcad ITEv7 Section 13.4.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703584",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WPS' stand for?",
+        "WiFi Protected Setup",
+        "8790703586",
+        "NetAcad ITEv7 Section 13.4.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703585",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'WiFi Protected Setup'?",
+        "WPS",
+        "8790703585",
+        "NetAcad ITEv7 Section 13.4.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703586",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of attack is WPS vulnerable to?",
+        "Brute-force",
+        "8790703588",
+        "NetAcad ITEv7 Section 13.4.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703587",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What common WiFi setup technique is vulnerable to brute-force attacks?",
+        "WPS",
+        "8790703587",
+        "NetAcad ITEv7 Section 13.4.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790703588",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What problems are likely if a security alert is displayed to the user?",
+        "Firewall or antimalware is disabled, virus definitions are outdated, or malware has been detected",
+        "8790703590",
+        "NetAcad ITEv7 Section 13.5.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703589",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is likely to occur if a computer's firewall or antimalware are disabled, virus definitions are outdated, or malware has been detected?",
+        "A security alert will be displayed",
+        "8790703589",
+        "NetAcad ITEv7 Section 13.5.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703590",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely cause of a user receiving large numbers of junk emails?",
+        "Spam filtering is not enabled or not working correctly",
+        "8790703592",
+        "NetAcad ITEv7 Section 13.5.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703591",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a likely result of spam filtering not being enabled or not working correctly?",
+        "A user receiving large quantities of junk email",
+        "8790703591",
+        "NetAcad ITEv7 Section 13.5.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703592",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does a firewall's packet filtering function do?",
+        "Monitor the destination ports and protocols used by packets",
+        "8790703594",
+        "NetAcad ITEv7 Section 13.4.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703593",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What firewall function monitors the destination ports and protocols used by packets?",
+        "Packet filtering",
+        "8790703593",
+        "NetAcad ITEv7 Section 13.4.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703594",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SLA' stand for?",
+        "Service Level Agreement",
+        "8790703596",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703595",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Service Level Agreement'?",
+        "SLA",
+        "8790703595",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703596",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an SLA define?",
+        "The services a customer will receive from a provider and the standards the provider must comply with",
+        "8790703598",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703597",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What defines the services a customer will receive from a provider and the standards the provider must comply with?",
+        "An SLA",
+        "8790703597",
+        "NetAcad ITEv7 Section 14.3.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790703598",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PII' stand for?",
+        "Personally Identifiable Information",
+        "8790703600",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703599",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Personally Identifiable Information'?",
+        "PII",
+        "8790703599",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703600",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PCI' stand for in terms of information storage?",
+        "Payment Card Industry",
+        "8790703602",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703601",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Payment Card Industry'?",
+        "PCI",
+        "8790703601",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703602",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PHI' stand for?",
+        "Personal Health Information",
+        "8790703604",
+        "NetAcad ITEv7 Section 14.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703603",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Personal Health Information'?",
+        "PHI",
+        "8790703603",
+        "NetAcad ITEv7 Section 14.3.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790703604",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do operation and planning documents encompass?",
+        "Strategy and planning documents, project proposals, meeting presentations and minutes, budgets, purchasing records, and inventory",
+        "8790703606",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703605",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Strategy and planning documents, project proposals, meeting presentations and minutes, budgets, purchasing records, and inventory are all part of what type of documents?",
+        "Operation and planning documents",
+        "8790703605",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703606",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do project documents encompass?",
+        "Change requests, Design requirements, topology diagrams, specifications, configurations, change management forms, and testing and acceptance forms",
+        "8790703608",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703607",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Change requests, Design requirements, topology diagrams, specifications, configurations, change management forms, and testing and acceptance forms are part of what type of documentation?",
+        "Project documentation",
+        "8790703607",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703608",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does user documentation encompass?",
+        "Features, functions, and operation manuals, helpdesk databases, knowledgebases, and FAQs",
+        "8790703610",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703609",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Features, functions, and operation manuals, helpdesk databases, knowledgebases, and FAQs are part of what kind of documentation?",
+        "User documentation",
+        "8790703609",
+        "NetAcad ITEv7 Section 14.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703610",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'identification' section of a change management process?",
+        "Identifying what the change is and why it is needed",
+        "8790703612",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703611",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying what the change is and why it is needed is done in what section of a change management process?",
+        "The identification section",
+        "8790703611",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703612",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'assessment' section of a change management process?",
+        "Identifying who and what is affected by the change, what resources are needed for it, and associated risks",
+        "8790703614",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703613",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying who and what is affected by the change, what resources are needed for it, and associated risks are part of what section of a change management process?",
+        "The assessment section",
+        "8790703613",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703614",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'planning' section of a change management process?",
+        "Identifying downtime, time required to make the change, and rollback or recovery processes",
+        "8790703616",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703615",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying downtime, time required to make the change, and rollback or recovery processes is done in what section of a change management process?",
+        "The planning section",
+        "8790703615",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703616",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'approval' section of a change management process?",
+        "Identifying who must authorize the change and whether approval has been obtained",
+        "8790703618",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703617",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying who must authorize the change and whether approval has been obtained is done in what section of a change management process?",
+        "The approval section",
+        "8790703617",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703618",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'implementation' section of a change management process?",
+        "Indicating how those affected by the change will be notified and how the results of the change will be tested",
+        "8790703620",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703619",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Indicating how those affected by the change will be notified and how the results of the change will be tested is part of what section of a change management process?",
+        "The implementation section",
+        "8790703619",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703620",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'acceptance' section of a change management process?",
+        "Identifying the criteria for the change to be accepted as successful and who is responsible for accepting the change",
+        "8790703622",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703621",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying the criteria for the change to be accepted as successful and who is responsible for accepting the change is done in what section of a change management process?",
+        "The acceptance section",
+        "8790703621",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703622",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the 'documentation' section of a change management process?",
+        "Identifying what must be added to change logs and other documentation",
+        "8790703624",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703623",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Identifying what must be added to change logs and other documentation is done in what section of a change management process?",
+        "The documentation section",
+        "8790703623",
+        "NetAcad ITEv7 Section 14.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703624",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the first phase of a disaster recovery plan?",
+        "Network design analysis",
+        "8790703626",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703625",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Network design analysis is what phase of a disaster recovery plan?",
+        "The first phase",
+        "8790703625",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703626",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the second phase of a disaster recovery plan?",
+        "Creating an inventory list of all locations, devices, services, vendors, and contacts",
+        "8790703628",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703627",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Creating an inventory list of all locations, devices, services, vendors, and contacts is what phase of a disaster recovery plan?",
+        "The second phase",
+        "8790703627",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703628",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the third phase of a disaster recovery plan?",
+        "Creation of a verification process to ensure the recovery strategy works",
+        "8790703630",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703629",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Creation of a verification process to ensure the recovery strategy works is what phase of a disaster recovery plan?",
+        "The third phase",
+        "8790703629",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703630",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fourth phase of a disaster recovery plan?",
+        "Approval and implementation",
+        "8790703632",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703631",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Approval and implementation is what phase of a disaster recovery plan?",
+        "The fourth phase",
+        "8790703631",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703632",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the fifth phase of a disaster recovery plan?",
+        "Review and update",
+        "8790703634",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703633",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Review and update is what phase of a disaster recovery plan?",
+        "The fifth phase",
+        "8790703633",
+        "NetAcad ITEv7 Section 14.2.3.3"
+      ],
+      "flags": 0,
+      "guid": "8790703634",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What EU law regulates the handling of PII?",
+        "GDPR",
+        "8790703636",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703635",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is GDPR?",
+        "The EU law that regulates the handling of PII",
+        "8790703635",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703636",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'GDPR' stand for?",
+        "General Data Protection Regulation",
+        "8790703638",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703637",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'General Data Protection Regulation'?",
+        "GDPR",
+        "8790703637",
+        "NetAcad ITEv7 Section 14.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790703638",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What organization develops standards for the securing of PCI data?",
+        "PCI Security Standards Council",
+        "8790703640",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703639",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the PCI Security Standards Council?",
+        "Developing standards for the securing of PCI data",
+        "8790703639",
+        "NetAcad ITEv7 Section 14.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790703640",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'EULA' stand for?",
+        "End-User License Agreement",
+        "8790703642",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703641",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'End-User License Agreement'?",
+        "EULA",
+        "8790703641",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703642",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an EULA?",
+        "A license between a software owner and an individual user",
+        "8790703644",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703643",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A license between a software owner and an individual user is known as what?",
+        "An EULA",
+        "8790703643",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703644",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'DRM' stand for?",
+        "Digital Rights Management",
+        "8790703646",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703645",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Digital Rights Management'?",
+        "DRM",
+        "8790703645",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703646",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DRM?",
+        "Software or hardware designed to prevent illegal access or copying of digital content",
+        "8790703648",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703647",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Software or hardware designed to prevent illegal access or copying of digital content is known as what?",
+        "DRM",
+        "8790703647",
+        "NetAcad ITEv7 Section 14.3.1.7"
+      ],
+      "flags": 0,
+      "guid": "8790703648",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the two types of data collected in computer forensics?",
+        "Persistent and volatile data",
+        "8790703650",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703649",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Persistent and volatile data are what?",
+        "The two basic types of data collected in computer forensics",
+        "8790703649",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703650",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is persistent data?",
+        "Data that is preserved when a computer is turned off",
+        "8790703652",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703651",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Data that is preserved when a computer is turned off is known as what?",
+        "Persistent data",
+        "8790703651",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703652",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is volatile data?",
+        "Data that is lost when a computer is turned off",
+        "8790703654",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703653",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Data that is lost when a computer is turned off is known as what?",
+        "Volatile data",
+        "8790703653",
+        "NetAcad ITEv7 Section 14.3.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790703654",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'first response' refer to in computer forensics?",
+        "The procedures employed by people qualified to collect evidence",
+        "8790703656",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703655",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The procedures employed by people qualified to collect evidence in computer forensics are known as what?",
+        "First response",
+        "8790703655",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703656",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What doe the term 'chain of custody' refer to in computer forensics?",
+        "Proof of how evidence was collected, stored, and who had access to it",
+        "8790703658",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703657",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Proof of how evidence was collected, stored, and who had access to it is known as what in computer forensics?",
+        "Chain of custody",
+        "8790703657",
+        "NetAcad ITEv7 Section 14.3.2.7"
+      ],
+      "flags": 0,
+      "guid": "8790703658",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IDE' stand for in terms of software development?",
+        "Integrated Development Environment",
+        "8790703660",
+        "NetAcad ITEv7 Section 14.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703659",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for an 'Integrated Development Environment'?",
+        "IDE",
+        "8790703659",
+        "NetAcad ITEv7 Section 14.4.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790703660",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'BASH' stand for?",
+        "Bourne Again SHell",
+        "8790703662",
+        "NetAcad ITEv7 Section 14.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703661",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'Bourne Again SHell'?",
+        "BASH",
+        "8790703661",
+        "NetAcad ITEv7 Section 14.4.2.3"
+      ],
+      "flags": 0,
+      "guid": "8790703662",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a variable?",
+        "A designated place to store information in a script",
+        "8790703664",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703663",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A designated place to store information in a script is known as what?",
+        "A variable",
+        "8790703663",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703664",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an environmental variable?",
+        "A variable used by the operating system to store information",
+        "8790703666",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703665",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A variable used by the operating system to store information is known as what?",
+        "An environmental variable",
+        "8790703665",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703666",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can an 'int' data type store?",
+        "integer numbers",
+        "8790703668",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703667",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type stores integer numbers?",
+        "int",
+        "8790703667",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703668",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a 'float'?",
+        "Numbers with decimals",
+        "8790703670",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703669",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type can store numbers with decimals?",
+        "Floats",
+        "8790703669",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703670",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a 'char'?",
+        "A single text character",
+        "8790703672",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703671",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type can store a single text character?",
+        "Char",
+        "8790703671",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703672",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a 'string'?",
+        "Multiple text characters",
+        "8790703674",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703673",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type can store multiple text characters?",
+        "String",
+        "8790703673",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703674",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of data can be stored in a bool?",
+        "True and false values",
+        "8790703676",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703675",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What data type stores true and false values?",
+        "Bool",
+        "8790703675",
+        "NetAcad ITEv7 Section 14.4.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790703676",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of conditional statements in scripts?",
+        "Allowing a script to make decisions",
+        "8790703678",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703677",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of statement allows a script to make decisions?",
+        "Conditional statements",
+        "8790703677",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703678",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of loops in scripts?",
+        "Repeating commands",
+        "8790703680",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703679",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of statement in a script is used for repeating commands?",
+        "Loops",
+        "8790703679",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703680",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'for loop'?",
+        "A loop that repeats a set number of times",
+        "8790703682",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703681",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A loop that repeats a set number of times is known as what?",
+        "A 'for loop'",
+        "8790703681",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703682",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'while loop'?",
+        "A loop that repeats until a condition is true, testing the condition before each repeat",
+        "8790703684",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703683",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A loop that repeats until a condition is true, testing the condition before each repeat is known as what?",
+        "A 'while loop'",
+        "8790703683",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703684",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a 'do-while loop'?",
+        "A loop that repeats until a condition is true, testing the condition after each repeat",
+        "8790703686",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703685",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A loop that repeats until a condition is true, testing the condition after each repeat is known as what?",
+        "A 'do-while loop'",
+        "8790703685",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703686",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a do-while loop?",
+        "A post-test loop",
+        "8790703688",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703687",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a post-test loop?",
+        "A do-while loop",
+        "8790703687",
+        "NetAcad ITEv7 Section 14.4.2.6"
+      ],
+      "flags": 0,
+      "guid": "8790703688",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are two common examples of conditional statements?",
+        "'If-then-else' statements and 'switch' or 'case' statements",
+        "8790703690",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703689",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "'If-then-else' statements and 'switch' or 'case' statements are examples of what type of statement?",
+        "Conditional statements",
+        "8790703689",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703690",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a relational operator?",
+        "A comparison operator",
+        "8790703692",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703691",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a comparison operator?",
+        "A relational operator",
+        "8790703691",
+        "NetAcad ITEv7 Section 14.4.2.5"
+      ],
+      "flags": 0,
+      "guid": "8790703692",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
