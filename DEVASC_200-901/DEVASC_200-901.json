@@ -1,67 +1,71 @@
 {
-    "__type__": "Deck",
-    "children": [],
-    "crowdanki_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
-    "deck_config_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
-    "deck_configurations": [
-      {
-        "__type__": "DeckConfig",
-        "autoplay": true,
-        "crowdanki_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
-        "dyn": false,
-        "lapse": {
-          "delays": [
-            10
-          ],
-          "leechAction": 0,
-          "leechFails": 8,
-          "minInt": 1,
-          "mult": 0.0
-        },
-        "maxTaken": 60,
-        "name": "Default",
-        "new": {
-          "bury": true,
-          "delays": [
-            1,
-            10
-          ],
-          "initialFactor": 2500,
-          "ints": [
-            1,
-            4,
-            7
-          ],
-          "order": 1,
-          "perDay": 20,
-          "separate": true
-        },
-        "replayq": true,
-        "rev": {
-          "bury": true,
-          "ease4": 1.3,
-          "fuzz": 0.05,
-          "ivlFct": 1.0,
-          "maxIvl": 36500,
-          "minSpace": 1,
-          "perDay": 100
-        },
-        "timer": 0
-      }
-],
-"desc": "",
-"dyn": 0,
-"extendNew": 10,
-"extendRev": 50,
-"media_files": [],
-"mid": "1496861969393",
-"name": "DEVASC 200-901",
-"note_models": [
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
+  "deck_config_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": true,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": true,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 100
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "mid": "1496861969393",
+  "name": "DEVASC 200-901",
+  "note_models": [
     {
       "__type__": "NoteModel",
       "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-           "flds": [
+      "flds": [
         {
           "font": "Arial",
           "media": [
@@ -73,7 +77,7 @@
           "size": 20,
           "sticky": false
         },
-               {
+        {
           "font": "Arial",
           "media": [
 
@@ -155,6 +159,40 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
 
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generated the following output and what does it mean?<br>username P 10/29/2011 0 99999 7 -1",
+        "passwd -S (or --status), username, password status(locked, no password, password), date of last password change, next 4: min age, max age, warning period, inactivity period.",
+        "6101200002",
+        "NetAcad:DevNet:1.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module1",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of 'passwd -S'?",
+        "Display the status of your password, expiry information, last change, etc.",
+        "6101200001",
+        "NetAcad:DevNet:1.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module1",
+        "200-901:NotOnExam"
       ]
     }
   ]
