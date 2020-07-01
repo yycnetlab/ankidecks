@@ -194,6 +194,142 @@
         "NetAcad:DevNet:Module1",
         "200-901:NotOnExam"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the DevNet Sandbox?",
+        "Production-like development and testing environments for a host of technologies",
+        "6101200004",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the production-like development and testing environments for a host of technologies?",
+        "DevNet Sandbox",
+        "6101200003",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the DevNet Code Exchange?",
+        "A repository of sample code written by other developers",
+        "6101200006",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where in DevNet can you find a repository of sample code written by other developers?",
+        "DevNet Code Exchange",
+        "6101200005",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find help for developer related issues through tickets, live chats, and forums?",
+        "DevNet Developer Support",
+        "6101200008",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DevNet Developer Support provide?",
+        "Support for developer related issues through tickets, live chats, and forums",
+        "6101200007",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DevNet Developer documentation?",
+        "A central location for all of the product developer (API) documentation",
+        "6101200010",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find a central location for all of the product developer (API) documentation?",
+        "DevNet Developer documentation",
+        "6101200009",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
     }
   ]
 }
