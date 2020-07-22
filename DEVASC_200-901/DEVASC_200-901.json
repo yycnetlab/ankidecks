@@ -330,6 +330,874 @@
         "NetAcad:DevNet:Module2",
         "200-901:3.7"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the oldest and most mature REST API data format?",
+        "XML",
+        "6101200012",
+        "NetAcad:DevNet:3.6.1"
+      ],
+      "flags": 0,
+      "guid": "6101200011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why might XML be used over other REST API data formats?",
+        "It is the oldest and most mature.",
+        "6101200011",
+        "NetAcad:DevNet:3.6.1"
+      ],
+      "flags": 0,
+      "guid": "6101200012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What REST API data format was derived from SGML?",
+        "eXtensible Markup Language",
+        "6101200014",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the origins of XML?",
+        "It was derived from SGML",
+        "6101200013",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which REST API data format has a prologue?",
+        "XML",
+        "6101200016",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is in the first line of an XML file?",
+        "The prologue",
+        "6101200015",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which REST API data formats support comments?",
+        "XML and YAML",
+        "6101200018",
+        "NetAcad:DevNet:3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is supported in XML and YAML but not in JSON?",
+        "Comments in the data",
+        "6101200017",
+        "NetAcad:DevNet:3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which data format is a superset of JSON?",
+        "YAML",
+        "6101200020",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "YAML is a superset of which data format?",
+        "JSON",
+        "6101200019",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which REST API data format has strict indentation?",
+        "YAML",
+        "6101200022",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does YAML indicate data hierachy?",
+        "Through the use of whitespace.",
+        "6101200021",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the process of test driven development.",
+        "Development starts by creating test cases, then writing code to satisfy those tests.",
+        "6101200024",
+        "NetAcad:DevNet:3.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What approach to development starts by writing test cases followed by code to satisfy those cases?",
+        "Test Driven Development",
+        "6101200023",
+        "NetAcad:DevNet:3.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the phases of the Waterfall development model?",
+        "System requirements, Software requirements, Analysis, Program Design, Coding, Testing, Operations.",
+        "6101200026",
+        "NetAcad:DevNet:3.1.7"
+      ],
+      "flags": 0,
+      "guid": "6101200025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What model are the following phases from?  System requirements, Software requirements, Analysis, Program Design, Coding, Testing, Operations.",
+        "The Waterfall Development Model",
+        "6101200025",
+        "NetAcad:DevNet:3.1.7"
+      ],
+      "flags": 0,
+      "guid": "6101200026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the focus of Lean Software development?",
+        "Minimize waste and maximize customer value",
+        "6101200028",
+        "NetAcad:DevNet:3.1.10"
+      ],
+      "flags": 0,
+      "guid": "6101200027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What software development methodology aims to minimize waste and maximize customer value?",
+        "Lean",
+        "6101200027",
+        "NetAcad:DevNet:3.1.10"
+      ],
+      "flags": 0,
+      "guid": "6101200028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What development methodology focuses on shorter SDLC iterations?",
+        "Agile",
+        "6101200030",
+        "NetAcad:DevNet:3.1.8"
+      ],
+      "flags": 0,
+      "guid": "6101200029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the focus of Agile development?",
+        "The customer",
+        "6101200029",
+        "NetAcad:DevNet:3.1.8"
+      ],
+      "flags": 0,
+      "guid": "6101200030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between a function and a method?",
+        "Functions are stand-alone.  Methods are part of a class.",
+        "6101200032",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of a function that is part of a class?",
+        "Method",
+        "6101200031",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of using a function?",
+        "Creates a reusable code block or discrete task.",
+        "6101200034",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What structure is used to create a reusable code block?",
+        "A function",
+        "6101200033",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of using a class?",
+        "Allows the bundling of both data and functions.",
+        "6101200036",
+        "NetAcad:DevNet:3.4.5"
+      ],
+      "flags": 0,
+      "guid": "6101200035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What programming structure bundles both data and functions?",
+        "A class",
+        "6101200035",
+        "NetAcad:DevNet:3.4.5"
+      ],
+      "flags": 0,
+      "guid": "6101200036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of using a module?",
+        "Can be a single file.  Can be developped independently.  Can improve code readability.",
+        "6101200038",
+        "NetAcad:DevNet:3.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be developped independently, improves code readability, and can be a single file?",
+        "A module.",
+        "6101200037",
+        "NetAcad:DevNet:3.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of the Model, View, Controller design pattern?",
+        "Allows separation of domains for parallel development.",
+        "6101200040",
+        [
+          "NetAcad:DevNet:3.2.4",
+          "https://blog.codinghorror.com/understanding-model-view-controller/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What design pattern separates data, its processing, and presentation?",
+        "MVC",
+        "6101200039",
+        [
+          "NetAcad:DevNet:3.2.4",
+          "https://blog.codinghorror.com/understanding-model-view-controller/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of the Observer design pattern?",
+        "Loose coupling between objects.  Observers can be added or removed at any time.  Data is sent without modifying the Subject nor Observer.",
+        "6101200042",
+        [
+          "NetAcad:DevNet:3.2.3",
+          "https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What design pattern allows subscribers to get real time data from a subject?",
+        "The Observer design pattern.",
+        "6101200041",
+        [
+          "NetAcad:DevNet:3.2.3",
+          "https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of version control?",
+        "Collaboration, accountability, safety (rollback).",
+        "6101200044",
+        "NetAcad:DevNet:3.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What allows collaboration, accountability, and the ability to roll back a change?",
+        "Version control",
+        "6101200043",
+        "NetAcad:DevNet:3.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What command creates a local copy of a respository?",
+        "Clone",
+        "6101200046",
+        "NetAcad:DevNet:3.3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does the 'clone' command do?",
+        "Creates a local copy of a remote repository.",
+        "6101200045",
+        "NetAcad:DevNet:3.3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What is the purpose of the add/remove commands?",
+        "To add or remove files from the staging area.",
+        "6101200048",
+        "NetAcad:DevNet:3.3.7"
+      ],
+      "flags": 0,
+      "guid": "6101200047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what commands stage or unstage changed files?",
+        "Add and remove",
+        "6101200047",
+        "NetAcad:DevNet:3.3.7"
+      ],
+      "flags": 0,
+      "guid": "6101200048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does 'commit' do?",
+        "Combines all staged changes and records them in the local repo.",
+        "6101200050",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What combines all staged changes and records the result in the local repo?",
+        "Commit",
+        "6101200049",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What do push and pull do?",
+        "Push the local repository to the remote.  Pull remote repository to local.",
+        "6101200052",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.d"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What command copy the local repository to the remote or remote to local?",
+        "push and pull",
+        "6101200051",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.d"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what does the 'branch' command do?",
+        "Creates or deletes a local branch of development",
+        "6101200054",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.e"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what can create an instance of the code for separate development?",
+        "branch",
+        "6101200053",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.e"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does the merge command do?",
+        "Merges the specified repository/branch into the current branch.",
+        "6101200056",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: How can you incorporate changes from another branch into the current branch?",
+        "merge",
+        "6101200055",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: How can you resolve conflicts caused by a merge?",
+        "Manually.",
+        "6101200058",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what is it called when there are changes to the same section of the same file and they are merged together?",
+        "Merge conflicts",
+        "6101200057",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does the 'diff' command do?",
+        "Shows differences between commits, commit and working tree.",
+        "6101200060",
+        [
+          "NetAcad:DevNet:3.3.10",
+          "https://git-scm.com/docs/git-diff"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What shows difference between commits or between a commit and the working tree?",
+        "Diff",
+        "6101200059",
+        [
+          "NetAcad:DevNet:3.3.10",
+          "https://git-scm.com/docs/git-diff"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
     }
   ]
 }
