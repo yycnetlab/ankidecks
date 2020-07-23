@@ -1198,6 +1198,762 @@
         "NetAcad:DevNet:Module3",
         "200-901:1.8.g"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a webhook?",
+        "To provide API Event callbacks rather than polling.",
+        "6101200062",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What API mechanism can be used to signal events?",
+        "webhooks",
+        "6101200061",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the architectural constraints of REST APIs?",
+        "Uniform interface, client-server, stateless, cacheable, layered system, code on demand (optional).",
+        "6101200064",
+        "NetAcad:DevNet:4.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these constraints found?  Uniform interface, client-server, stateless, cacheable, layered system, code on demand (optional).",
+        "RESTful APIs",
+        "6101200063",
+        "NetAcad:DevNet:4.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the parts in the URI for a REST API request?",
+        "Scheme, Authority, Path, Query.",
+        "6101200066",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can these components?  Scheme, Authority, Path, Query.",
+        "REST API Uniform Resource Identifier",
+        "6101200065",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP methods can be used for a REST API?",
+        "Post, Get, Put, Patch, Delete",
+        "6101200068",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are these: Post, Get, Put, Patch, Delete",
+        "REST API HTTP methods",
+        "6101200067",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the categories of HTTP response codes?",
+        "1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error",
+        "6101200070",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are these: 1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error",
+        "Categories of HTTP response codes",
+        "6101200069",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When would you see an HTTP 200 response to a REST API request?",
+        "The REST API call was successful.",
+        "6101200072",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP status indicates the REST API call was successful?",
+        "HTTP 200",
+        "6101200071",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: When would you see a HTTP 201 response code?",
+        "When a resource is created.",
+        "6101200074",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code indicates a resource was created?",
+        "HTTP 201",
+        "6101200073",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 400 response?",
+        "Malformed request from the client",
+        "6101200076",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What HTTP status results from a malformed request from a client?",
+        "HTTP 400",
+        "6101200075",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What will cuase an HTTP 401 response code?",
+        "Unauthorized",
+        "6101200078",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is the response code for an unauthorized request?",
+        "HTTP 401",
+        "6101200077",
+        [
+          "NetAcad:DevNet:4.8.3",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 403 response code?",
+        "Forbidden - the client doesn't have access to the resource",
+        "6101200080",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What HTTP response is generated when the client doesn't have access to the requested resouce?",
+        "HTTP 403",
+        "6101200079",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is an HTTP 404 response code?",
+        "Not found",
+        "6101200082",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code is returned when the resouce is not found?",
+        "HTTP 404",
+        "6101200081",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is the HTTP response code when a requested method is not allowed?",
+        "HTTP 405",
+        "6101200084",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 405 response?",
+        "Method not allowed",
+        "6101200083",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 406 response code?",
+        "Not acceptable - media type in the 'Accept' request header is not supported.",
+        "6101200086",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code is used when a media type indicated by the 'accept' request header is not supported?",
+        "HTTP 406",
+        "6101200085",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 415 response code?",
+        "Unsupported media type (when sending application/xml, for example)",
+        "6101200088",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What HTTP response code will be returned if the request uses a data format that is not supported?",
+        "HTTP 415",
+        "6101200087",
+        [
+          "NetAcad:DevNet:4.8.4",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 500 response code?",
+        "Internal server error",
+        "6101200090",
+        [
+          "NetAcad:DevNet:4.8.5",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: what response code is returned when there is an internal server error?",
+        "HTTP 500",
+        "6101200089",
+        [
+          "NetAcad:DevNet:4.8.5",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What dos an HTTP 501 response indicate?",
+        "Not implemented (on the server)",
+        "6101200092",
+        [
+          "NetAcad:DevNet:4.8.5",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code is used when the requested functionality is not implemented on the server?",
+        "HTTP 501",
+        "6101200091",
+        [
+          "NetAcad:DevNet:4.8.5",
+          "https://restfulapi.net/http-status-codes/"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the parts of an HTTP response?",
+        "HTTP Status, Header, Body",
+        "6101200094",
+        [
+          "NetAcad:DevNet:4.4.3"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the HTTP Status, Header, and Body make up?",
+        "HTTP Response",
+        "6101200093",
+        [
+          "NetAcad:DevNet:4.4.3"
+        ]
+      ],
+      "flags": 0,
+      "guid": "6101200094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the common API Authentication mechanisms?",
+        "Basic (u/p), Bearer (token), API Key",
+        "6101200096",
+        "NetAcad:DevNet:4.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between bearer auth (token) and an API key?",
+        "API keys are for projects.  Bearer/tokens are for users.",
+        "6101200095",
+        "NetAcad:DevNet:4.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between synchronous and asynchronous APIs?",
+        "Sync: get results immediately.  Async: get results eventually.",
+        "6101200098",
+        "NetAcad:DevNet:4.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of API call will yield results eventually rather than immediately?",
+        "Asynchronous",
+        "6101200097",
+        "NetAcad:DevNet:4.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps to use a REST API in Python?",
+        "Import the requests module, call a method against a URI, handle the response.",
+        "6101200100",
+        "NetAcad:DevNet:4.9.2"
+      ],
+      "flags": 0,
+      "guid": "6101200099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Importing the requests module, calling a method against a URI, and handling the response are all part of what?",
+        "Doing a REST API call in Python",
+        "6101200099",
+        "NetAcad:DevNet:4.9.2"
+      ],
+      "flags": 0,
+      "guid": "6101200100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.9"
+      ]
     }
   ]
 }
