@@ -814,10 +814,7 @@
         "What are the advantages of the Model, View, Controller design pattern?",
         "Allows separation of domains for parallel development.",
         "6101200040",
-        [
-          "NetAcad:DevNet:3.2.4",
-          "https://blog.codinghorror.com/understanding-model-view-controller/"
-        ]
+        "NetAcad:DevNet:3.2.4, https://blog.codinghorror.com/understanding-model-view-controller/"
       ],
       "flags": 0,
       "guid": "6101200039",
@@ -834,10 +831,7 @@
         "What design pattern separates data, its processing, and presentation?",
         "MVC",
         "6101200039",
-        [
-          "NetAcad:DevNet:3.2.4",
-          "https://blog.codinghorror.com/understanding-model-view-controller/"
-        ]
+        "NetAcad:DevNet:3.2.4, https://blog.codinghorror.com/understanding-model-view-controller/"
       ],
       "flags": 0,
       "guid": "6101200040",
@@ -854,10 +848,7 @@
         "What are the advantages of the Observer design pattern?",
         "Loose coupling between objects.  Observers can be added or removed at any time.  Data is sent without modifying the Subject nor Observer.",
         "6101200042",
-        [
-          "NetAcad:DevNet:3.2.3",
-          "https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
-        ]
+        "NetAcad:DevNet:3.2.3, https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
       ],
       "flags": 0,
       "guid": "6101200041",
@@ -874,10 +865,7 @@
         "What design pattern allows subscribers to get real time data from a subject?",
         "The Observer design pattern.",
         "6101200041",
-        [
-          "NetAcad:DevNet:3.2.3",
-          "https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
-        ]
+        "NetAcad:DevNet:3.2.3, https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
       ],
       "flags": 0,
       "guid": "6101200042",
@@ -1166,10 +1154,7 @@
         "Git: What does the 'diff' command do?",
         "Shows differences between commits, commit and working tree.",
         "6101200060",
-        [
-          "NetAcad:DevNet:3.3.10",
-          "https://git-scm.com/docs/git-diff"
-        ]
+        "NetAcad:DevNet:3.3.10, https://git-scm.com/docs/git-diff"
       ],
       "flags": 0,
       "guid": "6101200059",
@@ -1186,10 +1171,7 @@
         "Git: What shows difference between commits or between a commit and the working tree?",
         "Diff",
         "6101200059",
-        [
-          "NetAcad:DevNet:3.3.10",
-          "https://git-scm.com/docs/git-diff"
-        ]
+        "NetAcad:DevNet:3.3.10, https://git-scm.com/docs/git-diff"
       ],
       "flags": 0,
       "guid": "6101200060",
@@ -1342,10 +1324,7 @@
         "What are the categories of HTTP response codes?",
         "1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error",
         "6101200070",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200069",
@@ -1362,10 +1341,7 @@
         "What are these: 1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error",
         "Categories of HTTP response codes",
         "6101200069",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200070",
@@ -1382,10 +1358,7 @@
         "When would you see an HTTP 200 response to a REST API request?",
         "The REST API call was successful.",
         "6101200072",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200071",
@@ -1402,10 +1375,7 @@
         "What HTTP status indicates the REST API call was successful?",
         "HTTP 200",
         "6101200071",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200072",
@@ -1422,10 +1392,7 @@
         "REST API: When would you see a HTTP 201 response code?",
         "When a resource is created.",
         "6101200074",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200073",
@@ -1442,10 +1409,7 @@
         "REST API: What response code indicates a resource was created?",
         "HTTP 201",
         "6101200073",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200074",
@@ -1462,10 +1426,7 @@
         "REST API: What causes an HTTP 400 response?",
         "Malformed request from the client",
         "6101200076",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200075",
@@ -1482,10 +1443,7 @@
         "REST API: What HTTP status results from a malformed request from a client?",
         "HTTP 400",
         "6101200075",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200076",
@@ -1502,10 +1460,7 @@
         "REST API: What will cuase an HTTP 401 response code?",
         "Unauthorized",
         "6101200078",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200077",
@@ -1522,10 +1477,7 @@
         "REST API: What is the response code for an unauthorized request?",
         "HTTP 401",
         "6101200077",
-        [
-          "NetAcad:DevNet:4.8.3",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200078",
@@ -1542,10 +1494,7 @@
         "REST API: What causes an HTTP 403 response code?",
         "Forbidden - the client doesn't have access to the resource",
         "6101200080",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200079",
@@ -1562,10 +1511,7 @@
         "REST API: What HTTP response is generated when the client doesn't have access to the requested resouce?",
         "HTTP 403",
         "6101200079",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200080",
@@ -1582,10 +1528,7 @@
         "REST API: What is an HTTP 404 response code?",
         "Not found",
         "6101200082",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200081",
@@ -1602,10 +1545,7 @@
         "REST API: What response code is returned when the resouce is not found?",
         "HTTP 404",
         "6101200081",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200082",
@@ -1622,10 +1562,7 @@
         "REST API: What is the HTTP response code when a requested method is not allowed?",
         "HTTP 405",
         "6101200084",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200083",
@@ -1642,10 +1579,7 @@
         "REST API: What causes an HTTP 405 response?",
         "Method not allowed",
         "6101200083",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200084",
@@ -1662,10 +1596,7 @@
         "REST API: What causes an HTTP 406 response code?",
         "Not acceptable - media type in the 'Accept' request header is not supported.",
         "6101200086",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200085",
@@ -1682,10 +1613,7 @@
         "REST API: What response code is used when a media type indicated by the 'accept' request header is not supported?",
         "HTTP 406",
         "6101200085",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200086",
@@ -1702,10 +1630,7 @@
         "REST API: What causes an HTTP 415 response code?",
         "Unsupported media type (when sending application/xml, for example)",
         "6101200088",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200087",
@@ -1722,10 +1647,7 @@
         "REST API: What HTTP response code will be returned if the request uses a data format that is not supported?",
         "HTTP 415",
         "6101200087",
-        [
-          "NetAcad:DevNet:4.8.4",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200088",
@@ -1742,10 +1664,7 @@
         "REST API: What causes an HTTP 500 response code?",
         "Internal server error",
         "6101200090",
-        [
-          "NetAcad:DevNet:4.8.5",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200089",
@@ -1762,10 +1681,7 @@
         "REST API: what response code is returned when there is an internal server error?",
         "HTTP 500",
         "6101200089",
-        [
-          "NetAcad:DevNet:4.8.5",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200090",
@@ -1782,10 +1698,7 @@
         "REST API: What dos an HTTP 501 response indicate?",
         "Not implemented (on the server)",
         "6101200092",
-        [
-          "NetAcad:DevNet:4.8.5",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200091",
@@ -1802,10 +1715,7 @@
         "REST API: What response code is used when the requested functionality is not implemented on the server?",
         "HTTP 501",
         "6101200091",
-        [
-          "NetAcad:DevNet:4.8.5",
-          "https://restfulapi.net/http-status-codes/"
-        ]
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
       ],
       "flags": 0,
       "guid": "6101200092",
@@ -1822,9 +1732,7 @@
         "What are the parts of an HTTP response?",
         "HTTP Status, Header, Body",
         "6101200094",
-        [
-          "NetAcad:DevNet:4.4.3"
-        ]
+        "NetAcad:DevNet:4.4.3"
       ],
       "flags": 0,
       "guid": "6101200093",
@@ -1841,9 +1749,7 @@
         "What do the HTTP Status, Header, and Body make up?",
         "HTTP Response",
         "6101200093",
-        [
-          "NetAcad:DevNet:4.4.3"
-        ]
+        "NetAcad:DevNet:4.4.3"
       ],
       "flags": 0,
       "guid": "6101200094",
