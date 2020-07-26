@@ -1860,6 +1860,1060 @@
         "NetAcad:DevNet:Module4",
         "200-901:2.9"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the OUI of an IPv4 multicast MAC address?",
+        "01:00:5E",
+        "6101200102",
+        "NetAcad:DevNet:5.2.3, https://en.wikipedia.org/wiki/Multicast_address"
+      ],
+      "flags": 0,
+      "guid": "6101200101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of MAC address starts with 01:00:5E?",
+        "IPv4 Multicast",
+        "6101200101",
+        "NetAcad:DevNet:5.2.3, https://en.wikipedia.org/wiki/Multicast_address"
+      ],
+      "flags": 0,
+      "guid": "6101200102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the fields of an Ethernet frame?",
+        "Preamble, Start of Frame Delimeter (SFD), Dest MAC, Src MAC, Type/Len, Data, Frame check sequence (FCS)",
+        "6101200104",
+        "NetAcad:DevNet:5.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200103",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where do you find these components: Preamble, Start of Frame Delimeter (SFD), Dest MAC, Src MAC, Type/Len, Data, Frame check sequence (FCS)",
+        "Ethernet frame",
+        "6101200103",
+        "NetAcad:DevNet:5.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200104",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are MAC addresses used?",
+        "They are used to identify the source and destination of an ethernet frame.",
+        "6101200106",
+        "NetAcad:DevNet:5.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200105",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are used to identify the source and destination of an ethernet frame?",
+        "MAC addresses",
+        "6101200105",
+        "NetAcad:DevNet:5.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200106",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of VLANs?",
+        "To virtually segment different L2 broadcast domains.",
+        "6101200108",
+        "NetAcad:DevNet:5.2.5"
+      ],
+      "flags": 0,
+      "guid": "6101200107",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be used to virtually segment different L2 broadcast domains?",
+        "VLANs",
+        "6101200107",
+        "NetAcad:DevNet:5.2.5"
+      ],
+      "flags": 0,
+      "guid": "6101200108",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of an IP address?",
+        "To identify an L3 source or destination for network traffic.",
+        "6101200110",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200109",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What identifies an L3 source or destination for network traffic?",
+        "IP address",
+        "6101200109",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200110",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of an L3 route?",
+        "To identify the next device to forward a packet to.",
+        "6101200112",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200111",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What identifies the next device to forward a packet to?",
+        "A route",
+        "6101200111",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200112",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a subnet mask / prefix?",
+        "To differentiate the network portion of an address from the host portion.",
+        "6101200114",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200113",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used to differentiate the network portion of an address from the host portion?",
+        "Subnet mask / prefix",
+        "6101200113",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200114",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a default gateway?",
+        "It identifies the next-hop device for traffic with no other known route.",
+        "6101200116",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200115",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What identifies the next-hop device for traffic with no other known route?",
+        "The default gateway",
+        "6101200115",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200116",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network switch?",
+        "Increase the L2 broadcast domain (more physical ports), decrease the L2 collision domain.",
+        "6101200118",
+        "NetAcad:DevNet:5.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200117",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device decreases the L2 collision domain?",
+        "Network switch",
+        "6101200117",
+        "NetAcad:DevNet:5.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200118",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network router?",
+        "Make L3 forwarding decisions.",
+        "6101200120",
+        "NetAcad:DevNet:5.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200119",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What makes L3 forwarding decisions?",
+        "Network router",
+        "6101200119",
+        "NetAcad:DevNet:5.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200120",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network firewall?",
+        "Prevents unauthorized access to or from a network.",
+        "6101200122",
+        "NetAcad:DevNet:5.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200121",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device prevents unauthorized access to or from a network?",
+        "Firewall",
+        "6101200121",
+        "NetAcad:DevNet:5.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200122",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network load balancer?",
+        "Distribute workload across multiple resources.",
+        "6101200124",
+        "NetAcad:DevNet:5.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200123",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device can distribute workload across multiple computing resources?",
+        "Network load balancer",
+        "6101200123",
+        "NetAcad:DevNet:5.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200124",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Management Plane in a network device?",
+        "Handles traffic for the device itself.",
+        "6101200126",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200125",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What plane in a router handles traffic destined to the router or emitted from the router?",
+        "The management plane",
+        "6101200125",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200126",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Control Plane on a network device?",
+        "The control plane makes decisions about how traffic should be forwarded.",
+        "6101200128",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200127",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What plane on a network device makes decisions about how traffic should be handled?",
+        "The control plane",
+        "6101200127",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Data Plane on a networking device?",
+        "It forwards traffic based on information provided by the control plane.",
+        "6101200130",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What plane of a network device actually forwards traffic?",
+        "The data plane",
+        "6101200129",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DHCP do?",
+        "Allows devices to automatically be configured with IP address information.",
+        "6101200132",
+        "NetAcad:DevNet:5.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol will automatically provide IP address information to devices that join a network?",
+        "DHCP",
+        "6101200131",
+        "NetAcad:DevNet:5.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DNS for?",
+        "To translate names to IP addresses or vice-versa",
+        "6101200134",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol can translate a name to an IP address?",
+        "DNS",
+        "6101200133",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does NAT do?",
+        "It translates one IP address to another.  Typically to help reduce the number of public IP addresses used by a network.",
+        "6101200136",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used to reduce the number of Public IP addresses used by a network?",
+        "NAT",
+        "6101200135",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is SNMP for?",
+        "To facilitate monitoring and managing devices over a network.",
+        "6101200138",
+        "NetAcad:DevNet:5.5.4"
+      ],
+      "flags": 0,
+      "guid": "6101200137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol facilitates monitoring and managing devices over a network?",
+        "SNMP",
+        "6101200137",
+        "NetAcad:DevNet:5.5.4"
+      ],
+      "flags": 0,
+      "guid": "6101200138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NTP and what does it do?",
+        "Network Time Protocol.  Used to synchronize system clocks across many network devices.",
+        "6101200140",
+        "NetAcad:DevNet:5.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used to synchronize system clocks across network devices?",
+        "NTP",
+        "6101200139",
+        "NetAcad:DevNet:5.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type is used to convert a name to an IPv4 address?",
+        "An 'A' record",
+        "6101200142",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what is an 'A' record for?",
+        "Translates a name to an IP.",
+        "6101200141",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what does a CNAME do?",
+        "Translates a name to another name.",
+        "6101200144",
+        "NetAcad:DevNet:5.5.3, https://en.wikipedia.org/wiki/CNAME_record"
+      ],
+      "flags": 0,
+      "guid": "6101200143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type translates a name to another name?",
+        "CNAME",
+        "6101200143",
+        "NetAcad:DevNet:5.5.3, https://en.wikipedia.org/wiki/CNAME_record"
+      ],
+      "flags": 0,
+      "guid": "6101200144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what is an 'NS' record for?",
+        "Identifies the authoritative name server",
+        "6101200146",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what record type identifies the authoritative server?",
+        "NS",
+        "6101200145",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type translates a name to an IPv6 address?",
+        "AAAA (Quad A)",
+        "6101200148",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What is an AAAA record for?",
+        "Translates a name to an IPv6 address.",
+        "6101200147",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What is an MX record for?",
+        "Identifies the mail server (Mail eXchange) for a domain.",
+        "6101200150",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record identifies the mail server for a domain?",
+        "MX",
+        "6101200149",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What is a PTR record for?",
+        "Translates an IP address to a name.",
+        "6101200152",
+        "NetAcad:DevNet:5.5.3, https://www.cloudns.net/wiki/article/40/"
+      ],
+      "flags": 0,
+      "guid": "6101200151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type can translate an IP address into a name?",
+        "PTR",
+        "6101200151",
+        "NetAcad:DevNet:5.5.3, https://www.cloudns.net/wiki/article/40/"
+      ],
+      "flags": 0,
+      "guid": "6101200152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 22/tcp?",
+        "SSH",
+        "6101200154",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does SSH use?",
+        "22/tcp",
+        "6101200153",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 23/tcp?",
+        "Telnet",
+        "6101200156",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does Telnet use?",
+        "23/tcp",
+        "6101200155",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 80/tcp?",
+        "HTTP",
+        "6101200158",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200157",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does HTTP use?",
+        "80/tcp",
+        "6101200157",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200158",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 443/tcp?",
+        "HTTPS",
+        "6101200160",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200159",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does HTTPS use?",
+        "443/tcp",
+        "6101200159",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200160",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 830/tcp?",
+        "NETCONF",
+        "6101200162",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200161",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does NETCONF use?",
+        "830/tcp",
+        "6101200161",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200162",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
     }
   ]
 }
