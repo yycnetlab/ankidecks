@@ -2914,6 +2914,380 @@
         "NetAcad:DevNet:Module5",
         "200-901:6.7"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DevNet Automation Exchange?",
+        "A shared code repository for network automation.",
+        "6101200164",
+        "NetAcad:DevNet:2.2.5, https://developer.cisco.com/network-automation/"
+      ],
+      "flags": 0,
+      "guid": "6101200163",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What resource is a shared code repository for network automation?",
+        "DevNet Automation Exchange",
+        "6101200163",
+        "NetAcad:DevNet:2.2.5, https://developer.cisco.com/network-automation/"
+      ],
+      "flags": 0,
+      "guid": "6101200164",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the response time when creating a ticket with DevNet Developer Support?",
+        "One business day.",
+        "6101200166",
+        "NetAcad:DevNet:2.2.6"
+      ],
+      "flags": 0,
+      "guid": "6101200165",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What service has a response time of one business day for tickets?",
+        "DevNet Developer Support",
+        "6101200165",
+        "NetAcad:DevNet:2.2.6"
+      ],
+      "flags": 0,
+      "guid": "6101200166",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the formal code review process.",
+        "A series of meetings in which the entire code base is reviewed line by line to promote discussion.",
+        "6101200168",
+        "NetAcad:DevNet:3.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200167",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:5.13"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why type of code review has a series of meetings where the entire code base is gone through line by line to promote discussion?",
+        "Formal code review",
+        "6101200167",
+        "NetAcad:DevNet:3.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200168",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:5.13"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the characteristics of SOAP?",
+        "Independent, Extensible, Neutral",
+        "6101200170",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200169",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these characteristics describe?  Independent, Extensible, Neutral",
+        "SOAP",
+        "6101200169",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200170",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of a SOAP message?",
+        "Envelope, Header, Body, Fault",
+        "6101200172",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200171",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the following?  Envelope, Header, Body, Fault",
+        "Elements of a SOAP message",
+        "6101200171",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200172",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the allowed Accept-Encoding REST API compression methods?",
+        "gzip, compress, deflate, br, identity (ie: no compression), * (ie: any)",
+        "6101200174",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding"
+      ],
+      "flags": 0,
+      "guid": "6101200173",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are gzip, compress, deflate, br, identity and *",
+        "Accept-Encoding compression methods for REST API.",
+        "6101200173",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding"
+      ],
+      "flags": 0,
+      "guid": "6101200174",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What perspective is applied for terminology?",
+        "The perspective of the device with the translated address.",
+        "6101200176",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200175",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: When is the perspective of the device with the tranlated address used?",
+        "When applying NAT terminology.",
+        "6101200175",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200176",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is an inside address?",
+        "The address of the device that is being translated.",
+        "6101200178",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200177",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term for the address of the device that is being translated?",
+        "The Inside address",
+        "6101200177",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200178",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is an Outside address?",
+        "The address of the foreign device (often the destination).",
+        "6101200180",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200179",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term for the address of the foreign device (destination)?",
+        "The Outside address",
+        "6101200179",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200180",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the Local address?",
+        "Any address that appears on the inside portion of the network.",
+        "6101200182",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200181",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term that describes any address that appears on the inside portion of the network?",
+        "A Local address",
+        "6101200181",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200182",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is a Global address?",
+        "Any address that appears on the outside portion of the network.",
+        "6101200184",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200183",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term for any address that appears on the outside portion of the network?",
+        "A Global address",
+        "6101200183",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200184",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
     }
   ]
 }
