@@ -1695,7 +1695,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "REST API: What dos an HTTP 501 response indicate?",
+        "REST API: What does an HTTP 501 response indicate?",
         "Not implemented (on the server)",
         "6101200092",
         "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
@@ -3287,6 +3287,618 @@
       "tags": [
         "NetAcad:DevNet:Module5",
         "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of edge computing?",
+        "Increased speed, decreased latency.",
+        "6101200186",
+        "NetAcad:DevNet:6.1.9"
+      ],
+      "flags": 0,
+      "guid": "6101200185",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Increased speed and decreased latency are two benefits of what type of computing?",
+        "Edge computing",
+        "6101200185",
+        "NetAcad:DevNet:6.1.9"
+      ],
+      "flags": 0,
+      "guid": "6101200186",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does cloud computing provide?",
+        "Self service access to computing resources.",
+        "6101200188",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200187",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides self service access to computing resources?",
+        "Cloud computing",
+        "6101200187",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200188",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What differentiates private, public, and hybrid clouds?",
+        "Private is hosted on your equipment, public on someone else's, and hybrid is a combination of public and private.",
+        "6101200190",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200189",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the cloud deployment models?",
+        "Private, Public, Hybrid",
+        "6101200189",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200190",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the attributes of virtual machines?",
+        "Each VM has its own OS.  There is a hypervisor.  Host OS can differ from the Guest OS.",
+        "6101200192",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200191",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what deployment type can the host OS differ from the guest OS?",
+        "Virtual machines",
+        "6101200191",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200192",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the attributes of bare metal deployments?",
+        "Simplest method.  Direct hardware access.",
+        "6101200194",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200193",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deployment method has direct access to the hardware?",
+        "Bare metal",
+        "6101200193",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200194",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the attributes of containerized deployments?",
+        "Quick startup, shared OS with the Host.",
+        "6101200196",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200195",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deployment type has the Guest share an OS with the Host?",
+        "Containers",
+        "6101200195",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200196",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the components for a CI/CD pipeline for application deployment?",
+        "Pull from version control, build, unit test, deploy, auto test, deploy to prod.",
+        "6101200198",
+        "NetAcad:DevNet:6.1.3, https://www.katalon.com/resources-center/blog/ci-cd-pipeline/#cicd-pipeline-components"
+      ],
+      "flags": 0,
+      "guid": "6101200197",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What toolset can pull from version control, build, unit test, deploy, auto test, then deploy to prod?",
+        "CI/CD pipeline",
+        "6101200197",
+        "NetAcad:DevNet:6.1.3, https://www.katalon.com/resources-center/blog/ci-cd-pipeline/#cicd-pipeline-components"
+      ],
+      "flags": 0,
+      "guid": "6101200198",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is specified with the FROM instruction?",
+        "The base image.",
+        "6101200200",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200199",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you specify the base image?",
+        "The FROM instruction",
+        "6101200199",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200200",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the RUN instruction?",
+        "Specifies commands to run on the container while building the image.",
+        "6101200202",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200201",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What instruction will execute commands on the container while building the image?",
+        "RUN",
+        "6101200201",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200202",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the CMD instruction?",
+        "It specifies what to execute when the container is launched.",
+        "6101200204",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200203",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you specify what application to execute at launch time for a container?",
+        "The CMD instruction",
+        "6101200203",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200204",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What does EXPOSE do?",
+        "Informs Docker that the container listens on the specified port/protocol at runtime.",
+        "6101200206",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200205",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you inform Docker what port/protocol the container should listen to at runtime?",
+        "The EXPOSE instruction",
+        "6101200205",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200206",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the COPY instruction?",
+        "Copies files from the specified source to the container filesystem.",
+        "6101200208",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What command will replicate files into the container filesystem?",
+        "The COPY instruction",
+        "6101200207",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200208",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the WORKDIR instruction?",
+        "Specifies the working directory for any RUN, CMD, COPY instructions.",
+        "6101200210",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200209",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you set the working directory for RUN, CMD, COPY instructions?",
+        "The WORKDIR instruction",
+        "6101200209",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200210",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe blue-green deployment.",
+        "A new environment (blue) is created for a new deployment but the old is kept for fallback in case of errors.",
+        "6101200212",
+        "NetAcad:DevNet:6.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200211",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deployment strategy builds a new environment for the new deployment but keeps the old environment around for fallback?",
+        "Blue-green",
+        "6101200211",
+        "NetAcad:DevNet:6.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200212",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OWASP Dependency Check?",
+        "It is a tool that looks for known vulnerabilities in your code.",
+        "6101200214",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200213",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OWASP tool looks for known vulnerabilities in code?",
+        "OWASP Dependency Check",
+        "6101200213",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200214",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OWASP DefectDojo?",
+        "A tool that streamlines the testing process.",
+        "6101200216",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200215",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OWASP tool streamlines the testing process?",
+        "OWASP DefectDojo",
+        "6101200215",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200216",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OWASP ModSecurity Core Rule Set (CRS)?",
+        "Generic attack detection rules that can be used with web application firewalls.",
+        "6101200218",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200217",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of OWASP's generic attack detection rules that can be used with web applications firewalls?",
+        "OWASP ModSecurity Core Rule Set (CRS)",
+        "6101200217",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200218",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the OWASP Cheat Sheet Series?",
+        "A resource that explains how to mitigate the OWASP Top Ten vulnerabilities.",
+        "6101200220",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200219",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What resource explains how to mitigate the OWASP Top Ten vulnerabilities?",
+        "OWASP Cheat Sheet Series",
+        "6101200219",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200220",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
       ]
     }
   ]
