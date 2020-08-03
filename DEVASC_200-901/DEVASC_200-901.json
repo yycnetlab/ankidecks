@@ -1457,7 +1457,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "REST API: What will cuase an HTTP 401 response code?",
+        "REST API: What will cause an HTTP 401 response code?",
         "Unauthorized",
         "6101200078",
         "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
@@ -3140,7 +3140,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "NAT: When is the perspective of the device with the tranlated address used?",
+        "NAT: When is the perspective of the device with the translated address used?",
         "When applying NAT terminology.",
         "6101200175",
         "NetAcad:DevNet:5.5.6"
@@ -3507,7 +3507,8 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "NetAcad:DevNet:Module6",
-        "200-901:4.4"
+        "200-901:4.4",
+        "200-901:5.4"
       ]
     },
     {
@@ -3524,7 +3525,8 @@
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "NetAcad:DevNet:Module6",
-        "200-901:4.4"
+        "200-901:4.4",
+        "200-901:5.4"
       ]
     },
     {
@@ -3899,6 +3901,482 @@
       "tags": [
         "NetAcad:DevNet:Module6",
         "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the core principles of DevOps?",
+        "Focus on automation, idea that failure is normal, reframing availability in terms of what a business can tolerate",
+        "6101200222",
+        "NetAcad:DevNet:7.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101200221",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:4.12"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the following: focus on automation, idea that failure is normal, reframing availability in terms of what a business can tolerate?",
+        "The core principles of DevOps",
+        "6101200221",
+        "NetAcad:DevNet:7.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101200222",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:4.12"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the value of model driven programmability?",
+        "Device abilities are matched to standardized models making it easier to configure.",
+        "6101200224",
+        "NetAcad:DevNet:8.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200223",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes matching device abilities to standard models to ease configuration?",
+        "Model driven programmability.",
+        "6101200223",
+        "NetAcad:DevNet:8.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200224",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of controller-level device management.",
+        "A controller provides a single dashboard for management, automation, assurance, monitoring, analytics, and security.",
+        "6101200226",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200225",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of device management provides a single dashboard for management, automation, assurance, monitoring, analysis, and security?",
+        "Controller-level device management",
+        "6101200225",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200226",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of network simulation?",
+        "You can test, debug, and learn in a safe, convenient, inexpensive way.",
+        "6101200228",
+        "NetAcad:DevNet:7.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200227",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What allows you to test, debug and learn in a safe, convenient and inexpensive way?",
+        "Network simulation",
+        "6101200227",
+        "NetAcad:DevNet:7.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200228",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of tools like pyATS?",
+        "Allows you to verify that your infrastructure has reached a desired state.",
+        "6101200230",
+        "NetAcad:DevNet:7.6.1, https://www.youtube.com/watch?v=aMoXuXWohTA"
+      ],
+      "flags": 0,
+      "guid": "6101200229",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can you verify that your infrastructure has reached a desired state?",
+        "Using test tools like pyATS",
+        "6101200229",
+        "NetAcad:DevNet:7.6.1, https://www.youtube.com/watch?v=aMoXuXWohTA"
+      ],
+      "flags": 0,
+      "guid": "6101200230",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of CI/CD pipelines?",
+        "Automated deployment, Agile integration, shorter MTTR, less disruptive feature releases, improved quality, improved time to market.",
+        "6101200232",
+        "NetAcad:DevNet:6.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200231",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What has the following benefits; Automated deployment, Agile integration, shorter MTTR, less disruptive feature releases, improved quality, improved time to market?",
+        "CI/CD pipelines",
+        "6101200231",
+        "NetAcad:DevNet:6.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200232",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the principles of Infrastructure as Code?",
+        "Reproducable systems, Disposable systems, Consistent systems, Repeatable processes, every changing design",
+        "6101200234",
+        "NetAcad:DevNet:7.5.1, https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html"
+      ],
+      "flags": 0,
+      "guid": "6101200233",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following constitute: Reproducable systems, Disposable systems, Consistent systems, Repeatable processes, every changing design?",
+        "Principles of Infrastructure as Code",
+        "6101200233",
+        "NetAcad:DevNet:7.5.1, https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html"
+      ],
+      "flags": 0,
+      "guid": "6101200234",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is idempotency?",
+        "A quality of software to bring about a desired state.",
+        "6101200236",
+        "NB: This is the textbook's definition; apply a grain of salt. NetAcad:DevNet:7.3.3 - better reference: https://datacadamia.com/code/design/idempotence"
+      ],
+      "flags": 0,
+      "guid": "6101200235",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the quality of software to bring about a desired state?",
+        "Idempotency",
+        "6101200235",
+        "NB: This is the textbook's definition; apply a grain of salt. NetAcad:DevNet:7.3.3 - better reference: https://datacadamia.com/code/design/idempotence"
+      ],
+      "flags": 0,
+      "guid": "6101200236",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the hourly cost of downtime?",
+        "$300,000 per hour",
+        "6101200238",
+        "NetAcad:DevNet:7.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200237",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What has a cost of $300k/hour?",
+        "Downtime / outages",
+        "6101200237",
+        "NetAcad:DevNet:7.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200238",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an imperative procedure?",
+        "An ordered sequence of commands to execute (like a BASH script).",
+        "6101200240",
+        "NetAcad:DevNet:7.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200239",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for an ordered sequence of commands to execute?",
+        "Imperative procedure",
+        "6101200239",
+        "NetAcad:DevNet:7.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200240",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is declarative automation?",
+        "A static model that represents the desired end state.",
+        "6101200242",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200241",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for automation that uses a static model that represents the desired end state?",
+        "Declarative automation",
+        "6101200241",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200242",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: What does EasyPy do?",
+        "Aggregates script runs into encapsulated environments, collects logs into archives, and sends reporting emails.",
+        "6101200244",
+        "NetAcad:DevNet:7.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200243",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: what component aggregates script runs into encapsulated environments, collects logs into archives, and sends reporting emails?",
+        "EasyPy",
+        "6101200243",
+        "NetAcad:DevNet:7.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200244",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: What does AEtest do?",
+        "Handles test script definition and execution",
+        "6101200246",
+        "NetAcad:DevNet:7.6.2, https://pypi.org/project/pyats.aetest/"
+      ],
+      "flags": 0,
+      "guid": "6101200245",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: what component handles test script definition and execution?",
+        "AEtest",
+        "6101200245",
+        "NetAcad:DevNet:7.6.2, https://pypi.org/project/pyats.aetest/"
+      ],
+      "flags": 0,
+      "guid": "6101200246",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: What does Genie do?",
+        "Provides an open-source platform/vendor agnostic library system",
+        "6101200248",
+        "NetAcad:DevNet:7.6.2, https://developer.cisco.com/docs/pyats/#!introduction/cisco-pyats-network-test--automation-solution"
+      ],
+      "flags": 0,
+      "guid": "6101200247",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: what provides an open-source platform/vendor agnostic library system?",
+        "Genie",
+        "6101200247",
+        "NetAcad:DevNet:7.6.2, https://developer.cisco.com/docs/pyats/#!introduction/cisco-pyats-network-test--automation-solution"
+      ],
+      "flags": 0,
+      "guid": "6101200248",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
       ]
     }
   ]
