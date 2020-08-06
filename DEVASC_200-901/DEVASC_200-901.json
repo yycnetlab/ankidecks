@@ -4112,7 +4112,7 @@
       "data": "",
       "fields": [
         "What are the principles of Infrastructure as Code?",
-        "Reproducable systems, Disposable systems, Consistent systems, Repeatable processes, every changing design",
+        "Reproducable systems, Disposable systems, Consistent systems, Repeatable processes, ever changing design",
         "6101200234",
         "NetAcad:DevNet:7.5.1, https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html"
       ],
@@ -4377,6 +4377,720 @@
       "tags": [
         "NetAcad:DevNet:Module7",
         "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Cisco DNA Center?",
+        "Single dashboard for network management, automation, assurance, monitoring, analytics, and security.",
+        "6101200250",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200249",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Cisco product provides a dashboard for network management, automation, assurance, monitoring, analytics, and security?",
+        "DNA Center",
+        "6101200249",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200250",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Meraki?",
+        "Cloud management for infrastructure, locations, and devices.",
+        "6101200252",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200251",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product offers cloud management for infrastructure, locations, and devices?",
+        "Meraki",
+        "6101200251",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200252",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Cisco ACI?",
+        "It provides SDN managed through an APIC",
+        "6101200254",
+        "NetAcad:DevNet:8.4.7"
+      ],
+      "flags": 0,
+      "guid": "6101200253",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides SDN and what is it managed through?",
+        "Cisco ACI and it's managed through an APIC.",
+        "6101200253",
+        "NetAcad:DevNet:8.4.7"
+      ],
+      "flags": 0,
+      "guid": "6101200254",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Cisco SD-WAN?",
+        "Transport independence, network services, endpoint flexibility.",
+        "6101200256",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200255",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product offers transport independence, network services, endpoint flexibility?",
+        "SD-WAN",
+        "6101200255",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200256",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the SD-WAN dashboard called?",
+        "vManage",
+        "6101200258",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200257",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is vManage?",
+        "The dashboard for SD-WAN",
+        "6101200257",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200258",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco NSO provide?",
+        "Multivendor automation orchestration",
+        "6101200260",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200259",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides multivendor automation orchestration?",
+        "Cisco NSO",
+        "6101200259",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200260",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco UCS Manager provide?",
+        "An abstraction layer to between server components and the administrator",
+        "6101200262",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200261",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides an abstraction layer to between server components and the administrator?",
+        "UCS Manager",
+        "6101200261",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200262",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does UCS Director provide?",
+        "A heterogeneous platform for private cloud IAAS.  Supports different supervistors, hardware platforms, networking, etc.",
+        "6101200264",
+        "NetAcad:DevNet:8.5.7"
+      ],
+      "flags": 0,
+      "guid": "6101200263",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides a heterogeneous platform for private cloud IAAS?",
+        "UCS Director",
+        "6101200263",
+        "NetAcad:DevNet:8.5.7"
+      ],
+      "flags": 0,
+      "guid": "6101200264",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco Intersight provide?",
+        "SaaS systems management",
+        "6101200266",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200265",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides SaaS systems management?",
+        "Intersight",
+        "6101200265",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200266",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Webex Devices?",
+        "Whiteboard, room devices, desk devices",
+        "6101200268",
+        "NetAcad:DevNet:8.6.8"
+      ],
+      "flags": 0,
+      "guid": "6101200267",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product category includes whiteboards, meeting room conferencing, and desk conferencing?",
+        "Webex Devices",
+        "6101200267",
+        "NetAcad:DevNet:8.6.8"
+      ],
+      "flags": 0,
+      "guid": "6101200268",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco UCM provide?",
+        "IP-Based communications for local, mobile, and remote workers with voic, video, and data.",
+        "6101200270",
+        "NetAcad:DevNet:8.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200269",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides IP-Based communications for local, mobile, and remote workers with voic, video, and data?",
+        "Cisco Unified Communications Manager",
+        "6101200269",
+        "NetAcad:DevNet:8.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200270",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is AXL and what does it provide?",
+        "Administrative XML Layer; an XML/SOAP interface for updating the Unified Communications configuration database.",
+        "6101200272",
+        "NetAcad:DevNet:8.6.3"
+      ],
+      "flags": 0,
+      "guid": "6101200271",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides an XML/SOAP interface for updating the Unified Communications configuration database?",
+        "Administrative XML Layer (AXL)",
+        "6101200271",
+        "NetAcad:DevNet:8.6.3"
+      ],
+      "flags": 0,
+      "guid": "6101200272",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is UDS and what does it provide?",
+        "User Data Services - a REST API for updating the Unified Communications config database.",
+        "6101200274",
+        "NetAcad:DevNet:8.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200273",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides a REST API for updating the Unified Communications config database?",
+        "User Data Services (UDS)",
+        "6101200273",
+        "NetAcad:DevNet:8.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200274",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cisco Finesse?",
+        "A browser based contact center agent and supervisor desktop.",
+        "6101200276",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200275",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides a browser based contact center agent and supervisor desktop?",
+        "Cisco Finesse",
+        "6101200275",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200276",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the types of YANG models?",
+        "Open and Native",
+        "6101200278",
+        "NetAcad:DevNet:8.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200277",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Open and Native are both types of what model?",
+        "YANG",
+        "6101200277",
+        "NetAcad:DevNet:8.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200278",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding does Netconf use?",
+        "XML",
+        "6101200280",
+        "NetAcad:DevNet:8.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200279",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "XML encoding is used for which protcol?",
+        "Netconf",
+        "6101200279",
+        "NetAcad:DevNet:8.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200280",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding does Restconf use?",
+        "XML or JSON",
+        "6101200282",
+        "NetAcad:DevNet:8.3.4"
+      ],
+      "flags": 0,
+      "guid": "6101200281",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol can use either XML or JSON encoding?",
+        "Restconf",
+        "6101200281",
+        "NetAcad:DevNet:8.3.4"
+      ],
+      "flags": 0,
+      "guid": "6101200282",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are YANG sources in Cisco NSO?",
+        "NSO data model, data models from devices, YANG service models",
+        "6101200284",
+        "NetAcad:DevNet:8.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200283",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool uses NSO data model, data models from devices, YANG service models?",
+        "Cisco NSO",
+        "6101200283",
+        "NetAcad:DevNet:8.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200284",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What functions are provided by the Finesse REST API?",
+        "Automate tasks, create integrations, build agent desktops",
+        "6101200286",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200285",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can automate tasks, create integrations, and build agent desktops?",
+        "Finesse REST API",
+        "6101200285",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200286",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can the Finesse JS API be used for?",
+        "Create gadgets for the agent state workflow, embed web pages into a custom gadget.",
+        "6101200288",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200287",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can you use to create gadgets for the agent state workflow, embed web pages into a custom gadget?",
+        "Finesse JS API",
+        "6101200287",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200288",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What capabilities does AMP provide?",
+        "Prevention, Detection, and Response&Automation",
+        "6101200290",
+        "NetAcad:DevNet:8.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200289",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides prevention, detection, and response & automation?",
+        "AMP",
+        "6101200289",
+        "NetAcad:DevNet:8.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200290",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.5"
       ]
     }
   ]
