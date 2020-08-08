@@ -4622,7 +4622,7 @@
       "data": "",
       "fields": [
         "What does UCS Director provide?",
-        "A heterogeneous platform for private cloud IAAS.  Supports different supervistors, hardware platforms, networking, etc.",
+        "A heterogeneous platform for private cloud IaaS.  Supports different supervistors, hardware platforms, networking, etc.",
         "6101200264",
         "NetAcad:DevNet:8.5.7"
       ],
@@ -4724,7 +4724,7 @@
       "data": "",
       "fields": [
         "What does Cisco UCM provide?",
-        "IP-Based communications for local, mobile, and remote workers with voic, video, and data.",
+        "IP-Based communications for local, mobile, and remote workers with voip, video, and data.",
         "6101200270",
         "NetAcad:DevNet:8.6.2"
       ],
@@ -4740,7 +4740,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What Cisco product provides IP-Based communications for local, mobile, and remote workers with voic, video, and data?",
+        "What Cisco product provides IP-Based communications for local, mobile, and remote workers with voip, video, and data?",
         "Cisco Unified Communications Manager",
         "6101200269",
         "NetAcad:DevNet:8.6.2"
@@ -4910,7 +4910,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "XML encoding is used for which protcol?",
+        "XML encoding is used for which protocol?",
         "Netconf",
         "6101200279",
         "NetAcad:DevNet:8.3.3"
@@ -5091,6 +5091,658 @@
       "tags": [
         "NetAcad:DevNet:Module8",
         "200-901:3.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps in the Software Development Life Cycle (SDLC)?",
+        "Requirements & Analysis, Design, Implementation, Testing, Deployment, Maintenance.",
+        "6101200292",
+        "NetAcad:DevNet:3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200291",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these steps constitute: Requirements & Analysis, Design, Implementation, Testing, Deployment, Maintenance?",
+        "The Software Development Life Cycle (SDLC)",
+        "6101200291",
+        "NetAcad:DevNet:3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200292",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of access token should be used for development?",
+        "A custom token just for development",
+        "6101200294",
+        "NetAcad:DevNet:Unknown"
+      ],
+      "flags": 0,
+      "guid": "6101200293",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where should you use a custom generated token?",
+        "For development",
+        "6101200293",
+        "NetAcad:DevNet:Unknown"
+      ],
+      "flags": 0,
+      "guid": "6101200294",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the DevNet Community sub-forums? ",
+        "Analytics & Automation software, cloud, collaboration, datacenter, DevNet Site, Mobility, IoT, Networking, Security, Services.",
+        "6101200296",
+        "NetAcad:DevNet:Unknown, https://community.cisco.com/t5/for-developers/ct-p/4409j-developer-home"
+      ],
+      "flags": 0,
+      "guid": "6101200295",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these: Analytics & Automation software, cloud, collaboration, datacenter, DevNet Site, Mobility, IoT, Networking, Security, Services?",
+        "DevNet Community Sub-forums.",
+        "6101200295",
+        "NetAcad:DevNet:Unknown, https://community.cisco.com/t5/for-developers/ct-p/4409j-developer-home"
+      ],
+      "flags": 0,
+      "guid": "6101200296",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the OSI:Application layer responsible for?",
+        "Provides specific functionality to end-user applications.  Provides the interface from the application to the underlying network.",
+        "6101200298",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200297",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which OSI layer provides specific functionality to end-user software and the interface between the software and the underlying network?",
+        "Application layer",
+        "6101200297",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200298",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the OSI:Presentation layer do?",
+        "Compress & decompress data.  Ensure that data can be properly interpreted.",
+        "6101200300",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200299",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which OSI Layer is responsible for data compression/decompression and ensuring proper interpretation?",
+        "Presentation",
+        "6101200299",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200300",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the OSI:Session layer?",
+        "Handles the initiation and reestablishment of dialog between the source and destination applications.",
+        "6101200302",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200301",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which OSI layer handles the initiation and reestablishment of dialog between the source and destination applications?",
+        "Session",
+        "6101200301",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200302",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Continuous Integration?",
+        "Repeatedly merging code from all developers into the central branch to avoid conflicts.",
+        "6101200304",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200303",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for repeatedly merging code from all developers into the central branch to avoid conflicts?",
+        "Continuous Integration",
+        "6101200303",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200304",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Continuous Deployment?",
+        "When any change is made it is automatically pushed into the Production environment.",
+        "6101200306",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200305",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes pushing to Production on every change?",
+        "Continuous Deployment",
+        "6101200305",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200306",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Continuous Delivery?",
+        "Small build cycles with short sprints to ensure the product is deployable at any point.",
+        "6101200308",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200307",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes small build cycles with short sprints to ensure the product is deployable at any point?",
+        "Continuous Delivery",
+        "6101200307",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200308",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the -m ansible flag invoke?",
+        "It runs a specific module.",
+        "6101200310",
+        "NetAcad:DevNet:7.4.5, https://docs.ansible.com/ansible/latest/cli/ansible.htmlhttps://docs.ansible.com/ansible/latest/cli/ansible.html"
+      ],
+      "flags": 0,
+      "guid": "6101200309",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do you run a specific module with Ansible?",
+        "The -m flag.",
+        "6101200309",
+        "NetAcad:DevNet:7.4.5, https://docs.ansible.com/ansible/latest/cli/ansible.htmlhttps://docs.ansible.com/ansible/latest/cli/ansible.html"
+      ],
+      "flags": 0,
+      "guid": "6101200310",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps to access the Meraki API?",
+        "Enable API access for the organization.  Generate an API key.",
+        "6101200312",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200311",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco platform requires you to enable API access for the organization and generate an API in order to use the API?",
+        "Meraki",
+        "6101200311",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200312",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the authentication method for the UCS Manager API?",
+        "Cookie",
+        "6101200314",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200313",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the USC Manager API use cookies for?",
+        "Authentication",
+        "6101200313",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200314",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding method is used by the UCS Manager API?",
+        "XML",
+        "6101200316",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200315",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where does the UCS Manager API use XML?",
+        "For encoding",
+        "6101200315",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200316",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What authentication method is used by the UCS Director API?",
+        "API key",
+        "6101200318",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200317",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why does the UCS Director use API keys?",
+        "For API authentication.",
+        "6101200317",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200318",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding is used for UCS Director API calls?",
+        "JSON or XML",
+        "6101200320",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200319",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where does the UCS Director use either JSON or XML?",
+        "For REST API calls",
+        "6101200319",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200320",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Intersight accessed programmatically?",
+        "REST API or Python SDK",
+        "6101200322",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200321",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Cisco product allows programmatic access via REST API or Python SDK?",
+        "Intersight",
+        "6101200321",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200322",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What authentication scheme is used for Intersight?",
+        "API Key ID and Secret key",
+        "6101200324",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200323",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product uses an API Key ID and Secret key for programmatic authentication?",
+        "Intersight",
+        "6101200323",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200324",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding method is used by the Intersight API?",
+        "JSON",
+        "6101200326",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200325",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When is JSON used with Intersight?",
+        "For encoding with the REST API",
+        "6101200325",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200326",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does Intersight provide access to the Management Information Model?",
+        "Through the REST API",
+        "6101200328",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200327",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be accessed through the REST API of Intersight?",
+        "Management Information Model (MIM)",
+        "6101200327",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200328",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
       ]
     }
   ]
