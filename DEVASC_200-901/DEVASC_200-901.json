@@ -5744,6 +5744,382 @@
         "NetAcad:DevNet:Module8",
         "200-901:3.3"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the @@ for in a diff?",
+        "It denotes the range information for a hunk that is being displayed",
+        "6101200330",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200329",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What denotes the range information for a hunk being displayed in diff?",
+        "The @@",
+        "6101200329",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200330",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Diff: what does the 'index' field indicate?",
+        "The hashes of the files being compared",
+        "6101200332",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200331",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Diff: what indicates the hashes of the files being compared?",
+        "The 'index:' field",
+        "6101200331",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200332",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what are the 'source' and 'target' branches?",
+        "The source is the remote, the target is the current directory.",
+        "6101200334",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200333",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What terms are used to refer to the remote branch and the current directory?",
+        "Source and Target, respectively.",
+        "6101200333",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200334",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What information is in the XML Prologue?",
+        "The version and encoding.",
+        "6101200336",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200335",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find the XML version and encoding?",
+        "The prologue",
+        "6101200335",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200336",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of curl's -X flag?",
+        "Specifies the HTTP method other than the standard GET.",
+        "6101200338",
+        "NetAcad:DevNet:4.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200337",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With curl, how can you specify a method other than GET?",
+        "The -X flag.",
+        "6101200337",
+        "NetAcad:DevNet:4.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200338",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What specifies the requested compression type in an HTTP request and the compression type used in an HTTP response?",
+        "accept-encoding and content-encoding",
+        "6101200340",
+        "NetAcad:DevNet:4.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200339",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are 'accept-encoding' and 'content-encoding' used?",
+        "In HTTP requests and responses, respectively.",
+        "6101200339",
+        "NetAcad:DevNet:4.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200340",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'cache-control:public' mean?",
+        "Response may be stored by any cache, even if it's normally non-cacheable.",
+        "6101200342",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200341",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can an HTTP server indicate that a response may be stored by any cache, even if it's normally non-cacheable?",
+        "cache-control:public header",
+        "6101200341",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200342",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'cache-control:private' indicate?",
+        "Only a browser may cache the content.",
+        "6101200344",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200343",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP header indicates that only a browser may cache the content?",
+        "cache-control:private",
+        "6101200343",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200344",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Meraki MX?",
+        "The Meraki security appliance / platform.",
+        "6101200346",
+        "NetAcad:DevNet:8.7.2, https://meraki.cisco.com/wp-content/uploads/2020/04/meraki_datasheet_mx.pdf"
+      ],
+      "flags": 0,
+      "guid": "6101200345",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the Meraki security appliance / platform?",
+        "Meraki MX",
+        "6101200345",
+        "NetAcad:DevNet:8.7.2, https://meraki.cisco.com/wp-content/uploads/2020/04/meraki_datasheet_mx.pdf"
+      ],
+      "flags": 0,
+      "guid": "6101200346",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the components of Cisco NSO?",
+        "Model-driven progamable interface, configuration database, device and service abstraction layer.",
+        "6101200348",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200347",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product has these components: model-driven progamable interface, configuration database, device and service abstraction layer?",
+        "Cisco NSO",
+        "6101200347",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200348",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between UCS Manager and UCS Central?",
+        "UCS M can manage up to 160 servers, UCS C up to 10k",
+        "6101200350",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200349",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What product can manage up to 160 servers vs 10k servers?",
+        "UCS Manager and UCS Central, respectively.",
+        "6101200349",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200350",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
     }
   ]
 }
