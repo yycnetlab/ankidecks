@@ -6120,6 +6120,176 @@
         "NetAcad:DevNet:Module8",
         "200-901:3.3"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'orchestration'?",
+        "Automation to manage workload lifecycles and respond dynamically to changing conditions.",
+        "6101200352",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200351",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to describe automation to manage workload lifecycles and respond dynamically to changing conditions?",
+        "Orchestration",
+        "6101200351",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200352",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'read-only' automation?",
+        "Gathering read-only data through automation to keep track of what has changed.",
+        "6101200354",
+        "NetAcad:DevNet:7.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200353",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for gathering information through automation to keep track of what changes have been made?",
+        "Read-only automation",
+        "6101200353",
+        "NetAcad:DevNet:7.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200354",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the characteristics of a stateless application?",
+        "Easily containerized. Application doesn't keep any data. Horizontally scalable.",
+        "6101200356",
+        "NetAcad:DevNet:6.1.3, https://whatis.techtarget.com/definition/stateless-app"
+      ],
+      "flags": 0,
+      "guid": "6101200355",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of applications are easily containerized, don't keep any data, and are horizontally scalable?",
+        "Stateless applications.",
+        "6101200355",
+        "NetAcad:DevNet:6.1.3, https://whatis.techtarget.com/definition/stateless-app"
+      ],
+      "flags": 0,
+      "guid": "6101200356",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the tag that is created if no tag is specified when creating a Docker container?",
+        "latest",
+        "6101200358",
+        "https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/"
+      ],
+      "flags": 0,
+      "guid": "6101200357",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When might the 'latest' tag appear on a Docker container?",
+        "When no tag was specified.",
+        "6101200357",
+        "https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/"
+      ],
+      "flags": 0,
+      "guid": "6101200358",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is required for a webhook to work?",
+        "Application always listening.  Application registers a URI with the webhook provider.",
+        "6101200360",
+        "Netacad:DevNet:4.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200359",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What services requires the application always be listening and that it registers a URI with the provider?",
+        "Webhook",
+        "6101200359",
+        "Netacad:DevNet:4.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200360",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
     }
   ]
 }
