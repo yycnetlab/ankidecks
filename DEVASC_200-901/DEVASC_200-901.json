@@ -3004,7 +3004,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Why type of code review has a series of meetings where the entire code base is gone through line by line to promote discussion?",
+        "What type of code review has a series of meetings where the entire code base is gone through line by line to promote discussion?",
         "Formal code review",
         "6101200167",
         "NetAcad:DevNet:3.5.2"
@@ -6056,7 +6056,7 @@
       "data": "",
       "fields": [
         "What are the components of Cisco NSO?",
-        "Model-driven progamable interface, configuration database, device and service abstraction layer.",
+        "Model-driven programable interface, configuration database, device and service abstraction layer.",
         "6101200348",
         "NetAcad:DevNet:8.4.16"
       ],
@@ -6073,7 +6073,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What Cisco product has these components: model-driven progamable interface, configuration database, device and service abstraction layer?",
+        "What Cisco product has these components: model-driven programable interface, configuration database, device and service abstraction layer?",
         "Cisco NSO",
         "6101200347",
         "NetAcad:DevNet:8.4.16"
@@ -6289,6 +6289,414 @@
       "tags": [
         "NetAcad:DevNet:Module4",
         "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "RestAPI: What is pagination?",
+        "Breaking response data into smaller chunks and providing only one chunk at a time.",
+        "6101200362",
+        "Netacad:DevNet:4.4.3, https://nordicapis.com/everything-you-need-to-know-about-api-pagination/"
+      ],
+      "flags": 0,
+      "guid": "6101200361",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "RestAPI: what is the term for breaking a large response into smaller chunks?",
+        "Pagination",
+        "6101200361",
+        "Netacad:DevNet:4.4.3, https://nordicapis.com/everything-you-need-to-know-about-api-pagination/"
+      ],
+      "flags": 0,
+      "guid": "6101200362",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the C in CRUD?",
+        "Post",
+        "6101200364",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200363",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Post correspond to?",
+        "Create",
+        "6101200363",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200364",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the successful response code to an HTTP Post?",
+        "201",
+        "6101200366",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200365",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CRUD HTTP Method will result in a 201 response code?",
+        "Post",
+        "6101200365",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200366",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the R in CRUD?",
+        "Get",
+        "6101200368",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200367",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Get correspond to?",
+        "Read",
+        "6101200367",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200368",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the successful response code to an HTTP Get or Delete?",
+        "200",
+        "6101200370",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200369",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CRUD HTTP Method(s) will result in only a 200 response code?",
+        "Get, Delete",
+        "6101200369",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200370",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the U in CRUD?",
+        "Put, Patch",
+        "6101200372",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200371",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Put or Patch correspond to?",
+        "Update",
+        "6101200371",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200372",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the successful response code to an HTTP Put or Patch?",
+        "200 or 204",
+        "6101200374",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200373",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CRUD HTTP Method will result in a 200 or 204 response code?",
+        "Put or Patch",
+        "6101200373",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200374",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the D in CRUD?",
+        "Delete",
+        "6101200376",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200375",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Delete correspond to?",
+        "Delete",
+        "6101200375",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200376",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What will cause an HTTP 204 response code?",
+        "No Content",
+        "6101200378",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200377",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is the response code for no content?",
+        "204",
+        "6101200377",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200378",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'Accept:' HTTP header?",
+        "To express what MIME types the client is able to understand.",
+        "6101200380",
+        "NetAcad:DevNet:4.8.4, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept"
+      ],
+      "flags": 0,
+      "guid": "6101200379",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What header is used to express what MIME types the HTTP client is able to understand?",
+        "'Accept:'",
+        "6101200379",
+        "NetAcad:DevNet:4.8.4, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept"
+      ],
+      "flags": 0,
+      "guid": "6101200380",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol does gRPC use?",
+        "HTTP/2",
+        "6101200382",
+        "NetAcad:DevNet:4.3.2, https://grpc.io/faq/"
+      ],
+      "flags": 0,
+      "guid": "6101200381",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What API uses HTTP/2 for transport?",
+        "gRPC",
+        "6101200381",
+        "NetAcad:DevNet:4.3.2, https://grpc.io/faq/"
+      ],
+      "flags": 0,
+      "guid": "6101200382",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Base64 used for API authentication?",
+        "It encodes the Basic authentication <username:password>",
+        "6101200384",
+        "NetAcad:DevNet:4.5.3, https://tools.ietf.org/html/rfc7617"
+      ],
+      "flags": 0,
+      "guid": "6101200383",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding is used for the <username:password> with Basic atuentication?",
+        "Base64",
+        "6101200383",
+        "NetAcad:DevNet:4.5.3, https://tools.ietf.org/html/rfc7617"
+      ],
+      "flags": 0,
+      "guid": "6101200384",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
       ]
     }
   ]
