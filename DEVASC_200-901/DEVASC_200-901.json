@@ -6670,7 +6670,7 @@
       "data": "",
       "fields": [
         "How is Base64 used for API authentication?",
-        "It encodes the Basic authentication <username:password>",
+        "It encodes the Basic authentication 'username:password'",
         "6101200384",
         "NetAcad:DevNet:4.5.3, https://tools.ietf.org/html/rfc7617"
       ],
@@ -6686,7 +6686,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What encoding is used for the <username:password> with Basic atuentication?",
+        "What encoding is used for the 'username:password' with Basic authentication?",
         "Base64",
         "6101200383",
         "NetAcad:DevNet:4.5.3, https://tools.ietf.org/html/rfc7617"
@@ -6697,6 +6697,144 @@
       "tags": [
         "NetAcad:DevNet:Module4",
         "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What does the VOLUME instruction do?",
+        "Creates a mount point in the container from the host or other container.",
+        "6101200386",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200385",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What creates a mount point in the container from the host or other container?",
+        "VOLUME instruction",
+        "6101200385",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200386",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What does the ENTRYPOINT instruction do?",
+        "Overrides the CMD instruction.  Allows you to configure the container to run as an executable.",
+        "6101200388",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200387",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What instructions overrides the CMD instruction?  It also allows you to configure the container to run as an executable.",
+        "ENTRYPOINT instruction",
+        "6101200387",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200388",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP method is used by a webhook?",
+        "Post",
+        "6101200390",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200389",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What API callback uses an HTTP Post method?",
+        "Webhook",
+        "6101200389",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200390",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocols are supported by IOS-XE for model-driven programability?",
+        "NETCONF, RESTCONF, gNMI",
+        "6101200392",
+        "NetAcad:DevNet:8.3, https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/169/b_169_programmability_cg/gnmi_protocol.html"
+      ],
+      "flags": 0,
+      "guid": "6101200391",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco platform support NETCONF, RESTCONF, and gNMI for model-driven-programability?",
+        "IOS-XE",
+        "6101200391",
+        "NetAcad:DevNet:8.3, https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/169/b_169_programmability_cg/gnmi_protocol.html"
+      ],
+      "flags": 0,
+      "guid": "6101200392",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1",
+        "200-901:3.8"
       ]
     }
   ]
