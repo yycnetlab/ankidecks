@@ -466,6 +466,244 @@
         "ITILv4",
         "Foundations"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: service",
+        "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
+        "6101300020",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
+        "Service",
+        "6101300019",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: utility",
+        "The functionality offered by a product or service to meet a particular need.",
+        "6101300022",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: The functionality offered by a product or service to meet a particular need.",
+        "Utility",
+        "6101300021",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Warranty",
+        "Assurance that a product or service will meet agreed requirements.",
+        "6101300024",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Assurance that a product or service will meet agreed requirements.",
+        "Warranty",
+        "6101300023",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Customer",
+        "A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.",
+        "6101300026",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.",
+        "Customer",
+        "6101300025",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: User",
+        "A person who uses services.",
+        "6101300028",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person who uses services.",
+        "User",
+        "6101300027",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Management",
+        "A set of specialized organizational capabilities for enabling value for customers in the form of services.",
+        "6101300030",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A set of specialized organizational capabilities for enabling value for customers in the form of services.",
+        "Service Management",
+        "6101300029",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Sponsor",
+        "A person who authorizes budget for service consumption.",
+        "6101300032",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person who authorizes budget for service consumption.",
+        "Sponsor",
+        "6101300031",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
     }
   ]
 }
