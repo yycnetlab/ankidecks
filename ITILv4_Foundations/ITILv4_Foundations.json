@@ -471,7 +471,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Define: service",
+        "Define: Service",
         "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
         "6101300020",
         "ITIL Foundation book, 4e, Glossary"
@@ -505,7 +505,7 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Define: utility",
+        "Define: Utility",
         "The functionality offered by a product or service to meet a particular need.",
         "6101300022",
         "ITIL Foundation book, 4e, Glossary"
@@ -641,8 +641,8 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Define: Service Management",
-        "A set of specialized organizational capabilities for enabling value for customers in the form of services.",
+        "Define: Service Offering",
+        "A formal description of one or more services, designed to address the needs of a target consumer group.",
         "6101300030",
         "ITIL Foundation book, 4e, Glossary"
       ],
@@ -658,8 +658,8 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "What term is defined by: A set of specialized organizational capabilities for enabling value for customers in the form of services.",
-        "Service Management",
+        "What term is defined by: A formal description of one or more services, designed to address the needs of a target consumer group.",
+        "Service Offering",
         "6101300029",
         "ITIL Foundation book, 4e, Glossary"
       ],
@@ -699,6 +699,278 @@
       ],
       "flags": 0,
       "guid": "6101300032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Cost",
+        "The amount of money spent on a specific activity or resource.",
+        "6101300034",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: The amount of money spent on a specific activity or resource.",
+        "Cost",
+        "6101300033",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Organization",
+        "A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.",
+        "6101300036",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.",
+        "Organization",
+        "6101300035",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Outcome",
+        "A result for a stakeholder enabled by one or more outputs.",
+        "6101300038",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A result for a stakeholder enabled by one or more outputs.",
+        "Outcome",
+        "6101300037",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Output",
+        "A tangible or intangible deliverable of an activity.",
+        "6101300040",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A tangible or intangible deliverable of an activity.",
+        "Output",
+        "6101300039",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Risk",
+        "A possible event that could cause harm or loss, or make it more difficult to achieve objectives.",
+        "6101300042",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A possible event that could cause harm or loss, or make it more difficult to achieve objectives.",
+        "Risk",
+        "6101300041",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Relationship Management",
+        "Joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings.",
+        "6101300044",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings.",
+        "Service Relationship Management",
+        "6101300043",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Provision",
+        "Activities performed by an organization to provide services.",
+        "6101300046",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Activities performed by an organization to provide services.",
+        "Service Provision",
+        "6101300045",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Consumption",
+        "Activities performed by an organization to consume services.",
+        "6101300048",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Activities performed by an organization to consume services.",
+        "Service Consumption",
+        "6101300047",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300048",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "ITILv4",
