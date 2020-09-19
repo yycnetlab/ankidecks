@@ -1,0 +1,6841 @@
+{
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
+  "deck_config_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "4aa54f38-9a7e-45c4-b657-e60722eb593b",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": true,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": true,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 100
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "mid": "1496861969393",
+  "name": "DEVASC 200-901",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "RerverseCardID",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Reference",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "name": "Basic",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [
+
+      ],
+      "tmpls": [
+        {
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}"
+        }
+      ],
+      "type": 0,
+      "vers": [
+
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Do you know where this Anki deck originated?",
+        "This deck is part of an open collaborative effort started by YYC Net Lab.  This deck is provided free of charge and without warranty.  For updates please see the link below.  If you notice any errors or would like to add some cards please reach out to YYC Net Lab through Github.<br><br>To stop seeing this card click on 'More' in the bottom right and select 'Suspend Card'.",
+        "6101200000",
+        "https://github.com/yycnetlab/ankidecks"
+      ],
+      "flags": 0,
+      "guid": "6101200000",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What generated the following output and what does it mean?<br>username P 10/29/2011 0 99999 7 -1",
+        "passwd -S (or --status), username, password status(locked, no password, password), date of last password change, next 4: min age, max age, warning period, inactivity period.",
+        "6101200002",
+        "NetAcad:DevNet:1.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module1",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of 'passwd -S'?",
+        "Display the status of your password, expiry information, last change, etc.",
+        "6101200001",
+        "NetAcad:DevNet:1.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module1",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the DevNet Sandbox?",
+        "Production-like development and testing environments for a host of technologies",
+        "6101200004",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the production-like development and testing environments for a host of technologies?",
+        "DevNet Sandbox",
+        "6101200003",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the DevNet Code Exchange?",
+        "A repository of sample code written by other developers",
+        "6101200006",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where in DevNet can you find a repository of sample code written by other developers?",
+        "DevNet Code Exchange",
+        "6101200005",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find help for developer related issues through tickets, live chats, and forums?",
+        "DevNet Developer Support",
+        "6101200008",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DevNet Developer Support provide?",
+        "Support for developer related issues through tickets, live chats, and forums",
+        "6101200007",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DevNet Developer documentation?",
+        "A central location for all of the product developer (API) documentation",
+        "6101200010",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find a central location for all of the product developer (API) documentation?",
+        "DevNet Developer documentation",
+        "6101200009",
+        "NetAcad:DevNet:2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the oldest and most mature REST API data format?",
+        "XML",
+        "6101200012",
+        "NetAcad:DevNet:3.6.1"
+      ],
+      "flags": 0,
+      "guid": "6101200011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why might XML be used over other REST API data formats?",
+        "It is the oldest and most mature.",
+        "6101200011",
+        "NetAcad:DevNet:3.6.1"
+      ],
+      "flags": 0,
+      "guid": "6101200012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What REST API data format was derived from SGML?",
+        "eXtensible Markup Language",
+        "6101200014",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the origins of XML?",
+        "It was derived from SGML",
+        "6101200013",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which REST API data format has a prologue?",
+        "XML",
+        "6101200016",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is in the first line of an XML file?",
+        "The prologue",
+        "6101200015",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which REST API data formats support comments?",
+        "XML and YAML",
+        "6101200018",
+        "NetAcad:DevNet:3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is supported in XML and YAML but not in JSON?",
+        "Comments in the data",
+        "6101200017",
+        "NetAcad:DevNet:3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which data format is a superset of JSON?",
+        "YAML",
+        "6101200020",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "YAML is a superset of which data format?",
+        "JSON",
+        "6101200019",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which REST API data format has strict indentation?",
+        "YAML",
+        "6101200022",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does YAML indicate data hierachy?",
+        "Through the use of whitespace.",
+        "6101200021",
+        "NetAcad:DevNet:3.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the process of test driven development.",
+        "Development starts by creating test cases, then writing code to satisfy those tests.",
+        "6101200024",
+        "NetAcad:DevNet:3.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What approach to development starts by writing test cases followed by code to satisfy those cases?",
+        "Test Driven Development",
+        "6101200023",
+        "NetAcad:DevNet:3.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the phases of the Waterfall development model?",
+        "System requirements, Software requirements, Analysis, Program Design, Coding, Testing, Operations.",
+        "6101200026",
+        "NetAcad:DevNet:3.1.7"
+      ],
+      "flags": 0,
+      "guid": "6101200025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What model are the following phases from?  System requirements, Software requirements, Analysis, Program Design, Coding, Testing, Operations.",
+        "The Waterfall Development Model",
+        "6101200025",
+        "NetAcad:DevNet:3.1.7"
+      ],
+      "flags": 0,
+      "guid": "6101200026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the focus of Lean Software development?",
+        "Minimize waste and maximize customer value",
+        "6101200028",
+        "NetAcad:DevNet:3.1.10"
+      ],
+      "flags": 0,
+      "guid": "6101200027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What software development methodology aims to minimize waste and maximize customer value?",
+        "Lean",
+        "6101200027",
+        "NetAcad:DevNet:3.1.10"
+      ],
+      "flags": 0,
+      "guid": "6101200028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What development methodology focuses on shorter SDLC iterations?",
+        "Agile",
+        "6101200030",
+        "NetAcad:DevNet:3.1.8"
+      ],
+      "flags": 0,
+      "guid": "6101200029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the focus of Agile development?",
+        "The customer",
+        "6101200029",
+        "NetAcad:DevNet:3.1.8"
+      ],
+      "flags": 0,
+      "guid": "6101200030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between a function and a method?",
+        "Functions are stand-alone.  Methods are part of a class.",
+        "6101200032",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of a function that is part of a class?",
+        "Method",
+        "6101200031",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of using a function?",
+        "Creates a reusable code block or discrete task.",
+        "6101200034",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What structure is used to create a reusable code block?",
+        "A function",
+        "6101200033",
+        "NetAcad:DevNet:3.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of using a class?",
+        "Allows the bundling of both data and functions.",
+        "6101200036",
+        "NetAcad:DevNet:3.4.5"
+      ],
+      "flags": 0,
+      "guid": "6101200035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What programming structure bundles both data and functions?",
+        "A class",
+        "6101200035",
+        "NetAcad:DevNet:3.4.5"
+      ],
+      "flags": 0,
+      "guid": "6101200036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of using a module?",
+        "Can be a single file.  Can be developped independently.  Can improve code readability.",
+        "6101200038",
+        "NetAcad:DevNet:3.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be developped independently, improves code readability, and can be a single file?",
+        "A module.",
+        "6101200037",
+        "NetAcad:DevNet:3.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of the Model, View, Controller design pattern?",
+        "Allows separation of domains for parallel development.",
+        "6101200040",
+        "NetAcad:DevNet:3.2.4, https://blog.codinghorror.com/understanding-model-view-controller/"
+      ],
+      "flags": 0,
+      "guid": "6101200039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What design pattern separates data, its processing, and presentation?",
+        "MVC",
+        "6101200039",
+        "NetAcad:DevNet:3.2.4, https://blog.codinghorror.com/understanding-model-view-controller/"
+      ],
+      "flags": 0,
+      "guid": "6101200040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the advantages of the Observer design pattern?",
+        "Loose coupling between objects.  Observers can be added or removed at any time.  Data is sent without modifying the Subject nor Observer.",
+        "6101200042",
+        "NetAcad:DevNet:3.2.3, https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
+      ],
+      "flags": 0,
+      "guid": "6101200041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What design pattern allows subscribers to get real time data from a subject?",
+        "The Observer design pattern.",
+        "6101200041",
+        "NetAcad:DevNet:3.2.3, https://subscription.packtpub.com/book/application_development/9781785888038/6/ch06lvl1sec50/the-observer-pattern-advantages-and-disadvantages"
+      ],
+      "flags": 0,
+      "guid": "6101200042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of version control?",
+        "Collaboration, accountability, safety (rollback).",
+        "6101200044",
+        "NetAcad:DevNet:3.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What allows collaboration, accountability, and the ability to roll back a change?",
+        "Version control",
+        "6101200043",
+        "NetAcad:DevNet:3.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What command creates a local copy of a respository?",
+        "Clone",
+        "6101200046",
+        "NetAcad:DevNet:3.3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does the 'clone' command do?",
+        "Creates a local copy of a remote repository.",
+        "6101200045",
+        "NetAcad:DevNet:3.3.6"
+      ],
+      "flags": 0,
+      "guid": "6101200046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What is the purpose of the add/remove commands?",
+        "To add or remove files from the staging area.",
+        "6101200048",
+        "NetAcad:DevNet:3.3.7"
+      ],
+      "flags": 0,
+      "guid": "6101200047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what commands stage or unstage changed files?",
+        "Add and remove",
+        "6101200047",
+        "NetAcad:DevNet:3.3.7"
+      ],
+      "flags": 0,
+      "guid": "6101200048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does 'commit' do?",
+        "Combines all staged changes and records them in the local repo.",
+        "6101200050",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What combines all staged changes and records the result in the local repo?",
+        "Commit",
+        "6101200049",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What do push and pull do?",
+        "Push the local repository to the remote.  Pull remote repository to local.",
+        "6101200052",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.d"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What command copy the local repository to the remote or remote to local?",
+        "push and pull",
+        "6101200051",
+        "NetAcad:DevNet:3.3.8"
+      ],
+      "flags": 0,
+      "guid": "6101200052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.d"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what does the 'branch' command do?",
+        "Creates or deletes a local branch of development",
+        "6101200054",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.e"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what can create an instance of the code for separate development?",
+        "branch",
+        "6101200053",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.e"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does the merge command do?",
+        "Merges the specified repository/branch into the current branch.",
+        "6101200056",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: How can you incorporate changes from another branch into the current branch?",
+        "merge",
+        "6101200055",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: How can you resolve conflicts caused by a merge?",
+        "Manually.",
+        "6101200058",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what is it called when there are changes to the same section of the same file and they are merged together?",
+        "Merge conflicts",
+        "6101200057",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.f"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What does the 'diff' command do?",
+        "Shows differences between commits, commit and working tree.",
+        "6101200060",
+        "NetAcad:DevNet:3.3.10, https://git-scm.com/docs/git-diff"
+      ],
+      "flags": 0,
+      "guid": "6101200059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What shows difference between commits or between a commit and the working tree?",
+        "Diff",
+        "6101200059",
+        "NetAcad:DevNet:3.3.10, https://git-scm.com/docs/git-diff"
+      ],
+      "flags": 0,
+      "guid": "6101200060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a webhook?",
+        "To provide API Event callbacks rather than polling.",
+        "6101200062",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What API mechanism can be used to signal events?",
+        "webhooks",
+        "6101200061",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the architectural constraints of REST APIs?",
+        "Uniform interface, client-server, stateless, cacheable, layered system, code on demand (optional).",
+        "6101200064",
+        "NetAcad:DevNet:4.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these constraints found?  Uniform interface, client-server, stateless, cacheable, layered system, code on demand (optional).",
+        "RESTful APIs",
+        "6101200063",
+        "NetAcad:DevNet:4.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the parts in the URI for a REST API request?",
+        "Scheme, Authority, Path, Query.",
+        "6101200066",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can these components?  Scheme, Authority, Path, Query.",
+        "REST API Uniform Resource Identifier",
+        "6101200065",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP methods can be used for a REST API?",
+        "Post, Get, Put, Patch, Delete",
+        "6101200068",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are these: Post, Get, Put, Patch, Delete",
+        "REST API HTTP methods",
+        "6101200067",
+        "NetAcad:DevNet:4.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the categories of HTTP response codes?",
+        "1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error",
+        "6101200070",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are these: 1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error",
+        "Categories of HTTP response codes",
+        "6101200069",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When would you see an HTTP 200 response to a REST API request?",
+        "The REST API call was successful.",
+        "6101200072",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP status indicates the REST API call was successful?",
+        "HTTP 200",
+        "6101200071",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: When would you see a HTTP 201 response code?",
+        "When a resource is created.",
+        "6101200074",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code indicates a resource was created?",
+        "HTTP 201",
+        "6101200073",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 400 response?",
+        "Malformed request from the client",
+        "6101200076",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What HTTP status results from a malformed request from a client?",
+        "HTTP 400",
+        "6101200075",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What will cause an HTTP 401 response code?",
+        "Unauthorized",
+        "6101200078",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is the response code for an unauthorized request?",
+        "HTTP 401",
+        "6101200077",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 403 response code?",
+        "Forbidden - the client doesn't have access to the resource",
+        "6101200080",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What HTTP response is generated when the client doesn't have access to the requested resouce?",
+        "HTTP 403",
+        "6101200079",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is an HTTP 404 response code?",
+        "Not found",
+        "6101200082",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code is returned when the resouce is not found?",
+        "HTTP 404",
+        "6101200081",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is the HTTP response code when a requested method is not allowed?",
+        "HTTP 405",
+        "6101200084",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 405 response?",
+        "Method not allowed",
+        "6101200083",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 406 response code?",
+        "Not acceptable - media type in the 'Accept' request header is not supported.",
+        "6101200086",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code is used when a media type indicated by the 'accept' request header is not supported?",
+        "HTTP 406",
+        "6101200085",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 415 response code?",
+        "Unsupported media type (when sending application/xml, for example)",
+        "6101200088",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What HTTP response code will be returned if the request uses a data format that is not supported?",
+        "HTTP 415",
+        "6101200087",
+        "NetAcad:DevNet:4.8.4, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What causes an HTTP 500 response code?",
+        "Internal server error",
+        "6101200090",
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: what response code is returned when there is an internal server error?",
+        "HTTP 500",
+        "6101200089",
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What does an HTTP 501 response indicate?",
+        "Not implemented (on the server)",
+        "6101200092",
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What response code is used when the requested functionality is not implemented on the server?",
+        "HTTP 501",
+        "6101200091",
+        "NetAcad:DevNet:4.8.5, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the parts of an HTTP response?",
+        "HTTP Status, Header, Body",
+        "6101200094",
+        "NetAcad:DevNet:4.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the HTTP Status, Header, and Body make up?",
+        "HTTP Response",
+        "6101200093",
+        "NetAcad:DevNet:4.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the common API Authentication mechanisms?",
+        "Basic (u/p), Bearer (token), API Key",
+        "6101200096",
+        "NetAcad:DevNet:4.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between bearer auth (token) and an API key?",
+        "API keys are for projects.  Bearer/tokens are for users.",
+        "6101200095",
+        "NetAcad:DevNet:4.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between synchronous and asynchronous APIs?",
+        "Sync: get results immediately.  Async: get results eventually.",
+        "6101200098",
+        "NetAcad:DevNet:4.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of API call will yield results eventually rather than immediately?",
+        "Asynchronous",
+        "6101200097",
+        "NetAcad:DevNet:4.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps to use a REST API in Python?",
+        "Import the requests module, call a method against a URI, handle the response.",
+        "6101200100",
+        "NetAcad:DevNet:4.9.2"
+      ],
+      "flags": 0,
+      "guid": "6101200099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Importing the requests module, calling a method against a URI, and handling the response are all part of what?",
+        "Doing a REST API call in Python",
+        "6101200099",
+        "NetAcad:DevNet:4.9.2"
+      ],
+      "flags": 0,
+      "guid": "6101200100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the OUI of an IPv4 multicast MAC address?",
+        "01:00:5E",
+        "6101200102",
+        "NetAcad:DevNet:5.2.3, https://en.wikipedia.org/wiki/Multicast_address"
+      ],
+      "flags": 0,
+      "guid": "6101200101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of MAC address starts with 01:00:5E?",
+        "IPv4 Multicast",
+        "6101200101",
+        "NetAcad:DevNet:5.2.3, https://en.wikipedia.org/wiki/Multicast_address"
+      ],
+      "flags": 0,
+      "guid": "6101200102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the fields of an Ethernet frame?",
+        "Preamble, Start of Frame Delimeter (SFD), Dest MAC, Src MAC, Type/Len, Data, Frame check sequence (FCS)",
+        "6101200104",
+        "NetAcad:DevNet:5.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200103",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where do you find these components: Preamble, Start of Frame Delimeter (SFD), Dest MAC, Src MAC, Type/Len, Data, Frame check sequence (FCS)",
+        "Ethernet frame",
+        "6101200103",
+        "NetAcad:DevNet:5.2.2"
+      ],
+      "flags": 0,
+      "guid": "6101200104",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are MAC addresses used?",
+        "They are used to identify the source and destination of an ethernet frame.",
+        "6101200106",
+        "NetAcad:DevNet:5.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200105",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are used to identify the source and destination of an ethernet frame?",
+        "MAC addresses",
+        "6101200105",
+        "NetAcad:DevNet:5.2.3"
+      ],
+      "flags": 0,
+      "guid": "6101200106",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of VLANs?",
+        "To virtually segment different L2 broadcast domains.",
+        "6101200108",
+        "NetAcad:DevNet:5.2.5"
+      ],
+      "flags": 0,
+      "guid": "6101200107",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be used to virtually segment different L2 broadcast domains?",
+        "VLANs",
+        "6101200107",
+        "NetAcad:DevNet:5.2.5"
+      ],
+      "flags": 0,
+      "guid": "6101200108",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of an IP address?",
+        "To identify an L3 source or destination for network traffic.",
+        "6101200110",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200109",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What identifies an L3 source or destination for network traffic?",
+        "IP address",
+        "6101200109",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200110",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of an L3 route?",
+        "To identify the next device to forward a packet to.",
+        "6101200112",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200111",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What identifies the next device to forward a packet to?",
+        "A route",
+        "6101200111",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200112",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a subnet mask / prefix?",
+        "To differentiate the network portion of an address from the host portion.",
+        "6101200114",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200113",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used to differentiate the network portion of an address from the host portion?",
+        "Subnet mask / prefix",
+        "6101200113",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200114",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a default gateway?",
+        "It identifies the next-hop device for traffic with no other known route.",
+        "6101200116",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200115",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What identifies the next-hop device for traffic with no other known route?",
+        "The default gateway",
+        "6101200115",
+        "NetAcad:DevNet:5.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200116",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network switch?",
+        "Increase the L2 broadcast domain (more physical ports), decrease the L2 collision domain.",
+        "6101200118",
+        "NetAcad:DevNet:5.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200117",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device decreases the L2 collision domain?",
+        "Network switch",
+        "6101200117",
+        "NetAcad:DevNet:5.4.1"
+      ],
+      "flags": 0,
+      "guid": "6101200118",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network router?",
+        "Make L3 forwarding decisions.",
+        "6101200120",
+        "NetAcad:DevNet:5.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200119",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What makes L3 forwarding decisions?",
+        "Network router",
+        "6101200119",
+        "NetAcad:DevNet:5.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200120",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network firewall?",
+        "Prevents unauthorized access to or from a network.",
+        "6101200122",
+        "NetAcad:DevNet:5.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200121",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device prevents unauthorized access to or from a network?",
+        "Firewall",
+        "6101200121",
+        "NetAcad:DevNet:5.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200122",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a network load balancer?",
+        "Distribute workload across multiple resources.",
+        "6101200124",
+        "NetAcad:DevNet:5.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200123",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device can distribute workload across multiple computing resources?",
+        "Network load balancer",
+        "6101200123",
+        "NetAcad:DevNet:5.4.4"
+      ],
+      "flags": 0,
+      "guid": "6101200124",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Management Plane in a network device?",
+        "Handles traffic for the device itself.",
+        "6101200126",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200125",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What plane in a router handles traffic destined to the router or emitted from the router?",
+        "The management plane",
+        "6101200125",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200126",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Control Plane on a network device?",
+        "The control plane makes decisions about how traffic should be forwarded.",
+        "6101200128",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200127",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What plane on a network device makes decisions about how traffic should be handled?",
+        "The control plane",
+        "6101200127",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Data Plane on a networking device?",
+        "It forwards traffic based on information provided by the control plane.",
+        "6101200130",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What plane of a network device actually forwards traffic?",
+        "The data plane",
+        "6101200129",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does DHCP do?",
+        "Allows devices to automatically be configured with IP address information.",
+        "6101200132",
+        "NetAcad:DevNet:5.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol will automatically provide IP address information to devices that join a network?",
+        "DHCP",
+        "6101200131",
+        "NetAcad:DevNet:5.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DNS for?",
+        "To translate names to IP addresses or vice-versa",
+        "6101200134",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol can translate a name to an IP address?",
+        "DNS",
+        "6101200133",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does NAT do?",
+        "It translates one IP address to another.  Typically to help reduce the number of public IP addresses used by a network.",
+        "6101200136",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used to reduce the number of Public IP addresses used by a network?",
+        "NAT",
+        "6101200135",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is SNMP for?",
+        "To facilitate monitoring and managing devices over a network.",
+        "6101200138",
+        "NetAcad:DevNet:5.5.4"
+      ],
+      "flags": 0,
+      "guid": "6101200137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol facilitates monitoring and managing devices over a network?",
+        "SNMP",
+        "6101200137",
+        "NetAcad:DevNet:5.5.4"
+      ],
+      "flags": 0,
+      "guid": "6101200138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is NTP and what does it do?",
+        "Network Time Protocol.  Used to synchronize system clocks across many network devices.",
+        "6101200140",
+        "NetAcad:DevNet:5.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used to synchronize system clocks across network devices?",
+        "NTP",
+        "6101200139",
+        "NetAcad:DevNet:5.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type is used to convert a name to an IPv4 address?",
+        "An 'A' record",
+        "6101200142",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what is an 'A' record for?",
+        "Translates a name to an IP.",
+        "6101200141",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what does a CNAME do?",
+        "Translates a name to another name.",
+        "6101200144",
+        "NetAcad:DevNet:5.5.3, https://en.wikipedia.org/wiki/CNAME_record"
+      ],
+      "flags": 0,
+      "guid": "6101200143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type translates a name to another name?",
+        "CNAME",
+        "6101200143",
+        "NetAcad:DevNet:5.5.3, https://en.wikipedia.org/wiki/CNAME_record"
+      ],
+      "flags": 0,
+      "guid": "6101200144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what is an 'NS' record for?",
+        "Identifies the authoritative name server",
+        "6101200146",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: what record type identifies the authoritative server?",
+        "NS",
+        "6101200145",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type translates a name to an IPv6 address?",
+        "AAAA (Quad A)",
+        "6101200148",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What is an AAAA record for?",
+        "Translates a name to an IPv6 address.",
+        "6101200147",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What is an MX record for?",
+        "Identifies the mail server (Mail eXchange) for a domain.",
+        "6101200150",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record identifies the mail server for a domain?",
+        "MX",
+        "6101200149",
+        "NetAcad:DevNet:5.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What is a PTR record for?",
+        "Translates an IP address to a name.",
+        "6101200152",
+        "NetAcad:DevNet:5.5.3, https://www.cloudns.net/wiki/article/40/"
+      ],
+      "flags": 0,
+      "guid": "6101200151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DNS: What record type can translate an IP address into a name?",
+        "PTR",
+        "6101200151",
+        "NetAcad:DevNet:5.5.3, https://www.cloudns.net/wiki/article/40/"
+      ],
+      "flags": 0,
+      "guid": "6101200152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 22/tcp?",
+        "SSH",
+        "6101200154",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does SSH use?",
+        "22/tcp",
+        "6101200153",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 23/tcp?",
+        "Telnet",
+        "6101200156",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does Telnet use?",
+        "23/tcp",
+        "6101200155",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 80/tcp?",
+        "HTTP",
+        "6101200158",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200157",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does HTTP use?",
+        "80/tcp",
+        "6101200157",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200158",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 443/tcp?",
+        "HTTPS",
+        "6101200160",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200159",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does HTTPS use?",
+        "443/tcp",
+        "6101200159",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200160",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What application uses 830/tcp?",
+        "NETCONF",
+        "6101200162",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200161",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol and port does NETCONF use?",
+        "830/tcp",
+        "6101200161",
+        "NetAcad:DevNet:5.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101200162",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is DevNet Automation Exchange?",
+        "A shared code repository for network automation.",
+        "6101200164",
+        "NetAcad:DevNet:2.2.5, https://developer.cisco.com/network-automation/"
+      ],
+      "flags": 0,
+      "guid": "6101200163",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What resource is a shared code repository for network automation?",
+        "DevNet Automation Exchange",
+        "6101200163",
+        "NetAcad:DevNet:2.2.5, https://developer.cisco.com/network-automation/"
+      ],
+      "flags": 0,
+      "guid": "6101200164",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the response time when creating a ticket with DevNet Developer Support?",
+        "One business day.",
+        "6101200166",
+        "NetAcad:DevNet:2.2.6"
+      ],
+      "flags": 0,
+      "guid": "6101200165",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What service has a response time of one business day for tickets?",
+        "DevNet Developer Support",
+        "6101200165",
+        "NetAcad:DevNet:2.2.6"
+      ],
+      "flags": 0,
+      "guid": "6101200166",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module2",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the formal code review process.",
+        "A series of meetings in which the entire code base is reviewed line by line to promote discussion.",
+        "6101200168",
+        "NetAcad:DevNet:3.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200167",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:5.13"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of code review has a series of meetings where the entire code base is gone through line by line to promote discussion?",
+        "Formal code review",
+        "6101200167",
+        "NetAcad:DevNet:3.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200168",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:5.13"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the characteristics of SOAP?",
+        "Independent, Extensible, Neutral",
+        "6101200170",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200169",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these characteristics describe?  Independent, Extensible, Neutral",
+        "SOAP",
+        "6101200169",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200170",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of a SOAP message?",
+        "Envelope, Header, Body, Fault",
+        "6101200172",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200171",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the following?  Envelope, Header, Body, Fault",
+        "Elements of a SOAP message",
+        "6101200171",
+        "NetAcad:DevNet:4.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200172",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the allowed Accept-Encoding REST API compression methods?",
+        "gzip, compress, deflate, br, identity (ie: no compression), * (ie: any)",
+        "6101200174",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding"
+      ],
+      "flags": 0,
+      "guid": "6101200173",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are gzip, compress, deflate, br, identity and *",
+        "Accept-Encoding compression methods for REST API.",
+        "6101200173",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding"
+      ],
+      "flags": 0,
+      "guid": "6101200174",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What perspective is applied for terminology?",
+        "The perspective of the device with the translated address.",
+        "6101200176",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200175",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: When is the perspective of the device with the translated address used?",
+        "When applying NAT terminology.",
+        "6101200175",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200176",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is an inside address?",
+        "The address of the device that is being translated.",
+        "6101200178",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200177",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term for the address of the device that is being translated?",
+        "The Inside address",
+        "6101200177",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200178",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is an Outside address?",
+        "The address of the foreign device (often the destination).",
+        "6101200180",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200179",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term for the address of the foreign device (destination)?",
+        "The Outside address",
+        "6101200179",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200180",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the Local address?",
+        "Any address that appears on the inside portion of the network.",
+        "6101200182",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200181",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term that describes any address that appears on the inside portion of the network?",
+        "A Local address",
+        "6101200181",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200182",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is a Global address?",
+        "Any address that appears on the outside portion of the network.",
+        "6101200184",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200183",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "NAT: What is the term for any address that appears on the outside portion of the network?",
+        "A Global address",
+        "6101200183",
+        "NetAcad:DevNet:5.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101200184",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:6.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of edge computing?",
+        "Increased speed, decreased latency.",
+        "6101200186",
+        "NetAcad:DevNet:6.1.9"
+      ],
+      "flags": 0,
+      "guid": "6101200185",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Increased speed and decreased latency are two benefits of what type of computing?",
+        "Edge computing",
+        "6101200185",
+        "NetAcad:DevNet:6.1.9"
+      ],
+      "flags": 0,
+      "guid": "6101200186",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does cloud computing provide?",
+        "Self service access to computing resources.",
+        "6101200188",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200187",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides self service access to computing resources?",
+        "Cloud computing",
+        "6101200187",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200188",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What differentiates private, public, and hybrid clouds?",
+        "Private is hosted on your equipment, public on someone else's, and hybrid is a combination of public and private.",
+        "6101200190",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200189",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the cloud deployment models?",
+        "Private, Public, Hybrid",
+        "6101200189",
+        "NetAcad:DevNet:6.1.6"
+      ],
+      "flags": 0,
+      "guid": "6101200190",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the attributes of virtual machines?",
+        "Each VM has its own OS.  There is a hypervisor.  Host OS can differ from the Guest OS.",
+        "6101200192",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200191",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what deployment type can the host OS differ from the guest OS?",
+        "Virtual machines",
+        "6101200191",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200192",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.a"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the attributes of bare metal deployments?",
+        "Simplest method.  Direct hardware access.",
+        "6101200194",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200193",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deployment method has direct access to the hardware?",
+        "Bare metal",
+        "6101200193",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200194",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.b"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the attributes of containerized deployments?",
+        "Quick startup, shared OS with the Host.",
+        "6101200196",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200195",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deployment type has the Guest share an OS with the Host?",
+        "Containers",
+        "6101200195",
+        "NetAcad:DevNet:6.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200196",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the components for a CI/CD pipeline for application deployment?",
+        "Pull from version control, build, unit test, deploy, auto test, deploy to prod.",
+        "6101200198",
+        "NetAcad:DevNet:6.1.3, https://www.katalon.com/resources-center/blog/ci-cd-pipeline/#cicd-pipeline-components"
+      ],
+      "flags": 0,
+      "guid": "6101200197",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What toolset can pull from version control, build, unit test, deploy, auto test, then deploy to prod?",
+        "CI/CD pipeline",
+        "6101200197",
+        "NetAcad:DevNet:6.1.3, https://www.katalon.com/resources-center/blog/ci-cd-pipeline/#cicd-pipeline-components"
+      ],
+      "flags": 0,
+      "guid": "6101200198",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is specified with the FROM instruction?",
+        "The base image.",
+        "6101200200",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200199",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you specify the base image?",
+        "The FROM instruction",
+        "6101200199",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200200",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the RUN instruction?",
+        "Specifies commands to run on the container while building the image.",
+        "6101200202",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200201",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What instruction will execute commands on the container while building the image?",
+        "RUN",
+        "6101200201",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200202",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the CMD instruction?",
+        "It specifies what to execute when the container is launched.",
+        "6101200204",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200203",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you specify what application to execute at launch time for a container?",
+        "The CMD instruction",
+        "6101200203",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200204",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What does EXPOSE do?",
+        "Informs Docker that the container listens on the specified port/protocol at runtime.",
+        "6101200206",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200205",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you inform Docker what port/protocol the container should listen to at runtime?",
+        "The EXPOSE instruction",
+        "6101200205",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200206",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the COPY instruction?",
+        "Copies files from the specified source to the container filesystem.",
+        "6101200208",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What command will replicate files into the container filesystem?",
+        "The COPY instruction",
+        "6101200207",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200208",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What is the purpose of the WORKDIR instruction?",
+        "Specifies the working directory for any RUN, CMD, COPY instructions.",
+        "6101200210",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200209",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: How do you set the working directory for RUN, CMD, COPY instructions?",
+        "The WORKDIR instruction",
+        "6101200209",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200210",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe blue-green deployment.",
+        "A new environment (blue) is created for a new deployment but the old is kept for fallback in case of errors.",
+        "6101200212",
+        "NetAcad:DevNet:6.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200211",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What deployment strategy builds a new environment for the new deployment but keeps the old environment around for fallback?",
+        "Blue-green",
+        "6101200211",
+        "NetAcad:DevNet:6.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200212",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OWASP Dependency Check?",
+        "It is a tool that looks for known vulnerabilities in your code.",
+        "6101200214",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200213",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OWASP tool looks for known vulnerabilities in code?",
+        "OWASP Dependency Check",
+        "6101200213",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200214",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OWASP DefectDojo?",
+        "A tool that streamlines the testing process.",
+        "6101200216",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200215",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OWASP tool streamlines the testing process?",
+        "OWASP DefectDojo",
+        "6101200215",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200216",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is OWASP ModSecurity Core Rule Set (CRS)?",
+        "Generic attack detection rules that can be used with web application firewalls.",
+        "6101200218",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200217",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of OWASP's generic attack detection rules that can be used with web applications firewalls?",
+        "OWASP ModSecurity Core Rule Set (CRS)",
+        "6101200217",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200218",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the OWASP Cheat Sheet Series?",
+        "A resource that explains how to mitigate the OWASP Top Ten vulnerabilities.",
+        "6101200220",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200219",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What resource explains how to mitigate the OWASP Top Ten vulnerabilities?",
+        "OWASP Cheat Sheet Series",
+        "6101200219",
+        "NetAcad:DevNet:6.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101200220",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.10"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the core principles of DevOps?",
+        "Focus on automation, idea that failure is normal, reframing availability in terms of what a business can tolerate",
+        "6101200222",
+        "NetAcad:DevNet:7.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101200221",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:4.12"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the following: focus on automation, idea that failure is normal, reframing availability in terms of what a business can tolerate?",
+        "The core principles of DevOps",
+        "6101200221",
+        "NetAcad:DevNet:7.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101200222",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:4.12"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the value of model driven programmability?",
+        "Device abilities are matched to standardized models making it easier to configure.",
+        "6101200224",
+        "NetAcad:DevNet:8.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200223",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes matching device abilities to standard models to ease configuration?",
+        "Model driven programmability.",
+        "6101200223",
+        "NetAcad:DevNet:8.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101200224",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of controller-level device management.",
+        "A controller provides a single dashboard for management, automation, assurance, monitoring, analytics, and security.",
+        "6101200226",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200225",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of device management provides a single dashboard for management, automation, assurance, monitoring, analysis, and security?",
+        "Controller-level device management",
+        "6101200225",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200226",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of network simulation?",
+        "You can test, debug, and learn in a safe, convenient, inexpensive way.",
+        "6101200228",
+        "NetAcad:DevNet:7.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200227",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What allows you to test, debug and learn in a safe, convenient and inexpensive way?",
+        "Network simulation",
+        "6101200227",
+        "NetAcad:DevNet:7.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200228",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the benefit of tools like pyATS?",
+        "Allows you to verify that your infrastructure has reached a desired state.",
+        "6101200230",
+        "NetAcad:DevNet:7.6.1, https://www.youtube.com/watch?v=aMoXuXWohTA"
+      ],
+      "flags": 0,
+      "guid": "6101200229",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can you verify that your infrastructure has reached a desired state?",
+        "Using test tools like pyATS",
+        "6101200229",
+        "NetAcad:DevNet:7.6.1, https://www.youtube.com/watch?v=aMoXuXWohTA"
+      ],
+      "flags": 0,
+      "guid": "6101200230",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the benefits of CI/CD pipelines?",
+        "Automated deployment, Agile integration, shorter MTTR, less disruptive feature releases, improved quality, improved time to market.",
+        "6101200232",
+        "NetAcad:DevNet:6.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200231",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What has the following benefits; Automated deployment, Agile integration, shorter MTTR, less disruptive feature releases, improved quality, improved time to market?",
+        "CI/CD pipelines",
+        "6101200231",
+        "NetAcad:DevNet:6.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200232",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the principles of Infrastructure as Code?",
+        "Reproducable systems, Disposable systems, Consistent systems, Repeatable processes, ever changing design",
+        "6101200234",
+        "NetAcad:DevNet:7.5.1, https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html"
+      ],
+      "flags": 0,
+      "guid": "6101200233",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following constitute: Reproducable systems, Disposable systems, Consistent systems, Repeatable processes, every changing design?",
+        "Principles of Infrastructure as Code",
+        "6101200233",
+        "NetAcad:DevNet:7.5.1, https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html"
+      ],
+      "flags": 0,
+      "guid": "6101200234",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is idempotency?",
+        "A quality of software to bring about a desired state.",
+        "6101200236",
+        "NB: This is the textbook's definition; apply a grain of salt. NetAcad:DevNet:7.3.3 - better reference: https://datacadamia.com/code/design/idempotence"
+      ],
+      "flags": 0,
+      "guid": "6101200235",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the quality of software to bring about a desired state?",
+        "Idempotency",
+        "6101200235",
+        "NB: This is the textbook's definition; apply a grain of salt. NetAcad:DevNet:7.3.3 - better reference: https://datacadamia.com/code/design/idempotence"
+      ],
+      "flags": 0,
+      "guid": "6101200236",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the hourly cost of downtime?",
+        "$300,000 per hour",
+        "6101200238",
+        "NetAcad:DevNet:7.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200237",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What has a cost of $300k/hour?",
+        "Downtime / outages",
+        "6101200237",
+        "NetAcad:DevNet:7.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101200238",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an imperative procedure?",
+        "An ordered sequence of commands to execute (like a BASH script).",
+        "6101200240",
+        "NetAcad:DevNet:7.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200239",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for an ordered sequence of commands to execute?",
+        "Imperative procedure",
+        "6101200239",
+        "NetAcad:DevNet:7.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200240",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is declarative automation?",
+        "A static model that represents the desired end state.",
+        "6101200242",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200241",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for automation that uses a static model that represents the desired end state?",
+        "Declarative automation",
+        "6101200241",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200242",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: What does EasyPy do?",
+        "Aggregates script runs into encapsulated environments, collects logs into archives, and sends reporting emails.",
+        "6101200244",
+        "NetAcad:DevNet:7.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200243",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: what component aggregates script runs into encapsulated environments, collects logs into archives, and sends reporting emails?",
+        "EasyPy",
+        "6101200243",
+        "NetAcad:DevNet:7.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200244",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: What does AEtest do?",
+        "Handles test script definition and execution",
+        "6101200246",
+        "NetAcad:DevNet:7.6.2, https://pypi.org/project/pyats.aetest/"
+      ],
+      "flags": 0,
+      "guid": "6101200245",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: what component handles test script definition and execution?",
+        "AEtest",
+        "6101200245",
+        "NetAcad:DevNet:7.6.2, https://pypi.org/project/pyats.aetest/"
+      ],
+      "flags": 0,
+      "guid": "6101200246",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: What does Genie do?",
+        "Provides an open-source platform/vendor agnostic library system",
+        "6101200248",
+        "NetAcad:DevNet:7.6.2, https://developer.cisco.com/docs/pyats/#!introduction/cisco-pyats-network-test--automation-solution"
+      ],
+      "flags": 0,
+      "guid": "6101200247",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "pyATS: what provides an open-source platform/vendor agnostic library system?",
+        "Genie",
+        "6101200247",
+        "NetAcad:DevNet:7.6.2, https://developer.cisco.com/docs/pyats/#!introduction/cisco-pyats-network-test--automation-solution"
+      ],
+      "flags": 0,
+      "guid": "6101200248",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Cisco DNA Center?",
+        "Single dashboard for network management, automation, assurance, monitoring, analytics, and security.",
+        "6101200250",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200249",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Cisco product provides a dashboard for network management, automation, assurance, monitoring, analytics, and security?",
+        "DNA Center",
+        "6101200249",
+        "NetAcad:DevNet:8.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200250",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Meraki?",
+        "Cloud management for infrastructure, locations, and devices.",
+        "6101200252",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200251",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product offers cloud management for infrastructure, locations, and devices?",
+        "Meraki",
+        "6101200251",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200252",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Cisco ACI?",
+        "It provides SDN managed through an APIC",
+        "6101200254",
+        "NetAcad:DevNet:8.4.7"
+      ],
+      "flags": 0,
+      "guid": "6101200253",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides SDN and what is it managed through?",
+        "Cisco ACI and it's managed through an APIC.",
+        "6101200253",
+        "NetAcad:DevNet:8.4.7"
+      ],
+      "flags": 0,
+      "guid": "6101200254",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Cisco SD-WAN?",
+        "Transport independence, network services, endpoint flexibility.",
+        "6101200256",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200255",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product offers transport independence, network services, endpoint flexibility?",
+        "SD-WAN",
+        "6101200255",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200256",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the SD-WAN dashboard called?",
+        "vManage",
+        "6101200258",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200257",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is vManage?",
+        "The dashboard for SD-WAN",
+        "6101200257",
+        "NetAcad:DevNet:8.4.19"
+      ],
+      "flags": 0,
+      "guid": "6101200258",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco NSO provide?",
+        "Multivendor automation orchestration",
+        "6101200260",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200259",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides multivendor automation orchestration?",
+        "Cisco NSO",
+        "6101200259",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200260",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco UCS Manager provide?",
+        "An abstraction layer to between server components and the administrator",
+        "6101200262",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200261",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides an abstraction layer to between server components and the administrator?",
+        "UCS Manager",
+        "6101200261",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200262",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does UCS Director provide?",
+        "A heterogeneous platform for private cloud IaaS.  Supports different supervistors, hardware platforms, networking, etc.",
+        "6101200264",
+        "NetAcad:DevNet:8.5.7"
+      ],
+      "flags": 0,
+      "guid": "6101200263",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides a heterogeneous platform for private cloud IAAS?",
+        "UCS Director",
+        "6101200263",
+        "NetAcad:DevNet:8.5.7"
+      ],
+      "flags": 0,
+      "guid": "6101200264",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco Intersight provide?",
+        "SaaS systems management",
+        "6101200266",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200265",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides SaaS systems management?",
+        "Intersight",
+        "6101200265",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200266",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the capabilities of Webex Devices?",
+        "Whiteboard, room devices, desk devices",
+        "6101200268",
+        "NetAcad:DevNet:8.6.8"
+      ],
+      "flags": 0,
+      "guid": "6101200267",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product category includes whiteboards, meeting room conferencing, and desk conferencing?",
+        "Webex Devices",
+        "6101200267",
+        "NetAcad:DevNet:8.6.8"
+      ],
+      "flags": 0,
+      "guid": "6101200268",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does Cisco UCM provide?",
+        "IP-Based communications for local, mobile, and remote workers with voip, video, and data.",
+        "6101200270",
+        "NetAcad:DevNet:8.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200269",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides IP-Based communications for local, mobile, and remote workers with voip, video, and data?",
+        "Cisco Unified Communications Manager",
+        "6101200269",
+        "NetAcad:DevNet:8.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200270",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is AXL and what does it provide?",
+        "Administrative XML Layer; an XML/SOAP interface for updating the Unified Communications configuration database.",
+        "6101200272",
+        "NetAcad:DevNet:8.6.3"
+      ],
+      "flags": 0,
+      "guid": "6101200271",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides an XML/SOAP interface for updating the Unified Communications configuration database?",
+        "Administrative XML Layer (AXL)",
+        "6101200271",
+        "NetAcad:DevNet:8.6.3"
+      ],
+      "flags": 0,
+      "guid": "6101200272",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is UDS and what does it provide?",
+        "User Data Services - a REST API for updating the Unified Communications config database.",
+        "6101200274",
+        "NetAcad:DevNet:8.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200273",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides a REST API for updating the Unified Communications config database?",
+        "User Data Services (UDS)",
+        "6101200273",
+        "NetAcad:DevNet:8.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101200274",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cisco Finesse?",
+        "A browser based contact center agent and supervisor desktop.",
+        "6101200276",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200275",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides a browser based contact center agent and supervisor desktop?",
+        "Cisco Finesse",
+        "6101200275",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200276",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the types of YANG models?",
+        "Open and Native",
+        "6101200278",
+        "NetAcad:DevNet:8.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200277",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Open and Native are both types of what model?",
+        "YANG",
+        "6101200277",
+        "NetAcad:DevNet:8.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101200278",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding does Netconf use?",
+        "XML",
+        "6101200280",
+        "NetAcad:DevNet:8.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200279",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "XML encoding is used for which protocol?",
+        "Netconf",
+        "6101200279",
+        "NetAcad:DevNet:8.3.3"
+      ],
+      "flags": 0,
+      "guid": "6101200280",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding does Restconf use?",
+        "XML or JSON",
+        "6101200282",
+        "NetAcad:DevNet:8.3.4"
+      ],
+      "flags": 0,
+      "guid": "6101200281",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol can use either XML or JSON encoding?",
+        "Restconf",
+        "6101200281",
+        "NetAcad:DevNet:8.3.4"
+      ],
+      "flags": 0,
+      "guid": "6101200282",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are YANG sources in Cisco NSO?",
+        "NSO data model, data models from devices, YANG service models",
+        "6101200284",
+        "NetAcad:DevNet:8.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200283",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What tool uses NSO data model, data models from devices, YANG service models?",
+        "Cisco NSO",
+        "6101200283",
+        "NetAcad:DevNet:8.4.2"
+      ],
+      "flags": 0,
+      "guid": "6101200284",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What functions are provided by the Finesse REST API?",
+        "Automate tasks, create integrations, build agent desktops",
+        "6101200286",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200285",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can automate tasks, create integrations, and build agent desktops?",
+        "Finesse REST API",
+        "6101200285",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200286",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can the Finesse JS API be used for?",
+        "Create gadgets for the agent state workflow, embed web pages into a custom gadget.",
+        "6101200288",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200287",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can you use to create gadgets for the agent state workflow, embed web pages into a custom gadget?",
+        "Finesse JS API",
+        "6101200287",
+        "NetAcad:DevNet:8.6.5"
+      ],
+      "flags": 0,
+      "guid": "6101200288",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What capabilities does AMP provide?",
+        "Prevention, Detection, and Response&Automation",
+        "6101200290",
+        "NetAcad:DevNet:8.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200289",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product provides prevention, detection, and response & automation?",
+        "AMP",
+        "6101200289",
+        "NetAcad:DevNet:8.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200290",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.5"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps in the Software Development Life Cycle (SDLC)?",
+        "Requirements & Analysis, Design, Implementation, Testing, Deployment, Maintenance.",
+        "6101200292",
+        "NetAcad:DevNet:3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200291",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these steps constitute: Requirements & Analysis, Design, Implementation, Testing, Deployment, Maintenance?",
+        "The Software Development Life Cycle (SDLC)",
+        "6101200291",
+        "NetAcad:DevNet:3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200292",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of access token should be used for development?",
+        "A custom token just for development",
+        "6101200294",
+        "NetAcad:DevNet:Unknown"
+      ],
+      "flags": 0,
+      "guid": "6101200293",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where should you use a custom generated token?",
+        "For development",
+        "6101200293",
+        "NetAcad:DevNet:Unknown"
+      ],
+      "flags": 0,
+      "guid": "6101200294",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the DevNet Community sub-forums? ",
+        "Analytics & Automation software, cloud, collaboration, datacenter, DevNet Site, Mobility, IoT, Networking, Security, Services.",
+        "6101200296",
+        "NetAcad:DevNet:Unknown, https://community.cisco.com/t5/for-developers/ct-p/4409j-developer-home"
+      ],
+      "flags": 0,
+      "guid": "6101200295",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these: Analytics & Automation software, cloud, collaboration, datacenter, DevNet Site, Mobility, IoT, Networking, Security, Services?",
+        "DevNet Community Sub-forums.",
+        "6101200295",
+        "NetAcad:DevNet:Unknown, https://community.cisco.com/t5/for-developers/ct-p/4409j-developer-home"
+      ],
+      "flags": 0,
+      "guid": "6101200296",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Unknown",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the OSI:Application layer responsible for?",
+        "Provides specific functionality to end-user applications.  Provides the interface from the application to the underlying network.",
+        "6101200298",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200297",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which OSI layer provides specific functionality to end-user software and the interface between the software and the underlying network?",
+        "Application layer",
+        "6101200297",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200298",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the OSI:Presentation layer do?",
+        "Compress & decompress data.  Ensure that data can be properly interpreted.",
+        "6101200300",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200299",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which OSI Layer is responsible for data compression/decompression and ensuring proper interpretation?",
+        "Presentation",
+        "6101200299",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200300",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the OSI:Session layer?",
+        "Handles the initiation and reestablishment of dialog between the source and destination applications.",
+        "6101200302",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200301",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which OSI layer handles the initiation and reestablishment of dialog between the source and destination applications?",
+        "Session",
+        "6101200301",
+        "NetAcad:DevNet:5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200302",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module5",
+        "200-901:3.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Continuous Integration?",
+        "Repeatedly merging code from all developers into the central branch to avoid conflicts.",
+        "6101200304",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200303",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for repeatedly merging code from all developers into the central branch to avoid conflicts?",
+        "Continuous Integration",
+        "6101200303",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200304",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Continuous Deployment?",
+        "When any change is made it is automatically pushed into the Production environment.",
+        "6101200306",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200305",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes pushing to Production on every change?",
+        "Continuous Deployment",
+        "6101200305",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200306",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Continuous Delivery?",
+        "Small build cycles with short sprints to ensure the product is deployable at any point.",
+        "6101200308",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200307",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes small build cycles with short sprints to ensure the product is deployable at any point?",
+        "Continuous Delivery",
+        "6101200307",
+        "NetAcad:DevNet:6.3.2, https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/"
+      ],
+      "flags": 0,
+      "guid": "6101200308",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.4",
+        "200-901:5.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the -m ansible flag invoke?",
+        "It runs a specific module.",
+        "6101200310",
+        "NetAcad:DevNet:7.4.5, https://docs.ansible.com/ansible/latest/cli/ansible.htmlhttps://docs.ansible.com/ansible/latest/cli/ansible.html"
+      ],
+      "flags": 0,
+      "guid": "6101200309",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How do you run a specific module with Ansible?",
+        "The -m flag.",
+        "6101200309",
+        "NetAcad:DevNet:7.4.5, https://docs.ansible.com/ansible/latest/cli/ansible.htmlhttps://docs.ansible.com/ansible/latest/cli/ansible.html"
+      ],
+      "flags": 0,
+      "guid": "6101200310",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps to access the Meraki API?",
+        "Enable API access for the organization.  Generate an API key.",
+        "6101200312",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200311",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco platform requires you to enable API access for the organization and generate an API in order to use the API?",
+        "Meraki",
+        "6101200311",
+        "NetAcad:DevNet:8.4.12"
+      ],
+      "flags": 0,
+      "guid": "6101200312",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.9"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the authentication method for the UCS Manager API?",
+        "Cookie",
+        "6101200314",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200313",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the USC Manager API use cookies for?",
+        "Authentication",
+        "6101200313",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200314",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding method is used by the UCS Manager API?",
+        "XML",
+        "6101200316",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200315",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where does the UCS Manager API use XML?",
+        "For encoding",
+        "6101200315",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200316",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What authentication method is used by the UCS Director API?",
+        "API key",
+        "6101200318",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200317",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why does the UCS Director use API keys?",
+        "For API authentication.",
+        "6101200317",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200318",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding is used for UCS Director API calls?",
+        "JSON or XML",
+        "6101200320",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200319",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where does the UCS Director use either JSON or XML?",
+        "For REST API calls",
+        "6101200319",
+        "NetAcad:DevNet:8.5.8"
+      ],
+      "flags": 0,
+      "guid": "6101200320",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Intersight accessed programmatically?",
+        "REST API or Python SDK",
+        "6101200322",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200321",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Cisco product allows programmatic access via REST API or Python SDK?",
+        "Intersight",
+        "6101200321",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200322",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What authentication scheme is used for Intersight?",
+        "API Key ID and Secret key",
+        "6101200324",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200323",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product uses an API Key ID and Secret key for programmatic authentication?",
+        "Intersight",
+        "6101200323",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200324",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding method is used by the Intersight API?",
+        "JSON",
+        "6101200326",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200325",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When is JSON used with Intersight?",
+        "For encoding with the REST API",
+        "6101200325",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200326",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does Intersight provide access to the Management Information Model?",
+        "Through the REST API",
+        "6101200328",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200327",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be accessed through the REST API of Intersight?",
+        "Management Information Model (MIM)",
+        "6101200327",
+        "NetAcad:DevNet:8.5.9"
+      ],
+      "flags": 0,
+      "guid": "6101200328",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the @@ for in a diff?",
+        "It denotes the range information for a hunk that is being displayed",
+        "6101200330",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200329",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What denotes the range information for a hunk being displayed in diff?",
+        "The @@",
+        "6101200329",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200330",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Diff: what does the 'index' field indicate?",
+        "The hashes of the files being compared",
+        "6101200332",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200331",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Diff: what indicates the hashes of the files being compared?",
+        "The 'index:' field",
+        "6101200331",
+        "NetAcad:DevNet:3.3.10"
+      ],
+      "flags": 0,
+      "guid": "6101200332",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8.g"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: what are the 'source' and 'target' branches?",
+        "The source is the remote, the target is the current directory.",
+        "6101200334",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200333",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Git: What terms are used to refer to the remote branch and the current directory?",
+        "Source and Target, respectively.",
+        "6101200333",
+        "NetAcad:DevNet:3.3.9"
+      ],
+      "flags": 0,
+      "guid": "6101200334",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What information is in the XML Prologue?",
+        "The version and encoding.",
+        "6101200336",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200335",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find the XML version and encoding?",
+        "The prologue",
+        "6101200335",
+        "NetAcad:DevNet:3.6.2"
+      ],
+      "flags": 0,
+      "guid": "6101200336",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module3",
+        "200-901:1.1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of curl's -X flag?",
+        "Specifies the HTTP method other than the standard GET.",
+        "6101200338",
+        "NetAcad:DevNet:4.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200337",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With curl, how can you specify a method other than GET?",
+        "The -X flag.",
+        "6101200337",
+        "NetAcad:DevNet:4.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101200338",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What specifies the requested compression type in an HTTP request and the compression type used in an HTTP response?",
+        "accept-encoding and content-encoding",
+        "6101200340",
+        "NetAcad:DevNet:4.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200339",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are 'accept-encoding' and 'content-encoding' used?",
+        "In HTTP requests and responses, respectively.",
+        "6101200339",
+        "NetAcad:DevNet:4.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200340",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'cache-control:public' mean?",
+        "Response may be stored by any cache, even if it's normally non-cacheable.",
+        "6101200342",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200341",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can an HTTP server indicate that a response may be stored by any cache, even if it's normally non-cacheable?",
+        "cache-control:public header",
+        "6101200341",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200342",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'cache-control:private' indicate?",
+        "Only a browser may cache the content.",
+        "6101200344",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200343",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP header indicates that only a browser may cache the content?",
+        "cache-control:private",
+        "6101200343",
+        "NetAcad:DevNet:4.4.3, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+      ],
+      "flags": 0,
+      "guid": "6101200344",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Meraki MX?",
+        "The Meraki security appliance / platform.",
+        "6101200346",
+        "NetAcad:DevNet:8.7.2, https://meraki.cisco.com/wp-content/uploads/2020/04/meraki_datasheet_mx.pdf"
+      ],
+      "flags": 0,
+      "guid": "6101200345",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the Meraki security appliance / platform?",
+        "Meraki MX",
+        "6101200345",
+        "NetAcad:DevNet:8.7.2, https://meraki.cisco.com/wp-content/uploads/2020/04/meraki_datasheet_mx.pdf"
+      ],
+      "flags": 0,
+      "guid": "6101200346",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the components of Cisco NSO?",
+        "Model-driven programable interface, configuration database, device and service abstraction layer.",
+        "6101200348",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200347",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product has these components: model-driven programable interface, configuration database, device and service abstraction layer?",
+        "Cisco NSO",
+        "6101200347",
+        "NetAcad:DevNet:8.4.16"
+      ],
+      "flags": 0,
+      "guid": "6101200348",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.2",
+        "200-901:5.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between UCS Manager and UCS Central?",
+        "UCS M can manage up to 160 servers, UCS C up to 10k",
+        "6101200350",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200349",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What product can manage up to 160 servers vs 10k servers?",
+        "UCS Manager and UCS Central, respectively.",
+        "6101200349",
+        "NetAcad:DevNet:8.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101200350",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:3.3"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'orchestration'?",
+        "Automation to manage workload lifecycles and respond dynamically to changing conditions.",
+        "6101200352",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200351",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to describe automation to manage workload lifecycles and respond dynamically to changing conditions?",
+        "Orchestration",
+        "6101200351",
+        "NetAcad:DevNet:7.4.3"
+      ],
+      "flags": 0,
+      "guid": "6101200352",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'read-only' automation?",
+        "Gathering read-only data through automation to keep track of what has changed.",
+        "6101200354",
+        "NetAcad:DevNet:7.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200353",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for gathering information through automation to keep track of what changes have been made?",
+        "Read-only automation",
+        "6101200353",
+        "NetAcad:DevNet:7.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101200354",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module7",
+        "200-901:NotOnExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the characteristics of a stateless application?",
+        "Easily containerized. Application doesn't keep any data. Horizontally scalable.",
+        "6101200356",
+        "NetAcad:DevNet:6.1.3, https://whatis.techtarget.com/definition/stateless-app"
+      ],
+      "flags": 0,
+      "guid": "6101200355",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of applications are easily containerized, don't keep any data, and are horizontally scalable?",
+        "Stateless applications.",
+        "6101200355",
+        "NetAcad:DevNet:6.1.3, https://whatis.techtarget.com/definition/stateless-app"
+      ],
+      "flags": 0,
+      "guid": "6101200356",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the tag that is created if no tag is specified when creating a Docker container?",
+        "latest",
+        "6101200358",
+        "https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/"
+      ],
+      "flags": 0,
+      "guid": "6101200357",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When might the 'latest' tag appear on a Docker container?",
+        "When no tag was specified.",
+        "6101200357",
+        "https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/"
+      ],
+      "flags": 0,
+      "guid": "6101200358",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.3.c"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is required for a webhook to work?",
+        "Application always listening.  Application registers a URI with the webhook provider.",
+        "6101200360",
+        "Netacad:DevNet:4.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200359",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What services requires the application always be listening and that it registers a URI with the provider?",
+        "Webhook",
+        "6101200359",
+        "Netacad:DevNet:4.7.2"
+      ],
+      "flags": 0,
+      "guid": "6101200360",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "RestAPI: What is pagination?",
+        "Breaking response data into smaller chunks and providing only one chunk at a time.",
+        "6101200362",
+        "Netacad:DevNet:4.4.3, https://nordicapis.com/everything-you-need-to-know-about-api-pagination/"
+      ],
+      "flags": 0,
+      "guid": "6101200361",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "RestAPI: what is the term for breaking a large response into smaller chunks?",
+        "Pagination",
+        "6101200361",
+        "Netacad:DevNet:4.4.3, https://nordicapis.com/everything-you-need-to-know-about-api-pagination/"
+      ],
+      "flags": 0,
+      "guid": "6101200362",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the C in CRUD?",
+        "Post",
+        "6101200364",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200363",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Post correspond to?",
+        "Create",
+        "6101200363",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200364",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the successful response code to an HTTP Post?",
+        "201",
+        "6101200366",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200365",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CRUD HTTP Method will result in a 201 response code?",
+        "Post",
+        "6101200365",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200366",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the R in CRUD?",
+        "Get",
+        "6101200368",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200367",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Get correspond to?",
+        "Read",
+        "6101200367",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200368",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the successful response code to an HTTP Get or Delete?",
+        "200",
+        "6101200370",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200369",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CRUD HTTP Method(s) will result in only a 200 response code?",
+        "Get, Delete",
+        "6101200369",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200370",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the U in CRUD?",
+        "Put, Patch",
+        "6101200372",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200371",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Put or Patch correspond to?",
+        "Update",
+        "6101200371",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200372",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the successful response code to an HTTP Put or Patch?",
+        "200 or 204",
+        "6101200374",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200373",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What CRUD HTTP Method will result in a 200 or 204 response code?",
+        "Put or Patch",
+        "6101200373",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200374",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which HTTP method(s) correspond to the D in CRUD?",
+        "Delete",
+        "6101200376",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200375",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which verb in CRUD does an HTTP Delete correspond to?",
+        "Delete",
+        "6101200375",
+        "Netacad:DevNet:8.4.8, https://www.restapitutorial.com/lessons/httpmethods.html"
+      ],
+      "flags": 0,
+      "guid": "6101200376",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What will cause an HTTP 204 response code?",
+        "No Content",
+        "6101200378",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200377",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "REST API: What is the response code for no content?",
+        "204",
+        "6101200377",
+        "NetAcad:DevNet:4.8.3, https://restfulapi.net/http-status-codes/"
+      ],
+      "flags": 0,
+      "guid": "6101200378",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'Accept:' HTTP header?",
+        "To express what MIME types the client is able to understand.",
+        "6101200380",
+        "NetAcad:DevNet:4.8.4, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept"
+      ],
+      "flags": 0,
+      "guid": "6101200379",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What header is used to express what MIME types the HTTP client is able to understand?",
+        "'Accept:'",
+        "6101200379",
+        "NetAcad:DevNet:4.8.4, https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept"
+      ],
+      "flags": 0,
+      "guid": "6101200380",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.4"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol does gRPC use?",
+        "HTTP/2",
+        "6101200382",
+        "NetAcad:DevNet:4.3.2, https://grpc.io/faq/"
+      ],
+      "flags": 0,
+      "guid": "6101200381",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What API uses HTTP/2 for transport?",
+        "gRPC",
+        "6101200381",
+        "NetAcad:DevNet:4.3.2, https://grpc.io/faq/"
+      ],
+      "flags": 0,
+      "guid": "6101200382",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Base64 used for API authentication?",
+        "It encodes the Basic authentication 'username:password'",
+        "6101200384",
+        "NetAcad:DevNet:4.5.3, https://tools.ietf.org/html/rfc7617"
+      ],
+      "flags": 0,
+      "guid": "6101200383",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What encoding is used for the 'username:password' with Basic authentication?",
+        "Base64",
+        "6101200383",
+        "NetAcad:DevNet:4.5.3, https://tools.ietf.org/html/rfc7617"
+      ],
+      "flags": 0,
+      "guid": "6101200384",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.7"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What does the VOLUME instruction do?",
+        "Creates a mount point in the container from the host or other container.",
+        "6101200386",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200385",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What creates a mount point in the container from the host or other container?",
+        "VOLUME instruction",
+        "6101200385",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200386",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What does the ENTRYPOINT instruction do?",
+        "Overrides the CMD instruction.  Allows you to configure the container to run as an executable.",
+        "6101200388",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200387",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Dockerfile: What instructions overrides the CMD instruction?  It also allows you to configure the container to run as an executable.",
+        "ENTRYPOINT instruction",
+        "6101200387",
+        "NetAcad:DevNet:6.2.3, https://docs.docker.com/engine/reference/builder/"
+      ],
+      "flags": 0,
+      "guid": "6101200388",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module6",
+        "200-901:4.6"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What HTTP method is used by a webhook?",
+        "Post",
+        "6101200390",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200389",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What API callback uses an HTTP Post method?",
+        "Webhook",
+        "6101200389",
+        "NetAcad:DevNet:4.7.1"
+      ],
+      "flags": 0,
+      "guid": "6101200390",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module4",
+        "200-901:2.2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocols are supported by IOS-XE for model-driven programability?",
+        "NETCONF, RESTCONF, gNMI",
+        "6101200392",
+        "NetAcad:DevNet:8.3, https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/169/b_169_programmability_cg/gnmi_protocol.html"
+      ],
+      "flags": 0,
+      "guid": "6101200391",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1",
+        "200-901:3.8"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco platform support NETCONF, RESTCONF, and gNMI for model-driven-programability?",
+        "IOS-XE",
+        "6101200391",
+        "NetAcad:DevNet:8.3, https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/169/b_169_programmability_cg/gnmi_protocol.html"
+      ],
+      "flags": 0,
+      "guid": "6101200392",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NetAcad:DevNet:Module8",
+        "200-901:5.1",
+        "200-901:3.8"
+      ]
+    }
+  ]
+}

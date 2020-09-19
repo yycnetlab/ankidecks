@@ -1,0 +1,1695 @@
+{
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "97fb9520-ce9e-49b7-bb07-ebc147a75478",
+  "deck_config_uuid": "97fb9520-ce9e-49b7-bb07-ebc147a75478",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "97fb9520-ce9e-49b7-bb07-ebc147a75478",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": true,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": true,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 100
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "mid": "1496861969393",
+  "name": "ITILv4 Foundations",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "RerverseCardID",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Reference",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "name": "Basic",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [
+
+      ],
+      "tmpls": [
+        {
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}"
+        }
+      ],
+      "type": 0,
+      "vers": [
+
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Do you know where this Anki deck originated?",
+        "This deck is part of an open collaborative effort started by YYC Net Lab.  This deck is provided free of charge and without warranty.  For updates please see the link below.  If you notice any errors or would like to add some cards please reach out to YYC Net Lab through Github.<br><br>To stop seeing this card click on 'More' in the bottom right and select 'Suspend Card'.",
+        "6101300000",
+        "https://github.com/yycnetlab/ankidecks"
+      ],
+      "flags": 0,
+      "guid": "6101300000",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Management",
+        "A set of specialized organizational capabilities for enabling value for customers in the form of services.",
+        "6101300002",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term defines: A set of specialized organizational capabilities for enabling value for customers in the form of services.",
+        "Service Management",
+        "6101300001",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Governance",
+        "The means by which an organization is directed and controlled.",
+        "6101300004",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term defines: The means by which an organization is directed and controlled.",
+        "Governance",
+        "6101300003",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Capability",
+        "The ability of an organization, person, process, application, configuration item, or IT service to carry out an activity.",
+        "6101300006",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: The ability of an organization, person, process, application, configuration item, or IT service to carry out an activity.",
+        "Capability",
+        "6101300005",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Value",
+        "The perceived benefits, usefulness, and importance of something.",
+        "6101300008",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes The perceived benefits, usefulness, and importance of something.",
+        "Value",
+        "6101300007",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the dimensions of Service Management?",
+        "Organizations & people<br>Information & technology<br>Partners & Suppliers<br>Value Streams & processes",
+        "6101300010",
+        "ITIL Foundation book, 4e, Section 1.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101300009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following form?<br>Organizations & people<br>Information & technology<br>Partners & Suppliers<br>Value Streams & processes",
+        "The Dimensions of Service Management",
+        "6101300009",
+        "ITIL Foundation book, 4e, Section 1.3.2"
+      ],
+      "flags": 0,
+      "guid": "6101300010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can you deal with risk?",
+        "Mitigate, transfer, accept, avoid.",
+        "6101300012",
+        "Possibly covered in ITILv3"
+      ],
+      "flags": 0,
+      "guid": "6101300011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Mitigate, transfer, accept, avoid are methods of dealing with what?",
+        "Risk",
+        "6101300011",
+        "Possibly covered in ITILv3"
+      ],
+      "flags": 0,
+      "guid": "6101300012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: ITIL Guiding Principles",
+        "Recommendations that can guide an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.",
+        "6101300014",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term defines: Recommendations that can guide an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure?",
+        "Guiding Principle",
+        "6101300013",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Continual improvement",
+        "The practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.",
+        "6101300016",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: The practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.",
+        "Continual Improvement",
+        "6101300015",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps of the continual improvement model?",
+        "Vision<br>Location(Where are we now?)<br>Destination(Where do we want to be?)<br>Plan(How do we get there?)<br>Execute(Take action)<br>Analyze(Did we get there?)<br>Repeat(How do we keep the momentum going?)",
+        "6101300018",
+        "ITIL Foundation book, 4e, Section 4.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101300017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following steps form?  Vision, Location, Destination, Plan, Execute, Analyze, Repeat",
+        "The Continual Improvement Model",
+        "6101300017",
+        "ITIL Foundation book, 4e, Section 4.6.4"
+      ],
+      "flags": 0,
+      "guid": "6101300018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service",
+        "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
+        "6101300020",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
+        "Service",
+        "6101300019",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Utility",
+        "The functionality offered by a product or service to meet a particular need.",
+        "6101300022",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: The functionality offered by a product or service to meet a particular need.",
+        "Utility",
+        "6101300021",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Warranty",
+        "Assurance that a product or service will meet agreed requirements.",
+        "6101300024",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Assurance that a product or service will meet agreed requirements.",
+        "Warranty",
+        "6101300023",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Customer",
+        "A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.",
+        "6101300026",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.",
+        "Customer",
+        "6101300025",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: User",
+        "A person who uses services.",
+        "6101300028",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person who uses services.",
+        "User",
+        "6101300027",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Offering",
+        "A formal description of one or more services, designed to address the needs of a target consumer group.",
+        "6101300030",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A formal description of one or more services, designed to address the needs of a target consumer group.",
+        "Service Offering",
+        "6101300029",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Sponsor",
+        "A person who authorizes budget for service consumption.",
+        "6101300032",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person who authorizes budget for service consumption.",
+        "Sponsor",
+        "6101300031",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Cost",
+        "The amount of money spent on a specific activity or resource.",
+        "6101300034",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: The amount of money spent on a specific activity or resource.",
+        "Cost",
+        "6101300033",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Organization",
+        "A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.",
+        "6101300036",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.",
+        "Organization",
+        "6101300035",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Outcome",
+        "A result for a stakeholder enabled by one or more outputs.",
+        "6101300038",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A result for a stakeholder enabled by one or more outputs.",
+        "Outcome",
+        "6101300037",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Output",
+        "A tangible or intangible deliverable of an activity.",
+        "6101300040",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A tangible or intangible deliverable of an activity.",
+        "Output",
+        "6101300039",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Risk",
+        "A possible event that could cause harm or loss, or make it more difficult to achieve objectives.",
+        "6101300042",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: A possible event that could cause harm or loss, or make it more difficult to achieve objectives.",
+        "Risk",
+        "6101300041",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Relationship Management",
+        "Joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings.",
+        "6101300044",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings.",
+        "Service Relationship Management",
+        "6101300043",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Provision",
+        "Activities performed by an organization to provide services.",
+        "6101300046",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Activities performed by an organization to provide services.",
+        "Service Provision",
+        "6101300045",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Service Consumption",
+        "Activities performed by an organization to consume services.",
+        "6101300048",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined by: Activities performed by an organization to consume services.",
+        "Service Consumption",
+        "6101300047",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'plan' value chain activity?",
+        "Share understanding of the vision, current status, and improvement direction.",
+        "6101300050",
+        "ITIL Foundation book, 4e, Section 4.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101300049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which value chain activity shares understanding of the vision, current status and improvement direction?",
+        "Plan",
+        "6101300049",
+        "ITIL Foundation book, 4e, Section 4.5.1"
+      ],
+      "flags": 0,
+      "guid": "6101300050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'Improve' value chain activity?",
+        "Ensure continual improvement.",
+        "6101300052",
+        "ITIL Foundation book, 4e, Section 4.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101300051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which value chain activity ensures continual improvement?",
+        "Improve",
+        "6101300051",
+        "ITIL Foundation book, 4e, Section 4.5.2"
+      ],
+      "flags": 0,
+      "guid": "6101300052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'Engage' value chain activity?",
+        "Provide a good understanding of stakeholder needs, tranceparency, engagement, and relationships with stakeholders.",
+        "6101300054",
+        "ITIL Foundation book, 4e, Section 4.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101300053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which value chain activity provides a good understanding of stakeholder needs, tranceparency, engagement, and relationships with stakeholders?",
+        "Engage",
+        "6101300053",
+        "ITIL Foundation book, 4e, Section 4.5.3"
+      ],
+      "flags": 0,
+      "guid": "6101300054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'Design & transition' value chain activity?",
+        "Ensure that products and services meet stakeholder expectations.",
+        "6101300056",
+        "ITIL Foundation book, 4e, Section 4.5.4"
+      ],
+      "flags": 0,
+      "guid": "6101300055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which value chain activity ensures that products and services meet stakeholder expectations?",
+        "Design & transition",
+        "6101300055",
+        "ITIL Foundation book, 4e, Section 4.5.4"
+      ],
+      "flags": 0,
+      "guid": "6101300056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'obtain & build' value chain activity?",
+        "Ensure service components are available when and where they are needed and meet the agreed spec.",
+        "6101300058",
+        "ITIL Foundation book, 4e, Section 4.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101300057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which value chain activity ensures service components are available when and where they are needed and meet the agreed spec?",
+        "obtain & build",
+        "6101300057",
+        "ITIL Foundation book, 4e, Section 4.5.5"
+      ],
+      "flags": 0,
+      "guid": "6101300058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the 'deliver & support' value chain activity?",
+        "Ensure that services are delivered and supported according to agreed spec and stakeholder expectations.",
+        "6101300060",
+        "ITIL Foundation book, 4e, Section 4.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101300059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What value chain activity ensures that services are delivered and supported according to agreed spec and stakeholder expectations?",
+        "deliver & support",
+        "6101300059",
+        "ITIL Foundation book, 4e, Section 4.5.6"
+      ],
+      "flags": 0,
+      "guid": "6101300060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the infosec management practice?",
+        "To protect the information needed by the organization to conduct its business.",
+        "6101300062",
+        "ITIL Foundation book, 4e, Section 5.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101300061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which ITIL practice aims to protect the information needed by the organization to conduct its business?",
+        "Information security management",
+        "6101300061",
+        "ITIL Foundation book, 4e, Section 5.1.3"
+      ],
+      "flags": 0,
+      "guid": "6101300062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Relationship Management?",
+        "To establish and nurture the links between the organization and its stakeholders at strategic and tactical levels.",
+        "6101300064",
+        "ITIL Foundation book, 4e, Section 5.1.9"
+      ],
+      "flags": 0,
+      "guid": "6101300063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels?",
+        "Relationship Management",
+        "6101300063",
+        "ITIL Foundation book, 4e, Section 5.1.9"
+      ],
+      "flags": 0,
+      "guid": "6101300064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Supplier Management?",
+        "To ensure that the organization's suppliers and their performances are managed appropriately to support the seamless provision of quality products and services.",
+        "6101300066",
+        "ITIL Foundation book, 4e, Section 5.1.13"
+      ],
+      "flags": 0,
+      "guid": "6101300065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which practice aims to ensure that the organization's suppliers and their performances are managed appropriately to support the seamless provision of quality products and services.",
+        "Supplier Management",
+        "6101300065",
+        "ITIL Foundation book, 4e, Section 5.1.13"
+      ],
+      "flags": 0,
+      "guid": "6101300066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of IT Asset Management?",
+        "To plan and manage the full lifecycle of all IT assets.",
+        "6101300068",
+        "ITIL Foundation book, 4e, Section 5.2.6"
+      ],
+      "flags": 0,
+      "guid": "6101300067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which practice aims to plan and manage the full lifecycle of all IT assets?",
+        "IT Asset Management",
+        "6101300067",
+        "ITIL Foundation book, 4e, Section 5.2.6"
+      ],
+      "flags": 0,
+      "guid": "6101300068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Monitoring and Event Management?",
+        "To systematically observe services and service components, and record and report selected changes of state identified as events.",
+        "6101300070",
+        "ITIL Foundation book, 4e, Section 5.2.7"
+      ],
+      "flags": 0,
+      "guid": "6101300069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which practice aims to systematically observe services and service components, and record and report selected changes of state identified as events?",
+        "Monitoring and Event Management",
+        "6101300069",
+        "ITIL Foundation book, 4e, Section 5.2.7"
+      ],
+      "flags": 0,
+      "guid": "6101300070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Release Management?",
+        "To make new and changed services and features available for use.",
+        "6101300072",
+        "ITIL Foundation book, 4e, Section 5.2.9"
+      ],
+      "flags": 0,
+      "guid": "6101300071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to make new and changed services and features available for use?",
+        "Release Management",
+        "6101300071",
+        "ITIL Foundation book, 4e, Section 5.2.9"
+      ],
+      "flags": 0,
+      "guid": "6101300072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Service Configuration Management?",
+        "To ensure that good information about the configuration of services is available.",
+        "6101300074",
+        "ITIL Foundation book, 4e, Section 5.2.11"
+      ],
+      "flags": 0,
+      "guid": "6101300073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to ensure that good information about the configuration of services is available?",
+        "Service Configuration Management",
+        "6101300073",
+        "ITIL Foundation book, 4e, Section 5.2.11"
+      ],
+      "flags": 0,
+      "guid": "6101300074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Deployment Management?",
+        "To move new or changed hardware, software, documentation, processes, or any other component to live environments.",
+        "6101300076",
+        "ITIL Foundation book, 4e, Section 5.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101300075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to move new or changed hardware, software, documentation, processes, or any other component to live environments?",
+        "Deployment Management",
+        "6101300075",
+        "ITIL Foundation book, 4e, Section 5.3.1"
+      ],
+      "flags": 0,
+      "guid": "6101300076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Continual Improvement?",
+        "To align the organization's practices and services with changing business needs through the ongoing improvement of products, services, and practices, or any element involved in the management of products and services.",
+        "6101300078",
+        "ITIL Foundation book, 4e, Section 5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101300077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to align the organization’s practices and services with changing business needs through the ongoing improvement of products, services, and practices, or any element involved in the management of products and services?",
+        "Continual Improvement",
+        "6101300077",
+        "ITIL Foundation book, 4e, Section 5.1.2"
+      ],
+      "flags": 0,
+      "guid": "6101300078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Change Control (Change Enablement)?",
+        "To maximize the number of successful service and product changes by ensuring that risks have been properly assessed, authorizing changes to proceed, and managing the change schedule.",
+        "6101300080",
+        "ITIL Foundation book, 4e, Section 5.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101300079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to maximize the number of successful service and product changes by ensuring that risks have been properly assessed, authorizing changes to proceed, and managing the change schedule?",
+        "Change Control / Change Enablement",
+        "6101300079",
+        "ITIL Foundation book, 4e, Section 5.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101300080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Incident Management?",
+        "To minimize the negative impact of incidents by restoring normal service operation as quickly as possible.",
+        "6101300082",
+        "ITIL Foundation book, 4e, Section 5.2.5"
+      ],
+      "flags": 0,
+      "guid": "6101300081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to minimize the negative impact of incidents by restoring normal service operation as quickly as possible.",
+        "Incident Management",
+        "6101300081",
+        "ITIL Foundation book, 4e, Section 5.2.5"
+      ],
+      "flags": 0,
+      "guid": "6101300082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Problem Management?",
+        "To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.",
+        "6101300084",
+        "ITIL Foundation book, 4e, Section 5.2.8"
+      ],
+      "flags": 0,
+      "guid": "6101300083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors?",
+        "Problem Management",
+        "6101300083",
+        "ITIL Foundation book, 4e, Section 5.2.8"
+      ],
+      "flags": 0,
+      "guid": "6101300084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Service Request Management?",
+        "To support the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.",
+        "6101300086",
+        "ITIL Foundation book, 4e, Section 5.2.16"
+      ],
+      "flags": 0,
+      "guid": "6101300085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to support the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner?",
+        "Service Request Management",
+        "6101300085",
+        "ITIL Foundation book, 4e, Section 5.2.16"
+      ],
+      "flags": 0,
+      "guid": "6101300086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Service Desk?",
+        "To capture demand for incident resolution and service requests. It should also be the entry point and single point of contact for the service provider with all of its users.",
+        "6101300088",
+        "ITIL Foundation book, 4e, Section 5.2.14"
+      ],
+      "flags": 0,
+      "guid": "6101300087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to capture demand for incident resolution and service requests. It should also be the entry point and single point of contact for the service provider with all of its users?",
+        "Service Desk",
+        "6101300087",
+        "ITIL Foundation book, 4e, Section 5.2.14"
+      ],
+      "flags": 0,
+      "guid": "6101300088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Service Level Management?",
+        "To set clear business-based targets for service levels, and to ensure that delivery of services is properly assessed, monitored, and managed against these targets.",
+        "6101300090",
+        "ITIL Foundation book, 4e, Section 5.2.15"
+      ],
+      "flags": 0,
+      "guid": "6101300089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What practice aims to set clear business-based targets for service levels, and to ensure that delivery of services is properly assessed, monitored, and managed against these targets?",
+        "Service Level Management",
+        "6101300089",
+        "ITIL Foundation book, 4e, Section 5.2.15"
+      ],
+      "flags": 0,
+      "guid": "6101300090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    }
+  ]
+}
