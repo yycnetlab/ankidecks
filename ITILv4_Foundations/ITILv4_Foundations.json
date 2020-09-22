@@ -1690,6 +1690,210 @@
         "ITILv4",
         "Foundations"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between an incident and an event?",
+        "An incident is an unplanned interruption or degredation of service.  An event is a significant change of state for a service.",
+        "6101300092",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term to describe a significant change of state for a service and what is the term for a degredation in a service?",
+        "Event (large), Incident (isolated)",
+        "6101300091",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the relationship between a problem and an incident?",
+        "A problem is a cause or potential cause of incidents.",
+        "6101300094",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a cause of potential cause of incidents?",
+        "Problems",
+        "6101300093",
+        "ITIL Foundation book, 4e, Glossary"
+      ],
+      "flags": 0,
+      "guid": "6101300094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the types of changes?",
+        "Standard (low risk, pre-authorized, well understood)<br>Normal<br>Emergency (not scheduled, expedited)",
+        "6101300096",
+        "ITIL Foundation book, 4e, Section 5.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101300095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Standard, Normal, and Emergency are types of what?",
+        "Changes",
+        "6101300095",
+        "ITIL Foundation book, 4e, Section 5.2.4"
+      ],
+      "flags": 0,
+      "guid": "6101300096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps in the Service Value Chain?",
+        "Plan<br>Improve<br>Engage<br>Design &amp transition<br>Obtain &amp Build<br>Deliver &amp Support",
+        "6101300098",
+        "ITIL Foundation book, 4e, Section 4.5"
+      ],
+      "flags": 0,
+      "guid": "6101300097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these steps found: Plan, Improve, Engage, Design &amp transition, Obtain &amp Build, Deliver &amp Support",
+        "Service Value Chain",
+        "6101300097",
+        "ITIL Foundation book, 4e, Section 4.5"
+      ],
+      "flags": 0,
+      "guid": "6101300098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the phases of problem management?",
+        "Problem identification<br>Problem Control<br>Error Control",
+        "6101300100",
+        "ITIL Foundation book, 4e, Section 5.2.8"
+      ],
+      "flags": 0,
+      "guid": "6101300099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these phases found?  Problem identification, problem control, error control",
+        "Problem Management",
+        "6101300099",
+        "ITIL Foundation book, 4e, Section 5.2.8"
+      ],
+      "flags": 0,
+      "guid": "6101300100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Service Value Chain?",
+        "Key activities to respond to demand and create value through new products and services.",
+        "6101300102",
+        "ITIL Foundation book, 4e, Section 4.5"
+      ],
+      "flags": 0,
+      "guid": "6101300101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for key activities to respond to demand and create value through new products and services?",
+        "Service Value Chain",
+        "6101300101",
+        "ITIL Foundation book, 4e, Section 4.5"
+      ],
+      "flags": 0,
+      "guid": "6101300102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "ITILv4",
+        "Foundations"
+      ]
     }
   ]
 }
