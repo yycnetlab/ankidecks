@@ -205,6 +205,7 @@ def GenerateUniqueGUID(json, prefix, num):  # Generate unique GUID for the card 
             forwardGUID.append(
                 str(prefix) + "0900001")  # If GUID with prefix doesn't exist, create the first one for forwards card
             reverseGUID.append(int(forwardGUID[cardIndex]) + 1)  # Reverse card is forwardsGUID + 1
+            foundPrefix = True
         elif foundPrefix:
             try:
                 forwardGUID.append(int(
