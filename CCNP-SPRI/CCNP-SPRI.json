@@ -1,83 +1,79 @@
 {
-    "__type__": "Deck",
-    "children": [],
-    "crowdanki_uuid": "29adffea-c8df-4ac9-81ba-ca68035f12ac",
-    "deck_config_uuid": "29adffea-c8df-4ac9-81ba-ca68035f12ac",
-    "deck_configurations": [
-      {
-        "__type__": "DeckConfig",
-        "autoplay": true,
-        "crowdanki_uuid": "29adffea-c8df-4ac9-81ba-ca68035f12ac",
-        "dyn": false,
-        "lapse": {
-          "delays": [
-            10
-          ],
-          "leechAction": 0,
-          "leechFails": 8,
-          "minInt": 1,
-          "mult": 0.0
-        },
-        "maxTaken": 60,
-        "name": "Default",
-        "new": {
-          "bury": true,
-          "delays": [
-            1,
-            10
-          ],
-          "initialFactor": 2500,
-          "ints": [
-            1,
-            4,
-            7
-          ],
-          "order": 1,
-          "perDay": 20,
-          "separate": true
-        },
-        "replayq": true,
-        "rev": {
-          "bury": true,
-          "ease4": 1.3,
-          "fuzz": 0.05,
-          "ivlFct": 1.0,
-          "maxIvl": 36500,
-          "minSpace": 1,
-          "perDay": 100
-        },
-        "timer": 0
-      }
-],
-"desc": "",
-"dyn": 0,
-"extendNew": 10,
-"extendRev": 50,
-"media_files": [],
-"mid": "1496861969393",
-"name": "CCNP-SPRI",
-"note_models": [
+  "__type__": "Deck",
+  "children": [],
+  "crowdanki_uuid": "29adffea-c8df-4ac9-81ba-ca68035f12ac",
+  "deck_config_uuid": "29adffea-c8df-4ac9-81ba-ca68035f12ac",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "29adffea-c8df-4ac9-81ba-ca68035f12ac",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": true,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": true,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 100
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [],
+  "mid": "1496861969393",
+  "name": "CCNP-SPRI",
+  "note_models": [
     {
       "__type__": "NoteModel",
       "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-           "flds": [
+      "flds": [
         {
           "font": "Arial",
-          "media": [
-
-          ],
+          "media": [],
           "name": "Front",
           "ord": 0,
           "rtl": false,
           "size": 20,
           "sticky": false
         },
-               {
+        {
           "font": "Arial",
-          "media": [
-
-          ],
+          "media": [],
           "name": "Back",
           "ord": 1,
           "rtl": false,
@@ -86,9 +82,7 @@
         },
         {
           "font": "Arial",
-          "media": [
-
-          ],
+          "media": [],
           "name": "RerverseCardID",
           "ord": 2,
           "rtl": false,
@@ -97,9 +91,7 @@
         },
         {
           "font": "Arial",
-          "media": [
-
-          ],
+          "media": [],
           "name": "Reference",
           "ord": 3,
           "rtl": false,
@@ -120,9 +112,7 @@
         ]
       ],
       "sortf": 0,
-      "tags": [
-
-      ],
+      "tags": [],
       "tmpls": [
         {
           "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
@@ -135,9 +125,7 @@
         }
       ],
       "type": 0,
-      "vers": [
-
-      ]
+      "vers": []
     }
   ],
   "notes": [
@@ -153,8 +141,398 @@
       "flags": 0,
       "guid": "6101500000",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are the cards in this deck tagged?",
+        "Cards are tagged with both their technology feature (in the form of FEATURE:<feature>) and with their exam topic (SPRI:<objective> or SPRI:NotTested for topics that are not on the blueprint). Other tags exist, such as \"NotForStudy\", which defines cards that are references (such as this one).",
+        "9330900002",
+        "No reference"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
-
+        "NotForStudy"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How many different types of tags are there for these cards?",
+        "3 - feature, exam objective, and miscellaneous tags (e.g. NotForStudy).",
+        "9330900001",
+        "No reference"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "NotForStudy"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the SPRI Exam?",
+        "300-510 - CCNP Service Provider (CCNP SP) advanced routing concentration",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/spri-300-510.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the exam code for the CCNP SP advanced routing concentration?",
+        "300-510 SPRI",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/spri-300-510.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the seven LFA repair path attributes?",
+        "srlg, repair-path, interface-disjoint, lowest-metric, linecard-disjoint, node-protecting, and broadcast-interface-disjoint",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What would srlg and repair-path be an example of in the context of OSPF LFA?",
+        "Repair path attributes",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What feature in EIGRP is OSPF LFA most functionally similar to?",
+        "EIGRP feasible successors / EIGRP IP FRR",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "EIGRP",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "EIGRP feasible successors are most comparable to what OSPF feature?",
+        "OSPF Loop-free Alternate (LFA)",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "EIGRP",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the first repair path attribute by order of highest to lowest priority?",
+        "Shared Risk Link Groups (SRLGs)",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What order is SRLG in in the priority order for OSPF LFA repair path attributes?",
+        "First",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does OSPF Loop Free Alternate-Fast Reroute (LFA FRR) do in the context of high availability?",
+        "Reduce OSPF convergence times by having a \"protecting router\" storing a precalculated backup path in the RIB and then diverting traffic to it when the primary path fails, thus protecting the path.",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OSPF feature ensures high availability by reducing convergence times by protecting the path to a network?",
+        "OSPF Loop Free Alternate-Fast Reroute (LFA FRR)",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What quality of interfaces would you use to determine whether they belong together in a shared risk link group (SRLG)?",
+        "Whether they are fate-shared - aka whether they are likely to go down/fail simultaneously, should a failure occur",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "If you have two interfaces that are fate-shared, what type of group should be formed to group those interfaces together for use witH OSPF LFA?",
+        "SRLGs - Shared Risk Link Groups",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.7.a",
+        "OSPF",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What BGP feature is OSPF LFA FRR similar to?",
+        "BGP Prefix Independent Convergence (PIC) - aka bgp add-path",
+        "9330900002",
+        "http://brbccie.blogspot.com/2014/09/ospf-lfa-remote-lfa.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "BGP",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What OSPF feature is BGP PIC most related to?",
+        "OSPF LFA FRR - Loop-Free Alternate Fast Reroute",
+        "9330900001",
+        "http://brbccie.blogspot.com/2014/09/ospf-lfa-remote-lfa.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "BGP",
+        "High Availability"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How would you configure a BGP dynamic neighbor for 10.0.0.0/24 for all ASes in the AS-list TEST?",
+        "neighbor 10.0.0.0/24 remote-as-list TEST",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/bgp/63x/b-bgp-cg-ncs5500-63x/b-bgp-cg-ncs5500-63x_chapter_0101.html#:~:text=watch%20timeout%20Close-,BGP%20Dynamic%20Neighbors,as%20a%20subnet%20IP%20address."
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.5.h",
+        "BGP",
+        "Scalability Features",
+        "IOS-XR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What feature does the command neighbor x.x.x.x/y configure in IOS-XR?",
+        "BGP dynamic neighbors",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/bgp/63x/b-bgp-cg-ncs5500-63x/b-bgp-cg-ncs5500-63x_chapter_0101.html#:~:text=watch%20timeout%20Close-,BGP%20Dynamic%20Neighbors,as%20a%20subnet%20IP%20address."
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.5.h",
+        "BGP",
+        "Scalability Features",
+        "IOS-XR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In IOS-XR, what command would you issue to convert a default-configuration IS to Level-1-2?",
+        "Nothing - routers are, by default, Level-1-2.",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.3.a",
+        "IS-IS",
+        "IOS-XR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "T/F: In IOS-XR, routers are Level-1-2 by default with IS-IS.",
+        "True",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.3.a",
+        "IS-IS",
+        "IOS-XR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the maximum number of IS-IS LSPs that a router can generate?",
+        "4 - A router that is the designated intermediate system (DIS) on the segment for both L1 and L2 generates 4 LSPs - two regular router LSPs: L1/L2 and two psuedonode LSPs: L1/L2",
+        "9330900002",
+        "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
+      ],
+      "flags": 0,
+      "guid": "9330900001",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.3.a",
+        "IS-IS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "A router has generated 4 LSPs in the LSPDB - what does this reveal about the router?",
+        "It is a Level-1-2 IS-Type and is the DIS for both levels.",
+        "9330900001",
+        "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
+      ],
+      "flags": 0,
+      "guid": "9330900002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:1.3.a",
+        "IS-IS"
       ]
     }
   ]
