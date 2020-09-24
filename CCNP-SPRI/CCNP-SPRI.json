@@ -181,11 +181,11 @@
       "fields": [
         "What is the SPRI Exam?",
         "300-510 - CCNP Service Provider (CCNP SP) advanced routing concentration",
-        "9330900002",
+        "9330900004",
         "https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/spri-300-510.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900003",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "Miscellaneous"
@@ -197,11 +197,11 @@
       "fields": [
         "What is the exam code for the CCNP SP advanced routing concentration?",
         "300-510 SPRI",
-        "9330900001",
+        "9330900003",
         "https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/spri-300-510.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900004",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "Miscellaneous"
@@ -213,11 +213,11 @@
       "fields": [
         "What are the seven LFA repair path attributes?",
         "srlg, repair-path, interface-disjoint, lowest-metric, linecard-disjoint, node-protecting, and broadcast-interface-disjoint",
-        "9330900002",
+        "9330900006",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900005",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -231,11 +231,11 @@
       "fields": [
         "What would srlg and repair-path be an example of in the context of OSPF LFA?",
         "Repair path attributes",
-        "9330900001",
+        "9330900005",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900006",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -249,11 +249,11 @@
       "fields": [
         "What feature in EIGRP is OSPF LFA most functionally similar to?",
         "EIGRP feasible successors / EIGRP IP FRR",
-        "9330900002",
+        "9330900008",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900007",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:NotTested",
@@ -268,11 +268,11 @@
       "fields": [
         "EIGRP feasible successors are most comparable to what OSPF feature?",
         "OSPF Loop-free Alternate (LFA)",
-        "9330900001",
+        "9330900007",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900008",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:NotTested",
@@ -287,11 +287,11 @@
       "fields": [
         "What is the first repair path attribute by order of highest to lowest priority?",
         "Shared Risk Link Groups (SRLGs)",
-        "9330900002",
+        "9330900010",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900009",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -305,11 +305,11 @@
       "fields": [
         "What order is SRLG in in the priority order for OSPF LFA repair path attributes?",
         "First",
-        "9330900001",
+        "9330900009",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900010",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -323,11 +323,11 @@
       "fields": [
         "What does OSPF Loop Free Alternate-Fast Reroute (LFA FRR) do in the context of high availability?",
         "Reduce OSPF convergence times by having a \"protecting router\" storing a precalculated backup path in the RIB and then diverting traffic to it when the primary path fails, thus protecting the path.",
-        "9330900002",
+        "9330900012",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900011",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -341,11 +341,11 @@
       "fields": [
         "What OSPF feature ensures high availability by reducing convergence times by protecting the path to a network?",
         "OSPF Loop Free Alternate-Fast Reroute (LFA FRR)",
-        "9330900001",
+        "9330900011",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900012",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -359,11 +359,11 @@
       "fields": [
         "What quality of interfaces would you use to determine whether they belong together in a shared risk link group (SRLG)?",
         "Whether they are fate-shared - aka whether they are likely to go down/fail simultaneously, should a failure occur",
-        "9330900002",
+        "9330900014",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900013",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -377,11 +377,11 @@
       "fields": [
         "If you have two interfaces that are fate-shared, what type of group should be formed to group those interfaces together for use witH OSPF LFA?",
         "SRLGs - Shared Risk Link Groups",
-        "9330900001",
+        "9330900013",
         "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-3s/iro-xe-3s-book/iro-lfa-frr.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900014",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.7.a",
@@ -395,11 +395,11 @@
       "fields": [
         "What BGP feature is OSPF LFA FRR similar to?",
         "BGP Prefix Independent Convergence (PIC) - aka bgp add-path",
-        "9330900002",
+        "9330900016",
         "http://brbccie.blogspot.com/2014/09/ospf-lfa-remote-lfa.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900015",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:NotTested",
@@ -414,11 +414,11 @@
       "fields": [
         "What OSPF feature is BGP PIC most related to?",
         "OSPF LFA FRR - Loop-Free Alternate Fast Reroute",
-        "9330900001",
+        "9330900015",
         "http://brbccie.blogspot.com/2014/09/ospf-lfa-remote-lfa.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900016",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:NotTested",
@@ -433,11 +433,11 @@
       "fields": [
         "How would you configure a BGP dynamic neighbor for 10.0.0.0/24 for all ASes in the AS-list TEST?",
         "neighbor 10.0.0.0/24 remote-as-list TEST",
-        "9330900002",
+        "9330900018",
         "https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/bgp/63x/b-bgp-cg-ncs5500-63x/b-bgp-cg-ncs5500-63x_chapter_0101.html#:~:text=watch%20timeout%20Close-,BGP%20Dynamic%20Neighbors,as%20a%20subnet%20IP%20address."
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900017",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.5.h",
@@ -452,11 +452,11 @@
       "fields": [
         "What feature does the command neighbor x.x.x.x/y configure in IOS-XR?",
         "BGP dynamic neighbors",
-        "9330900001",
+        "9330900017",
         "https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/bgp/63x/b-bgp-cg-ncs5500-63x/b-bgp-cg-ncs5500-63x_chapter_0101.html#:~:text=watch%20timeout%20Close-,BGP%20Dynamic%20Neighbors,as%20a%20subnet%20IP%20address."
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900018",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.5.h",
@@ -471,11 +471,11 @@
       "fields": [
         "In IOS-XR, what command would you issue to convert a default-configuration IS to Level-1-2?",
         "Nothing - routers are, by default, Level-1-2.",
-        "9330900002",
+        "9330900020",
         "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900019",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.3.a",
@@ -489,11 +489,11 @@
       "fields": [
         "T/F: In IOS-XR, routers are Level-1-2 by default with IS-IS.",
         "True",
-        "9330900001",
+        "9330900019",
         "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900020",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.3.a",
@@ -507,11 +507,11 @@
       "fields": [
         "What are the maximum number of IS-IS LSPs that a router can generate?",
         "4 - A router that is the designated intermediate system (DIS) on the segment for both L1 and L2 generates 4 LSPs - two regular router LSPs: L1/L2 and two psuedonode LSPs: L1/L2",
-        "9330900002",
+        "9330900022",
         "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
       ],
       "flags": 0,
-      "guid": "9330900001",
+      "guid": "9330900021",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.3.a",
@@ -524,11 +524,11 @@
       "fields": [
         "A router has generated 4 LSPs in the LSPDB - what does this reveal about the router?",
         "It is a Level-1-2 IS-Type and is the DIS for both levels.",
-        "9330900001",
+        "9330900021",
         "https://www.cisco.com/c/en/us/td/docs/routers/xr12000/software/xr12k_r4-0/routing/configuration/guide/rc40xr12k_chapter3.html"
       ],
       "flags": 0,
-      "guid": "9330900002",
+      "guid": "9330900022",
       "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
       "tags": [
         "SPRI:1.3.a",
