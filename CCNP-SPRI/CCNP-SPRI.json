@@ -534,6 +534,152 @@
         "SPRI:1.3.a",
         "IS-IS"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three requirements for a loopback used to form an OSPF sham-link?",
+        "Loopback must a.) be associated with a VRF, b.) not participate/be advertised in OSPF, and c.) be advertised in BGP between Provider Edges",
+        "9330900024",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-sy/iro-15-sy-book/iro-sham-link.html#GUID-6ADC021B-F713-44A3-857B-05AC707CAA5B"
+      ],
+      "flags": 0,
+      "guid": "9330900023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For which OSPF feature do you need a loopback that's in a VRF, not advertised in OSPF, and advertised in BGP?",
+        "OSPF Sham-Links",
+        "9330900023",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-sy/iro-15-sy-book/iro-sham-link.html#GUID-6ADC021B-F713-44A3-857B-05AC707CAA5B"
+      ],
+      "flags": 0,
+      "guid": "9330900024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of LSAs are advertised over an OSPF Sham-Link?",
+        "Type 1 LSA",
+        "9330900026",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-sy/iro-15-sy-book/iro-sham-link.html#GUID-6ADC021B-F713-44A3-857B-05AC707CAA5B"
+      ],
+      "flags": 0,
+      "guid": "9330900025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "CE-1 and CE-2 are linked together via both an MPLS L3 VPN and a link through another provider's L2 VPN. What needs to be done on the L3VPN PEs for CE-1 and CE-2 to prefer the path through the L3VPN?",
+        "Configure a sham-link on the PEs",
+        "9330900025",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-sy/iro-15-sy-book/iro-sham-link.html#GUID-6ADC021B-F713-44A3-857B-05AC707CAA5B"
+      ],
+      "flags": 0,
+      "guid": "9330900026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "CE-1 and CE-2 are linked together via an MPLS L3 VPN. BGP is being run between the PEs. OSPF is being used as a CE-PE routing protocol. PE-1 redistributes the OSPF routes from CE-1 into MP-BGP VPNv4 and PE-2 redistributes the routes from BGP back into OSPF with CE-2. Assume the process ID of all routers is 1. What type of LSA is seen on CE-2?",
+        "Type 3 LSA",
+        "9330900028",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-sy/iro-15-sy-book/iro-sham-link.html#GUID-6ADC021B-F713-44A3-857B-05AC707CAA5B"
+      ],
+      "flags": 0,
+      "guid": "9330900027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Under what circumstance would redistribution into OSPF occur with a Type-3 LSA, with no special configurations in OSPF?",
+        "Redistribution from MP-BGP VPNv4 into OSPF within the same OSPF Domain-ID",
+        "9330900027",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-sy/iro-15-sy-book/iro-sham-link.html#GUID-6ADC021B-F713-44A3-857B-05AC707CAA5B"
+      ],
+      "flags": 0,
+      "guid": "9330900028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "OSPF",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What BGP extended community attribute allows for loop prevention in EIGRP in an MPLS L3 VPN by preventing readvertisement of a prefix back to a source site?",
+        "Site-of-Origin (SoO)",
+        "9330900030",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book/ire-mpls-vpn.html"
+      ],
+      "flags": 0,
+      "guid": "9330900029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "EIGRP",
+        "BGP",
+        "MPLS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is the EIGRP Site of Origin attribute encoded in what protocol?",
+        "BGP extended community attribute",
+        "9330900029",
+        "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book/ire-mpls-vpn.html"
+      ],
+      "flags": 0,
+      "guid": "9330900030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+        "SPRI:NotTested",
+        "EIGRP",
+        "BGP",
+        "MPLS"
+      ]
     }
   ]
 }
