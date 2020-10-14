@@ -1,0 +1,3861 @@
+{
+  "__type__": "Deck",
+  "children": [
+
+  ],
+  "crowdanki_uuid": "bf9fd708-2042-11e9-bd71-acbc3287506b",
+  "deck_config_uuid": "bfa32ca8-2042-11e9-9b3a-acbc3287506b",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "bfa32ca8-2042-11e9-9b3a-acbc3287506b",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": false,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "order": 1,
+        "perDay": 20,
+        "separate": true
+      },
+      "replayq": true,
+      "rev": {
+        "bury": false,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "hardFactor": 1.2,
+        "ivlFct": 1,
+        "maxIvl": 36500,
+        "minSpace": 1,
+        "perDay": 200
+      },
+      "timer": 0
+    }
+  ],
+  "desc": "",
+  "dyn": 0,
+  "extendNew": 10,
+  "extendRev": 50,
+  "media_files": [
+
+  ],
+  "name": "CyberOps Associate CBROPS 200-201",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "RerverseCardID",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [
+
+          ],
+          "name": "Reference",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "name": "Basic",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [
+
+      ],
+      "tmpls": [
+        {
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/><br/>\nSee: <br/>{{Reference}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}"
+        }
+      ],
+      "type": 0,
+      "vers": [
+
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Tier 1 (Alert Analyst)?",
+        "monitor incoming alerts, confirm incident has occurred, and escalate to Tier 2.",
+        "6100000003",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000002",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What role monitors incoming alerts, confirms the incident, and escalates?",
+        "SOC Tier 1 (Alert Analyst)",
+        "6100000002",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000003",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the responsibilities of SOC Tier 2 (Incident Responder)?",
+        "Deep investigation and advise remediation",
+        "6100000005",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000004",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who in the SOC does deep investigation and advises remediation?",
+        "SOC Tier 2 (Incident Responder)",
+        "6100000004",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000005",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Tier 3 (SME/Hunter)?",
+        "These experts trace and disect malware, search for potential threats, and implement detection tools.",
+        "6100000007",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000006",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What SOC role implements detection tools, searches for potential threats and disects malware?",
+        "SOC Tier 3 (SME/Hunter)",
+        "6100000006",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000007",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the duties of SOC Manager?",
+        "Manage all resources in the SOC.  Act as a point of contact.",
+        "6100000009",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000008",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the SOC who acts as a point of contact and manages all SOC resources?",
+        "SOC Manager",
+        "6100000008",
+        "Section 1.2.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000009",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_CURRENT_CONFIG hive?  (Windows Registry)",
+        "Data for the current hardware profile",
+        "6100000011",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000010",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has current hardware profile data?",
+        "HKEY_CURRENT_CONFIG",
+        "6100000010",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000011",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_LOCAL_MACHINE hive?  (Windows Registry)",
+        "System-related data",
+        "6100000013",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000012",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has system-related data?",
+        "HKEY_LOCAL_MACHINE",
+        "6100000012",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000013",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_CLASSES_ROOT hive?  (Windows Registry)",
+        "Object Linking and Embedding (OLE) registrations",
+        "6100000015",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000014",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has data for Object Linking and Embedding (OLE) registrations?",
+        "HKEY_CLASSES_ROOT",
+        "6100000014",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000015",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_USERS hive?  (Windows Registry)",
+        "data for all users on the host",
+        "6100000017",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000016",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has data about the users on the host?",
+        "HKEY_USERS",
+        "6100000016",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000017",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is stored in the HKEY_CURRENT_USER hive?  (Windows Registry)",
+        "data concerning the currently logged in user",
+        "6100000019",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000018",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which Windows Registry hive has data about the current logged in user?",
+        "HKEY_CURRENT_USER",
+        "6100000018",
+        "Section 2.1.2.8"
+      ],
+      "flags": 0,
+      "guid": "6100000019",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of an Security Operations Center (SOC)?",
+        "Process, Technology, and People",
+        "6100000021",
+        "Section 1.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000020",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Process, Technology, and People form what?",
+        "A Security Operations Center (SOC)",
+        "6100000020",
+        "Section 1.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000021",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Windows Management Instrumentation (WMI)?",
+        "Manage remote computers.  Collect information and change settings.",
+        "6100000023",
+        "Section 2.2.1.4, SECFND OCG Chapter 8"
+      ],
+      "flags": 0,
+      "guid": "6100000022",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Windows what is used to manage remote computers?",
+        "Windows Management Instrumentation (WMI)",
+        "6100000022",
+        "Section 2.2.1.4, SECFND OCG Chapter 8"
+      ],
+      "flags": 0,
+      "guid": "6100000023",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For Linux filesystem permissions what is the difference between the execute permission being set on a file versus a directory?",
+        "Execute on a file allows you to run it like a program.  Execute on a directory allows you to enter the directory.",
+        "6100000025",
+        "Section 3.2.2.2, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000024",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Linux filesystem permission behaves differently between files and directories?",
+        "The Execute permission.",
+        "6100000024",
+        "Section 3.2.2.2, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000025",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are authentication related events stored in Debian-based distros?",
+        "/var/log/auth.log",
+        "6100000027",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000026",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which distros use auth.log for authentication related events?",
+        "Debian",
+        "6100000026",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000027",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are authentication related events stored in RedHat-based distros?",
+        "/var/log/secure",
+        "6100000029",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000028",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which distros use /var/log/secure for authentication related events?",
+        "RedHat",
+        "6100000028",
+        "Section 3.2.1.3, SECFND OCG Chapter 9"
+      ],
+      "flags": 0,
+      "guid": "6100000029",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the current default filesystem on Mac OS?",
+        "Apple File System (APFS)",
+        "6100000031",
+        "Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000030",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where is the Apple File System (APFS) used?",
+        "It is the current default on Mac OS.",
+        "6100000030",
+        "Section 3.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000031",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a SIEM, what is the purpose of correlation?",
+        "Examine events from multiple sensors to speed detection.",
+        "6100000033",
+        "Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000032",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What SIEM function examines events from multiple sensors to speed detection?",
+        "Correlation",
+        "6100000032",
+        "Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000033",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a SIEM, what is the purpose of aggregation?",
+        "Reduce event volume by removing duplicates.",
+        "6100000035",
+        "Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000034",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What SIEM function reduces volume by removing duplicates?",
+        "Aggregation",
+        "6100000034",
+        "Section 7.1.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000035",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol does TACACS+ use?",
+        "TCP",
+        "6100000037",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000036",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which authentication protocol uses TCP?",
+        "TACACS+",
+        "6100000036",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000037",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What transport protocol does RADIUS use?",
+        "UDP",
+        "6100000039",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000038",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which authentication protocol uses UDP?",
+        "RADIUS",
+        "6100000038",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000039",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does TACACS+ encrypt?",
+        "The entire packet",
+        "6100000041",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000040",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which authentication protocol encrypts the entire packet?",
+        "TACACS+",
+        "6100000040",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000041",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does RADIUS encrypt?",
+        "The password",
+        "6100000043",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000042",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which authentication protocol encrypts the password?",
+        "RADIUS",
+        "6100000042",
+        "Section 5.2.2.10"
+      ],
+      "flags": 0,
+      "guid": "6100000043",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What 802.11 frame includes the SSID?",
+        "The beacon frame",
+        "6100000045",
+        "Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000044",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the 802.11 beacon frame include?",
+        "The SSID",
+        "6100000044",
+        "Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000045",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "802.11: If the AP doesn't send beacon frames, what mode must the client use?",
+        "Active mode",
+        "6100000047",
+        "Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000046",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "802.11: What is the difference between client-side Active and Passive mode?",
+        "In Active mode the client will try to connect to a hidden SSID.",
+        "6100000046",
+        "Section 5.1.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000047",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the Hierarchical Network Design what is the purpose of the Distribution layer?",
+        "Implement policy-based connectivity.  Acts as a control boundary.",
+        "6100000049",
+        "NetAcad CCNAv6 Connecting Networks, http://www.ciscopress.com/articles/article.asp?p=2202410&seqNum=4"
+      ],
+      "flags": 0,
+      "guid": "6100000048",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which layer in the Hierarchical Network Design model acts as a control boundary and provides policy-based connectivity?",
+        "Distribution Layer",
+        "6100000048",
+        "NetAcad CCNAv6 Connecting Networks, http://www.ciscopress.com/articles/article.asp?p=2202410&seqNum=4"
+      ],
+      "flags": 0,
+      "guid": "6100000049",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between physical and logical topologies?",
+        "Physical refers to physical links.  Logical refers to how frames flow between nodes.",
+        "6100000051",
+        "Section 5.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000050",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which network topology is concerned with how frames flow between nodes?",
+        "Logical topology",
+        "6100000050",
+        "Section 5.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000051",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a Local Route Interface?",
+        "A route that is added when the interfaces comes up.  In IPv4 it is a /32 route.",
+        "6100000053",
+        "Section 5.1.1.6"
+      ],
+      "flags": 0,
+      "guid": "6100000052",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When an interface comes up, what IPv4/32 route is added?",
+        "A Local Route Interface",
+        "6100000052",
+        "Section 5.1.1.6"
+      ],
+      "flags": 0,
+      "guid": "6100000053",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is vishing?",
+        "A phishing attack that uses the telephone.",
+        "6100000055",
+        "Section 6.2.2.7"
+      ],
+      "flags": 0,
+      "guid": "6100000054",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What phishing attack uses the telephone?",
+        "Vishing",
+        "6100000054",
+        "Section 6.2.2.7"
+      ],
+      "flags": 0,
+      "guid": "6100000055",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the Pretexting attack?",
+        "When an attacker lies about one thing to get access to something else.",
+        "6100000057",
+        "Section 6.2.2.6"
+      ],
+      "flags": 0,
+      "guid": "6100000056",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the attack called when the attacker lies about one thing to gain access to something else?",
+        "Pretexting",
+        "6100000056",
+        "Section 6.2.2.6"
+      ],
+      "flags": 0,
+      "guid": "6100000057",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the components of a worm?",
+        "Enabling vulnerability, propagation mechanism, payload.",
+        "6100000059",
+        "Section 6.2.1.6"
+      ],
+      "flags": 0,
+      "guid": "6100000058",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Together an enabling vulnerability, propagation mechanism, and payload are components of what attack?",
+        "Worm",
+        "6100000058",
+        "Section 6.2.1.6"
+      ],
+      "flags": 0,
+      "guid": "6100000059",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an access attack?",
+        "An attack that targets weaknesses in authentication and access.",
+        "6100000061",
+        "Section 6.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000060",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which attack targets weaknesses in passwords or trust relationships?",
+        "Access attack",
+        "6100000060",
+        "Section 6.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000061",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of an access attack?",
+        "Privilege escallation, system access, data retrieval",
+        "6100000063",
+        "Section 6.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000062",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of attack would be used to escalate privileges, gain access, or retrieve data?",
+        "Access attack",
+        "6100000062",
+        "Section 6.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "6100000063",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define the term: key length or key size",
+        "It is the length in bits of a cryptographic key.",
+        "6100000065",
+        "Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "6100000064",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term defines the length of a cryptographic key?",
+        "key size / key length",
+        "6100000064",
+        "Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "6100000065",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define the term: key space",
+        "The number of possible keys of a given length",
+        "6100000067",
+        "Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "6100000066",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term represents the number of possible keys of a given length?",
+        "key space",
+        "6100000066",
+        "Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "6100000067",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the DNS Shadowing attack?",
+        "An attacker compromises a parent domain then create multiple subdomains.",
+        "6100000069",
+        "Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000068",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what attack will subdomains be created after compromising a parent domain?",
+        "DNS Shadowing",
+        "6100000068",
+        "Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000069",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which group offers Automated Indicator Sharing (AIS)?",
+        "US Department of Homeland Security",
+        "6100000071",
+        "Section 8.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000070",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What cyber threat indicators does the DHS share?",
+        "Automated Indicator Sharing (AIS)",
+        "6100000070",
+        "Section 8.3.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000071",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why has the Security Artichoke replaced the Security Onion?",
+        "With each leaf of the artichoke that is compromised, more information becomes available to the attacker.",
+        "6100000073",
+        "Section 8.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "6100000072",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "The idea of chipping away at layers of security to gain more information is illustrated in what analogy?",
+        "Security Artichoke",
+        "6100000072",
+        "Section 8.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "6100000073",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of STIX?",
+        "To standardize language for sharing cyberthreat intelligence",
+        "6100000075",
+        "Section 8.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000074",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What standardizes language for sharing cyberthreat intelligence?",
+        "STIX",
+        "6100000074",
+        "Section 8.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000075",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of Trusted Automated eXchange of Indicator Information (TAXII)?",
+        "It's a protocol used to share cyberthreat intelligence (like STIX).",
+        "6100000077",
+        "Section 8.3.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000076",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What protocol can share cyberthreat intelligence?",
+        "Trusted Automated eXchange of Indicator Information (TAXII)",
+        "6100000076",
+        "Section 8.3.2.5, SECFND OCG p170"
+      ],
+      "flags": 0,
+      "guid": "6100000077",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "List two symmetric encryption algorithms.",
+        "(3)DES, AES",
+        "6100000079",
+        "Section 9.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "6100000078",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "DES, 3DES, and AES are examples of what kind of encryption algorithms?",
+        "Symmetric",
+        "6100000078",
+        "Section 9.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "6100000079",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What class of PKI Certificate is used for testing?",
+        "Class 0",
+        "6100000081",
+        "Section 9.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000080",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a PKI Class 0 certificate?",
+        "Testing",
+        "6100000080",
+        "Section 9.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000081",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe what happens as PKI Class numbers increase.",
+        "The identity verification becomes more rigorous.",
+        "6100000083",
+        "Section 9.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000082",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "As PKI identity verification becomes more rigorous, what happens to the certificate class?",
+        "The class number increases",
+        "6100000082",
+        "Section 9.2.2.3"
+      ],
+      "flags": 0,
+      "guid": "6100000083",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between hashing and signing?",
+        "Hashing will detect accidental changes only.  Signing will also detect deliberate changes.",
+        "6100000085",
+        "Section 9.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000084",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be used to detect accidental changes vs deliberate changes?",
+        "Hashing: accidental.  Signing: accidental and deliberate",
+        "6100000084",
+        "Section 9.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000085",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of secure communication?",
+        "Data integrity, non-repudiation, data confidentiality, and origin authentication",
+        "6100000087",
+        "Section 9.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000086",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Together; data integrity, non-repudiation, data confidentiality, and origin authentication form what?",
+        "Elements of secure communication.",
+        "6100000086",
+        "Section 9.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000087",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What algorithms can be used to generate and verify signatures?",
+        "RSA, DSA, ECDSA",
+        "6100000089",
+        "Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000088",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are RSA, DSA, and ECDSA capable of?",
+        "Generating and verifying signatures.",
+        "6100000088",
+        "Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000089",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe three methods antimalware programs can detect viruses.",
+        "Signatures, Heuristics, Behaviour",
+        "6100000091",
+        "Section 10.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000090",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the differences between Signatures, Heuristics, and Behavior for virus detection.",
+        "Signature: uses hashes.  Heuristics: looking for suspect code in an application or other features.  Behaviour: modifying system files, accessing botnets.",
+        "6100000090",
+        "Section 10.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000091",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a host-based intrusion detection (and prevention) system?",
+        "Any combination of antimalware running on the host itself.",
+        "6100000093",
+        "Section 10.1.2.2 & CCNA CyberOps SECFND OCG Ch 4"
+      ],
+      "flags": 0,
+      "guid": "6100000092",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is it called when a combination of antimalware is running on a host?",
+        "HIDS / HIPDS",
+        "6100000092",
+        "Section 10.1.2.2 & CCNA CyberOps SECFND OCG Ch 4"
+      ],
+      "flags": 0,
+      "guid": "6100000093",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are three activities for identifying vulnerabilities?",
+        "Risk Analysis, Vulnerability Assessment, Penetration Testing",
+        "6100000095",
+        "Section 10.2.1.4"
+      ],
+      "flags": 0,
+      "guid": "6100000094",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of risk analysis, vulnerability assessment, and penetration testing?",
+        "To identify vulnerabilities.",
+        "6100000094",
+        "Section 10.2.1.4"
+      ],
+      "flags": 0,
+      "guid": "6100000095",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the Exploitability Metrics in the Base Metric Group of CVSS?",
+        "Attack Vector, Attack Complexity, Privileges Required, User Interaction, Scope.",
+        "6100000097",
+        "Section 10.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "6100000096",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following metrics belong to? Attack Vector, Attack Complexity, Privileges Required, User Interaction, Scope.",
+        "Exploitability Metrics in the Base Metric Group of CVSS",
+        "6100000096",
+        "Section 10.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "6100000097",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps in the Vulnerability Management Life Cycle?",
+        "Discover, Prioritize assets, Assess, Report, Remediate, Verify",
+        "6100000099",
+        "Section 10.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "6100000098",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where are these steps found?  Discover, Prioritize assets, Assess, Report, Remediate, Verify",
+        "Vulnerability Management Life Cycle",
+        "6100000098",
+        "Section 10.2.4.3"
+      ],
+      "flags": 0,
+      "guid": "6100000099",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of a front-end for Snort(IDS)?",
+        "Squil",
+        "6100000101",
+        "Section 11.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000100",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is provided by Squil?",
+        "A front-end for Snort (IDS) to increase readability and searchability.",
+        "6100000100",
+        "Section 11.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000101",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are NBA and NBAD?",
+        "Network Behaviour Analysis (NBA) and Network Behaviour Anomoly Detection (NBAD) are techniquest that analyse network metrics (Netflow/IPFix) and employ statistical models to detect statistically significant differences.",
+        "6100000103",
+        "Section 11.2.1.4"
+      ],
+      "flags": 0,
+      "guid": "6100000102",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What can be used to detect statistically significant differences in network metrics (Netflow/IPFix)?",
+        "Network Behaviour Analysis (NBA) and Network Behaviour Anomoly Detection (NBAD).",
+        "6100000102",
+        "Section 11.2.1.4"
+      ],
+      "flags": 0,
+      "guid": "6100000103",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Syslog's Priority(PRI) field defined?",
+        "Priority is an 8-bit value where the highest 5 bits represent the facility (32 possibilities) and the lowest 3 bits represent the severity (8 possibilities).",
+        "6100000105",
+        "Section 11.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "6100000104",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Syslog field is made from concatenating a 5-bit field and a 3-bit field?",
+        "Syslog priority.  Top 5 bits for Facility.  Bottom 3 bits for Severity.",
+        "6100000104",
+        "Section 11.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "6100000105",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does an asterisk of period prefixing the timestamp of a syslog message mean?",
+        "There is a problem with NTP.  The timestamp may not be accurate.",
+        "6100000107",
+        "Section 11.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "6100000106",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does syslog indicate there is a problem with NTP?",
+        "Prefix the timestamp of a syslog message with a period or asterisk.",
+        "6100000106",
+        "Section 11.2.2.2"
+      ],
+      "flags": 0,
+      "guid": "6100000107",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the different logs inside the Event Viewer for a MS Windows host?",
+        "Application, System, Setup, Security",
+        "6100000109",
+        "Section 11.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000108",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What platform has Application, System, Setup, and Security logs?",
+        "MS Windows hosts",
+        "6100000108",
+        "Section 11.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000109",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Best evidence",
+        "Evidence in its original state.",
+        "6100000111",
+        "Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000110",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for evidence in its original state?",
+        "Best evidence",
+        "6100000110",
+        "Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000111",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Corroborating evidence",
+        "Evidence that supports an assertion that is developed from best evidence",
+        "6100000113",
+        "Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000112",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term that describes evidence that supports an assertion?",
+        "Corroborating evidence",
+        "6100000112",
+        "Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000113",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define: Indirect evidence",
+        "Evidence that helps establish a hypothesis",
+        "6100000115",
+        "Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000114",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term that describes evidence that helps establish a hypothesis?",
+        "Indirect evidence",
+        "6100000114",
+        "Section 12.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000115",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the NIST 800-64 forensic process?",
+        "Collection, Examination, Analysis, Reporting",
+        "6100000117",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000116",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What process includes Collection, Examination, Analysis, and Reporting?",
+        "The NIST 800-64 forensic process",
+        "6100000116",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000117",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64 how is Collection defined?",
+        "The identification of potential sources of forensic data and acquisition, handling, and storage of that data.",
+        "6100000119",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000118",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64, what term describes the identification of potential sources of forensic data and acquisition, handling, and storage of that data?",
+        "The NIST 800-64 - Collection",
+        "6100000118",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000119",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64 how is Examination defined?",
+        "Assessing and extrating relevant information from the collected data.",
+        "6100000121",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000120",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64, what term describes assessing and extracting relevant information from the collected data?",
+        "The NIST 800-64 - Examination",
+        "6100000120",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000121",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64 how is Analysis defined?",
+        "Drawing conclusions from the data.",
+        "6100000123",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000122",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64, what term describes drawing conclusions from forensic data?",
+        "The NIST 800-64 - Analysis",
+        "6100000122",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000123",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64 how is Reporting defined?",
+        "Preparing and presenting information that resulted from the analysis.",
+        "6100000125",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000124",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In NIST 800-64, what term describes preparing and presenting information that resulted from the analysis of forensic data?",
+        "The NIST 800-64 - Reporting",
+        "6100000124",
+        "Section 12.3.1.2"
+      ],
+      "flags": 0,
+      "guid": "6100000125",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the Sguil UI, what do the 'ST' and 'CNT' columns indicate?",
+        "ST - Status where RT means 'Realtime' and the color indicates the priority level.  CNT is the 'count' of the number of times this event has been detected.",
+        "6100000127",
+        "Section 12.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "6100000126",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where can you find the number of occurences of an alert and their priority in the Sguil UI?",
+        "ST and CNT columns",
+        "6100000126",
+        "Section 12.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "6100000127",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the steps in the Cyber Kill Chain?",
+        "Reconnaissance, Weaponization, Delivery, Exploitation, Installation, CnC, Action on Objectives.",
+        "6100000129",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000128",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are these steps part of?  Reconnaissance, Weaponization, Delivery, Exploitation, Installation, CnC, Action on Objectives.",
+        "The Cyber Kill Chain.",
+        "6100000128",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000129",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For the Cyber Kill Chain; define Weaponization",
+        "Pairing remote malware with a backdoor to create a payload",
+        "6100000131",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000130",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the Cyber Kill Chain, which step pairs remote malware with a backdoor to create a payload?",
+        "The Cyber Kill Chain - Weaponization",
+        "6100000130",
+        "Section 13.1.1.1"
+      ],
+      "flags": 0,
+      "guid": "6100000131",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the core features of the Diamond Model?  Draw it.",
+        "Adversary and Victim are top and bottom.  Infrastructure and Capability are on the sides and connected.",
+        "6100000133",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000132",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Adversary, Victim, Infrastructure and Capacility are all parts of what model?",
+        "The Diamond Model",
+        "6100000132",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000133",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the meta features of the Diamond Model?",
+        "Timestamp Phase Result Direction Methodology Resouces",
+        "6100000135",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000134",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these features belong to?  Timestamp Phase Result Direction Methodology Resouces",
+        "They are META features of the Diamond Model",
+        "6100000134",
+        "Section 13.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "6100000135",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of VERIS?",
+        "The Vocabulary for Event Recording and Incident Sharing (VERIS) provides metrics for describing security incidents.",
+        "6100000137",
+        "Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "6100000136",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What provides metrics for describing security incidents?",
+        "VERIS",
+        "6100000136",
+        "Section 13.1.3.1"
+      ],
+      "flags": 0,
+      "guid": "6100000137",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the top-level elements of VERIS?",
+        "Impact Assessment, Discovery & Reponse, Incident Description, Victim Demographics, Incident Tracking",
+        "6100000139",
+        "Section 13.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "6100000138",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do the following elements pertain to?  Impact Assessment, Discovery & Reponse, Incident Description, Victim Demographics, Incident Tracking",
+        "VERIS Top-level elements",
+        "6100000138",
+        "Section 13.1.3.3"
+      ],
+      "flags": 0,
+      "guid": "6100000139",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define PHI?",
+        "Protected Health Information.  Any information regarding the provision of health care or status of an individual.",
+        "6100000141",
+        "210-250 OCG p174"
+      ],
+      "flags": 0,
+      "guid": "6100000140",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term and abbreviation is used to refer to information about the provision of health care or status of an individual?",
+        "PHI - Protected Health Information",
+        "6100000140",
+        "210-250 OCG p174"
+      ],
+      "flags": 0,
+      "guid": "6100000141",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is pxGrid?",
+        "It's a framework (API) that ties into Cisco Identity Services Engine (ISE) to facilitate data sharing to other network devices.",
+        "6100000143",
+        "210-250 OCG p144"
+      ],
+      "flags": 0,
+      "guid": "6100000142",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the framework that ties into Cisco Identity Services Engine (ISE) to facilitate data sharing to other network devices.",
+        "pxGrid",
+        "6100000142",
+        "210-250 OCG p144"
+      ],
+      "flags": 0,
+      "guid": "6100000143",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the preferred port and protocol for DNS?",
+        "UDP/53 for standard queries, TCP/53 for zone transfers.",
+        "6100000145",
+        "210-250 OCG p75"
+      ],
+      "flags": 0,
+      "guid": "6100000144",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What uses UDP and TCP port 53?",
+        "DNS - Domain Name System",
+        "6100000144",
+        "210-250 OCG p75"
+      ],
+      "flags": 0,
+      "guid": "6100000145",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is defined as the possibility of a security incident happening?",
+        "Risk",
+        "6100000147",
+        "210-250 OCG p171"
+      ],
+      "flags": 0,
+      "guid": "6100000146",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define 'Risk' in terms used within Cyber Security",
+        "The possibility of a security incident occurring.",
+        "6100000146",
+        "210-250 OCG p171"
+      ],
+      "flags": 0,
+      "guid": "6100000147",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is the FirePower Management Center (FMC) able to export HTML, PDF, and CSV files? ",
+        "To share instrusion data with other entities.",
+        "6100000149",
+        "210-250 OCG p442"
+      ],
+      "flags": 0,
+      "guid": "6100000148",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In the Firepower Management Center (FMC), how can you share intrustion data with other entities?",
+        "Export HTML, PDF, or CSV files.",
+        "6100000148",
+        "210-250 OCG p442"
+      ],
+      "flags": 0,
+      "guid": "6100000149",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which ISO standard covers general risk management; principles and guidelines for managing risk?",
+        "ISO 31000",
+        "6100000151",
+        "210-250 OCG p172"
+      ],
+      "flags": 0,
+      "guid": "6100000150",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does ISO 31000 cover?",
+        "General risk management; principles and guidelines for managing risk.",
+        "6100000150",
+        "210-250 OCG p172"
+      ],
+      "flags": 0,
+      "guid": "6100000151",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a threat agent?",
+        "It is the path used by a malicious actor to perform an attack.",
+        "6100000153",
+        "210-250 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000152",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for the path used by a malicious actor to perform an attack?",
+        "Threat agent",
+        "6100000152",
+        "210-250 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000153",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is vulnerability chaining?",
+        "The process of exploiting in sequence so that one vulnerability exposes the next.",
+        "6100000155",
+        "210-250 OCG p285"
+      ],
+      "flags": 0,
+      "guid": "6100000154",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for exploiting vulnerabilties in sequence so that one exploit exposes a vulnerability for another?",
+        "Vulnerability Chaining",
+        "6100000154",
+        "210-250 OCG p285"
+      ],
+      "flags": 0,
+      "guid": "6100000155",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Who makes the access decision in a Discretionary Access Control model?",
+        "The object owner",
+        "6100000157",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000156",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In what model does the object owner make the access decision?",
+        "Discretionary Access Contol model",
+        "6100000156",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000157",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cisco CloudLock?",
+        "CloudLock is a Data Loss Prevention product for cloud environments.",
+        "6100000159",
+        "210-250 OCG p148"
+      ],
+      "flags": 0,
+      "guid": "6100000158",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Cisco product does Data Loss Prevention in cloud environments?",
+        "CloudLock",
+        "6100000158",
+        "210-250 OCG p148"
+      ],
+      "flags": 0,
+      "guid": "6100000159",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why would an attacker use encryption?",
+        "To evade IDS/IPS fingerprinting.",
+        "6100000161",
+        "210-250 OCG p526"
+      ],
+      "flags": 0,
+      "guid": "6100000160",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How can malware evade IDS/IPS fingerprinting?",
+        "Use encryption",
+        "6100000160",
+        "210-250 OCG p526"
+      ],
+      "flags": 0,
+      "guid": "6100000161",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is an exploit kit?",
+        "A collection of exploits that are frequently served from web servers.",
+        "6100000163",
+        "210-250 OCG p170"
+      ],
+      "flags": 0,
+      "guid": "6100000162",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term that describes a collection of expoits that are often served from web servers?",
+        "Exploit Kit",
+        "6100000162",
+        "210-250 OCG p170"
+      ],
+      "flags": 0,
+      "guid": "6100000163",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What types of information is available in Cisco ISE reports?",
+        "Reports related to authentication, RADIUS, admin logins, guest access.",
+        "6100000165",
+        "210-250 OCG p480"
+      ],
+      "flags": 0,
+      "guid": "6100000164",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What product can generate reports related to authentication, admin logins, guess access, and RADIUS?",
+        "Cisco ISE",
+        "6100000164",
+        "210-250 OCG p480"
+      ],
+      "flags": 0,
+      "guid": "6100000165",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Can an IDS help to mitigate an attack?  Explain.",
+        "In Promiscuous mode an IDS can work with other devices to request that action is taken to block traffic.",
+        "6100000167",
+        "210-250 OCG p227"
+      ],
+      "flags": 0,
+      "guid": "6100000166",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What device in what mode can work with other network equipment (like firewalls) to request that malicious traffic is blocked?",
+        "An IDS in promiscuous mode.",
+        "6100000166",
+        "210-250 OCG p227"
+      ],
+      "flags": 0,
+      "guid": "6100000167",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "For Configuration Management, where are configuration records kept?",
+        "The Configuration Management Database (CMDB)",
+        "6100000169",
+        "210-250 OCG p276"
+      ],
+      "flags": 0,
+      "guid": "6100000168",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is kept in the Configuration Management Database (CMDB)?",
+        "Configuration records for Configuration Management",
+        "6100000168",
+        "210-250 OCG p276"
+      ],
+      "flags": 0,
+      "guid": "6100000169",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a Runbook?",
+        "A collection of procedures and operations performed by sysadmins, netops, and security professionals.",
+        "6100000171",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000170",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for a collection of procedures and operations performed by sysadmins, netops and security professionals?",
+        "Runbook",
+        "6100000170",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000171",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is effectiveness measured for a Runbook?",
+        "Mean time: to repair, between failures, to discover a security incident, to contain or mitigate a security incident.  Effective Runbooks also automate the provisioning of IT resources.",
+        "6100000173",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000172",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "MTBF, MTTR, Mean time to discover and contain a security incident are all metrics to measure the effectiveness of what?",
+        "Runbooks",
+        "6100000172",
+        "210-250 OCG p176"
+      ],
+      "flags": 0,
+      "guid": "6100000173",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When do zombie processes occur?",
+        "When a process completes execution, releases associated memory and resources but remains in the process table.",
+        "6100000175",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000174",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for a process that has released all resources but remains in the process table?",
+        "Zombie process",
+        "6100000174",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000175",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define an Orphan process",
+        "An orphan process is a process whose parent process has died.",
+        "6100000177",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000176",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do you call a process whose parent process has died?",
+        "An Orphan process",
+        "6100000176",
+        "210-250 OCG p384"
+      ],
+      "flags": 0,
+      "guid": "6100000177",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the Public Key Cryptography Standards (PKCS)?",
+        "They are a set of protocols (not algorithms) for handling Public Key Cryptosystems",
+        "6100000179",
+        "210-250 OCG p330"
+      ],
+      "flags": 0,
+      "guid": "6100000178",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the protocols for handling public key cryptosystems?",
+        "Publick Key Cryptography Standards (PKCS).",
+        "6100000178",
+        "210-250 OCG p330"
+      ],
+      "flags": 0,
+      "guid": "6100000179",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "With Mandatory Access Control how is the access decision made?",
+        "The OS enforces policy based on security labels.",
+        "6100000181",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000180",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Access Control Model uses the OS to enforce policy based on security labels?",
+        "Mandatory Access Control",
+        "6100000180",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000181",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Whaling?",
+        "It is a type of Spear phishing that targets executives and high profile users.",
+        "6100000183",
+        "210-250 OCG p141"
+      ],
+      "flags": 0,
+      "guid": "6100000182",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term is used to refer to spear phishing that targets executives and high profile users?",
+        "Whaling",
+        "6100000182",
+        "210-250 OCG p141"
+      ],
+      "flags": 0,
+      "guid": "6100000183",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How does a Next Generation Firewall (NGFW) differ from a tradional stateful firewall?",
+        "NGFWs are application-aware and able to do intrusion prevention.",
+        "6100000185",
+        "210-250 OCG p126"
+      ],
+      "flags": 0,
+      "guid": "6100000184",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of firewalls are application-aware and able to do intrusion prevention?",
+        "Next Generation Firewalls (NGFWs)",
+        "6100000184",
+        "210-250 OCG p126"
+      ],
+      "flags": 0,
+      "guid": "6100000185",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How are access decisions made with the Attribute-based Access Control (ABAC) model?",
+        "Decisions are based on the attributes of the subject, object and environment.",
+        "6100000187",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000186",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which access control model are decisions made based on the subject, object, and environment?",
+        "Attribute-based Access Control (ABAC)",
+        "6100000186",
+        "210-250 OCG p202"
+      ],
+      "flags": 0,
+      "guid": "6100000187",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "List three sandboxing implementations.",
+        "Google Chromium, Java JVM, HTML5 sandbox attribute in iFrames",
+        "6100000189",
+        "210-250 OCG p412"
+      ],
+      "flags": 0,
+      "guid": "6100000188",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do Google Chromium, Java JVM, and HTML5 allow?",
+        "Sandboxing",
+        "6100000188",
+        "210-250 OCG p412"
+      ],
+      "flags": 0,
+      "guid": "6100000189",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Describe the administrative control 'separation of duties.'",
+        "A single individual should not perform all critical duties.",
+        "6100000191",
+        "210-250 OCG p175"
+      ],
+      "flags": 0,
+      "guid": "6100000190",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Having no single indivudual able to perform all critical tasks is an example of what administrative control?",
+        "Separation of duties",
+        "6100000190",
+        "210-250 OCG p175"
+      ],
+      "flags": 0,
+      "guid": "6100000191",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of the Identification field in the IPv4 Header?",
+        "The Identification field is used to uniquely identify a group of fragments of a single IP datagram.",
+        "6100000193",
+        "210-250 OCG p46"
+      ],
+      "flags": 0,
+      "guid": "6100000192",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What IPv4 Header field is used to uniquely group a set of fragments belonging to a single IP datagram?",
+        "Identification field",
+        "6100000192",
+        "210-250 OCG p46"
+      ],
+      "flags": 0,
+      "guid": "6100000193",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the difference between iterative and recursive DNS queries?",
+        "Recursive queries are sent from a host (resolver) to a server.  Iterative queries are send between servers.",
+        "6100000195",
+        "210-250 OCG p74"
+      ],
+      "flags": 0,
+      "guid": "6100000194",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of DNS query is sent from a host to a server?  From a server to another server?",
+        "Recursive.  Iterative.",
+        "6100000194",
+        "210-250 OCG p74"
+      ],
+      "flags": 0,
+      "guid": "6100000195",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is MITRE CRIT?",
+        "Collaborative Research Into Threats (CRITs) is a feed (open source) for threat data.",
+        "6100000197",
+        "210-250 OCG p169"
+      ],
+      "flags": 0,
+      "guid": "6100000196",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Name an open source feed for threat data.",
+        "MITRE CRIT",
+        "6100000196",
+        "210-250 OCG p169"
+      ],
+      "flags": 0,
+      "guid": "6100000197",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Mandatory Access Control what are the parts of the security label?",
+        "Classification and Category",
+        "6100000199",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000198",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In Mandatory Access Control what do classification and category form?",
+        "The security label",
+        "6100000198",
+        "210-250 OCG p204"
+      ],
+      "flags": 0,
+      "guid": "6100000199",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a DNS cache poisoning attack / DNS spoofing attack?",
+        "It is an attack that puts false information on a DNS resolver to forward victims to a malicious site.",
+        "6100000201",
+        "210-250 OCG p512, Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000200",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of the attack that falsifies data on a DNS resolver to forward victims to a malicious site?",
+        "DNS cache poisoning / DNS spoofing",
+        "6100000200",
+        "210-250 OCG p512, Section 7.3.1.3"
+      ],
+      "flags": 0,
+      "guid": "6100000201",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What techniques can attackers use to avoid detection by NIDS that may still be detected by HIDS?",
+        "Encryption and fragmentation",
+        "6100000203",
+        "210-250 OCG p230"
+      ],
+      "flags": 0,
+      "guid": "6100000202",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Can attackers use encryption and fragmentation to evade NIDS or HIDS?",
+        "NIDS; yes.  HIDS; no.",
+        "6100000202",
+        "210-250 OCG p230"
+      ],
+      "flags": 0,
+      "guid": "6100000203",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the name of Cisco's Managed Security Service?",
+        "Active Threat Analytics",
+        "6100000205",
+        "210-255 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000204",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Cisco's Active Threat Analytics?",
+        "It is a managed security service (SOC).",
+        "6100000204",
+        "210-255 OCG p167"
+      ],
+      "flags": 0,
+      "guid": "6100000205",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When an incident is detected, what should be investigated during scoping?",
+        "What is affected.  What originated the incident.  How the incident is occurring.",
+        "6100000207",
+        "NIST 800-61r2 p28, Section 13.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000206",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "When should these questions be asked: what is affected; what is originating the incident; how is the incident occurring?",
+        "During the initial scoping of an incident.",
+        "6100000206",
+        "NIST 800-61r2 p28, Section 13.2.2.5"
+      ],
+      "flags": 0,
+      "guid": "6100000207",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the elements of an incident response plan?",
+        "Mission<br>Strategies and goals<br> senior management approval<br> organization approach to incident response<br> communications plan<br> metrics for measuring the incident response capability and its effectiveness<br> roadmap for maturing the incident response capability<br> how the program fits into the overall organization",
+        "6100000209",
+        "NIST 800-61r2 p8"
+      ],
+      "flags": 0,
+      "guid": "6100000208",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What do these elements form?<br>Mission<br>Strategies and goals<br> senior management approval<br> organization approach to incident response<br> communications plan<br> metrics for measuring the incident response capability and its effectiveness<br> roadmap for maturing the incident response capability<br> how the program fits into the overall organization",
+        "Incident response plan",
+        "6100000208",
+        "NIST 800-61r2 p8"
+      ],
+      "flags": 0,
+      "guid": "6100000209",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a National CSIRT or CERT?",
+        "Provide vulnerability information, awareness training, best practices.",
+        "6100000211",
+        "OCG 210-255 p166"
+      ],
+      "flags": 0,
+      "guid": "6100000210",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What organization protects citizens by providing vulnerability information, awareness training and best practices?",
+        "A National CSIRT or CERT",
+        "6100000210",
+        "OCG 210-255 p166"
+      ],
+      "flags": 0,
+      "guid": "6100000211",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define the term 'Precursor' (NIST 800-61R2)",
+        "A sign that an attacker may be preparing to cause an incident.",
+        "6100000213",
+        "NIST 800-61R2 p60"
+      ],
+      "flags": 0,
+      "guid": "6100000212",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term used to describe a sign that an attacker may be preparing to cause an incident",
+        "Precursor",
+        "6100000212",
+        "NIST 800-61R2 p60"
+      ],
+      "flags": 0,
+      "guid": "6100000213",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In which type of analysis is all analytical data known beforehand?",
+        "Deterministic Analysis",
+        "6100000215",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000214",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "How is Deterministic Analysis performed?",
+        "Facts are known or obtained about the incident.  Deterministic Analysis uses this known data.",
+        "6100000214",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000215",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What Analysis method is performed when something has likely occured?",
+        "Probabilistic Analysis",
+        "6100000217",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000216",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is used for Probabilistic Analysis?",
+        "Data that is assumed to be accurate.  The conclusions are also probabilistic.",
+        "6100000216",
+        "OCG 210-255 p242"
+      ],
+      "flags": 0,
+      "guid": "6100000217",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the policies and procedures a company CSIRT is responsible for?",
+        "Incident classification and handling<br>information classification and protection<br>information dissemination<br>record retention and destruction<br>acceptable use of encryption<br>engaging with external groups",
+        "6100000219",
+        "OCG 210-255 p160"
+      ],
+      "flags": 0,
+      "guid": "6100000218",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "In a corporate environment what group is responsible for the following?  Incident classification and handling, information classification and protection, information dissemination, record retention and destruction, acceptable use of encryption, engaging with external groups.",
+        "Corportate CSIRT",
+        "6100000218",
+        "OCG 210-255 p160"
+      ],
+      "flags": 0,
+      "guid": "6100000219",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a well known Coordination Center?",
+        "The CERT Division of the Software Engineering Institute.",
+        "6100000221",
+        "OCG 210-255 p167"
+      ],
+      "flags": 0,
+      "guid": "6100000220",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the CERT Division of the Software Engineering Institute known for?",
+        "They are a Coordination Center.",
+        "6100000220",
+        "OCG 210-255 p167"
+      ],
+      "flags": 0,
+      "guid": "6100000221",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is included in the NetFlow 5-Tuple?",
+        "Src IP, Dst IP, Src Port, Dest Port, Protocol.",
+        "6100000223",
+        "OCG 210-255 p79"
+      ],
+      "flags": 0,
+      "guid": "6100000222",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Where is this 5-Tuple used?  Src IP, Dst IP, Src Port, Dest Port, Protocol",
+        "NetFlow",
+        "6100000222",
+        "OCG 210-255 p79"
+      ],
+      "flags": 0,
+      "guid": "6100000223",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Define the term Weaponization",
+        "The process of developing and testing how an attack will be executed",
+        "6100000225",
+        "OCG 210-255 p299"
+      ],
+      "flags": 0,
+      "guid": "6100000224",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes the process of developing and testing how an attack will be executed",
+        "Weaponization",
+        "6100000224",
+        "OCG 210-255 p299"
+      ],
+      "flags": 0,
+      "guid": "6100000225",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the three broad categories of cybersecurity investigations?",
+        "Public, Private, Individual",
+        "6100000227",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000226",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Public, Private, and Individual are three broad categories of what?",
+        "Cybersecurity Investigations",
+        "6100000226",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000227",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Which CVSS Exploitability metrics can have a value of 'None'?",
+        "Privilege Required, User Interaction",
+        "6100000229",
+        "OCG 210-255 p162"
+      ],
+      "flags": 0,
+      "guid": "6100000228",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What value is common in CVSS Exploitability metrics for Privilege Required and User Interaction?",
+        "Both can have a value of 'None'",
+        "6100000228",
+        "OCG 210-255 p162"
+      ],
+      "flags": 0,
+      "guid": "6100000229",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Why is incident containment important?",
+        "It limits the impact of the incident and allows for time to develop a remediation strategy.",
+        "6100000231",
+        "NIST 800-61r2 p35"
+      ],
+      "flags": 0,
+      "guid": "6100000230",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What limits the impact of an incident and allows for time to develop a remediation strategy?",
+        "Incident Containment",
+        "6100000230",
+        "NIST 800-61r2 p35"
+      ],
+      "flags": 0,
+      "guid": "6100000231",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the term for remediating network and affected systems and trying trying to reveal the responsible threat actor?",
+        "Threat Actor Attribution",
+        "6100000233",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000232",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is Threat Actor Attribution?",
+        "The process of remediation and trying to reveal the threat actor.",
+        "6100000232",
+        "OCG 210-255 p20"
+      ],
+      "flags": 0,
+      "guid": "6100000233",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    }
+  ]
+}
