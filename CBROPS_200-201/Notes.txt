@@ -1,0 +1,7 @@
+To complete this course you'll also need:
+
+https://csrc.nist.gov/publications/detail/sp/800-86/final
+https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
+http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf
+https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf
+https://cuckoosandbox.org/
