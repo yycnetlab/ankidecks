@@ -19,3 +19,4 @@
 932 https://github.com/ccieno
 933 https://github.com/kelvintechie1
 935 https://github.com/jabtomcat
+936 https://github.com/McSpicy-dev
